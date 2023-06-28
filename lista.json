@@ -1,7 +1,7 @@
 [
     {
       "name": "ARGENTINA",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/americatv.png",
           "name": "AMERICA TV ",
@@ -125,7 +125,7 @@
     },
     {
       "name": "INTERIOR DE ARGENTINA",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/canal12misiones.png",
           "name": "CANAL DOCE MISIONES",
@@ -430,7 +430,7 @@
     },
     {
       "name": "DEPORTIVOS",
-      "samples": [
+      "lista": [
         {
           "icon": "http://static.tvar.io/imagenes/daznf1.png",
           "name": "DAZN F1",
@@ -671,7 +671,7 @@
     },
     {
       "name": "CANALES INFANTILES",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/cartoonito.png",
           "name": "CARTOONITO",
@@ -746,7 +746,7 @@
     },
     {
       "name": "PACK PREMIUM (HBO)",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/hbo.png",
           "name": "HBO",
@@ -807,7 +807,7 @@
     },
     {
       "name": "CINE",
-      "samples": [
+      "lista": [
         {
           "icon": "http://static.tvar.io/imagenes/universalcinema.png",
           "name": "UNIVERSAL CINEMA",
@@ -1075,7 +1075,7 @@
     },
     {
       "name": "CANALES CRISTIANOS",
-      "samples": [
+      "lista": [
         {
           "icon": "http://devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil.jpg",
           "name": "Enlace Juvenil",
@@ -1105,7 +1105,7 @@
     },
     {
       "name": "CULTURALES",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/history.png",
           "name": "HISTORY",
@@ -1215,7 +1215,7 @@
     },
     {
       "name": "NOVELAS y VARIEDADES",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/bravotv.png",
           "name": "Bravo TV",
@@ -1407,7 +1407,7 @@
     },
     {
       "name": "ADULTOS XXX 18+",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/playboy.png",
           "name": "PLAY BOY",
@@ -1433,7 +1433,7 @@
     },
     {
       "name": "MUSICA",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/quiero.png",
           "name": "QUIERO TV",
@@ -1501,7 +1501,7 @@
     },
     {
       "name": "TELEVISION INTERNACIONAL",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/cnnespanol.png",
           "name": "CNN EN ESPAÑOL",
@@ -1597,7 +1597,7 @@
     },
     {
       "name": "RADIOS",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/radiobeach.png",
           "name": "RADIO BEACH",
@@ -1642,7 +1642,7 @@
     },
     {
       "name": "PARAGUAY",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/trecepy.png",
           "name": "TRECE",
@@ -1764,7 +1764,7 @@
     },
     {
       "name": "URUGUAY",
-      "samples": [
+      "lista": [
         {
           "icon": "https://static.tvar.io/imagenes/canal4uy.png",
           "name": "CANAL 4",
@@ -1804,7 +1804,7 @@
     },
     {
       "name": "GUATEMALA",
-      "samples": [
+      "lista": [
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png",
           "name": "Canal 3 Guatemala",
@@ -1824,7 +1824,7 @@
     },
     {
       "name": "COSTA RICA",
-      "samples": [
+      "lista": [
         {
           "icon": "https://asahimotors.com/images/nodisponible.png",
           "name": "88 ESTERO",
@@ -1854,7 +1854,7 @@
     },
     {
       "name": "BOLIVIA",
-      "samples": [
+      "lista": [
         {
           "icon": "http://upload.wikimedia.org/wikipedia/commons/e/ec/ATBBo2020Logo.png",
           "name": "ATB SANTA CRUZ",
@@ -1899,7 +1899,7 @@
     },
     {
       "name": "PERU",
-      "samples": [
+      "lista": [
         {
           "icon": "http://upload.wikimedia.org/wikipedia/commons/6/66/Paz_TV.png",
           "name": "Pax TV",
@@ -2004,7 +2004,7 @@
     },
     {
       "name": "Saga Rocky Balboa - Creed",
-      "samples": [
+      "lista": [
         {
           "icon": "https://lanuevacoataneca.com/rocky/peliculasrocky.jpg",
           "name": "40 años de Rocky: El nacimiento de un clásico",
@@ -2059,7 +2059,7 @@
     },
     {
       "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
-      "samples": [
+      "lista": [
         {
           "icon": "https://lanuevacoataneca.com/francisco.jpg",
           "name": "Amén: Franciso Responde",
