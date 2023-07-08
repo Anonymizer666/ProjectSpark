@@ -838,35 +838,35 @@
         "name": "UNIVERSAL CINEMA",
         "uri": "cq4f/qVow19eC0EeD4e5F/nfQQBoiRNk16342jz6QAg=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7KGanGqebXVH2csT40co9P"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7KGanGqebXVH2csT40co9P"
       },
       {
         "icon": "http://static.tvar.io/imagenes/uncomedy.png",
         "name": "UNIVERSAL COMEDY",
         "uri": "cq4f/qVow19eC0EeD4e5F/LTTomPJdxS+Chk9WoGJnY=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zomvwDkhgFJJLyc1qibj4"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zomvwDkhgFJJLyc1qibj4"
       },
       {
         "icon": "http://static.tvar.io/imagenes/uncrime.png",
         "name": "UNIVERSAL CRIME",
         "uri": "cq4f/qVow19eC0EeD4e5F8XiOXXRMUi4KEJ3yfw0L3k=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l57XaKEgWXrXQtvURZrvkKI"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l57XaKEgWXrXQtvURZrvkKI"
       },
       {
         "icon": "http://static.tvar.io/imagenes/unpremiere.png",
         "name": "UNIVERSAL PREMIERE",
         "uri": "cq4f/qVow19eC0EeD4e5F7BvvRPlOO5dkqPY0ireJ7Y=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4a2B/ZnoNIAvG3gHDR0lvQmahEBlZAYKD+cjq3ur6swQ=="
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4a2B/ZnoNIAvG3gHDR0lvQmahEBlZAYKD+cjq3ur6swQ=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/unreality.png",
         "name": "UNIVERSAL REALITY",
         "uri": "cq4f/qVow19eC0EeD4e5F56cviYrhkVZ/3aFFXhZI3s=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
       },
       {
         "icon": "https://static.tvar.io/imagenes/golden.png",
@@ -893,14 +893,14 @@
         "name": "TV CORTOS",
         "uri": "cq4f/qVow19eC0EeD4e5F87B4lQwAepT/JqNKCYENpg=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7RjhdExhboPeulIhmlTM+I"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7RjhdExhboPeulIhmlTM+I"
       },
       {
         "icon": "http://static.tvar.io/imagenes/cnlatin.png",
         "name": "CINE LATINO",
         "uri": "cq4f/qVow19eC0EeD4e5F/d9KAzvF93uZ2eL8o+l5F4=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7VQzTc4TNkgepzyB3qvN6Lv3uDGMkH0yhhAuUmwGHMEA=="
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7VQzTc4TNkgepzyB3qvN6Lv3uDGMkH0yhhAuUmwGHMEA=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/dhe.png",
@@ -1296,21 +1296,21 @@
         "name": "ON DIRECTV",
         "uri": "cq4f/qVow19eC0EeD4e5F32QHamsgDxgylMVW5RnM/g=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "xJ/WfcXEmB/nnPwLpHsyLAgmvaHoAno/q0Nrt3k0k2qYF+ijzvflGvsb2iCaqPj2"
+        "drm_license_url": "xJ/WfcXEmB/nnPwLpHsyLAgmvaHoAno/q0Nrt3k0k2qYF+ijzvflGvsb2iCaqPj2"
       },
       {
         "icon": "https://static.tvar.io/imagenes/cha.png",
         "name": "CANAL A",
         "uri": "KCvM+OPynjG3DbIxB3RnTl5OAkdvCOFJtzb2z2HhKf5BAN9m8fIaoZb4ab1b5hhw4Qgk3swTi9iQmT0cIxZ4Rw==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "xJ/WfcXEmB/nnPwLpHsyLAnrHrvx1/S/XEvXsmNtx0IlcGVM5Xr2PBdfOdAvspqb"
+        "drm_license_url": "xJ/WfcXEmB/nnPwLpHsyLAnrHrvx1/S/XEvXsmNtx0IlcGVM5Xr2PBdfOdAvspqb"
       },
       {
         "icon": "https://static.tvar.io/imagenes/ivc.png",
         "name": "IVC",
         "uri": "cq4f/qVow19eC0EeD4e5F9iNyHPa6+l6ILqswlok70M=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6PFHySLjMftjce8HjW2VuT"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6PFHySLjMftjce8HjW2VuT"
       },
       {
         "icon": "https://static.tvar.io/imagenes/chluz.png",
