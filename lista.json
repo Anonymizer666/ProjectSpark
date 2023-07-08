@@ -1024,13 +1024,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwTAbbkyEULrG3myxxSw5JlG"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tntnovelas.png",
-        "name": "TNT NOVELAS",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIN+gQYqy10fUV8hNbNUvCWqAt9nP9Ev2S1ZIT7TSuAo/gTOQGmK2pifL1p4wZm+GTw==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwSNp4i0wchFICNUzhaqytdxhjsvkIb2GxUZTLDsxtcPfw=="
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/amc.png",
         "name": "AMC",
         "drm_scheme": "clearkey",
@@ -1266,6 +1259,13 @@
         "icon": "https://static.tvar.io/imagenes/tlnovela.png",
         "name": "TL NOVELAS",
         "uri": "73eS+rRLGES02IqpgqXbpkQlLKrw47NnCibw5HVR5/BsbizUkuJx2kdQEsW4fgj0"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/tntnovelas.png",
+        "name": "TNT NOVELAS",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIN+gQYqy10fUV8hNbNUvCWqAt9nP9Ev2S1ZIT7TSuAo/gTOQGmK2pifL1p4wZm+GTw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwSNp4i0wchFICNUzhaqytdxhjsvkIb2GxUZTLDsxtcPfw=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/chluz.png",
