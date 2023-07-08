@@ -4,7 +4,7 @@
     "lista": [
       {
         "icon": "https://static.tvar.io/imagenes/americatv.png",
-        "name": "America TV",
+        "name": "AMERICA TV",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIOXsjI29MOsgsyRJ0Bj2buIv04ApsZh3JgjRZ4gGHIhdzNgWpXC0G5fERaGVEd//E5qyUWMD2OcLIPDezA2XXzg=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwTQDl8DThD3aMQNFaZ0DHM1"
@@ -920,18 +920,24 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwQKwb1j1bQSTGCr1yhjwjKs"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/gplus.png",
-        "name": "GOLDEN PLUS",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGaOEcBerlwPsKLrnfOin4I6lwbfeq7fq+1QfJUjoL06Eygom4syp0yGcVcCGJnBwJg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwSXuklLlWfyLPVIbPY5QMAz"
+        "icon": "https://static.tvar.io/imagenes/golden.png",
+        "name": "GOLDEN",
+        "uri": "73eS+rRLGES02IqpgqXbprs3ojXXMJLG5k0l1nCFXfDGfBYNlH2614SVbvRaKVLx"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/gpremier.png",
+        "icon": "https://static.tvar.io/imagenes/goldenedge.png",
+        "name": "GOLDEN EDGE",
+        "uri": "73eS+rRLGES02IqpgqXbprs3ojXXMJLG5k0l1nCFXfDYFmpkZc5+lVxHLl9lKSIl"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/goldenplus.png",
+        "name": "GOLDEN PLUS",
+        "uri": "3pmk4fa1u5TAZhY64DCqPyEcBy5/IkMTGumkenl+tsPXGN3Wd0/RVENk9dY0Xm1VyCVPqnWuQbtyxbn+UtSiboK9ggHYEebJo20JdbR2F/A="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/goldenpremier.png",
         "name": "GOLDEN PREMIER",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGaOEcBerlwPsKLrnfOin4I5zQILFkXabFpwy4z2QWH4GVz3jdvzSAFYUCFwnVoLfew==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwR+c8Xc5gqwuPWbKzdvhqp8"
+        "uri": "73eS+rRLGES02IqpgqXbprs3ojXXMJLG5k0l1nCFXfA5P+vEN/xDYRguvDAIG+Ag"
       },
       {
         "icon": "https://static.tvar.io/imagenes/volver.png",
@@ -1018,11 +1024,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwTAbbkyEULrG3myxxSw5JlG"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tbs.png",
-        "name": "TBS",
+        "icon": "https://static.tvar.io/imagenes/tntnovelas.png",
+        "name": "TNT NOVELAS",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIN+gQYqy10fUV8hNbNUvCWqAt9nP9Ev2S1ZIT7TSuAo/gTOQGmK2pifL1p4wZm+GTw==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwSeqKNBYp5sIdtDeWBPklJb"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwSNp4i0wchFICNUzhaqytdxhjsvkIb2GxUZTLDsxtcPfw=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/amc.png",
@@ -1258,10 +1264,8 @@
       },
       {
         "icon": "https://static.tvar.io/imagenes/tlnovela.png",
-        "name": "TL NOVELA",
-        "drm_scheme": "clearkey",
-        "uri": "mSJFmPo378bU5eNSDuYzRw5Ml0Eg/54oVKwvUxksRiXlg/Eu9XP5wKACUE4DCIWtoRSCXU6sLpoKf+HIMiolvQ==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwQd7HjzOgLinvp4D/Fkp7vQ"
+        "name": "TL NOVELAS",
+        "uri": "73eS+rRLGES02IqpgqXbpkQlLKrw47NnCibw5HVR5/BsbizUkuJx2kdQEsW4fgj0"
       },
       {
         "icon": "https://static.tvar.io/imagenes/chluz.png",
@@ -2220,16 +2224,14 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
+        "name": "GLOBO",
+        "uri": "K8SRuBoVeoas97g6ygvw+Hl0Xrsca7gefgFVm2mh9+HEc+Fig/vDB1jJ19dVsmyUecoK0hm3UW+PZkxgkTRBhA=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/telecine.png",
         "name": "TELECINE",
         "uri": "TmOST4Q4KrOjqhN3Ko0O3yyYHaSRBdo0YPAPcmrZpz5/xqyVMVwquHMzOC7C7dIl"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
-        "name": "GLOBO",
-        "drm_scheme": "clearkey",
-        "uri": "2C2BCXWOWMw7H+U2P+06goNGtDiuuIsyUdchZh5nENrb8ca7R0yWHer0CPUIgrb0vnLwCKZKN44Bi5LEaZppww==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwTOC8VLGs553PpCkRDGj/Oi"
       },
       {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
