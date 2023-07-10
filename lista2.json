@@ -2031,7 +2031,7 @@
     ]
   },
   {
-    "name": "ALTERNATIVOS Y DE PRUEBA CANALES ARGENTINOS",
+    "name": "ALTERNATIVOS Y DE PRUEBA",
     "samples": [
       {
         "icon": "https://static.tvar.io/imagenes/americatv.png",
@@ -2187,6 +2187,11 @@
         "drm_scheme": "clearkey",
         "uri": "IyNE0fqR2pB0be5BwByfgTm07QZmEJVRz6FebtncMUE9PzBqieYZGfrcw9WGqbPrv7qZzWnGdqs291EjH9C2jw==",
         "drm_license_url": "xJ/WfcXEmB/nnPwLpHsyLKW4Wg9LmkgtUlnRxBn1sGj5gP9wPrSBQ5kgagm/KpA+"
+      },
+      {
+        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png",
+        "name": "TIGO PY",
+        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWD\/\/dsM1Og4ke1Yn0+d8cOdA=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/diputadostv.png",
