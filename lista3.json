@@ -2136,6 +2136,13 @@
         "uri": "lT3PkKABTfSSwwKADXiykb3xL3gywTm2sIupq8xY4MPiWMoZ85cfviAv5KCU79FKAjdaBr2aK8jaWVMvVOokxldWaiAfcdefPbjIcbYSVe9EEyGmkRdLF8Dw+X4Ddv7AlUo/zyEaTwzoxoRNJzMZBw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5PgubvxH7MbqywZEQe5gTqCCeaMuu5oGhNvIi20m2oyQ=="
       },
+      { 
+        "icon": "https://static.tvar.io/imagenes/espnpremium.png",
+        "name": "ESPN PREMIUM",
+        "uri": "kcpRPh+j2IGljDIwBGa+azd4CGkHWrx35kvWy06+GK9wfmL1tr4lk42PTf+8M+2d73d0etWQER3ry4kcL4bi3jIdA7R11VaMkq4ZQ+zFXBRqj\/Ry1ga1yNJNoC5H7jnEedACCl3sMxT+ux+c2LWBKybJQi4RHbtIIoFH80ibvwU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "NkCL07L7mTaww0Puvs+f+Ond4n\/4ZG\/qV112Up3JQVbLR9RjWXolbB\/03UlOtR92ryf3NJBdOjLZ1qAtBUSZyA=="
+      },
       {
         "icon": "https://static.tvar.io/imagenes/tntsports.png",
         "name": "TNT SPORTS",
