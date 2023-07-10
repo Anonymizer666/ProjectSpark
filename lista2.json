@@ -2182,6 +2182,13 @@
         "drm_scheme": "clearkey"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/tntsports.png",
+        "name": "TNT SPORTS HD",
+        "uri": "kcpRPh+j2IGljDIwBGa+azd4CGkHWrx35kvWy06+GK+Sl5+F6mAHvU9UN58pBQSHpAlJd\/n3D95nq6dKl5l3LSkboeATZaMy2xUThkN05uZYx79OQ\/TSDG1LT+2lgq6iFJAJBwQ9n8z+Yyh+pOOqSg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "NkCL07L7mTaww0Puvs+f+Ond4n\/4ZG\/qV112Up3JQVb1khZolEvNzU2DQq0LSPzS"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/discovery.png",
         "name": "DISCOVERY",
         "drm_scheme": "clearkey",
