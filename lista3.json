@@ -3,20 +3,6 @@
     "name": "ARGENTINA",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/americatv.png",
-        "name": "AMERICA TV ",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM+EYkuN3oqO6F90gdej2UEQa6/xIrRvBUXMVUAdi5F2nuKQ1264dGTTUn9orjIFDxH+zaEuhy7QsGJeSdIi/rkE=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6mIVBmfk5qole3qoj6W0xs"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/tvp.png",
-        "name": "TV PUBLICA",
-        "uri": "b+QSGe9itEwwoKyzCS+bM+85gF+k4z+xOoIokj6mmbKxF2uuo51SCdMdwND5r6sAr8VqfhhesAqbzWXVDuH9Hw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zQfk6m/Jx70AbRDpwWfvr"
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/elnueve.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
