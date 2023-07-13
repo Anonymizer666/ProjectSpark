@@ -3,6 +3,20 @@
     "name": "ARGENTINA",
     "samples": [
       {
+        "icon": "https://static.tvar.io/imagenes/americatv.png",
+        "name": "AMERICA TV",
+        "drm_scheme": "clearkey",
+        "uri": "zqVn4Bcq8dQlSqClul0FSOrdX3/hvAzIklETAY8CTEp5qL14a2rKT/JQXEiFPi0p7JuhdX3gx1vI/s7Jh1vitBweKjG2+Q7y9ZLtaBd2C4z+Sx/fSECjA4AVJQR9HQWl",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5QDMkFTaLVODN8M5Ehx+9DeyNwx0mZs0LlaVUp3JwOsg=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/tvp.png",
+        "name": "TV PUBLICA",
+        "drm_scheme": "clearkey",
+        "uri": "PGzHNpYrsd7PcvTNvtoI1r4q+FI6CS01i1JdQsvyh65s7dHRJaIKd6Nq5cnvDhiLg9XGVP6WwhK+CJcWfIWtTfNj88DxZm4K5vpK6z+d7i7I3/+/TV+SxMrUrVGmXQPX",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5l1SKAVT3E++21AQKAi13d"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/elnueve.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
