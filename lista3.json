@@ -1417,6 +1417,13 @@
     "name": "MUSICA",
     "samples": [
       {
+        "icon": "https://static.tvar.io/imagenes/concertch.png",
+        "name": "CONCERT CHANNEL",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGTyApSOmmjX4UGV7k5NT5fwCTlIxjG49droRYnChono98Bza4PxGCePxjMw3tkyjHQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpqZazI6EvXUum5qWs+rdfwRNoRsesX7BYnaiHsJrHTZXDNn6WUs9KxykpvnNrtil6Q=="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/quiero.png",
         "name": "QUIERO TV",
         "drm_scheme": "clearkey",
