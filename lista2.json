@@ -1252,11 +1252,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4gaE7VQnHEjjAU0vNnM2jH"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tlnovela.png",
-        "name": "TL NOVELAS",
-        "uri": "73eS+rRLGES02IqpgqXbpkQlLKrw47NnCibw5HVR5/BsbizUkuJx2kdQEsW4fgj0"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/dtvnews.png",
         "name": "Directv News",
         "drm_scheme": "clearkey",
