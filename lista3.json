@@ -856,24 +856,9 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/golden.png",
-        "name": "GOLDEN",
-        "uri": "73eS+rRLGES02IqpgqXbpkQlLKrw47NnCibw5HVR5/CSbicdS8Hn6e7/TpsuOE0+"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/goldenedge.png",
-        "name": "GOLDEN EDGE",
-        "uri": "73eS+rRLGES02IqpgqXbpkQlLKrw47NnCibw5HVR5/DNPcPcMUn6RD57UlbEtz6T"
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/goldenplus.png",
         "name": "GOLDEN PLUS",
         "uri": "3pmk4fa1u5TAZhY64DCqPyEcBy5/IkMTGumkenl+tsPXGN3Wd0/RVENk9dY0Xm1VyCVPqnWuQbtyxbn+UtSiboK9ggHYEebJo20JdbR2F/A="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/goldenpremier.png",
-        "name": "GOLDEN PREMIER",
-        "uri": "73eS+rRLGES02IqpgqXbpkQlLKrw47NnCibw5HVR5/Bz5AWxU2hmNPC/PIwGnbtI"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tvcortoslog.png",
@@ -1265,11 +1250,6 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM7IEPb6tuACZKR760XL1VGjkI93onyBgk8CPPKKeXYeNb2APch0k5FKzcF5QRP/38t3tNLiVybmVMLTjW0+M8KQ=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4gaE7VQnHEjjAU0vNnM2jH"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/tlnovela.png",
-        "name": "TL NOVELAS",
-        "uri": "73eS+rRLGES02IqpgqXbpkQlLKrw47NnCibw5HVR5/BsbizUkuJx2kdQEsW4fgj0"
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtvnews.png",
