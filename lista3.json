@@ -435,11 +435,6 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "https://yt3.googleusercontent.com/Xwv4JhV4pLFYaJc2k6_NwNfFx3G6L5SQ_JNUA0kc-tS0QUTWovmU70rNwDbo1DG5OQp7LDH5=s176-c-k-c0x00ffffff-no-rj",
-        "name": "BLN Xtra",
-        "uri": "0zQMZZt2luv1PmN/EQDYtwHSe4OOPrzgwGPlGnUYKseUXyFM147Wktt2zzkCS5JpBMdI/gwwk797rTpDOI0WXH7aIMaoWDBtXPDnhu7SX7M="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/daznf1.png",
         "name": "DAZN F1",
         "drm_scheme": "clearkey",
