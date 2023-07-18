@@ -1164,32 +1164,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoHnjSt/vLlW5bRgNKDnzOS"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/dtvnews.png",
-        "name": "Directv News",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIAxIISZ0SXEnlUABuq5MT9L75MqYBM/JmXOY5QUwSUYgULBxS41PGTWL956iYyCqJQ==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo41sjQoI+Hey9B+r2vO8DH"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/ondtv.png",
-        "name": "ON DIRECTV",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIODviVTocRdvHH0Y1BQe0dE=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrGNXKRxJBdkRH7IjygXmSO"
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/cha.png",
         "name": "CANAL A",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpsrwuai6C2tQGn1hW6/gWqbmq21EWJiLZrj81HCE+nCIVcnCc8kPcx4QjkiKGYI+oHM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrM5zz7qW41FA8qLJ/sv5Ah"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/ivc.png",
-        "name": "IVC",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIAu7F6BSXnwEi4d0QTkvcWc=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpKG2Tf7mWxsGP4BEcjZVmO"
       },
       {
         "icon": "https://static.tvar.io/imagenes/chestrellas.png",
