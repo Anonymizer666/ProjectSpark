@@ -445,23 +445,6 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http://static.tvar.io/imagenes/daznf1.png",
-        "name": "DAZN F1",
-        "drm_scheme": "clearkey",
-        "uri": "2GZi9CUCOqO2knen2OLfT7vWiZHQ15gh8o7Ti1o7+v5GZS9aav2HeXraJtimswE/IfZlHcgtmmVwu6r3TolISVqq9xnkcZe6xDh78r7qPjM=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4Llf1BzTBi50pZnY9ULO8c"
-      },
-      {
-        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
-        "name": "BEIN SPORTS EXTRA",
-        "uri": "9Y4lZBd9YLHkjPOgzBxxu3dJ5r3Gez/cNFe3hJShHSr9Srgfb40Y5VC8groPE+vk5/P0vsqMmkDKTkhFQykbhtgfoy96T+CBgTVRw1yjdXI="
-      },
-      {
-        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
-        "name": "Real Madrid TV",
-        "uri": "Nm4ljupIn8lkhUeRMNPOAL29lI2735n9kmtx06zoxEqzDB0MD5dYAJAQI00b+h5oj0hYlnZmSdWU559zauv//lFJrK9sZKyJY9YbKOFbwl0="
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -551,41 +534,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6lo9fkgMN5Y9KuGR/JORrX"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/dtv1.png",
-        "name": "Dsport 1",
-        "drm_scheme": "clearkey",
-        "uri": "ccJLctYrnDkX1eZXjWaCkzP+S45DR5kAJpcn3WUL/AK1kwHIawjCYgVA1Y68VcLMBXc1eCsePvq90PDua7dLf3kkh4o27P8IsgWGDP+xhmBwYS1cJfbWDEmsxvEF/4UM",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l57sJigWD1pTzqaybcAxyaJ"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/dtv2.png",
-        "name": "Dsport 2",
-        "drm_scheme": "clearkey",
-        "uri": "NUZl+1W56VxKvie/ghezw0t2NhdjBvQbky4E5C41Jm1tjES2/S4ogwZoncjkj7VwVynuzuQ7MhTY9ueavKTQgInBeWYtvLLVwjc/atmPPdvEtuswdpQexz5ird+PK2e4",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6kXz6JwqAvHpx8ExyPEfYm"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/dtv3.png",
-        "name": "Dsport 3",
-        "drm_scheme": "clearkey",
-        "uri": "IEQkZTUyC0ObWS0PtOJo3ZFvP5QRT2NOogO1CPdaLkmS2f2tkNattLsPxLm6CDrjXkA7utMCiw02L9kvfEAxfsSSo1ozfLJEkEeYCEEeloK6l3orxcOBYEmluj2+/yHCDS1MHLXFmcM+dYYkKHJQfw==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5q+UFq2p7Bh1Qcr3l3VaTE"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/dtvfight.png",
-        "name": "DSports Fight",
-        "drm_scheme": "clearkey",
-        "uri": "kxqVqHth3E4CMIx91H106cFPciWAyzRZFkXkAAj2DaY=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ZM1DmO+yi86mDYJ2CGEF8"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/dsportsmotor.png",
-        "name": "Dsports Motors",
-        "drm_scheme": "clearkey",
-        "uri": "PGzHNpYrsd7PcvTNvtoI1r4q+FI6CS01i1JdQsvyh67r+u\/GvKCD4EIvL4JAu5TGt2t4krKbY3Nb\/852THYQ7w==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6wCWhlIVg1SYAjGnlQXLym"
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 1",
         "uri": "J3j/NCInAivz33K0HfUAOugnd4fVhi6qt97i49ODFIJHVwO6ZeofY6+S47834J3grUnNz5nnVsRI+HQ3RQzBmT4E0LJqDVjUYwS+oMoYfc0y2L0IEJu7L8kF+rVApAvD"
@@ -639,20 +587,6 @@
         "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 11",
         "uri": "W0tds+726+PyVxgi1tEJA59mBisHB+6aguuFioLJKzkByI6/3auy67SNBsMugjVIPDH7A3OS5mpnrfnJEBGd0zpXa5vScu9OSftKrTzz54/YtsNpcbGFiKmpQEsE/hgu"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/vtv.png",
-        "name": "VTV",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM95MTK63rsP3TL01n/tTK/LtHwHlUIHITwYubL83Q4EFK7DKdKrTUL9b30oJH1QF+g==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4DOU2sCaTl6x37J1vDxB2V"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/vtvplus.png?",
-        "name": "VTV PLUS",
-        "drm_scheme": "clearkey",
-        "uri": "StXYU7vuVnuwBHrO7K3w3Ycd2awlBAIyuuqyqz1/M9sD0dg7Ab8knHJw7OxQH9o4XRt2PnH5+g5Een8EV72SenNxMoNAVW6IXImpamF9vA8=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6qdr6hYm3ArQza6PogjvMg"
       },
       {
         "icon": "https://static.tvar.io/imagenes/garagetv.png",
