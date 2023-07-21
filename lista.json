@@ -578,6 +578,13 @@
         "uri": "W0tds+726+PyVxgi1tEJA59mBisHB+6aguuFioLJKzkByI6/3auy67SNBsMugjVIPDH7A3OS5mpnrfnJEBGd0zpXa5vScu9OSftKrTzz54/YtsNpcbGFiKmpQEsE/hgu"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/daznf1.png",
+        "name": "DAZN F1",
+        "drm_scheme": "clearkey",
+        "uri": "2GZi9CUCOqO2knen2OLfT7vWiZHQ15gh8o7Ti1o7+v5GZS9aav2HeXraJtimswE/IfZlHcgtmmVwu6r3TolISVqq9xnkcZe6xDh78r7qPjM=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqgGZPNIJyM6wsbOKO4ROHc"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/clasp.png",
         "name": "CLARO SPORTS",
         "drm_scheme": "clearkey",
