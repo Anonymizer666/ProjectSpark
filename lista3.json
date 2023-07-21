@@ -596,6 +596,20 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4Llf1BzTBi50pZnY9ULO8c"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/vtv.png",
+        "name": "VTV",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM95MTK63rsP3TL01n/tTK/LtHwHlUIHITwYubL83Q4EFK7DKdKrTUL9b30oJH1QF+g==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4DOU2sCaTl6x37J1vDxB2V"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/vtvplus.png?",
+        "name": "VTV PLUS",
+        "drm_scheme": "clearkey",
+        "uri": "StXYU7vuVnuwBHrO7K3w3Ycd2awlBAIyuuqyqz1/M9sD0dg7Ab8knHJw7OxQH9o4XRt2PnH5+g5Een8EV72SenNxMoNAVW6IXImpamF9vA8=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6qdr6hYm3ArQza6PogjvMg"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/garagetv.png",
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
