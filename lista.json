@@ -524,8 +524,10 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/tudn.png",
-        "name": "TUDN",
-        "uri": "kxqVqHth3E4CMIx91H106etA0MjdQy3nKSocgi3/3PA="
+        "name": "TUDN HD",
+        "drm_scheme": "clearkey",
+        "uri": "D+ThJhXzKWsI3r2Aq8wX4Y/kYQgzCtDjKduh/Cles3S50mx7mLaTX9s7ty+xKKRkEIzURzj29Dnj7o+Jl7lCa9QVYDlxt1P9jDLA4EBm5+kZ/zrmIsP7LWc10RD/d33w",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqoK360YNAI4QRrKzV31QZC"
       },
       {
         "icon": "http://api.argentinatv.live/logos/tycsportplay.jpg",
