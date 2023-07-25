@@ -505,10 +505,8 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/tudn.png",
-        "name": "TUDN HD",
-        "drm_scheme": "clearkey",
-        "uri": "D+ThJhXzKWsI3r2Aq8wX4Y/kYQgzCtDjKduh/Cles3S50mx7mLaTX9s7ty+xKKRkEIzURzj29Dnj7o+Jl7lCa9QVYDlxt1P9jDLA4EBm5+kZ/zrmIsP7LWc10RD/d33w",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4YJEGIWCaVOu3LoWNByv20"
+        "name": "TUDN X",
+        "uri": "M6khmDhbqp1vq4flsREj6rVToxWV4hWXGcPE1EDVaYnslaubK3kDXGZHT1KDlXFZUXvOZit7iwiNi4GCO7xkcw=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
