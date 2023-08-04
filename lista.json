@@ -1328,6 +1328,11 @@
         "uri": "frLyJ3xag7zUwAb6ICGoeTOBxtgCUvJkE9noF4I99Ucwwm/xFaW5yItDN2nkBqoSOyfw0K7RJGwO2mnZ6zsUZw=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/construirtv.png",
+        "name": "Construir TV",
+        "uri": "frLyJ3xag7zUwAb6ICGoeTOBxtgCUvJkE9noF4I99UeV3Rew2z6hr6gwmgQZcxr+qhEmyrGDUppks1cx+UbfZA=="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/orbe21.png",
         "name": "ORBE 21",
         "drm_scheme": "clearkey",
