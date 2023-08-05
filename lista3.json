@@ -1732,52 +1732,22 @@
     ]
   },
   {
-    "name": "GUATEMALA",
-    "samples": [
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png",
-        "name": "Canal 3 Guatemala",
-        "uri": "OFarX78Y9Dz5p8wuHjKcio0vzSdN7kFOgSxPMB1N6/DaVIvKP+CxxycYpK3SiR0JjPDnTpnp/lAXiRY5ISS8cQ=="
-      },
-      {
-        "icon": "https://img1.freepng.es/20180405/dcq/kisspng-etv-network-e-tv-telugu-television-channel-telugu-5ac5e44f828a55.5822584215229184795347.jpg",
-        "name": "ECTV",
-        "uri": "e1BkUQSvBd8+MrqOHxac8gdWjARRcwJ/HO9lULPd9uq21z70hUfGi8XpZoRHn1q3VT9pFAcxyKE6znMt6sJw+A=="
-      },
-      {
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Wez5JxKbOSM21BbtJxY8YND-GUUWIjGCDAY7Ekp5fkl0brV6UBIFcQoeBbwe82T75V4&usqp=CAU",
-        "name": "Guatevision",
-        "uri": "pCGZFgAW0kZfa8RfADZwbI7WhJb7ZCI+TxYwIVyo5gqZdOfkkrd3EXIIlV5d4ZkA6V5Le3Vdk2viV4NLaut5Cnf6v1B6aGcIJAUzQJPECeUWTuQdjNXAlXUkgbQ5CDYP65e971Mz63lArvVIX0PxgKHPIEG9PkCpVGMaLdybHus3NP6Vq1Q8yZjtTT2aVEsw"
-      }
-    ]
-  },
-  {
     "name": "COSTA RICA",
     "samples": [
       {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
+        "icon": "https://static.tvar.io/imagenes/nodisponible.png",
         "name": "88 ESTERO",
-        "uri": "gEo2UXaXfFBqBoeiEVLuGIAYxk9V6V6mlGf0UA7ZTfTymDt9lgJu+fREpUVfiTXw2gCqLWxScCCchQ8WUShONg=="
+        "uri": "kxqVqHth3E4CMIx91H106eS3G/NgxrLYT3t4W/OS8nc="
       },
       {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "COLOSAL HD",
-        "uri": "pm4HuDE84vclbaR/+CDosGmxBJR1DyERkX1caZkXvH2QpF0Wbn8uTGU4/6NU0sn4GuY2qpn+4jHlKChcDSs7Ig=="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
+        "icon": "https://static.tvar.io/imagenes/nodisponible.png",
         "name": "TELE RED",
-        "uri": "LnRWp72GftMGS+yGX2fQYyBkeu0081zMYR2KRTE1X35fqjStdNLduVxIV50WqpiUspxKlMhaaB3cLU+IBgTqpQ=="
+        "uri": "kxqVqHth3E4CMIx91H106SXH1cLoFPGY1LFWEAXQ3PY="
       },
       {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "TELE SUR",
-        "uri": "61t8wXWjzkVK3W5rTGN0qoT8TgxMoyDCiaaOzJaIq/1y6L+dgk68D5laoQXCvauy23MY947wwC2FoiNPs1k5Dg=="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "TELE UNO",
-        "uri": "h301qtyPbtKv6ChXmNYKzPETpCYOjeUbIK/a1kLwTgs53nJ5bTcALzbISWivGh2e6r4JkFOjus0cejGXxxRITA=="
+        "icon": "https://static.tvar.io/imagenes/nodisponible.png",
+        "name": "TV UNO",
+        "uri": "kxqVqHth3E4CMIx91H106a8UGkIKdandCR4mmPS85x4="
       }
     ]
   },
@@ -1787,42 +1757,37 @@
       {
         "icon": "http://upload.wikimedia.org/wikipedia/commons/e/ec/ATBBo2020Logo.png",
         "name": "ATB SANTA CRUZ",
-        "uri": "HKuF3sEzgR4xDgyVWlyf8X+TGi3hHOZkGxZQOdhED5u3isoCk4qs4zG8htayioki"
+        "uri": "kxqVqHth3E4CMIx91H106bNY+fZ5Tm1IdEl+CbrktNA="
       },
       {
         "icon": "http://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg",
         "name": "TV UNIVERSITARIA",
-        "uri": "qUWIeqCNv9tZYmFQHcakUap0kTS9rK+grb7rSc3uv5sSbgWDQmasoNNI4Ykqyx5Y+T3ZhsfqL+Qy0hF6lzZzFZMDpGEVuusymKfipWHBt6c="
+        "uri": "7ePArID2yk9XbigoxiU/v9DzSI4gi6uzdaJEYmrKiKs="
       },
       {
         "icon": "http://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png",
         "name": "RTP Bolivia",
-        "uri": "qUWIeqCNv9tZYmFQHcakUbPY5p+uVwyIWMyV/AnpFhs6Grh7R1GzpikqcgOPEK77emMo5pvys6l20Gi4PbDOIA=="
+        "uri": "kxqVqHth3E4CMIx91H106ZgrabuLGZPpsRYrAVDUHHg="
       },
       {
         "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/unnamed.jpg",
         "name": "XTO TV",
-        "uri": "qUWIeqCNv9tZYmFQHcakUVyMiyoJYFx+J44AWnPHO1vzHTWbP2A9DUH7d0oIrcJ+MelItcVdTAZqCw/3R78qdg=="
+        "uri": "kxqVqHth3E4CMIx91H106VQt3H+Y2nrnPBscUMTa7Ww="
       },
       {
         "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/04/unnamed.png",
         "name": "BOLIVIA TV",
-        "uri": "CrBGA06AoShjzlDmM1dj0Q9qDveSX467qBv5a8c/FN41jmTYaRm+GmvDWmToRPd6O3k0HxnwY5Tiygn0XbMnlw=="
-      },
-      {
-        "icon": "http://spng.pinpng.com/pngs/s/548-5486774_deportes-png-png-download-bolivia-tv-deportes-transparent.png",
-        "name": "Bolivia TV 7.2",
-        "uri": "T+RZObFF4jpiLUcxld0B/PEs5Vqz5Bk+TE62gqisUiSsmIDWFSzKZPRD9zlIgYsw0OaItPaIA7bcCWvcJki7QH4qWG3esVIn6/iMNvTQVRM="
+        "uri": "kxqVqHth3E4CMIx91H106YI3gyqDAD9FCRIxRb4BVVU="
       },
       {
         "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga.png",
         "name": "Ayni Tv",
-        "uri": "j+HhRXOhzP9yb+JkfopOP3dLaw/e07a6OfCU4s2CksjU6jKAE+ao+b2OcvPZ+TTfXEPL8bZTCziPXBGsOyKBbA=="
+        "uri": "kxqVqHth3E4CMIx91H106UeqxeXUcEQYH7VALEp4DC4="
       },
       {
         "icon": "http://directostv.teleame.com/wp-content/uploads/2017/10/Red-Advenir-en-vivo-Online.png",
         "name": "Red Advenir",
-        "uri": "J6QCwE1VSMwr1/ZvGKt0dJGex/eW02CVv0a87/7WOMsEgtFAy3wWPxJj3kGjihqE5zW7w0SF/e9//5vaVI222jQuDWik3CRc+R815TSTIRw="
+        "uri": "kxqVqHth3E4CMIx91H106RbxfdD20o7cdKPmEHlbhNM="
       }
     ]
   },
