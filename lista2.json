@@ -1328,9 +1328,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l45XWxvS+jTKr6RnF0Mu0RQ"
       },
       {
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0zKKSkjWf05wUFiTXWMk4grDV8jxLWbY3cWwX_zf2U0s_BZyKZq8F2uowIIs1bMut68&usqp=CAU",
-        "name": "X VIDEOS",
-        "uri": "KFutmWKANxuvtIlDoyCfwClyulYDXrR7CBaxzfIzTpLXQDv9jP1IMjtxQxGsEtML"
+        "icon": "https://static.tvar.io/imagenes/penthouse.png",
+        "name": "PENTHOUSE",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGUYjRxuSU8XC7MfF+bRlUDhCnusDWMOZ6swHj0nnMv27yqyp13KIaNzGMOleb0hejg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4QZNacWHQXh9YZtEAzBn51"
       },
       {
         "icon": "https://static.tvar.io/imagenes/venus.png",
