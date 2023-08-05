@@ -1121,14 +1121,14 @@
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://w7.pngwing.com/pngs/71/779/png-transparent-the-weather-channel-weather-forecasting-weathernation-tv-comcast-weather-channel-television-blue-text.png",
+        "icon": "https://play-lh.googleusercontent.com/CQ-2pPMZV2Yt-ffE4iJcK_KeFsWODyertVoJ4CHVceok4WprUiakgGShou0gTDu28ew",
         "name": "El Canal del tiempo",
-        "uri": "3pmk4fa1u5TAZhY64DCqP/4iT2x3PWuyvKBQY0L5b4J/IwxqkrUUmXjgRq/TTXiiQEyqxEVrNBZmXQP7nRDGeVs5LFcnD4x3+ZVjB4q5kKM="
+        "uri": "7ePArID2yk9XbigoxiU/vyi4Xyt8i7pd1S/gnTqBfsg="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/kanal_d_drama.jpg",
+        "icon": "https://static.tvar.io/imagenes/kanaldrama.png",
         "name": "KANAL D DRAMA",
-        "uri": "kxqVqHth3E4CMIx91H106SbBVNuGgd2OpDmY+KsgExw="
+        "uri": "7ePArID2yk9XbigoxiU/vys3zyNdNhFDvmD/Z0511tk="
       },
       {
         "icon": "https://static.tvar.io/imagenes/chestrellas.png",
@@ -1771,11 +1771,6 @@
   {
     "name": "PERU",
     "samples": [
-      {
-        "icon": "http://upload.wikimedia.org/wikipedia/commons/6/66/Paz_TV.png",
-        "name": "Pax TV",
-        "uri": "kxqVqHth3E4CMIx91H106YK+y0vSjkiFblCbQX/c/1k="
-      },
       {
         "icon": "http://static.tvar.io/imagenes/bhtvperu.png",
         "name": "BH TV",
