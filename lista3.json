@@ -1471,51 +1471,6 @@
     ]
   },
   {
-    "name": "RADIOS",
-    "samples": [
-      {
-        "icon": "https://static.tvar.io/imagenes/radiobeach.png",
-        "name": "RADIO BEACH",
-        "uri": "e0bsZGGyfgzGDOfiOmuT39kg5d0V3kuryXJTZjKvjMP9aZe1RrDySK+G99ohY/3LcwCRf0oCIsEZwROzhrZMVw=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/cubalibrefm.jpeg",
-        "name": "CUBA LIBRE FM",
-        "uri": "B27ACwYyNVTyE6oiVVgB74b7A/yVUkoF0Aaf8Ua4hnnuY5Lq01djUNdjl5WifLNw"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/retrohit.jpg",
-        "name": "RADIO RETROHIT IGUAZU 102.7",
-        "uri": "6nmFkuxLRecqf58/w19vLGBdKGiv4mC9tXyTCxQKH3iaGEPQMAsWuRi3bPhCcxVZ"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/retrohit.jpg",
-        "name": "RADIO HIT IGUAZU 102.7",
-        "uri": "6nmFkuxLRecqf58/w19vLOigjqw/FCFG4UE3Jgd0psaiqlcX2nAjfgLSrjMZ1E4m"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/atencio.png",
-        "name": "Dj Guillermo Atencio SetLive",
-        "uri": "6nmFkuxLRecqf58/w19vLJPdiPIV0Bm74/uCByceuvk="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/radioNacional.png",
-        "name": "RADIO NACIONAL",
-        "uri": "vtQ3YB701rkLMJkwyP6LcOi8o8dCutQq/CmOOS6LCzeiLq3zKyM9Z8+hzH2rhgxJ"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/radioDelPlata.png",
-        "name": "RADIO DEL PLATA",
-        "uri": "vtQ3YB701rkLMJkwyP6LcOi8o8dCutQq/CmOOS6LCzc08FYf1V+fMy9j0/fmX32H"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/radioMitre.png",
-        "name": "RADIO MITRE",
-        "uri": "vtQ3YB701rkLMJkwyP6LcOi8o8dCutQq/CmOOS6LCzc4W2dvrMWARG4qL1HMc7IP"
-      }
-    ]
-  },
-  {
     "name": "PARAGUAY",
     "samples": [
       {
