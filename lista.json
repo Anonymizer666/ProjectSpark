@@ -120,6 +120,13 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIO0M1oKPKAJ0xgFv2zmZuqSJ1TS/V09uHnPlKNPRFjA8XELUojZ5nt/Bce6C4CMOclsAck8JbIcKLNXy0jzTY3E=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoWjFK6IpM0a1Q+/TsZFdHgIb7fkpCfnn3KMaV4J+EHoQ=="
+      },
+      {
+        "icon": "http",
+        "name": "TEST",
+        "drm_scheme": "clearkey",
+        "uri": "U9UQk07P7+QN6Fy5/jEe+GTai6JvTFBChrfXT4wHwoZO1dmyvK9DslcqS2CWBBowoBawpAorDC1VqyXIP+Il8JdWgE56vApzwFIqm0QjXvzaVM8qgbWOacyDRR+vY0QhbBXC2ZEat0u7aTlgjCn+dVrZ0tqg4TW/7+09RE44YPtm/aUQsamQ3+NssBonKu2AwFJFB3rLQsWp3D7FdkfBaJmUpaIRMiRBvrhv0lTuY3p8n0yLjKiOIRqL4cMjN7jK",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpv0751xW/3n9f8s6aJqfvz"
       }
     ]
   },
