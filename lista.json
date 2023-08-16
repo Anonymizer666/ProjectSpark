@@ -1455,11 +1455,6 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIEnC97vH9Xn9nuX7dRiPCv4HhNfNy+rHu3rhae2vUp1ihu1qgyU3M3SeTeVh2t3PrpnJevTwv7owKOzVVtpItI4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoFOVHFZ24jLDHDGZLQTj57"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/retrohit.png",
-        "name": "RETRO HIT 1027 FM",
-        "uri": "AZIDvLgEBmxf1dBB31u9LZpVIUgcTTpkUFj2PPSmCtzOyWDPai0bv8IqpFo36E/npFEmPNkZ2FYYKy8GplwswQ=="
       }
     ]
   },
@@ -1624,8 +1619,13 @@
       },
       {
         "icon": "https://static.tvar.io/imagenes/retrohit.png",
+        "name": "TV RETRO HIT",
+        "uri": "kVIbmMkS4kqBUQOASY/Ll2VWRLjfbAAZAbQxsuUcT2HvJv9Xv2RiQ9foa3OVu073lWfmp2tiUZjwpZa2GIz9Eg=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/retrohit.png",
         "name": "RETRO HIT 1027 FM",
-        "uri": "ICe3yU2LlMQlkWIEodRLCQg4dBZJjVoK0RB2pBY0okwMCTa1Q1ZP6L9oKWoR2KCG"
+        "uri": "5D652ZtRR4G+6mwnapYLdcXk0NizkW95wRAErPxKdmc8v19+GdDM3CDTpznuJe2Y"
       },
       {
         "icon": "https://static.tvar.io/imagenes/radiofactoryiguazu.jpeg",
