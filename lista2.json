@@ -1570,13 +1570,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5aSvImxg1bC/BE/Ni/S+f6"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/surtv.png",
-        "name": "SUR",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bMza8YaRCLDKL9rjMAqlCeeNgSUQ5nAnC+Lem9ert3w93ptTpJxZwDODF+RWC3JVHbnJJfKFGSEuuOsooGGY9iD4=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7uqEHRa5aSXyLt3+JIHAjM"
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/canalpro.png",
         "name": "CANAL PRO",
         "drm_scheme": "clearkey",
