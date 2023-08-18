@@ -3,119 +3,119 @@
     "name": "ARGENTINA",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/americatv.png",
+        "icon": "http://static.tvar.io/imagenes/americatv.png",
         "name": "AMERICA TV",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v+b7V50mkRgB1EkThiB4vB0=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5QDMkFTaLVODN8M5Ehx+9DeyNwx0mZs0LlaVUp3JwOsg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvp.png",
+        "icon": "http://static.tvar.io/imagenes/tvp.png",
         "name": "TV PUBLICA",
         "drm_scheme": "clearkey",
         "uri": "PGzHNpYrsd7PcvTNvtoI1r4q+FI6CS01i1JdQsvyh65s7dHRJaIKd6Nq5cnvDhiLg9XGVP6WwhK+CJcWfIWtTfNj88DxZm4K5vpK6z+d7i7I3/+/TV+SxMrUrVGmXQPX",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5l1SKAVT3E++21AQKAi13d"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/elnueve.png",
+        "icon": "http://static.tvar.io/imagenes/elnueve.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM05HyBTHGFAlhjPPFu9dNInYtregPBoH8XQ/+P1bJmrBfcHSi/mw8ELUhkrzsNHuhg==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aXIg5uiDlb/7GB2gQgiZx"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefe.png",
+        "icon": "http://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM9C4TDjj3D4FaYCcwyOmD0N+nBC101w2TW461jtW0NzSWER8VPu2mRj1Aig9r2oA3mUedo2ULIjHTvk1iJvuISM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4ltZknrMw4S8VejJ8A9t6o"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/eltrece.png",
+        "icon": "http://static.tvar.io/imagenes/eltrece.png",
         "name": "EL TRECE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwabRS0HqOd4YTmKMTbb7UJzhjbAIOfku1FQyj2iq1F4yIxxWmDUUGDoS8wTyRsxv1p7BmmQ54pGVdrSeHOAYHg=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5FWawrkWeNKvTkSnNR8tNo"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tn.png",
+        "icon": "http://static.tvar.io/imagenes/tn.png",
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwLCrF33wF7/1Pa4Zwpd1MLNeE4zxHFuYHvJ5wgof7f+iEqzHd+jKyMvT6XNHQ3AqE8AfCKonhRfYQ3/G0D7X1c=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5EsaM9IKQ1RiZTmj3GVUB8"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/a24.png",
+        "icon": "http://static.tvar.io/imagenes/a24.png",
         "name": "A24",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM07yZZIa1zdyXZ1iXQ22L3Xhzia7NaN8ifJOJB5J+iapErBRTnSK5AHfsVEiIdjO7EAXL8oohpo1oNCep98OSFQ=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4wo4ho3h2ZHCvm53y5IBCq"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/c5n.png",
+        "icon": "http://static.tvar.io/imagenes/c5n.png",
         "name": "C5N",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxRgcQvQ87nHfaSmtDwcCAcTPZyaLdk/KNx8BvE/Ye08BcP0SC+4tlyj1mM5gOg8bA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6fQ3LgQcs8Ry+peiinhN/C"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal26.png",
+        "icon": "http://static.tvar.io/imagenes/canal26.png",
         "name": "CANAL 26",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8vkxQ1K3YSOimY7+mVhZsbVHpVaLlhH+O1ZFNP6s3CU5cnZGPIrPpCMuWQBkqecEPJu0BHAS0DkC3D9cl0Dmu0=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l65NBr98lZlBvPLNCTyEx7O"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cronica.png",
+        "icon": "http://static.tvar.io/imagenes/cronica.png",
         "name": "CRONICA HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM9JrXcw92SZ+JijgtH5oRaf07I+4Cpm7OuKreaAELxMtuhpot8HK7uQZINXOiCCMK6QJSrW5gC0z8Rd7x2VjCB8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6EJxPplXG9VPVIALv3x8hb"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lanacion.png",
+        "icon": "http://static.tvar.io/imagenes/lanacion.png",
         "name": "LN+",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8DCbR2aHUsQIwv5FFabNebLLSpgGARk14OREMiMDc4gUrDSREQRmV4WZVB9wqthNdpVy6BYi/Sl9nAaKCpjo80=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7SH0R/I/4Iz028K+ux0Elo"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/ip.png",
+        "icon": "http://static.tvar.io/imagenes/ip.png",
         "name": "INFORMACION PERIODISTICA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMw8fTLhiZjTEUE9JoYg9BY1psAARrIe0MvIkb+wQdhpsDvPO35uMQcUm+kszNB7UV2O3zVIz/uZkspFvnMtOJZ6U18hSc+HizY4mAxTXyxuIztw76BG33+D7eJcw/PyqDA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7gwokZgKcM4LEq3tl+xi5E"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/encuentro.png",
+        "icon": "http://static.tvar.io/imagenes/encuentro.png",
         "name": "ENCUENTRO TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6K3FYpunszkIF4nYkgEQczG8y+gI29BTFw2sYwoQe1S4LKeWhOJaUegaMxoKWVdAj5JkteJehTq+TEcdztMYH8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4KFEBX+8zV/cC4RcPR81pC"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/rural.png",
+        "icon": "http://static.tvar.io/imagenes/rural.png",
         "name": "CANAL RURAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpDnaRevErb0q7tWsbFfCFIcQBgbqXusfnIQJlYJnxLAQWKnKdOGPFI0A+E2tnoXSp0=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6+yM7IOwgwORkXzeKaTBRP"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/nettv.png",
+        "icon": "http://static.tvar.io/imagenes/nettv.png",
         "name": "NET TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxoZwsdplsX9szrKzwDgte2qo+hTPv0aLJ0kKWSZTEWdaxWCFlPp99A+oQ4XlMWYdA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4jO6s7czY5JK2uhDJo/Dxv"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/argentinisimasat.png",
+        "icon": "http://static.tvar.io/imagenes/argentinisimasat.png",
         "name": "ARGENTINISIMA SATELITAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM9Q2Bofbpkc+45Ptw5yMX3oOtWFvSH1Z7gT3uDFxt/vMfLJgo0H4ilNQjIVAwSiomAdSBhr/q9Wptwiz8PnEvBA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4NIAIb6GOOGRNjNOOnzGQn82z6PEcTcxPiFIU9+rCJqw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/diputadostv.png",
+        "icon": "http://static.tvar.io/imagenes/diputadostv.png",
         "name": "DIPUTADOS TV",
         "uri": "b+QSGe9itEwwoKyzCS+bMwv96eHqnoAMz/sG07R4HEvtgdbV8DA0eKFgV0yDczI+aEvEjW9roA1KD4m/qOyfZJ7dox7q15RJeYMnDO+Hvv0=",
         "drm_scheme": "clearkey",
@@ -127,14 +127,14 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/canal12misiones.png",
+        "icon": "http://static.tvar.io/imagenes/canal12misiones.png",
         "name": "CANAL DOCE MISIONES",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM5E6VA9OW5x4NK7POWr9pfQ/k1XYTSVdZtAFH7fHy6Zs6k9VHMy2LDrT9WPuH2A4FB7RA26CuYMTM6lHrQFsiFA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6UmGJglzDVWE8ukjQCpqHOgRIgMvXR2Lk7AvSI5QdirA=="
       },
       {
-       "icon": "https://static.tvar.io/imagenes/multivisioncable.jpg",
+       "icon": "http://static.tvar.io/imagenes/multivisioncable.jpg",
        "name": "Multivision Cable",
        "uri": "7ePArID2yk9XbigoxiU/vy8Cz1y/T2iOo/KZ2khf0EM="
       },
@@ -149,7 +149,7 @@
         "uri": "7ePArID2yk9XbigoxiU/v/FzJNXzYMQOa1C1CQ979I4="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/streammax.png",
+        "icon": "http://static.tvar.io/imagenes/streammax.png",
         "name": "STREAM MAX JUJUY",
         "uri": "7ePArID2yk9XbigoxiU/v8kEOfFiNDD9EQOjzpfggwk="
       },
@@ -164,27 +164,27 @@
         "uri": "7ePArID2yk9XbigoxiU/v+DimoVcmSw1MqmdMJevcy8="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal9santacruz.png",
+        "icon": "http://static.tvar.io/imagenes/canal9santacruz.png",
         "name": "Canal 9 Santa Cruz",
         "uri": "7ePArID2yk9XbigoxiU/v3vBTsKK5qBgSL8JoWDozR0="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/fenixtv.jpeg",
+        "icon": "http://static.tvar.io/imagenes/fenixtv.jpeg",
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
         "uri": "kxqVqHth3E4CMIx91H106bVQZm6UphS9Ou1q+8vaDuY="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal13larioja.png",
+        "icon": "http://static.tvar.io/imagenes/canal13larioja.png",
         "name": "Canal 13 la Rioja",
         "uri": "kxqVqHth3E4CMIx91H106SQqinamCdrhgFWL0Kw4clU="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal9larioja.png",
+        "icon": "http://static.tvar.io/imagenes/canal9larioja.png",
         "name": "Canal 9 la Rioja",
         "uri": "7ePArID2yk9XbigoxiU/vyNZsQc6tJSfX3ZHXWvNyCc="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/chilecitotv.png",
+        "icon": "http://static.tvar.io/imagenes/chilecitotv.png",
         "name": "Chilecito",
         "uri": "7ePArID2yk9XbigoxiU/v8UlXlLG9nJaYibNkF1a8iE="
       },
@@ -194,37 +194,37 @@
         "uri": "kxqVqHth3E4CMIx91H106cXmbAcT3JmMsVC+opjLn1g="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telesol.png",
+        "icon": "http://static.tvar.io/imagenes/telesol.png",
         "name": "Telesol San Juan",
         "uri": "0zQMZZt2luv1PmN/EQDYtwHSe4OOPrzgwGPlGnUYKseUXyFM147Wktt2zzkCS5JpBMdI/gwwk797rTpDOI0WXMM4mVq7CftwrAJpNm6PLUU8Uk2NfnCE0qb+HS4GKwWP"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canalochosanjuan.png",
+        "icon": "http://static.tvar.io/imagenes/canalochosanjuan.png",
         "name": "Canal 8 San Juan",
         "uri": "0zQMZZt2luv1PmN/EQDYtwHSe4OOPrzgwGPlGnUYKsfn7MV9w3xEQegaek5EAPVh2YjCVn1zwvuqIWUYfuLfA8jdVOs8Bl79V0h1o1gbgsfUhaKRxrxhIsuxheNKy1Hh"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal4sanjuan.png",
+        "icon": "http://static.tvar.io/imagenes/canal4sanjuan.png",
         "name": "Canal 4 San Juan",
         "uri": "7ePArID2yk9XbigoxiU/v2i/c3v5qcmEiUDPRgNtgXU="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal30sanjuan.png",
+        "icon": "http://static.tvar.io/imagenes/canal30sanjuan.png",
         "name": "Canal 30 San juan",
         "uri": "0zQMZZt2luv1PmN/EQDYtwHSe4OOPrzgwGPlGnUYKsehynPrNpJQZZCrCmst2r9AnL18pZ+P1hBKqQW11K8GewwCjgX3lRNeg4Z/9O7rtTA="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/34sanjuan.png",
+        "icon": "http://static.tvar.io/imagenes/34sanjuan.png",
         "name": "Canal 34 San juan",
         "uri": "kxqVqHth3E4CMIx91H106cgGMS5Cy1WErgOgHdqged8="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/albardontv.png",
+        "icon": "http://static.tvar.io/imagenes/albardontv.png",
         "name": "Albardon TV",
         "uri": "7ePArID2yk9XbigoxiU/vyPkkV1zSlmp8LnxQ2tRa2c="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefecba.png",
+        "icon": "http://static.tvar.io/imagenes/telefecba.png",
         "name": "TELEFE CORDOBA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpDhkY22FMSpjVpcuipW+EROKbmTWtOCRJ+rdwElDriZifG/9OodvMqaj5zOmERC7WA=",
@@ -236,174 +236,174 @@
         "uri": "kxqVqHth3E4CMIx91H106Y6LGuRy2oNWbJ6BihihTl8="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal12cba.jpg",
+        "icon": "http://static.tvar.io/imagenes/canal12cba.jpg",
         "name": "CANAL 12 CORDOBA",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpBx1NW8VkkLpx2r2TiG0z5/VVQbutPRl4Vqk/ojxvnhRqsMPwK8wrsZQmHgTA4CdEs=",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4QDM9XteUJZ3IqmOvTzRsNye4Q69JVQuVJe5kf/vVodg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal10cba.jpg",
+        "icon": "http://static.tvar.io/imagenes/canal10cba.jpg",
         "name": "CANAL 10 CORDOBA",
         "uri": "7ePArID2yk9XbigoxiU/v9BTviRcjNdUbwk/IgvIaDs="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
+        "icon": "http://static.tvar.io/imagenes/canal13riocuarto.jpg",
         "name": "CANAL 13 RIO CUARTO",
         "uri": "kxqVqHth3E4CMIx91H106Xlip2uzGkckRckvP42jr+k="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefesfe.png",
+        "icon": "http://static.tvar.io/imagenes/telefesfe.png",
         "name": "TELEFE SANTA FE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpCCAgWfSeB4RqL/QVmLmsbNcYleYtzdX4z8nmhDV5+JoX3nAHqiDz/0dsksTZL3NAA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5Q8MqcBx3YtJXAvVjt29G6"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal9litoral.png",
+        "icon": "http://static.tvar.io/imagenes/canal9litoral.png",
         "name": "Canal 9 Litoral",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpBYpK6RlThHCmEY/jX6ALeDYdhc4mhf6SIHrnPNOzImmzbMy1g3rxMzsrUN0PAa1yM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4h+lkRymdTzK7irrqyJjBuQHryOPFkd4npoxZPFmLBLw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/teleferosario.png",
+        "icon": "http://static.tvar.io/imagenes/teleferosario.png",
         "name": "TELEFE ROSARIO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM016E0gdfBjttVvtb0MTghaDNpEN72H95Oe9e3UPvoSyiNmdiHIZ6uMSOZXRKCi28AigS9KKc/e+glcWi4s2OAvb12zM8zJGEaUAeZNz6PWO",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l66vIkkIdgkvVSFEqBnMQetViKe/GzuS/LAfA9TVTtgOg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal3rosario.png",
+        "icon": "http://static.tvar.io/imagenes/canal3rosario.png",
         "name": "CANAL 3 ROSARIO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwMr0SsHvObg+IhHdo0SrOuVjJoxy2Z5RAIvSdCAZBU3KwIJUAVY/TWzJMR94T86ROCEgb+H/gpnDx83sPY9+9koJkg0qlLwAgg2XSFn6JUy",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7qPUHhg1CFvBw5BPg2+utAq7opMDETu46221uWJb/Q/g=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefeneuquen.png",
+        "icon": "http://static.tvar.io/imagenes/telefeneuquen.png",
         "name": "TELEFE NEUQUEN",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMyK8XBIOFVrYIXtge1hMBMuSr1mDb1JGLlmGcsdJ3Zqv52OFBegqrF99gdn7E4zQ0VQJJwj9PiN1lcW/uNhUXy8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7rWstFF+Dh+H+FHVYUK7lRpLDC8VKbV+yGiVSfsPJVjw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/13maxdigital.png",
+        "icon": "http://static.tvar.io/imagenes/13maxdigital.png",
         "name": "13 Max Televisión",
         "uri": "kxqVqHth3E4CMIx91H106WU0ty2ahlNg+FTySKmwlRY="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefebahia.png",
+        "icon": "http://static.tvar.io/imagenes/telefebahia.png",
         "name": "TELEFE BAHIA BLANCA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM05HyBTHGFAlhjPPFu9dNIlfE4lRRDVJGRDcLCofbzSY8K6aqBnYQJtbqpA1c8j2wEG/vtyPhHyxuGrD3mSUfbOvvRbhp9oEq/dxVdBKxl3f",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4c6AjhcD88GNF1M6tRklBzuOpmgULXbK5nGGqyob/iQA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal7bahia.png",
+        "icon": "http://static.tvar.io/imagenes/canal7bahia.png",
         "name": "Canal Siete Bahía Blanca",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM22haVfnf/vJ/WYZ8Nb0wAMf//8Z3D/zgCLrzzqb4VuU7p8a/IXe1MhZmyJl/3braU5MrkxTTrR9njRvLZwjK98SgesQSriEZcfV4JUgEA2B",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Va7g/6O002TAfLAiNMnNtIretOrLrsWB0nxl1GzabEw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/americatucuman.png",
+        "icon": "http://static.tvar.io/imagenes/americatucuman.png",
         "name": "AMERICA TUCUMAN",
         "uri": "0zQMZZt2luv1PmN/EQDYtwHSe4OOPrzgwGPlGnUYKsfn7MV9w3xEQegaek5EAPVhB1tWgNsSCLgpulSBUCbUdHgFdDSKZbQ7N6HpQGxLsS4sW+aVxkRqRrLsPPj2z2ZU"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/8tucuman.png",
+        "icon": "http://static.tvar.io/imagenes/8tucuman.png",
         "name": "Canal 8 Tucuman",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxmgvo7kpv9ahWb1M4MSZhSX5AOP/LQI/eQi8Il+Lpf9YxQddshQ8K4WQ3KIwmUNeR75ZgHaPg3H847vckW+H0BZAw3tJNQ6Hv10DJN8+unn",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4YXAFqdxyiOf0K62rsME6SD+lVYkEel8lWL/Tz+WUmUw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal10tucuman.png",
+        "icon": "http://static.tvar.io/imagenes/canal10tucuman.png",
         "name": "CANAL 10 TUCUMAN",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMzrdj91hoESetbvPvBi2ajiTQB2hWxYPcfHkhTF4qzssz7Nh2GDdj4Qy9fLO/v8g0PyxjvQzhU9RDgnaIeam3vI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4C5chuzqRMU6LSP16kbe/EZ37MyWB31I6izScQWOTJxw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefesalta.png",
+        "icon": "http://static.tvar.io/imagenes/telefesalta.png",
         "name": "TELEFE SALTA",
         "uri": "b+QSGe9itEwwoKyzCS+bMyK8XBIOFVrYIXtge1hMBMsxfpPkG8GAPK/OyRm0VjnzKsTpRYXdtCisGvZLTqpgn6wgXZd6S+KPhnZO5AU6+Yg=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5kpiH2xrZGTCEV+Gcvl5uAE9JcIs4eEufT7TN1g3VTmQ==",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal9mendoza.png",
+        "icon": "http://static.tvar.io/imagenes/canal9mendoza.png",
         "name": "Canal 9 Mendoza",
         "uri": "7ePArID2yk9XbigoxiU/v/93OIVsdvKQEZhsOI/N7ws="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/sietemendoza.jpg",
+        "icon": "http://static.tvar.io/imagenes/sietemendoza.jpg",
         "name": "Canal 7 Mendoza",
         "uri": "0zQMZZt2luv1PmN/EQDYtwHSe4OOPrzgwGPlGnUYKsfn7MV9w3xEQegaek5EAPVhnAdJhXvxSVnPq/CO7PM8Gza/9xqnKOTAm4NtXa5CbSUiCkjp72OzPaOn3K2ZqBEC"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal4jujuy.png",
+        "icon": "http://static.tvar.io/imagenes/canal4jujuy.png",
         "name": "CANAL 4 JUJUY",
         "uri": "7ePArID2yk9XbigoxiU/v50BDuIdrxWphVI5OqYcLno="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tierramia.png",
+        "icon": "http://static.tvar.io/imagenes/tierramia.png",
         "name": "TIERRA MIA",
         "uri": "kxqVqHth3E4CMIx91H106X9sGXP2XeD3ZrpU9ylrfJQ="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal13sanluis.png",
+        "icon": "http://static.tvar.io/imagenes/canal13sanluis.png",
         "name": "CANAL 13 SAN LUIS",
         "uri": "7ePArID2yk9XbigoxiU/v8+RGJ+cLRbuws3BVJMkbsc="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal7jujuy.png",
+        "icon": "http://static.tvar.io/imagenes/canal7jujuy.png",
         "name": "CANAL 7 JUJUY",
         "uri": "7ePArID2yk9XbigoxiU/v+QwXWwmf9/q3ey+wHB93JE="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/multivisioncanal9.png",
+        "icon": "http://static.tvar.io/imagenes/multivisioncanal9.png",
         "name": "Multivision canal 9 de salta",
         "uri": "kxqVqHth3E4CMIx91H106fKfAgLfjalHwJ/CskBZLHQ="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal7salta.png",
+        "icon": "http://static.tvar.io/imagenes/canal7salta.png",
         "name": "CANAL 7 SALTA",
         "uri": "7ePArID2yk9XbigoxiU/v4Uj4fOFoK22Ow1IZqGsF04="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/bragadotv.png",
+        "icon": "http://static.tvar.io/imagenes/bragadotv.png",
         "name": "BRAGADO TV",
         "uri": "7ePArID2yk9XbigoxiU/vzQrhljVeOkpcyq0a7ZPTKA="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal5eps.png",
+        "icon": "http://static.tvar.io/imagenes/canal5eps.png",
         "name": "Canal 5 EPS",
         "uri": "7ePArID2yk9XbigoxiU/vz5JiBJHtn9luLz0HjbdAhU="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/metropolitanatv.png",
+        "icon": "http://static.tvar.io/imagenes/metropolitanatv.png",
         "name": "METROPOLITANA TV",
         "uri": "7ePArID2yk9XbigoxiU/vyJaDCS6N41JDK6knoV0tHE="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal3lapampa.png",
+        "icon": "http://static.tvar.io/imagenes/canal3lapampa.png",
         "name": "CANAL 3 LA PAMPA",
         "uri": "7ePArID2yk9XbigoxiU/v1NrJXI4YKS0IY7yVO5wxEg="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal6posadas.png",
+        "icon": "http://static.tvar.io/imagenes/canal6posadas.png",
         "name": "CANAL 6 POSADAS",
         "uri": "7ePArID2yk9XbigoxiU/v161rTAFDO2K1meXGlKco6c="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canalcoopjesusmaria.png",
+        "icon": "http://static.tvar.io/imagenes/canalcoopjesusmaria.png",
         "name": "CANAL COOP JESUS MARIA",
         "uri": "7ePArID2yk9XbigoxiU/v4bz+W0qN7pUcPssoxbFUIE="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canaldelaciudad.png",
+        "icon": "http://static.tvar.io/imagenes/canaldelaciudad.png",
         "name": "CANAL DE LA CIUDAD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpAgSuXFraSWfLjomWMJtj9oj9MIJTZ9p1IhjIqXVOejoLUjgltr9kJlv1e36WCpLVCvJt3TOW5OUzdFB+zXSjeE",
@@ -415,139 +415,139 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/espnpremium.png",
+        "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/j4yU0/k0mFyOyGn2uFOQiHf4aJ2qKxIbwibfeYJupNUBgxvgFWxQsP62qbbCNUY5IMnXCmC8jmeIW1BiuecOhAGG7sAH564hLNKKg/2Gg2",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5PgubvxH7MbqywZEQe5gTqCCeaMuu5oGhNvIi20m2oyQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tntsports.png",
+        "icon": "http://static.tvar.io/imagenes/tntsports.png",
         "name": "TNT SPORTS",
         "uri": "b+QSGe9itEwwoKyzCS+bM60s76zybvUsbv3ub9Y0wETS1qXuNYkEcc+QSy60Zd8neIvxJqLWcWcYI3O8/+BZ7GqATGXDYR+oIqMMuEThVN4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4tE1MW35D81YdJS6KzjLy0",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/espn.png",
+        "icon": "http://static.tvar.io/imagenes/espn.png",
         "name": "ESPN HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM36Wr7t9H2+vRrGhM0ZQdtAS+ZvQMnpxojRBnHTL8NQA/nlaspKiQ2lGltRy1LmVZcObypclWsSrtYJUe9/dIgU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4TpXWzNN11izTPrqNMj/nS"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/espn2.png",
+        "icon": "http://static.tvar.io/imagenes/espn2.png",
         "name": "ESPN 2 HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM+SI8OTaA3l1EVLOyMB/FZ7Ue0ggBORruBn5s4gdql4cGky6RaCy9vFYffxH9gdkR54TkIziiNjrm0IpCtl8mQU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6tHrFFljf03GCtD88svbaC"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/espn3.png",
+        "icon": "http://static.tvar.io/imagenes/espn3.png",
         "name": "ESPN 3 HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM4CpLTqo2cLN1h06ow6YwA4XOWQbP2HikHkfiQUCD8yINVHI4nUz47UUmwfRNl7MaA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4mvgTa2nubCg4wMwBLlfVV"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/espnextra.png",
+        "icon": "http://static.tvar.io/imagenes/espnextra.png",
         "name": "ESPN EXTRA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6xM2uLvD9kt7sVVmCVVDu+GrnOAqNfS22UnqKy4gxjzCrwEXe/fbUMGdICDpq4LzA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4X49TyqtPyUcVOmQd9NUDj"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/taekwondotv.png",
+        "icon": "http://static.tvar.io/imagenes/taekwondotv.png",
         "name": "Tae Kwon-DO TV",
         "uri": "JbZMJkVtJWMpfLdNEWuRvi6DjLXGJr0R9Czczhk2hJWJvHRnc7Y5EcOr3dFwwX5+"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/fs1.png",
+        "icon": "http://static.tvar.io/imagenes/fs1.png",
         "name": "FOX SPORTS HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM96LsZ8xB0Uq0otz5JWJaz7XnDPSsa81sPzcqoMeIbxfwUovPh+yZnJeQFsuU+Je1xCE3KHqr5T14c2s+97i6vs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6pub+4qOlbDXupeJpfNehg"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/fs2.png",
+        "icon": "http://static.tvar.io/imagenes/fs2.png",
         "name": "FOX SPORTS 2 HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM96LsZ8xB0Uq0otz5JWJaz4SgYnK/QFFPWffexMeOnSyF9wDCF44/iZBmp5XvG9EStYEkuQn3NxOoGc3iuzOpXY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6dMv0ctQeUX1MlGb4zGxkw"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/fs3.png",
+        "icon": "http://static.tvar.io/imagenes/fs3.png",
         "name": "FOX SPORTS 3 HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM96LsZ8xB0Uq0otz5JWJaz58V6Gssbf8Vt04Kz75jZ9VkXfXcgEh1n2slEX3gyihOtYnkAlxvyM3AYJtweemp7A=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7o3pYJ6TjDVC/k3tKs4SuG"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsports.png",
+        "icon": "http://static.tvar.io/imagenes/tycsports.png",
         "name": "TyC Sports",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMyn0jqm/rr4CwnZ+bYheHtp3BVsT4WT4Jl0m/P1MeQgZA3KiynuSfBpweTOU/OQU2yAT8b221KSkdFqWISU9RLs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4uQy5Ml/bn4iIggkPhzy6v"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/deportv.png",
+        "icon": "http://static.tvar.io/imagenes/deportv.png",
         "name": "DEPORTV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/bqUMlXjPZvG+xilMmjWBw2nfLrARuzlPGYfglk4Qq6m4aMulmSzHmQj/xrf7SY3USFjeDNH/l2MDc/GkTp4PA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6lo9fkgMN5Y9KuGR/JORrX"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 1",
         "uri": "J3j/NCInAivz33K0HfUAOugnd4fVhi6qt97i49ODFIJHVwO6ZeofY6+S47834J3grUnNz5nnVsRI+HQ3RQzBmT4E0LJqDVjUYwS+oMoYfc0y2L0IEJu7L8kF+rVApAvD"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 2",
         "uri": "fJXQaPRbNr0AJqiVyT1DUqL66SQBQ7DFzomaYVFzgE3Uwt0++uoT4wMcrvdtnkiK5OaxgrIBcHY61Uv26CztW1L925jualJQQT5AQBILeoKW1rHaTl6nEx4cWIzaiQIP"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 3",
         "uri": "LFOysS7bZushM8+caEZgxTNwgVAtF1hLnrxhUrNzYf+PdmY2uiBl2148h/Z1AxlACp9dBqeNpd/RMRyu+OwGN7bdSt43eMA7C0vhX94D4SCG/+2CxperpH/W1StMsqz8"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 4",
         "uri": "IAHcT52B3lx6YD31sYqGERz3CR1TRJxbZhJW3QYM0jbYo+UpLpBDEfXkADtIHa/xLRscspoOxFRSKShIEXWsFZritte94yi7r4ZYSLd81DCktS7HmSwbfT+iKJazxlYv"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 5",
         "uri": "7hFUZ1HMLMLKD+bwcrx2WXGsLVEOnhEHyLJEre91PTrbxVZ51DzAcQJUNhNF811/213l+JHj1pzRzjZDjNqKtRUV4qPtiShKRleUs2TNTKnBe2E1U4QAoQKCucVDGE/C"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 6",
         "uri": "LEJuioJYbYkZBCm4ahAmr2y7jTLFhEpOFyRSQ6IgZrQk+QdbLuM9lh8fAZgL0NJIapZc0MzHNcewY6mSxiKVdFgrDsCa2/MKHXNMJsZmA9C8qTWoNdW98IzRG3QzYP4S"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 7",
         "uri": "csmdgxJjIRIVNhTFB/vOSoHRwb+IDL4zDOkVu1TpYCQKRhho8GyOpi1vSZ6Had4Hlg+LEOboFe1YHwqZiE+56/hGRO+aUYGWXXpvtvG2bpmawDYO+U/DCAqNtzoakds2"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 8",
         "uri": "aW/xhZsKrs+IJW6oRHRgeGdz0H29pwkkU2QQLOUaDjbDMpvPVg0QLLcXtMdj5HAaS1rxuw5NnXDwQ9vkafqXO9AXB3k77tGdyITKCejeuNGZDuKR4taDFrZ2dT4jJDNC"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 9",
         "uri": "E3BS7YGUXiWGqcFUBu2oUBxxytWAQmNtB6UUTOaIJw9dYeCYT1Sxe4KSoDF8DDEu3dYHf1VC5Cwdl0p6Y8a0WilHXuV/+JzG8MY/n4XIVMqu6Fy6k3hUu+TuBIw8ptzv"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 10",
         "uri": "ptSe5Iq24EbKAAAeyRtdi+XJlD6xPnCjzttYVatxrs8MntpsD8ghOhYr4nJCamYs4UnQHeCIMT/qS6+UonwR04D8M/ffGNv6Fsz7y6jEPmGymrl4r0ipD4En7vo/m//q"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tycsportplay.jpg",
+        "icon": "http://static.tvar.io/imagenes/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 11",
         "uri": "W0tds+726+PyVxgi1tEJA59mBisHB+6aguuFioLJKzkByI6/3auy67SNBsMugjVIPDH7A3OS5mpnrfnJEBGd0zpXa5vScu9OSftKrTzz54/YtsNpcbGFiKmpQEsE/hgu"
       },
@@ -559,49 +559,49 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4Llf1BzTBi50pZnY9ULO8c"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/vtv.png",
+        "icon": "http://static.tvar.io/imagenes/vtv.png",
         "name": "VTV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM95MTK63rsP3TL01n/tTK/LtHwHlUIHITwYubL83Q4EFK7DKdKrTUL9b30oJH1QF+g==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4DOU2sCaTl6x37J1vDxB2V"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/vtvplus.png?",
+        "icon": "http://static.tvar.io/imagenes/vtvplus.png?",
         "name": "VTV PLUS",
         "drm_scheme": "clearkey",
         "uri": "StXYU7vuVnuwBHrO7K3w3Ycd2awlBAIyuuqyqz1/M9sD0dg7Ab8knHJw7OxQH9o4XRt2PnH5+g5Een8EV72SenNxMoNAVW6IXImpamF9vA8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6qdr6hYm3ArQza6PogjvMg"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/garagetv.png",
+        "icon": "http://static.tvar.io/imagenes/garagetv.png",
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM0XiRitbONRSgtoZOK7H+VldTQiRq5Zr3+icJzsiW+iQw1pcG9YvqD6JW9mPlI469V5s09XjoWJQy0JYOEfGzNY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7RJunxKsogD93LKofojRPK"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/golfchannel.png",
+        "icon": "http://static.tvar.io/imagenes/golfchannel.png",
         "name": "GOLF CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMzKkVB5h7ya7+MK4LH+oCtXMUmxZR9HdURCkfH0Yfhku2MqObviQwY+UQ87qyMybQR0RuVhZf6j+rgNhn2VIYtE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6N+5q+mfGy9Qyxq9unmv1EssR+eBcy0jI+8QmYIKzP5Q=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/nba.png",
+        "icon": "http://static.tvar.io/imagenes/nba.png",
         "name": "NBA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM5LdzuJHU5w3tO0O+IBJK+eaFavowTXB/QKIVp/7U+ZZt+5DYMv3CsFZnB19w+KMzQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7S8PmnCIWUnYemfrhap5EK"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/americasports.png",
+        "icon": "http://static.tvar.io/imagenes/americasports.png",
         "name": "AMERICA SPORTS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8vIkLkx4ZKvcGgr1k3QQp393BIK0M7RI4B70jJViPPTchyem+m3zjEW5jKqNZYF9oSN3OU0N+BybGnOlLaAFYs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5h4aCRzGVBbScjlIPNZz9gjUl7FrY4yRaGBZAuvFXL6Q=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/pxsports.png",
+        "icon": "http://static.tvar.io/imagenes/pxsports.png",
         "name": "PX SPORTS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1AFEss5YMVhXGn7ddzmcWzztQKLm/jEE1lPi0Zu+MFMaiJtu36WQ2jCoB1UksNB1CwaoDvuNeOgcfBBFUUh0oM=",
@@ -613,70 +613,70 @@
     "name": "CANALES INFANTILES",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/cartoonito.png",
+        "icon": "http://static.tvar.io/imagenes/cartoonito.png",
         "name": "CARTOONITO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8HHZaUO1v02MZ6wZnUqb9nM4+KYX1/LazOuG5w/n3QJT1ibNVAJGrUhbuDGzyxHg/FhW1aP47ci9+CGcbEFJl4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5YErYgdIQ5Q4QSLHAWBRLHlz2BEQ9nDEoi/tEHSjqoOQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cn.png",
+        "icon": "http://static.tvar.io/imagenes/cn.png",
         "name": "CARTOON NETWORK",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwFCy8G0+Rh2Wv7B4ZoIw+u/FjK6uRLbzQio4Mj9aRnxjOuehaTHI3k8qkDJSIonQJ8smkOD2lfw/9ystmYPWnA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7eeiSBgTvu0/QtWC0CUMh0"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/dkid.png",
+        "icon": "http://static.tvar.io/imagenes/dkid.png",
         "name": "DISCOVERY KIDS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3gPoZk1D4pYPODQLoEAbdh2UNxyxFb9MGrgBFD7kINQhXWqpFVbmGPc1Qb1zL1/rHudMsJJGxrGMIyDcGq/oLY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6OOJOXeV/1XjcMUUdDwIqI"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/disneych.png",
+        "icon": "http://static.tvar.io/imagenes/disneych.png",
         "name": "DISNEY CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8b4meoePoCvyWmcAqggMGPMCkR8WIt52cbkLbgI5cPAh+g+JuonRs1dQEmwYJHn3x/gW6aMRJY/FMr8HBdHtzxVQFAwPptYXuoto6h6TV5M",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aj198vpeo2YW6zT6WUPO0"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/disneyjr.png",
+        "icon": "http://static.tvar.io/imagenes/disneyjr.png",
         "name": "DISNEY JUNIOR",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1MspqUfXUVG2IPH5Wd8hGsXrRdT2yiFOGmjO1kG56j6QJ0FEx5s5EU1oeNSNMnwSFOGMDe5/kdqx5BpxwCrnls=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5J71tX8CFchFTKzZ3pLHHk"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/nick.png",
+        "icon": "http://static.tvar.io/imagenes/nick.png",
         "name": "NICK",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM2xIKI9IjZIlnJEmGa0yk3Stac6fQTRF3+6YLKlzeR9cq02hmSYu65iiNHbt6125HhyyF3jwES4VJO9a4Y+g5DU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5vtYUn5ORiGoZE3xeMvcvS"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/nickjr.png",
+        "icon": "http://static.tvar.io/imagenes/nickjr.png",
         "name": "NICK JR",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMx0MTepnb/HRVUkk1OpJm3Lfev6A1G2a9vowg7xLaw/v4pddjh0AeaZWQ4J38T2q5OeOifJxrKURq/1ygqJkaQw=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6ofw1ZG00hMWAWgEQDOj8l"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/babytv.png",
+        "icon": "http://static.tvar.io/imagenes/babytv.png",
         "name": "BABY TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM70J7vrvtUby7yHQ2pKVWQmRc/2v1NpUtsiIuf704VN7YmYZsJCY0cUpA3YK0akusA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6nS+K/W1Phl1FKhHTUdx9h"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tooncast.png",
+        "icon": "http://static.tvar.io/imagenes/tooncast.png",
         "name": "TOONCAST",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1yRbakYwZfSrpHkoxdWrzpqmIct0OH2Jc74iSQIKPtEz/eJ/whUXKSW6sKMKp2MHHVABS+94Wh8+Xh0ZhMTtHc=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l424JMQ7c3JwKLurh1r1ZXb"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/pakapaka.png",
+        "icon": "http://static.tvar.io/imagenes/pakapaka.png",
         "name": "PAKAPAKA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3rX8DlnHBgM1HLkw3abDZZxtsj1HDmBOcu4gpgvT0hybpG4ZiA+sQ/3Nj7D1+Tjj2CG2TVUwCB7prrORrDSfa8=",
@@ -688,56 +688,56 @@
     "name": "PACK PREMIUM (HBO)",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/hbo.png",
+        "icon": "http://static.tvar.io/imagenes/hbo.png",
         "name": "HBO",
         "drm_scheme": "clearkey",
         "uri": "kxqVqHth3E4CMIx91H106VfKfqmp6fgiGTDZLZws7Rg=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4H9g8r9JswoztXxfodsuSF"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hbo2.png",
+        "icon": "http://static.tvar.io/imagenes/hbo2.png",
         "name": "HBO 2",
         "drm_scheme": "clearkey",
         "uri": "kxqVqHth3E4CMIx91H106XhnpSNerHO7hMorAEPLeT8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aQ7CEfFjzN4nFaXLA7Isn"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hbofamily.png",
+        "icon": "http://static.tvar.io/imagenes/hbofamily.png",
         "name": "HBO FAMILY",
         "drm_scheme": "clearkey",
         "uri": "kxqVqHth3E4CMIx91H106UgdiemL5ukJsG5kl0nz4Eo=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l70zULqRH1ZE6G9K9C937Xo"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hbomas.png",
+        "icon": "http://static.tvar.io/imagenes/hbomas.png",
         "name": "HBO PLUS",
         "drm_scheme": "clearkey",
         "uri": "kxqVqHth3E4CMIx91H106VFZtb7FxFHWH6fobpqeEck=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6XcCTfw7BL6GOjUeoW8UKr"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hbosignature.png",
+        "icon": "http://static.tvar.io/imagenes/hbosignature.png",
         "name": "HBO SIGNATURE",
         "drm_scheme": "clearkey",
         "uri": "kxqVqHth3E4CMIx91H106cZl1RNHgxjOjO5jBOJUABo=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ngQU4MK7hfki9mm9j4ccd"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hbomundi.png",
+        "icon": "http://static.tvar.io/imagenes/hbomundi.png",
         "name": "HBO MUNDI",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM314pd98hGa6+h6T+k85M+rxC4uNbfUVkTLHuSli2v+8Bvfv+pbfgRIyvbd2JCE9WtVafgo0dFsbHjNJKD+4NcQ=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6OoUP2hyZib2N3W0mxxykJ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hbopop.png",
+        "icon": "http://static.tvar.io/imagenes/hbopop.png",
         "name": "HBO POP",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8LY/b/3ST4WWE0DvDwpfN2gWpDgs93WIPnQg2mpG7C2WaZRIOaRO4TNAUYAWf+iUvcShlxXUz+yAAx84mcWhNs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l67zRjG0VOU1/azhdaoFAGO"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hboxtreme.png",
+        "icon": "http://static.tvar.io/imagenes/hboxtreme.png",
         "name": "HBO XTREME",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM77z0TGVerHbUOINVz67vF+KpRDq5T4DTfq0hWyq3mQXGehfiowViW3Ct/yS8VCk4527Wb5i8xKPL6Ox6xmfS5w=",
@@ -784,7 +784,7 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/goldenplus.png",
+        "icon": "http://static.tvar.io/imagenes/goldenplus.png",
         "name": "GOLDEN PLUS",
         "uri": "kxqVqHth3E4CMIx91H106au08nFOrHr/s9ngQqGhuSo="
       },
@@ -803,77 +803,77 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7VQzTc4TNkgepzyB3qvN6Lv3uDGMkH0yhhAuUmwGHMEA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/dhe.png",
+        "icon": "http://static.tvar.io/imagenes/dhe.png",
         "name": "DHE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMzatzsW6L+bqQB4Pn4YCOt6Dl8AeYs2wiFSHjZFfBD2yVEh/Ob03eBmXHLg+5t2GCQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ihNid9mlWtoEJFMC7i9Ll"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinecanal.png",
+        "icon": "http://static.tvar.io/imagenes/cinecanal.png",
         "name": "CINECANAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMzYmOGmv5EF9ONHLy115c3+/mfnnfQwJd8dQNnEMiQTlIWmzynInM5zwZw5LjoyT0PSoDodUO9aAnQoFbL5wYxU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6c5wgc30eSTMd3bOYi+G50"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/space.png",
+        "icon": "http://static.tvar.io/imagenes/space.png",
         "name": "SPACE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM7yqwB216sVdu3Eathv1aq2xV9xshrgWvF1NHdTEXGbecpln1niIg76tDukoI1J9qg==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l68Q2vWcFqj89fd/7Zg9kXR"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tnt.png",
+        "icon": "http://static.tvar.io/imagenes/tnt.png",
         "name": "TNT",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3ihFPwCbAQY4X6NqD50sFfFUUszs+0UvXhsH+WeAjM8ptVlBJUXvcO4pi8wCnaYlc4gKytlbT8NMZWfATecVvY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4YTCW4YuYTC9iN8FsLv2LY"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tntse.png",
+        "icon": "http://static.tvar.io/imagenes/tntse.png",
         "name": "TNT SERIES",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwOH938NiGOT5TyEuH/kSWxH2wrgO97I+tYG/47gDt1a4VLLBresG8vDA+E7MJzca8SxEXFbEYdB4ZKlpAxVm1U=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4d9CD/6vT+uMCXpIDJffwe"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinear.png",
+        "icon": "http://static.tvar.io/imagenes/cinear.png",
         "name": "CINE AR",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6Ql5He3lLoe7rowV525hhET5A7gby+3/6KZ+EnN2EI7yWgkYtp3mivJwDmpZULjc6u8Zb291kbwYVSJO5PuYAA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6h1WHbmjGpd3JlotG+oNWf"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinemax.png",
+        "icon": "http://static.tvar.io/imagenes/cinemax.png",
         "name": "CINEMAX",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/UCKIUGATQ7fr5PkaZjs9oFPfahZ+Yjn+RXw+nkGS1+X8JtqaDEwOpnDlM5/DqRbA5c1QRsL3fpMmA+vgB2VGw=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5KuKMfMCHKMQov3d+zc5Fn"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/volver.png",
+        "icon": "http://static.tvar.io/imagenes/volver.png",
         "name": "VOLVER",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM7a/q+v9nraWQsdWHjYMI7yLS42m20HvroDl1cGFSfwqEJNytW8OfYV2s87Iu9zznA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5R4+0DUx9a4ki4FAJsK2zv"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/fx.png",
+        "icon": "http://static.tvar.io/imagenes/fx.png",
         "name": "FX HD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMzNWIVpLUhseAGojhdcwrIOj7pea3ZjtqkozohANqTWlPzsqywPk9O1JZk56gdKvcQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l76Th8/8ytmVZdHMePHtxQF"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/starch.png",
+        "icon": "http://static.tvar.io/imagenes/starch.png",
         "name": "STAR CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM+5OnkKlEPlJuQU7iO+Dpa/hcPfqjnA6EpjEQWdfCp3XKFuG8tc9gzu4mkxpjmBsTg==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5MqVvaJh1WEZOseJ9Jb5RA"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/sonych.png",
+        "icon": "http://static.tvar.io/imagenes/sonych.png",
         "name": "SONY CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM9AUYO7+a99eq5VQcbwuFBEgTf5hphy5X2ji09v0eslblrkuBbUdga0IHCCsQInlgw==",
@@ -887,112 +887,112 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5xF/BNv5891a3hhBOaxJ5U"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/warner.png",
+        "icon": "http://static.tvar.io/imagenes/warner.png",
         "name": "WARNER CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3UAclfyqQmfyLgo6rjyV1QoZVKrMiSYaUVP3LcyoDVwAueoyDHZUxwT5YFjux+m+KAFZmMZhk7piveLwdATlrw=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4f6I+9ovUmFL6VazV21ZwP"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/unch.png",
+        "icon": "http://static.tvar.io/imagenes/unch.png",
         "name": "UNIVERSAL CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMz2BoGR5Y27NXkDZqUTn7cxhIaPITECpMg18OP3l6EMH066aRqOFaBQg4357HtdEx5M6O/HJSPGNhcdKIAG/SbSjg0BMTHdtPlSIK19XHh0m",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7gqwk086yC8/wTxtCFi9hT"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/axn.png",
+        "icon": "http://static.tvar.io/imagenes/axn.png",
         "name": "AXN",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM9rEz2wUk968YDgCJfTBV9Xq9Vno4JxG6twT47ApC599ksM3Ted2j73XP13RcJPi9A==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6pskoM/2OotpBySsWrli1t"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tcm.png",
+        "icon": "http://static.tvar.io/imagenes/tcm.png",
         "name": "TCM",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/aBtcsRiUH8e5XMsAndTFSUGfQ4yYT4HYeSNXrG1Kn4N2a0fvLVsswuEfa5WXfAjA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7+RlZpg1g9qVUx+kXLXgDb"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/europa.png",
+        "icon": "http://static.tvar.io/imagenes/europa.png",
         "name": "EUROPA EUROPA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM4cXwF5zEM7JW/7TRoDdZeEgTi5UlD4GgkSZ6rdyS3o234IESEVdKwAoRQZrTgmzdWJB4w2OVyirdx+J/IhJnSw=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7BF/jvD36s3j18qB43v3BO"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/studiouniversal.png",
+        "icon": "http://static.tvar.io/imagenes/studiouniversal.png",
         "name": "STUDIO UNIVERSAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6LgFmfXZWp9I7U/nm2IJ9m3X+nvwK7jXsU2/ciujZ1AGEgX+v4+qqNuv57evsvJ6fRlUkldGUgwwmjyO5Psc82fwJJbCk52SumuNjuy8Jn6",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l70waEz58M7jJk6WPVwcwlvb8NnclGFlCIp2VT8dsh6PQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/ae.png",
+        "icon": "http://static.tvar.io/imagenes/ae.png",
         "name": "A&E",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwWP5srX1r8CRg8bJ26BxVyqrk4BZC05nLtE/J2Tp8EP4fLfIt+R/nDTfItGa8c5qw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6uZOATswWFDJta6g0W3yaI"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tntnovelas.png",
+        "icon": "http://static.tvar.io/imagenes/tntnovelas.png",
         "name": "TNT NOVELAS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6oLNyNdKfVCBBv5jvSp3SKlAuqHDlz8jgN9zSMo32W7xgzMujdjqszAscO1d8uNWQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6Lb19rJ80qESPbcTJxarhaN+nqX9sgQBgoVvmMLr0h/w=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/amc.png",
+        "icon": "http://static.tvar.io/imagenes/amc.png",
         "name": "AMC",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM+xWdlKI/nsscK4ZQ3HXLyISPGpVm85LeJrBS2SUdviB8hxD7Z3A3lUBohfGSn94yw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6zfQR46b9geYzywI9l2tho"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/isat.png",
+        "icon": "http://static.tvar.io/imagenes/isat.png",
         "name": "ISAT",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM792Kv0r2WafPJjuo/AQOaQtY5+GIgD+N6C9ik0ARDqKbqiM937vCFb0a8dyJ/KTtw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6IDIG5WYuXG/lR618FTO4p"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/a3series.png",
+        "icon": "http://static.tvar.io/imagenes/a3series.png",
         "name": "A3SERIES",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1a13q4dGabsH+Pe/3in++w+0WQrJFnQqEqa1aqthqe2PxDEGu4SGhLzIBn2Pdj50XL7UQvhi+drRZ3miRUmj3U=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4bv1pHQtwq+bK8if8wkGa4"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/syfy.png",
+        "icon": "http://static.tvar.io/imagenes/syfy.png",
         "name": "SYFY",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM0qJQmT9GOmx9OkDhN8Ch5BzRGlo01GxqB7MYE5sbBgedWRkwN0bGeXltLFwd/L+QQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aOsX9Mqj8GwQ1B025Zdue"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/comedycentral.png",
+        "icon": "http://static.tvar.io/imagenes/comedycentral.png",
         "name": "COMEDY CENTRAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6m5vyxYY+iCcSjOIhC8x7CXR20JXH+hOz5RUbOzzZiwGLX6b4lvj4N6/GWrWHceHf6k6vbs7ppuO/TQTHTfqoY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5vMcZ9II6plkwHFoLCbnguUgohvBQHInywaSNPp/2c3Q=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/paramount.png",
+        "icon": "http://static.tvar.io/imagenes/paramount.png",
         "name": "PARAMOUNT",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM7cogLAJ71fTkYLk68yHadNaic68HGuQG573d+8+MK15zuYcyYQCa4w51jZULGpbiCW96aD1DMqtX9j/zmOp8IE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5rZKuNvgYhxavvLHAXr/Sr"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/a3cine.png",
+        "icon": "http://static.tvar.io/imagenes/a3cine.png",
         "name": "A3CINE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6T0tDHe7DQiP4oK1VIW8lyGr6mTfXnS/TEJO6GaJr9EXUYAa+AGB0Zg8tsCMe3neknJv3LA0CnWDKPp7GIG6nM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7jLAPo9VV240P+q6WrzhmX"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/filmsarts.png",
+        "icon": "http://static.tvar.io/imagenes/filmsarts.png",
         "name": "FILM&ARTS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM7obkh/pHSoH0vznB4pWRIDl2r/gKzvWFhHz4daAAvzVl1cQtXsiIAZqOdgCWoftFQwISl/UKb1aN01jDnrdrlg=",
@@ -1004,105 +1004,105 @@
     "name": "CULTURALES",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/history.png",
+        "icon": "http://static.tvar.io/imagenes/history.png",
         "name": "HISTORY",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM0+syJVLZv/U5UiDRMTjt55dAaGyoBnupDYrAEVADT1bXkCR+qcgmfFE36QOwm7a5ntkmCJ2NpfX63u3tRe+224=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5Kp8UJiQD37DlrB6/SocqC"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/history2.png",
+        "icon": "http://static.tvar.io/imagenes/history2.png",
         "name": "HISTORY 2",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM9cQ9WrY9RrDpc2Gi95Cpzfpa7md3ZJFLe/6dEiHSeSZumIPHptWEQhGUsFv9ssdcKDKoq/Sheac1ZXYDcE+dtI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7hBM7a/k0rH4B04SJclwva"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discovery.png",
+        "icon": "http://static.tvar.io/imagenes/discovery.png",
         "name": "DISCOVERY",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6RYp3S9/jPNvNDDOehMVeT/00bssyJ55uzUWiE+Pc9MwdTfllBSfwaVklScqfbZ/1BjwhFEsnrDzpmsrjGFOvI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7SS6wZkTaA0GEmGYUIVuSg"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discoveryhyh.png",
+        "icon": "http://static.tvar.io/imagenes/discoveryhyh.png",
         "name": "DISCOVERY H&H",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6RYp3S9/jPNvNDDOehMVeT8AEQUjqo8CYiqO5ZN4etiugRgQE6N4nboi57ICHy6Gp0+asnBwxUqgGNcZFZlAEYJj53SXM32GX4PqqDXk2KN",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6hQbWSvalkDYyYPzSq67Wd2mOXxoZio9DGhsEuKJQb6Q=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discoveryid.png",
+        "icon": "http://static.tvar.io/imagenes/discoveryid.png",
         "name": "DISCOVERY ID",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMyrb0GlE/NeBx4M3TMXBCDT2KzY9efxQnZt0zU3SAYmUFul4ETB+F3R+ZtS0WveDkw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l560ZtGQ7iH2xewl8JCZy7FwmuzYDufbtPxyeh9rEtT9w=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discoveryscience.png",
+        "icon": "http://static.tvar.io/imagenes/discoveryscience.png",
         "name": "DISCOVERY SCIENCE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3gPoZk1D4pYPODQLoEAbdjupfUV+k+mNMeiOCz49wYadGsfp4QJxMRtKmILbLLD1NjjtcB4EPnqMRdEGu37165bqAcTlNtK3UUx7Cacz32z",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5DkmA1CUyf4pFHN56cBYTlQmLhGXfmCSfjj4OpxeMCxA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discoveryturbo.png",
+        "icon": "http://static.tvar.io/imagenes/discoveryturbo.png",
         "name": "DISCOVERY TURBO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM35R8zi1+spuYWtck6deMeicrf3M+WBj7/RdDlR12adF0hgG9+qpzQpY598KZ14kMa46HwVChccALLYrNBgzA3s=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6NVeNTN4bg316MsIjFJNNDf5ZGMkxulR1aoOpjWMzWFA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discoverytheather.png",
+        "icon": "http://static.tvar.io/imagenes/discoverytheather.png",
         "name": "DISCOVERY THEATER",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6Nif0LqlnBhj7SJUVzA7hZHAYo1Lt3xq7c50XMo61SSARC5dJTb2jSaySkKZtl3hSyzgLB8LD3G8iWXGTH7eVc=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5HJFFtItVZLuXoIBYoc4GLxAwvT6Eo32zjIwqHeZmybw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discoverytlc.png",
+        "icon": "http://static.tvar.io/imagenes/discoverytlc.png",
         "name": "DISCOVERY TLC",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxGB4jeYXq0sgIuB811L3IzjX3gnChKVDUOZw6aq0fvqHF0iXgcb6Sh7EyBpIYaorQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5GDNjG5dBYd8fZpk3QTy99gWvmbLd4m/YlvSrVAMYsoQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/discoveryworld.png",
+        "icon": "http://static.tvar.io/imagenes/discoveryworld.png",
         "name": "DISCOVERY WORLD",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3gPoZk1D4pYPODQLoEAbdhIN7PyegT4IlpdM5SzPH1eT7HsHEzbK+tqk/8Dj65NvYP9BIbEI4y57tX4FEo6/AqIfq2WGPq/EJ057pdBZuGQ",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l43dJz/0Uf4RDtbBK3U1Nmb7we4BnCbcIRTT5tvcmZtbw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/natgeo.png",
+        "icon": "http://static.tvar.io/imagenes/natgeo.png",
         "name": "NAT GEO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1osiYEHfgh6ozrgyXOTWjBTDzjN+HX7RLbF6MMshRuN49KBxrkpWbPQgArqHhAumAiSCK7MCgc1N2pYx2KMcUA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4DFcEgbU5H7sUhdb1HUwLo"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/animalplanet.png",
+        "icon": "http://static.tvar.io/imagenes/animalplanet.png",
         "name": "ANIMAL PLANET",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3irph7vgFHhJke7gmNqykh1J/JJdYupzHnM1L8Nr0Tr8qM9DuE/SwlzHHKfUOmBIKhWRdIn0R8arZEIxg+JoAc=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l78cR9PtKMJQC5qhHznVnUmVzvTjQAwDXehvRFkTWO+aQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/hgtv.png",
+        "icon": "http://static.tvar.io/imagenes/hgtv.png",
         "name": "HGTV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM93s6n+ku9YNeZMx6v2cpCBtoyOJz+b4f3967bJKfmeX7OLawV/eFbamIrY1VbDfkpPtkUAzsXvN7XCCtXeaMaj6n3+ATDSgsujqWhgkqPQO",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4YPhY/mgIonw54F4RBKYRG"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/sunchannel.png",
+        "icon": "http://static.tvar.io/imagenes/sunchannel.png",
         "name": "SUN CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM02277p4PnTWH3l7rcDmiaD+hriLqomPkfhiizT9v1qIrnR+3RJVQquzUGG6sHP7m/cpMBDXLA7SlznhAkXt7To=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7WlaTS/+7aSXcwd0Yy121cnR36KwwMv38Y0b7o/XCrbQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/gourmet.png",
+        "icon": "http://static.tvar.io/imagenes/gourmet.png",
         "name": "GOURMET",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1im4XCFo+ai1d/GT88qoFuysk3B1BUyJ3YmGMfHvSBwpZcagQ0xTSXun12e9RHjAJKw3jN31cujhDwRPmepaIo=",
@@ -1114,7 +1114,7 @@
     "name": "NOVELAS y VARIEDADES",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/bravotv.png",
+        "icon": "http://static.tvar.io/imagenes/bravotv.png",
         "name": "Bravo TV",
         "uri": "b+QSGe9itEwwoKyzCS+bM+xfjglFthcdPH4clzbtjHo8itzA/dWZEpMVQsWXBb+rkJLGcPnBYXbSJYaUHOLu0TDq2t69+AgLZxzrXDK69uY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6mLvvdlcc7CHEupb8q4i6n",
@@ -1126,45 +1126,45 @@
         "uri": "7ePArID2yk9XbigoxiU/vyi4Xyt8i7pd1S/gnTqBfsg="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/kanaldrama.png",
+        "icon": "http://static.tvar.io/imagenes/kanaldrama.png",
         "name": "KANAL D DRAMA",
         "uri": "7ePArID2yk9XbigoxiU/vys3zyNdNhFDvmD/Z0511tk="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/chestrellas.png",
+        "icon": "http://static.tvar.io/imagenes/chestrellas.png",
         "name": "CANAL DE LAS ESTRELLAS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpBWs6HnrPiDYq97DKVX7RNESO0Ldo3oxtg8jFPIrBGdFduQU72V0CbuTYW8GxSPoS5Pu5W7uV35tuGxk8K4Hu17",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7ndu6E2cKP45s4YaUvpgeIg7vgKSevsODX5Crt1Vh+ag=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/pasiones.png",
+        "icon": "http://static.tvar.io/imagenes/pasiones.png",
         "name": "PASIONES",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM7IEPb6tuACZKR760XL1VGjkI93onyBgk8CPPKKeXYeNb2APch0k5FKzcF5QRP/38t3tNLiVybmVMLTjW0+M8KQ=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4gaE7VQnHEjjAU0vNnM2jH"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tlnovela.png",
+        "icon": "http://static.tvar.io/imagenes/tlnovela.png",
         "name": "TL NOVELAS",
         "uri": "kxqVqHth3E4CMIx91H106XXWpmSMSR+XteOPO1/6hMM="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cha.png",
+        "icon": "http://static.tvar.io/imagenes/cha.png",
         "name": "CANAL A",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpAJp5zedZuGWeOrm/n5yMA148QAwUReaJ7TJUaN6OdA1Q==",
         "drm_scheme": "clearkey",
         "drm_license_url": "xJ/WfcXEmB/nnPwLpHsyLAnrHrvx1/S/XEvXsmNtx0IlcGVM5Xr2PBdfOdAvspqb"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/chluz.png",
+        "icon": "http://static.tvar.io/imagenes/chluz.png",
         "name": "CANAL LUZ",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMyIiDMokjIhSfU3vyjMFGsn5Wu1mP0C8cX4H4R3ZCoOC5slnhfqvrC/9iF0EPLEWtmsI1RcKLeFQUcIlmc0b/Us=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6nnNyLOlEEPNFM4HyuvlzV"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/ciudadmagazine.png",
+        "icon": "http://static.tvar.io/imagenes/ciudadmagazine.png",
         "name": "CIUDAD MAGAZINE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMx1LhrDcgEH5hLT8le2qkR4jBFoszMMzlPh/cOcAjk3fomfAbKVXjGRJ6WyYQ0i/CTEyf+Sh3w3EtiOke5IfXDo=",
@@ -1176,84 +1176,84 @@
         "uri": "YN8QFYeRRGOH0el16qlnOo7EfCOdAsdGp0WYm/DdgdzswvjuDYpJxjUIrFa4BWqTa1p/xz7p2udbWJtvOov8HfC0Fv06t+YS8ojA+t6FD+k="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/e.png",
+        "icon": "http://static.tvar.io/imagenes/e.png",
         "name": "E!",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxF8yDjl5Xolwx+aNVbyvP4czQ+06TN+g7mGPm7s32+z7hHlkFLFoBrKERHweOYiagZD2I3v1KDNgWB4fjSALoAM/kP5gNfgIaMtx/MiXQiH3Fv0V3ekr821ZuL6NOwT2A==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6Z0qezNHlRNfZiHtYGXtrk"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/euroch.png",
+        "icon": "http://static.tvar.io/imagenes/euroch.png",
         "name": "EURO CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxZOt0QRuqBcCAsB1khPXodjuu9P+wu3worHvdcEY9Gh8CHUhjP+f1zyBIafuTYbYjErD/TLEUIvEcC/pSNOi3U=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ZP2uAcN4V8/lM/X5CXTwB"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/ewtn.png",
+        "icon": "http://static.tvar.io/imagenes/ewtn.png",
         "name": "EWTN",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/SUiXJUNBdX+Mn/KPu8+982/7kwySirp1epFkBrhg+jz3jVfdCPJNqv1rGYlGi+cw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4wLyPm6bepfiizMM1rVRPY"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/foodnetwork.png",
+        "icon": "http://static.tvar.io/imagenes/foodnetwork.png",
         "name": "FOOD NETWORK",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM493vuYAUsirYspIX43LLS8vr4lCm7SsCgzx74iizmuORS89fNjmbO5lxvXIauI7MeGU/c/ccVpKtxVEwhGTkQE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4L4GO2Ee7et1TxxFn7Bd4j4Yxm36EFh6FnlmsrXXdwhg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/glitz.png",
+        "icon": "http://static.tvar.io/imagenes/glitz.png",
         "name": "GLITZ",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM0W4dT0FlCi/lw5uT0sWXw9awfZiZ3QfQWMd2N4i4FuwZQWpAvj7+By5DxPs6VQ4Qw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6U1zTB+AwYmiLsL/JnmhiV"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/holatv.png",
+        "icon": "http://static.tvar.io/imagenes/holatv.png",
         "name": "HOLA TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/H677K9R5HPvS9Sgu7Me8fj+Aam7uNNesE5BDNfJqdMLFKxFbd5/G6hnaGLBzIVSRHbg4ZI+76Hp9mxBBaPGSU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6X3Gup5YH7imrEHcjVdyyi"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/trutv.png",
+        "icon": "http://static.tvar.io/imagenes/trutv.png",
         "name": "TRU TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1cFGUTnABV6di3gS8r++nA6UUPD4gjIIMOBXPWXLf4JTRzcueT4Pap2a83BOGfUWQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5C3AWx9RTW2JPWVwFHlJmB"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/kzo.png",
+        "icon": "http://static.tvar.io/imagenes/kzo.png",
         "name": "KZO ENTERTAINMENT",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM+io5ehJA00PoFKv73j694/PAB14btZq4k0SR5j94tqH+MNXdeqD7OfKAXvtwEbq2g==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6eIRiV3h+QGzFVTRudA45Y"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lifetime.png",
+        "icon": "http://static.tvar.io/imagenes/lifetime.png",
         "name": "LIFETIME",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM+f6bWJupAoysvGj0zfBKoM897UHkFZ8qewC/7TmyQj7VucLDXiAAetZwzyAQ4soLsK96PwzWTXMPkY13R9D2Iw=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7qdcQejT5MDJj8XAWwXjnm"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/maschic.png",
+        "icon": "http://static.tvar.io/imagenes/maschic.png",
         "name": "MAS CHIC",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/Q0L3/E4fbkNeyxjw2rleJGfTpTIjK56lvnHwEvzht+h4PF699Q5ZxXjcS58ub4t2zjJpQ3MJr4HLPV57gK6aM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l69KfR9Cb9CbLhfdgwdDc1n"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/metro.png",
+        "icon": "http://static.tvar.io/imagenes/metro.png",
         "name": "METRO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM4Ve99m4ZyIQbjPAG40/bhMy3SMaYwQ2kytL8gXLkmgZfJBfbyB25vtI7SoxQeXNVQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l60urNFLY9O2/Igd+A/GBCQ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/orbe21.png",
+        "icon": "http://static.tvar.io/imagenes/orbe21.png",
         "name": "ORBE 21",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxsyJ5CKOpXnn2OAyMNGGpAQJAC9HWmeXWzmVsGWdGKndSUgl2hvXzhtqmiARyEAfW9lCrDGpAMUS1GubddpB/U=",
@@ -1267,14 +1267,14 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6mb78YrTQKorHBGhQ+jLPP31308mJvYhLiw0Brup4IiA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telemax.png",
+        "icon": "http://static.tvar.io/imagenes/telemax.png",
         "name": "TELEMAX",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1C79vgyPMaqCrvgKLIJbuBssE1a5UAy8kntcuHcLyrtLCs3q1pPrgXWzZThCMQ85/BJcawRoBWX052QhP80x2o=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6sWLlNm830GF1PeIm0AwZI"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/wobi.png",
+        "icon": "http://static.tvar.io/imagenes/wobi.png",
         "name": "WOBI",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM67fIGDqmx9f35qmIQMvmo5DmMekTtbi6s67aXTgCM4n9ItXSKy+2to5WNBafNm1xQ==",
@@ -1286,28 +1286,28 @@
     "name": "ADULTOS XXX 18+",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/playboy.png",
+        "icon": "http://static.tvar.io/imagenes/playboy.png",
         "name": "PLAY BOY",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM0W0Voh3HQmlB/XptYYOyLvuI46Gqe4xxTQN2biwmfwVQ3gXySO+3FQD6peF89Wu5COJUvcj/tdSEvozetClsbU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l45XWxvS+jTKr6RnF0Mu0RQ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/venus.png",
+        "icon": "http://static.tvar.io/imagenes/venus.png",
         "name": "VENUS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3ONz8cL/elNnD1ZoXEbA1gDwaZm7v5vGGFLUoZEycWwkNEoDG6JUiqyKaMMRHj1rQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Jd7fFYkmmoZ2tlBQ2io77"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/sextreme.png",
+        "icon": "http://static.tvar.io/imagenes/sextreme.png",
         "name": "SEX EXTREME",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM+7/6EQGtc4lk64Ye7yTo8Rs9wOI+RJNqBLMhtn4PwcNJEWDUhszb/Nnc58TuiwCt1qul5ETUmuKmwsG9M3ZF0c=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Eh4xO7S6VfBKIYw7fEQ3u"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/penthouse.png",
+        "icon": "http://static.tvar.io/imagenes/penthouse.png",
         "name": "PENTHOUSE",
         "drm_scheme": "clearkey",
         "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGUYjRxuSU8XC7MfF+bRlUDhCnusDWMOZ6swHj0nnMv27yqyp13KIaNzGMOleb0hejg==",
@@ -1319,70 +1319,70 @@
     "name": "MUSICA",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/concertch.png",
+        "icon": "http://static.tvar.io/imagenes/concertch.png",
         "name": "CONCERT CHANNEL",
         "drm_scheme": "clearkey",
         "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGTyApSOmmjX4UGV7k5NT5fwCTlIxjG49droRYnChono98Bza4PxGCePxjMw3tkyjHQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Bj6MvxSh/cBct00QatKmb"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/quiero.png",
+        "icon": "http://static.tvar.io/imagenes/quiero.png",
         "name": "QUIERO TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMz1u0zOKJABeW3XnvuB7N+X2NMiQwwABUjWMV34mdTCXHjM/ElV9uaEcfZaZ0JquWdjDgbdRupR+9TFdTCrwcRI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5hOJHAXTtOPCFuyRIcghXA"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/htv.png",
+        "icon": "http://static.tvar.io/imagenes/htv.png",
         "name": "HTV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6TFf9yn3S2cckwDoJr5QATaT1902I5cKyS/dTd+IPTdTrwNbkQCmHM3aO1FmLXJ9w==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5Jw0KC9loDb2EVV7XWcQri"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/mtv.png",
+        "icon": "http://static.tvar.io/imagenes/mtv.png",
         "name": "MTV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6n/am3qlqM3ipYfu6I2y8igWOuKsq1HLcukK+isKjxKm8IojGIOD0VAthu3PdjZMQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6lxBScp7ZviSYBVdmYWaGw"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/mtvhits.png",
+        "icon": "http://static.tvar.io/imagenes/mtvhits.png",
         "name": "MTV HITS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwQ6FIRLiXRaQKACq4RWBFNylxfHsXxvuqhBrnEMuGVkWfncL84YuAZPwURgpe7oGNXhc/A27dFadSyMvl+6Dck=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l48kxlFdOJm68ynsHYdks0/"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/mtv00s.png",
+        "icon": "http://static.tvar.io/imagenes/mtv00s.png",
         "name": "MTV 00s",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM39HYyUJOw7H+EngvIJb1nJCQLso6TqxxDchIv0GKxGHIJ7PEDvt6DDi5ndUeRmdug==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l51vZAUWLLItKAL3lbr6vIE"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/vorterix.png",
+        "icon": "http://static.tvar.io/imagenes/vorterix.png",
         "name": "VORTERIX",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1rLU3lSc8FQtVy6m4LMVgbNQHCg6TX1XinAa0e/n59mhMjjup0+1g5e9HOeS1oLXAw9NzJcldFRAkQDzchPsSg=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l658hHFKKizLjh9uGhp3LOQ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cm.png",
+        "icon": "http://static.tvar.io/imagenes/cm.png",
         "name": "CM",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMw1tlJkgRs6zWz9L+eX1g2o5R53282Y40SbyIDcwMuZsBfA5dNtXT30ONXL7AfPbyA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6MTB2M/bEwkLQEoPDuaDbK"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/muchmusic.png",
+        "icon": "http://static.tvar.io/imagenes/muchmusic.png",
         "name": "MUCH MUSIC",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1a6uQaKGsUa8rO6Xwd/c0QZ0vN69YgoEWNw2K4ENc39PA7IMiKf3SxrDV83vU7xLq+bI+gZ9RieGzxsjncfHbE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6hpXP29CtOd2xpfLCpVlgK"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/allegro.png",
+        "icon": "http://static.tvar.io/imagenes/allegro.png",
         "name": "ALLEGRO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/xnpO3FAquJDCAYrjYygPtnAaUgD14BtwuKWXWnGRgg13LAj6TogAVN6wp1bcBX3UvfBV0m4yNyYyOxdXhirIM=",
@@ -1394,101 +1394,101 @@
     "name": "TELEVISION INTERNACIONAL",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/cnnespanol.png",
+        "icon": "http://static.tvar.io/imagenes/cnnespanol.png",
         "name": "CNN EN ESPAÑOL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3xNYqyf8Buv/BSMnEaC8gCN/9sd+GlLGy2pNdkBE3O7PaLWj0mhwuEmOhhoiTPXxuLMQuMD5+I/MaR+RiImkrE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7RPU8i4xqmYvWlgkt7h7OIt5Sqp1ISE4VtEXQVNfrjWg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/bloomberg.png",
+        "icon": "http://static.tvar.io/imagenes/bloomberg.png",
         "name": "BLOOMBERG",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM0HnBN9uD3rkmX+zEm0e00dBAknvTAQBRNQmDmIMxqfj18yj+RXoQsqRMhcWhwZg9VmBBO+bo/H2EUXJfyXpo2s=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6aKp5RB3S47DMJXTQgOomm"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/rai.png",
+        "icon": "http://static.tvar.io/imagenes/rai.png",
         "name": "RAI ITALIA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxQKTOKpRPPmMiyzhJlWCXk6WzJUheRc9vV34qpxEo3qjqhav/zi+Z+mOU0xcEorhQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4g7rR4JupsifdbhJavbvik"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvchile.png",
+        "icon": "http://static.tvar.io/imagenes/tvchile.png",
         "name": "TV CHILE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMy7pnC+KpRiI5ze44ICDBMs4YvJCaJD1GBKkoIR2tso/kNqPaqkHzbU5TTFKfUQCeIu4D6zI7splZEFOkSz6Xe0=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6MMnXj+NxkdnZHhPEYpdzF"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telesur.png",
+        "icon": "http://static.tvar.io/imagenes/telesur.png",
         "name": "TELESUR",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1TXlevmUXwakpTsvcbzLwtK9+KIst/khySpIRCAh9E69tBByMvmydH447QBrG/Z1V/DFlGbSACrPOJkbj7RTFk=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5jzHqUoEl0LWrmWQkTZN4c"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cnnint.png",
+        "icon": "http://static.tvar.io/imagenes/cnnint.png",
         "name": "CNN INTERNACIONAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/iAff8LiX1o3FVlxoMBOhLOPifxIn270v67N4hVkEnPVHnjQtFDuAEkfpnMZHD4z/yUOdYyhDMP5K5JPkAbG96MJcWcunxHkeiaXDVlU4Y9",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l51hMCKXGrws73CHD34wFL3"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/bbcnews.png",
+        "icon": "http://static.tvar.io/imagenes/bbcnews.png",
         "name": "BBC NEWS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMz6NnnQAGijmlBh7tXqHcpxAdkc8dNuX4LCaHyqoXbwosOowQXwLXbms1oyHDLcK0qOXbuN5v5+oBYiL51mHH0c=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5gdI4HxzcJYxU/OKi+vV2V"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/euronews.png",
+        "icon": "http://static.tvar.io/imagenes/euronews.png",
         "name": "EURO NEWS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8i53FUsEGszidWnQfPjsnG9GuzJmgGbEd9/o3qg4W5azXqUsyK58QlBy4m1mhuVI3fXyQjz5UHuxvEZjLjTkAY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ZkyUqWbze9k64WiRHPuhZ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/dw.png",
+        "icon": "http://static.tvar.io/imagenes/dw.png",
         "name": "DW",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3TOToiqhnWh41GAn/GjCoalkqs3R6o52I4ht+fTnUYdSgyZgHRQI9u/QOoazxqE4g==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6nww2fHwcOBf17ObGb8/QA"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvespana.png",
+        "icon": "http://static.tvar.io/imagenes/tvespana.png",
         "name": "TV ESPAÑA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3tI4QWeAyQvdSn+nv9OBJbld6Ph/gY+GxmL1V/emFqpFk8eT74yZfPnWjeB3KBQ3Tfe+B8EnaQYSPe7CDPMg80=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l41OlD+DLHQG7a8oTLLAUVw"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telemadrid.png",
+        "icon": "http://static.tvar.io/imagenes/telemadrid.png",
         "name": "TELE MADRID",
         "uri": "V/VGld5FfHGLDucR+3GTvvX2qASAstVrXSJwIit8xbxCX1FbBAqxblOU+IgpnlZhFLMmGNTbLVfwfN0KkuGw5FMgNY+bUe45vKqFqpS0IWreqbTyBBLsyOT/1xz7MuhL9A/mWw8UiSyBm3Xz7Xf97g=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvgalicia.png",
+        "icon": "http://static.tvar.io/imagenes/tvgalicia.png",
         "name": "TV GALICIA",
         "uri": "fQFK/ph7/g834vHCXYYlc3oWH1xVgtPDyReroDln9nznn9Y4+nauYAYiULImg/uAeFivqHLolgv6fzg0LZ2PBw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tv5monde.png",
+        "icon": "http://static.tvar.io/imagenes/tv5monde.png",
         "name": "TV5MONDE AMERIQUE LATINE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8sD/bdggyhQc3LsanMJGecKigp6SXHmpekp6m02XtyS6DRZbKBA1M36Tz022RCe2JmTX0UMIk1c01a8IDiTuTY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l66OadpN3YtMXgSRoEsPKOA"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/antena3.png",
+        "icon": "http://static.tvar.io/imagenes/antena3.png",
         "name": "ANTENA 3",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM10Gim1UvdAGmSwRJ5p5xh/5Y8BHj+yS3fYsXz8QCBPB4RnH5l5y6ZaHcCjjUJkmY2f7pTv1s96GjAalsWHqngE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l74+t6eC7M7JwVUEF5n10NH"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telemundoint.png",
+        "icon": "http://static.tvar.io/imagenes/telemundoint.png",
         "name": "TELEMUNDO INTERNACIONAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM2GR03FMGN1RIlb6ahngZHxshHkn89vD4bA/HevRpioZD5TwMRQDUHkc7ZB9oWxeqUxe3oDzw2gYyyetqNqB9PQ=",
@@ -1500,117 +1500,117 @@
     "name": "PARAGUAY",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/trecepy.png",
+        "icon": "http://static.tvar.io/imagenes/trecepy.png",
         "name": "TRECE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxHKDGOtILyB5LzmQPdg77MsPzr+1ohmD5d8J+kR9aNrzVvGKaLMAK1lWT1iWixauQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6KSlcTu20IyFF32tpt3bjV"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/unicanalpy.png",
+        "icon": "http://static.tvar.io/imagenes/unicanalpy.png",
         "name": "UNICANAL",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMz7zNMkwDPF/xHH0lnuPiP9l7Io8AK3AzWD0OjGz2xwiLQKdmV/YFuKVoZ3RbP/P4fydpnzkzqSZ65FcxUHDiUs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6xhNgAtihqOtJH0s5nBwZ+dtE6oAHO6j2VlEs68IZdug=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/abctv.png",
+        "icon": "http://static.tvar.io/imagenes/abctv.png",
         "name": "ABC TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8LqyrUTkIM7k2UY1hJCON07cq0UfUwVEb7w7st5ddfCizv/3/cVx+j8l2yGeiOOP3JjacvV9OnMWc9UoH+JUlk=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7WC3ixbpHX5mS9ffOUSut7"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/npy.png",
+        "icon": "http://static.tvar.io/imagenes/npy.png",
         "name": "NPY",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM7qcXB7tQMPv1QwE8mLOH5CBpA/cCGCHKeYQBZ9SUXM2heS5Kf8KcInNC56SBIYM8yd2rGLNGb7SwonAmctYqNA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7bx2oZWQvXFkD10bnoEb4l"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefuturo.png",
+        "icon": "http://static.tvar.io/imagenes/telefuturo.png",
         "name": "TELEFUTURO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM6I00VoW+l4Gx8lUuin74z24qMxEpsFlrJUPxYesxNpXDSB34fzQv0/0DUV8rnM5EfSxiOpVBgKIBb1FYHEs90U=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7NvQIrwRXNNJgiSk3rrIicPIAXjEPKFZI1OahWDS9DJg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/latele.png",
+        "icon": "http://static.tvar.io/imagenes/latele.png",
         "name": "LA TELE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM59oz63hvN55sjWEPzqpq4GMIPKiizFk7v79mf4HXNoEpr8MuRWHIjuVRs+HvdZeaFg4wv08zdEF7rvXQeNJzXk=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4o2sFMn//EHaYmlZHEUs+L"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/c9n.png",
+        "icon": "http://static.tvar.io/imagenes/c9n.png",
         "name": "C9N",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM4nTHk4VI4fkIp5PRqmV78t9Iq5g1+lZZKQc3hNSnhpCswAHELzKzJVkBx5UA+NqrQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5/dMwYB2t2pwIf3ZdSCsJT"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/paravision.png",
+        "icon": "http://static.tvar.io/imagenes/paravision.png",
         "name": "PARAVISION",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM5nB7Y1GA8Y3pSmAGqjn0LuR3wsc5fXJx9iQfj/p0LEqEm6Y2z4uRwiGDSQwh6nHWGhx+aLpxJd0qkcTUk+TnpM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5Ott6yuIPiJZrs64ghY7UQf0/AmLRAsoGT6t/fSEY5xg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/snt.png",
+        "icon": "http://static.tvar.io/imagenes/snt.png",
         "name": "SNT",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM51+g2KEZznIevdJjtVPtzLX/RLwoKiRRcxfC9F2/nmhnVKC/g6+EOJHKi8ugsw9fg==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5lBfTgVC7j2czqqN1x/s2z"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/gentv.png",
+        "icon": "http://static.tvar.io/imagenes/gentv.png",
         "name": "GEN TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1H/MGGQmJoLL9Tm5qCBZLQpTormGNMa5MlCafBuuziJ28tCRETVgGUav348FRFYCA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5aSvImxg1bC/BE/Ni/S+f6"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canalpro.png",
+        "icon": "http://static.tvar.io/imagenes/canalpro.png",
         "name": "CANAL PRO",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxmgvo7kpv9ahWb1M4MSZhQFeuD2xmChre04Gr+4m1nf8zbLg8kpU7ZSj9MEUR4c0K3A67R5JUEA6IYZ3OOmY3Q=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4Xp4QW2sY/0VSY8IitXHYv"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/5diaspy.png",
+        "icon": "http://static.tvar.io/imagenes/5diaspy.png",
         "name": "5 DIAS PY",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8mrHkoxJPn6Hn5OgmkbtR0zmyo+HYCVg843S+Jbi7P2S0OkSx5fkFP193xurQ2MH4+idDgFxxYptiXRbBXxkSk=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4TWEwnzVVAWfmajPrn6mjh"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/paraguaytv.png",
+        "icon": "http://static.tvar.io/imagenes/paraguaytv.png",
         "name": "PARAGUAY TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxB1bl+eB1XUvJxaelkhz/cMjrkyqUmObepIQa5rj6jFCG2zcGMlLC2BlifoJv+BuJrSG2bLy2zIqM7feLh39RI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7TlKXqSdp0F0XjVAikwALpTwkKqyMbEuIeocCH/edsZA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvcamara.png",
+        "icon": "http://static.tvar.io/imagenes/tvcamara.png",
         "name": "TV CAMARA",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMxgEDPmgUNd1FHu9x4mtxdEg3u4eBBTYmPBSdAG8c3nw897Nk6wyl0iz0dMSLfJpaLXBgUR94TMEs+RRQFy5Ink=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7GcwKWH7tjm8rAppD3ayBy"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/megatv.png",
+        "icon": "http://static.tvar.io/imagenes/megatv.png",
         "name": "MEGA TV",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMywmCGyRc63J9sQauw+LiWt4wWR1PY5tBzaS+EIkNF71vBjOBAkMg/Mn2gQTTOZT8A266lZpOJ19CMuyk/nKGeY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6KU9DUICtDtiCdu6h1/yos"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/motorsur.jpg",
+        "icon": "http://static.tvar.io/imagenes/motorsur.jpg",
         "name": "MOTOR SUR TV",
         "uri": "ZD93RpSKmYsxcwU6VC0bKVJLKygHkaAc2P2HQ5QqHz8oed98VVs8ba+kf+FQHV/6t9KD9fOuQm++5NuE8O2LcA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal12regional.jpeg",
+        "icon": "http://static.tvar.io/imagenes/canal12regional.jpeg",
         "name": "CANAL 12 REGIONAL YAGUARON",
         "uri": "ZD93RpSKmYsxcwU6VC0bKVJLKygHkaAc2P2HQ5QqHz+PYN74P+fhrkvyIAF2IXhcSiXSEXzSlYngxlbHvd6QNPD5Zm7G5S4nib+MpvTWIjE="
       }
@@ -1620,21 +1620,21 @@
     "name": "URUGUAY",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/canal4uy.png",
+        "icon": "http://static.tvar.io/imagenes/canal4uy.png",
         "name": "CANAL 4",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM0Y7umUccMwWqxJ48zO0BBhwuQi7E/hvVzx83CKaiZD2LTL/CzjobRqDSoBMFSzTSUJpFH58ipp16nwYFa8+ok4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6QO0qO/sABo/rcWExXd7v9"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/teledoce.png",
+        "icon": "http://static.tvar.io/imagenes/teledoce.png",
         "name": "TELEDOCE",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3MOppT3g8loTtlg/0vcgkF8+92kTfZ6D3EobCxvsdxLfa+du4x3BU0gaFnFBIiI+j6zFmOb/1+3xtg+kjmzRNE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l63pWpTlVWpedtbyVE0CEuG"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canal10uy.png",
+        "icon": "http://static.tvar.io/imagenes/canal10uy.png",
         "name": "CANAL 10",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM3MOppT3g8loTtlg/0vcgkFcSqVxVQPqdk/hAJkrBAis1Bdkh9ZLiovnhl8k0oXSQZp8aHXdme4OUW1+wCcYktY=",
@@ -1660,17 +1660,17 @@
     "name": "COSTA RICA",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/nodisponible.png",
+        "icon": "http://static.tvar.io/imagenes/nodisponible.png",
         "name": "88 ESTERO",
         "uri": "kxqVqHth3E4CMIx91H106eS3G/NgxrLYT3t4W/OS8nc="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/nodisponible.png",
+        "icon": "http://static.tvar.io/imagenes/nodisponible.png",
         "name": "TELE RED",
         "uri": "kxqVqHth3E4CMIx91H106SXH1cLoFPGY1LFWEAXQ3PY="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/nodisponible.png",
+        "icon": "http://static.tvar.io/imagenes/nodisponible.png",
         "name": "TV UNO",
         "uri": "kxqVqHth3E4CMIx91H106a8UGkIKdandCR4mmPS85x4="
       }
@@ -1985,7 +1985,7 @@
         "uri": "kxqVqHth3E4CMIx91H106V2G5iQillhAq6HGNFizgBU="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/heyarnold.png",
+        "icon": "http://static.tvar.io/imagenes/heyarnold.png",
         "name": "Hey Arnold!",
         "uri": "kxqVqHth3E4CMIx91H106d4MwdfvxeMFwcbQUGF0h9o="
       },
@@ -2000,27 +2000,27 @@
         "uri": "kxqVqHth3E4CMIx91H106WEMVYajKyP+3ZE3R2n6GmM="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/pitufos.jpg",
+        "icon": "http://static.tvar.io/imagenes/pitufos.jpg",
         "name": "Pitufos",
         "uri": "kxqVqHth3E4CMIx91H106cUeTe0RyCnngjyhKJFc8r0="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lonneytune.jpg",
+        "icon": "http://static.tvar.io/imagenes/lonneytune.jpg",
         "name": "Looney Tunes",
         "uri": "kxqVqHth3E4CMIx91H106dxPoTC1B5Lvc5a2rueytys="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "icon": "http://static.tvar.io/imagenes/simpson.png",
         "name": "Los Simpson",
         "uri": "kxqVqHth3E4CMIx91H106T5fp10iZgK8VXVN9vvCBwg="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/mrbean_animado.jpg",
+        "icon": "http://static.tvar.io/imagenes/mrbean_animado.jpg",
         "name": "Mr. Bean Animado",
         "uri": "kxqVqHth3E4CMIx91H106aRpkJq2q/CMZTnPUPTKn+M="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/naruto.png",
+        "icon": "http://static.tvar.io/imagenes/naruto.png",
         "name": "Naruto",
         "uri": "kxqVqHth3E4CMIx91H106ari2B4vNEJEiQvZEmDk3Lo="
       },
@@ -2030,7 +2030,7 @@
         "uri": "kxqVqHth3E4CMIx91H106a6NeQvGX8ylIw/C2r2nPmE="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/onepunchman.jpg",
+        "icon": "http://static.tvar.io/imagenes/onepunchman.jpg",
         "name": "One Punch Man",
         "uri": "kxqVqHth3E4CMIx91H106eJ9PeesPg2iaJ6Ns20NMpE="
       },
@@ -2045,12 +2045,12 @@
         "uri": "kxqVqHth3E4CMIx91H106Xhx9DTGzHlQT9H+CeeNjJk="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/ranma.jpg",
+        "icon": "http://static.tvar.io/imagenes/ranma.jpg",
         "name": "Ranma 1/2",
         "uri": "kxqVqHth3E4CMIx91H106Wbz6KqZHDgygXVxfo8PmBs="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/CardCaptorSakura.jpg",
+        "icon": "http://static.tvar.io/imagenes/CardCaptorSakura.jpg",
         "name": "Sakura Card Captor",
         "uri": "kxqVqHth3E4CMIx91H106aUDJH8r32a2zJdHd2lt8lE="
       },
@@ -2060,7 +2060,7 @@
         "uri": "kxqVqHth3E4CMIx91H106VUkG9Pv1pfhMHYKdP8J3fk="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/Samur%D0%B0i_X.jpg",
+        "icon": "http://static.tvar.io/imagenes/Samur%D0%B0i_X.jpg",
         "name": "Samurai X",
         "uri": "kxqVqHth3E4CMIx91H106f9U/e7rnSlyVRw3HmGVFZA="
       },
@@ -2075,12 +2075,12 @@
         "uri": "kxqVqHth3E4CMIx91H106aJgJfPXtr/BV8Y3Pp5Z8Ps="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/southpark.jpg",
+        "icon": "http://static.tvar.io/imagenes/southpark.jpg",
         "name": "South Park",
         "uri": "kxqVqHth3E4CMIx91H106ds6+dclprvbcqAHqDztWlw="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/supercampeones.jpg",
+        "icon": "http://static.tvar.io/imagenes/supercampeones.jpg",
         "name": "Super Campeones",
         "uri": "kxqVqHth3E4CMIx91H106ZC3D87ACEpdt7yGz8acq10="
       },
@@ -2100,7 +2100,7 @@
         "uri": "kxqVqHth3E4CMIx91H106VASPtnsvhbadUyp8qFEGKo="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/Yugioh.png",
+        "icon": "http://static.tvar.io/imagenes/Yugioh.png",
         "name": "Yu-Gi-Oh!",
         "uri": "kxqVqHth3E4CMIx91H106S8/d9DBjtCJeIqREglbAnE="
       },
@@ -2155,7 +2155,7 @@
         "uri": "kxqVqHth3E4CMIx91H106WPfheUazhEscsCM2uRJFeE="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/zenki.jpg",
+        "icon": "http://static.tvar.io/imagenes/zenki.jpg",
         "name": "Zenki",
         "uri": "kxqVqHth3E4CMIx91H106SxqSqiM7NbVWodfAnyh1Mg="
       },
