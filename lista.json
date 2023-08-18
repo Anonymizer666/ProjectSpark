@@ -2188,6 +2188,16 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
+        "name": "GLOBO SP",
+        "uri": "K8SRuBoVeoas97g6ygvw+Hl0Xrsca7gefgFVm2mh9+HEc+Fig/vDB1jJ19dVsmyUecoK0hm3UW+PZkxgkTRBhA=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
+        "name": "GLOBO RPC",
+        "uri": "TmOST4Q4KrOjqhN3Ko0O30Wel1AA4IkiHoPxhpdVZOYtwawErZx2n2CUqqsDyKbU"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/telecine.png",
         "name": "TELECINE",
         "uri": "TmOST4Q4KrOjqhN3Ko0O3yyYHaSRBdo0YPAPcmrZpz5/xqyVMVwquHMzOC7C7dIl"
@@ -2268,6 +2278,11 @@
         "drm_scheme": "clearkey",
         "uri": "koW7VsUhJfRFoinetwU3kp8GxhyCBo1dizSMm10FxL/Ji/rs/XGFicuANvoexBH7",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpiR2gdcKfQtUYrGdwm8rIA"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/combate.jpg",
+        "name": "COMBATE",
+        "uri": "TmOST4Q4KrOjqhN3Ko0O30Wel1AA4IkiHoPxhpdVZOYqSZ4We5hkAX18nfcpcTr5"
       }
     ]
   },
