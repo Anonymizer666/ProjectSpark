@@ -2198,11 +2198,6 @@
         "uri": "TmOST4Q4KrOjqhN3Ko0O38tWPxygE0XD69Iyz93HCjOBJChWeO2eAR41qF88ES5e"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/telecine.png",
-        "name": "TELECINE",
-        "uri": "TmOST4Q4KrOjqhN3Ko0O3yyYHaSRBdo0YPAPcmrZpz5/xqyVMVwquHMzOC7C7dIl"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
         "name": "SBT",
         "drm_scheme": "clearkey",
