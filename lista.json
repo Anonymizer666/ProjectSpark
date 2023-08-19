@@ -1371,6 +1371,16 @@
     "name": "MUSICA",
     "lista": [
       {
+        "icon": "http://static.tvr2.io",
+        "name": "EVENTO",
+        "uri": "knLi6+deywfO/Q9G2q+l5u1lfK4R8aDSAmoBSJyp75GY+Vxc8/Bmgwwh738m8DOu"
+      },
+      {
+        "icon": "http://static.tvr2.io",
+        "name": "EVENTO BACK",
+        "uri": "knLi6+deywfO/Q9G2q+l5uuDlY3Smc/BoPJbXLnZJBkTSrX+3lAF15mDi1FHwjUW"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/concertch.png",
         "name": "CONCERT CHANNEL",
         "drm_scheme": "clearkey",
