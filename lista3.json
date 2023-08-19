@@ -424,13 +424,6 @@
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tntsports.png",
-        "name": "TNT SPORTS",
-        "uri": "R4+27Yjh\/w4xW3lOhtq3vqR06m7XYUROERFEBsc\/ryIdbJuNKkHzKAQNS4yPt6AItVH9Jfpc8JqjP7zVwS11ok2+oYMQUPrJ9bSVH2Y07bIzxNDIeQoz8aIt75uFhXAb",
-        "drm_license_url": "sIyObRhDOVjfl8vTpjfYKL3UcrYVNVCI586+u\/k5dHH\/u89gu0pwhYLbqtNUf0YU",
-        "drm_scheme": "clearkey"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espn.png",
         "name": "ESPN HD",
         "drm_scheme": "clearkey",
