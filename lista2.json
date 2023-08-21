@@ -779,6 +779,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/goldenedge.png",
+        "name": "GOLDEN EDGE",
+        "uri": "knLi6+deywfO/Q9G2q+l5igV5FNp0kBcjybKI1WxueYlf4KKUw4eV0t/5fXOSexJ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4hgcvw3AAe6xM4sIRPsa/a"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/goldenplus.png",
         "name": "GOLDEN PLUS",
         "uri": "kxqVqHth3E4CMIx91H106au08nFOrHr/s9ngQqGhuSo="
