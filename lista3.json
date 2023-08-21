@@ -798,7 +798,7 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4XjUkU2fUZ849WCxktOxHO"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/goldenpremier.png",
+        "icon": "http://static.tvar.io/imagenes/goldenpremier.png?xf",
         "name": "GOLDEN PREMIER",
         "uri": "knLi6+deywfO/Q9G2q+l5lR7fW1IUzkJ8i7q9EtTxZfqR0r20NWASa8Ze8RcCadJ",
         "drm_scheme": "clearkey",
