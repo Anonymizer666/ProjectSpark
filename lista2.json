@@ -791,6 +791,13 @@
         "uri": "kxqVqHth3E4CMIx91H106au08nFOrHr/s9ngQqGhuSo="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/golden.png",
+        "name": "GOLDEN",
+        "uri": "knLi6+deywfO/Q9G2q+l5unU4l3GGNNaq+NEqeKylvYFgABQa4kE+gyBBlWUKIfE",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4XjUkU2fUZ849WCxktOxHO"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
         "uri": "kxqVqHth3E4CMIx91H106WFYQgugEQmTXruhu1hx2cw=",
