@@ -925,9 +925,30 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp6mG0j8foyQwfuSgcYjnPr"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/goldenedge.png",
+        "name": "GOLDEN EDGE",
+        "uri": "knLi6+deywfO/Q9G2q+l5igV5FNp0kBcjybKI1WxueYlf4KKUw4eV0t/5fXOSexJ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrPCln+LZDjcj8JqAZ5SUwr"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/goldenplus.png",
         "name": "GOLDEN PLUS",
         "uri": "3pmk4fa1u5TAZhY64DCqPyEcBy5/IkMTGumkenl+tsPXGN3Wd0/RVENk9dY0Xm1VyCVPqnWuQbtyxbn+UtSiboK9ggHYEebJo20JdbR2F/A="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/golden.png",
+        "name": "GOLDEN",
+        "uri": "knLi6+deywfO/Q9G2q+l5unU4l3GGNNaq+NEqeKylvYFgABQa4kE+gyBBlWUKIfE",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp/aErgep4PI/Dzzln/tYoo"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/goldenpremier.png?Xf",
+        "name": "GOLDEN PREMIER",
+        "uri": "knLi6+deywfO/Q9G2q+l5lR7fW1IUzkJ8i7q9EtTxZfqR0r20NWASa8Ze8RcCadJ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqdwxpN/kyadzNirlS3YCU8"
       },
       {
         "icon": "http://static.tvar.io/imagenes/volver.png",
