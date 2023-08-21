@@ -1142,7 +1142,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/tlnovela.png",
         "name": "TL NOVELAS",
-        "uri": "OpjFtzh80ak+aWtoCXdPh27Hl2geLNqwLtvnNXmCk/XGX7vvGPpzcsGt3Be1Ea7lXksqfpHjoD2eoPNAQnsXTQ=="
+        "uri": "knLi6+deywfO/Q9G2q+l5mUtLHaVtjc3F8EanyZgJpmSufAYflHFK+WzcfW02xQE",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "YjNnJMAHOd0gYjnhgeEFALji1J5oAhs04zW/HqYl3FCSITSgOseaEcw7Mx/Mqsxs"
       },
       {
         "icon": "http://static.tvar.io/imagenes/cha.png",
