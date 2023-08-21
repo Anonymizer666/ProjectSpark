@@ -2260,46 +2260,16 @@
         "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDUEWAE8JgUd0xcV2Lj\/Ha\/g=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
-        "name": "Los Simpson - Temporadas 1 al 5",
-        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDeTHnk0r8sfbjjAkf+80Lng=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
-        "name": "Los Simpson - Temporadas 6 al 11",
-        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWD0egN19+aGd7b5VzsbpyLTw=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
-        "name": "Los Simpson - Temporadas 12 al 17",
-        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDoK9QKHjZXcNI\/SFIVL6u2w=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
-        "name": "Los Simpson - Temporadas 18 al 21",
-        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWD6Ca7h+Zt4AVfFQFM7EZvzQ=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
-        "name": "Los Simpson - Temporadas 22 al 26",
-        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDmQpA1Q0eqwe\/YdfAdpisdw=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
-        "name": "Los Simpson - Temporadas 27 al 30",
-        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDg7JlHFJisqrRKE1CNxlx7g=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
-        "name": "Yogui",
-        "uri": "FRAdFJjDjga8YMc90fmRpU39FpumEbkLitru8vFUnJDeHLXbKsanYQw3MUPzeuQrK7hzC54QullgDjY42ft2imhXGzLVMkPtb5E7398bJek=",
-        "drm_license_url": "qXj4\/jeZjHSJjPzxTgFzuQ7NEVD7YJEHldAEKNbWuM0CievHQwhTSooDtkHdvGYp",
-        "drm_scheme": "clearkey"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
         "name": "Yogui",
         "uri": "kxqVqHth3E4CMIx91H106c2D8+jsrgu5SXcBkIeflak="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
+        "name": "LA CASA DE LOS FAMOSOS: MEXICO",
+        "uri": "knLi6+deywfO/Q9G2q+l5pU5jjgHOXPWehukTMuKrEiWf323JDHh3CDR+QNOYOxk",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6kU1a3sDU98DbgHrG2BuGL",
+        "drm_scheme": "clearkey"
       }
     ]
   }
