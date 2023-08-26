@@ -2213,16 +2213,6 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
-        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
-        "name": "GLOBO SP",
-        "uri": "TmOST4Q4KrOjqhN3Ko0O38tWPxygE0XD69Iyz93HCjPVDzsGK7CoAvO4poGIO/1q"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/globobr.jpg",
-        "name": "GLOBO RPC",
-        "uri": "TmOST4Q4KrOjqhN3Ko0O38tWPxygE0XD69Iyz93HCjOBJChWeO2eAR41qF88ES5e"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
         "name": "SBT",
         "drm_scheme": "clearkey",
