@@ -528,13 +528,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpRnz+LtvrGj2RiWHIzlPxI"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/dtv1.png",
-        "name": "Dsport 1",
-        "drm_scheme": "clearkey",
-        "uri": "ccJLctYrnDkX1eZXjWaCkzOoWZcVW6uXHILMXIkrNbdQMy06GHK0syu0EvFL13x6E+qujNw+ZV37ntgDCPeiPtL8iDwJ0X3Szu8fi1+vaujfzxpN7gGkjXDKZ5UnWXHon14sE6dRIkfhJw7mIq5p9Q==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoBTELH7T43DtHpGKhxYYbp"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/dtv2.png",
         "name": "Dsport 2",
         "drm_scheme": "clearkey",
