@@ -120,13 +120,6 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIO0M1oKPKAJ0xgFv2zmZuqSJ1TS/V09uHnPlKNPRFjA8l4z86uwvczd6w9Kqczgcsl7uULdM5BJCFC+ltDy3Pl4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoWjFK6IpM0a1Q+/TsZFdHgIb7fkpCfnn3KMaV4J+EHoQ=="
-      },
-      {
-        "icon": "http://static.tvar.io/png",
-        "name": "INSAT",
-        "drm_scheme": "clearkey",
-        "uri": "ccJLctYrnDkX1eZXjWaCkzOoWZcVW6uXHILMXIkrNbdQMy06GHK0syu0EvFL13x6E+qujNw+ZV37ntgDCPeiPtL8iDwJ0X3Szu8fi1+vaujfzxpN7gGkjXDKZ5UnWXHoSh3Iw5HKudEECH3uBMeQJB/GVnH+bUbd5roqFoyadxTX9vn5fApvV/1dPrk7Qo82",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphbZ51YJtyvdvQAXH6PLswxZxYGfa6urkULl0lsa10vl"
       }
     ]
   },
@@ -533,6 +526,13 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIJc7wEbhZLP/jhLMLxxdrZpDILdvk8z+m4BsJQ5Qbx8q69/NgSwuNNt6zHODvVasTG3D65RfIOIicWwUUKIi1fU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpRnz+LtvrGj2RiWHIzlPxI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dtv1.png",
+        "name": "Dsport 1",
+        "drm_scheme": "clearkey",
+        "uri": "ccJLctYrnDkX1eZXjWaCkzOoWZcVW6uXHILMXIkrNbdQMy06GHK0syu0EvFL13x6E+qujNw+ZV37ntgDCPeiPtL8iDwJ0X3Szu8fi1+vaujfzxpN7gGkjXDKZ5UnWXHoSh3Iw5HKudEECH3uBMeQJLxb9kxsjO+4kc4e0ifCJaGXZ0jowgLHvIlJ2quJ3Ub2ijYo5Z384T93FHsCHIHZfQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoBTELH7T43DtHpGKhxYYbp"
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtv2.png",
