@@ -1195,6 +1195,11 @@
     "name": "NOVELAS y VARIEDADES",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/megatv.png",
+        "name": "MEGA TV",
+        "uri": "HmU0ufS4Omq/pyhrpmbBm93SjKPqlHkgIvZMAUedO10Zm7DqUxah0eajRgepOsL8UJWdPAalo16C1IwGlqAIHea62xrn6hcQJmEeLBZob7o="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/kanaldrama.png",
         "name": "KANAL D DRAMA",
         "uri": "4NefDotTg2Kqc9QQoFqE4tkn7D5C3Mu3cm9v7kH/KrNCAJ80z9CeM5eln6BMyDuRWGMlo/rU8YClHSe0mcN4kmN853DXG8qJgcjuULzDggYYVkoXr67s6GijAICKILwNYLVrieB3JKh4BqVUpUqOog=="
@@ -2388,7 +2393,7 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCopESC2AmGZGrRLIQuEdOqB"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/megatv.png",
+        "icon": "http://static.tvar.io/imagenes/megatvpy.png",
         "name": "MEGA TV",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIHdcJCypokd9u56xJNEI9uhA/kJMF9M2YtG6ZUIUF/oFsra7ZCzEzJxwoQWm22WvfTMmz+D+NkkTX6BxnH0wkBk=",
