@@ -2443,6 +2443,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqiCA58bfh6Xs4dVVG7WdHm"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/rcnovelas.png",
+        "name": "RCN NOVELAS",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwwjNsn0fvC0seEoxkvH+b2QZ6D+BPpweVRu61roOig9ZPfgGzn+iFEtXTJXgl2qRY4=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqilOqzM9+182VB/wvDuipa"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/canaluno.png",
         "name": "CANAL UNO",
         "drm_scheme": "clearkey",
