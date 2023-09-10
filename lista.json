@@ -1195,6 +1195,11 @@
     "name": "NOVELAS y VARIEDADES",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/canale.png",
+        "name": "CANAL E",
+        "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2zJTW7e4mI+nnGaKsM5AIR/NldefVKTBlSCIRG2kKq3XhkkjxuZ15DnazT/ymPfAg3ZVOPfgrJPQ4fxxDre19bc"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/megatv.png",
         "name": "MEGA TV",
         "uri": "HmU0ufS4Omq/pyhrpmbBm93SjKPqlHkgIvZMAUedO10Zm7DqUxah0eajRgepOsL8UJWdPAalo16C1IwGlqAIHea62xrn6hcQJmEeLBZob7o="
