@@ -2281,6 +2281,13 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
+        "name": "Dsport 1",
+        "drm_scheme": "clearkey",
+        "uri": "wWnMrhAgdTfT/FvrtFru2e+FMWWWFhofR0Q7KUtRjFLXG7JSneIc6HwV8U/1U6ay",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l57sJigWD1pTzqaybcAxyaJ"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
         "name": "Yogui",
         "uri": "kxqVqHth3E4CMIx91H106c2D8+jsrgu5SXcBkIeflak="
       },
