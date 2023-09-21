@@ -1513,6 +1513,11 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM2GR03FMGN1RIlb6ahngZHxshHkn89vD4bA/HevRpioZD5TwMRQDUHkc7ZB9oWxeqUxe3oDzw2gYyyetqNqB9PQ=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l60xcSD5WGdwXCahhgofFMz6q04WOUoCmKrbrqBd8tzYA=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/rt.png",
+        "name": "RT",
+        "uri": "J0orOrotaXDrtBkeWXwtR3yJqhHQx7amKdVLAdUa6tYBvMkJF29bOYcZBs45/q8M"
       }
     ]
   },
