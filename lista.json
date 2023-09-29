@@ -2230,6 +2230,11 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/sbt.png",
+        "name": "SBT",
+        "uri": "S7tAfX7FtSxMW3rte7unUhWbIEEmAg6gSOnkGGxAtFDtJ5yhs4h/mCqNvhBam1qB"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/redetv.png",
         "name": "REDETV",
         "drm_scheme": "clearkey",
