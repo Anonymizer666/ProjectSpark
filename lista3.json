@@ -420,13 +420,6 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http",
-        "name": "BOCA,PALMEIRA",
-        "drm_scheme": "clearkey",
-        "uri": "mSJ3PxUPGxkSGSMKtONusWFMEACWuPZRNJTH21blPU1jg+CfbCnZlGLOF9XlwWf8",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpo6yGqePxV8xOYspDLX0lDooygExJHsNB7ljzuFzNCZC"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
