@@ -2230,6 +2230,13 @@
     "name": "BRASIL (NO DISPONIBLE PARA ABONADOS DE PARAGUAY)",
     "lista": [
       {
+        "icon": "http://static.dplay.tech/imagenes/recordtv.png",
+        "name": "RECORD TV",
+        "uri": "w9FzovgL12kM1EA3zXb4AmRzogqVRETnUCXRs/NOqaI/TW/P0lNaDYLOVaxdTy4mXcYmJt6wI7gxeIdRQtcK7HHCWzhQBb6cBoUPymf2cFeCNBXNKQnhHAN1PwUVerS4",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoZ5fDRDBxSTJglyjQQIMrT",
+        "drm_scheme": "clearkey"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
         "name": "SBT",
         "drm_scheme": "clearkey",
