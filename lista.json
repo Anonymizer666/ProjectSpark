@@ -2309,7 +2309,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/combate.jpg",
         "name": "COMBATE",
-        "uri": "TmOST4Q4KrOjqhN3Ko0O38tWPxygE0XD69Iyz93HCjPiJbxW4F8HjJtXuOwTCGiK"
+        "drm_scheme": "clearkey",
+        "uri": "w9FzovgL12kM1EA3zXb4AmRzogqVRETnUCXRs/NOqaKYcsYgBri4HmrWPydyAOVKxlgQnAEqMIQeLpWHaffAkz9x5m9bdXGqcix14u81hPOMV8ZtQYps8J+VvqHgjVjw",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrDmY/eGLJyC6s9h46Twnu3"
       }
     ]
   },
