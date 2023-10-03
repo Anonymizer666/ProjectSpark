@@ -420,13 +420,6 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http",
-        "name": "BOCA VS RIVER",
-        "uri": "b+QSGe9itEwwoKyzCS+bM60s76zybvUsbv3ub9Y0wETS1qXuNYkEcc+QSy60Zd8neIvxJqLWcWcYI3O8/+BZ7GqATGXDYR+oIqMMuEThVN4=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbph+Qz2CJJ/Vm7vFGQYzDwaZyv1mA91aem/tUS6opIXxL",
-        "drm_scheme": "clearkey"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
