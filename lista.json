@@ -1700,7 +1700,7 @@
     "name": "SERIES 24/7",
     "lista": [
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/salademergencia.png",
         "name": "SALA DE EMERGENCIAS: HISTORIAS INEDITAS",
         "uri": "knLi6+deywfO/Q9G2q+l5gfVgmXNwPeUUzHmmEXCh9oo+8bjHGdX6ZAed/FRFuukaNHVRNCTDwLxvZlnR/8U0POU0ue4VnhayQQINkESWAH4K9BTWheHgMGZ9VbdoThf"
       },
@@ -1710,17 +1710,17 @@
         "uri": "knLi6+deywfO/Q9G2q+l5jP0vp0wcpj76hmWf/IWZOdM0Id2ZkkPmLZJGSHlv9VXpIvdPfBomZLPODaPk23/Iqq9CaKBPqUGGupvUqzS/lwEQOUVV6rMwHzO2gqimx5H"
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/larosadeguadalupe.png",
         "name": "LA ROSA DE GUADALUPE",
         "uri": "knLi6+deywfO/Q9G2q+l5j/XjQW1PnTtH4GyYEV2j9CwFfDbhj+zFxnIP4xGc6PMLIeHPKOVNa5UUVj3lJjquUkNISwuVQaAbAgzPqaNO10VqFq5noICiKRRL74aZgM0"
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/comodiceldicho.png",
         "name": "COMO DICE EL DICHO",
         "uri": "knLi6+deywfO/Q9G2q+l5iAfiNKjWYImAP97pONIxM4XpqqzMN2M14R1ywRrYppdiSlDyPoQczLGpWs9jKmJVybUFIJ9ShPxwN0/4IPGdAGpnDnTiQ81eLJ0Du7zSzkH"
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/losarchivosdelfbi.png",
         "name": "LOS ARCHIVOS DEL FBI",
         "uri": "knLi6+deywfO/Q9G2q+l5qQhey2Ponvz4u+pjqN1+3smgCY1Hyy8xfKywGm5u6iL1CM/aktwq0Hf/roD4hiyIpJbwBujWdqrFGvAV7im+8ymwbkE+OWy4hbWMDAz/rywVuYtBaxgtfXX8hcxxrjHcA=="
       },
@@ -1730,27 +1730,27 @@
         "uri": "knLi6+deywfO/Q9G2q+l5nwqxqhC9sjKuxtoKnuIka5Bv5sj+76M9d3r8RVrV2xIwxWgesKL2NWK5927IM34N5mBhVtaLHtI0v6zNl7Gmhi2WzrwIbgYFOQlm4tYhTkm9h2R6PgbZJOOGITJzqP4VA=="
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/teresa.png",
         "name": "TERESA",
         "uri": "knLi6+deywfO/Q9G2q+l5of3RIqRFAaoAOtvdq2uLAydcB/h7uB/toZTyF/isgeCPbJQfTFekNnDaHL1qGCGUTrqMqMAvi04r9ivIP+YIYvY4XiXmRtFtRHoZxcDJ3RI"
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/sortilegio.png",
         "name": "SORTILEGIO",
         "uri": "knLi6+deywfO/Q9G2q+l5rTg2W0vJ/yjCoAaxzDsx6o9YCSzVZh940jw/sGRlRHmUAXBjaokoWmLI/4QlPHXuCXhQHRLVToTePT/ITtbc6WFQxu4WqjtqBSVp/SCaKQk"
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/amoreal.png",
         "name": "AMOR REAL",
         "uri": "knLi6+deywfO/Q9G2q+l5tYbr4msW51W5/nUrrIj3v5m56HQnRaHbwGVJn52K9gduOFzKmIxPO47iv61oUxVzEsZdux1p6r1LAiE8KuytSWOaF328TlZaslQvI8hj44K"
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/lafeamasbella.png",
         "name": "LA FEA MAS BELLA",
         "uri": "knLi6+deywfO/Q9G2q+l5pN19guvWm+hC1I+u5oj+2NnavqgbfQ7PPr4RDo77u5umoqr5n0sDmF0eRI5/W1ywF6sFnbkG9VABEnX5zCDT7osNl40Rv38lijj4KBTRmTX"
       },
       {
-        "icon": "a",
+        "icon": "https://static.tvar.io/imagenes/loquelavidamerobo.png",
         "name": "LO QUE LA VIDA ME ROBO",
         "uri": "knLi6+deywfO/Q9G2q+l5uOHurhEousihNaEFTO4L5LgNB5oSdrdJsP8MT9ZE3LEPJc+idk+jJupXykhc3WI0LRu6PpAxC/6S1TcbplUZSeR1Z3eTHp9etyS6bpwB8gDKLpmZ3CT+IEvWcfgN6pQIA=="
       },      
