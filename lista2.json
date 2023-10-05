@@ -1169,7 +1169,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/tlnovela.png",
         "name": "TL NOVELAS",
-        "uri": "knLi6+deywfO/Q9G2q+l5unU4l3GGNNaq+NEqeKylvaSj7oGoeT7WoCSRiZv1KhC"
+        "uri": "knLi6+deywfO/Q9G2q+l5suXPRYNI2HXPv7Ww9pCckT8ORx+iKuW1Da/zt8m7AqGLwk12zFzvaE5LpDvJKTZZ/Y3GDNXR85fRBlNqk0BAsl+JX74Im9KXy4CRV7kOWsH"
       },
       {
         "icon": "http://static.tvar.io/imagenes/cha.png",
@@ -2299,12 +2299,22 @@
       {
         "icon": "a",
         "name": "SALA DE EMERGENCIAS: HISTORIAS INEDITAS",
-        "uri": "knLi6+deywfO/Q9G2q+l5mUtLHaVtjc3F8EanyZgJplQ9r38c9ssX9rRzYcowNH3"
+        "uri": "knLi6+deywfO/Q9G2q+l5gfVgmXNwPeUUzHmmEXCh9oo+8bjHGdX6ZAed/FRFuukaNHVRNCTDwLxvZlnR/8U0POU0ue4VnhayQQINkESWAH4K9BTWheHgMGZ9VbdoThf"
       },
       {
         "icon": "a",
         "name": "HISTORIAS DE ULTRATUMBA",
-        "uri": "knLi6+deywfO/Q9G2q+l5igV5FNp0kBcjybKI1Wxueb1149G79ulPcrllM12Rnw6"
+        "uri": "knLi6+deywfO/Q9G2q+l5jP0vp0wcpj76hmWf/IWZOdM0Id2ZkkPmLZJGSHlv9VXpIvdPfBomZLPODaPk23/Iqq9CaKBPqUGGupvUqzS/lwEQOUVV6rMwHzO2gqimx5H"
+      },
+      {
+        "icon": "a",
+        "name": "LA ROSA DE GUADALUPE",
+        "uri": "knLi6+deywfO/Q9G2q+l5j/XjQW1PnTtH4GyYEV2j9CwFfDbhj+zFxnIP4xGc6PMLIeHPKOVNa5UUVj3lJjquUkNISwuVQaAbAgzPqaNO10VqFq5noICiKRRL74aZgM0"
+      },
+      {
+        "icon": "a",
+        "name": "LOS ARCHIVOS DEL FBI",
+        "uri": "knLi6+deywfO/Q9G2q+l5qQhey2Ponvz4u+pjqN1+3smgCY1Hyy8xfKywGm5u6iL1CM/aktwq0Hf/roD4hiyIpJbwBujWdqrFGvAV7im+8ymwbkE+OWy4hbWMDAz/rywVuYtBaxgtfXX8hcxxrjHcA=="
       }
     ]
   }
