@@ -458,6 +458,13 @@
     "name": "DEPORTIVOS",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/fs1.png",
+        "name": "Boca vs Palmeiras",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIB8FU28/WLA+aPf1uIA2/KQSXiF/haaFcWYVwPLZJCs2v8J2FiUR2RrGFfhtOCb5XDWDFVsyZ7KsMqHeDIXH7Fw=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbppPCjRC3aA1imQisAzReukPEFo6YP49APpYYIISqdFwI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
