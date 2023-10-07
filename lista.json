@@ -1932,6 +1932,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpdGM2YjirO+UTDVrzsjGG2YfnnPmjXz032DUzoCdKjnw=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/megapix.png",
+        "name": "MEGA PIX",
+        "drm_scheme": "clearkey",
+        "uri": "gmo8ezdDUscwWc/t0MVX7+9TaaUbyjkOHnqbaGhnWFJu15QCbad0ZCCauqn4Alhd8aCULtLbPGRQIr8ApKxonzwfDAAmVQslUVGb/yAiV+1Trcc+89Sn7GBTALdD00Cz",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpdGM2YjirO+UTDVrzsjGG2YfnnPmjXz032DUzoCdKjnw=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/bandnews.png",
         "name": "BAND NEWS",
         "drm_scheme": "clearkey",
