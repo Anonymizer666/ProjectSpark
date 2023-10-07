@@ -1906,13 +1906,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo6sm/twpoMcq0EzMdQ/znm"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/chbr.png",
-        "name": "CANAL BRASIL",
-        "drm_scheme": "clearkey",
-        "uri": "cfzzHvmTbSxuYCgQWtV5wz1wPLJV7NnkelND+YVj4vXwfs+UT0IpR3JQbh9ChX64omBcabMyyiOZq0cPfs9DNg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr2nFfzu5x3nm6FytVgAch4"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/globonews.png",
         "name": "GLOBO NEWS",
         "drm_scheme": "clearkey",
