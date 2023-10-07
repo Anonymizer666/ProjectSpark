@@ -1892,6 +1892,41 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoTlvgJjY8oKbGjnuCEl8Z0QXBqFFTpDg4Wc9GsXDf50w=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/telecineac.png",
+        "name": "TELECINE ACTION",
+        "drm_scheme": "clearkey",
+        "uri": "w9FzovgL12kM1EA3zXb4AmRzogqVRETnUCXRs/NOqaIf2JxJCECbW11GM/b1wFNZti1ZAr7PjJuRkTNT/Nql3TDscGiNTtnVfA7hi/CmvYCn/Yq0qZBQKHJ4QSXUuacm",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCphwDOoTjO/vYH4w4VRpOrrhp+b161sP7/a8+8UyQiFnQ=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/telecineac.png",
+        "name": "TELECINE TOUCH",
+        "drm_scheme": "clearkey",
+        "uri": "w9FzovgL12kM1EA3zXb4AmRzogqVRETnUCXRs/NOqaKA0oNrEVUzIH7iM0K72mO3diglcILYr4Pymz323GR0zDmxQKF/Qjmw7bo8Lr668RjWaiL9BXu64OpAfPFIkvGR",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCphwDOoTjO/vYH4w4VRpOrrhp+b161sP7/a8+8UyQiFnQ=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/telecinpipoca.png",
+        "name": "TELECINE PIPOCA",
+        "drm_scheme": "clearkey",
+        "uri": "w9FzovgL12kM1EA3zXb4AmRzogqVRETnUCXRs/NOqaKA0oNrEVUzIH7iM0K72mO3diglcILYr4Pymz323GR0zDmxQKF/Qjmw7bo8Lr668RjWaiL9BXu64OpAfPFIkvGR",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoXSzEgzBPbyowBkelsCPVvF6Ifg3EdxMpWjZQSYL7zNA=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/telecinfun.png",
+        "name": "TELECINE FUN",
+        "drm_scheme": "clearkey",
+        "uri": "gmo8ezdDUscwWc/t0MVX7+9TaaUbyjkOHnqbaGhnWFLxTMLQakw8l5J800FAzJrI4LGvXnS+FeVkyRqxcD6RJenY2t3sh2EXttvznBxeKqxBidhRGFiZc/z2A0PvIyAS",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp9UlqpnrqBcgUB4Zh9GU3F"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/telecincult.png",
+        "name": "TELECINE CULTURA",
+        "drm_scheme": "clearkey",
+        "uri": "w9FzovgL12kM1EA3zXb4AmRzogqVRETnUCXRs/NOqaJcmcV+ykgTCh235kH9IzVPbu8lrh4RZi0SL4xursXUvwMP1FCfIbKgvAw/3guW0tobY1LqxhyGMSN54Ncw5YvW",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpdGM2YjirO+UTDVrzsjGG2YfnnPmjXz032DUzoCdKjnw=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/bandnews.png",
         "name": "BAND NEWS",
         "drm_scheme": "clearkey",
