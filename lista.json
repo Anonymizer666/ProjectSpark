@@ -1885,6 +1885,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCokgjA25yhWI1GLZec+uYdZ"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/tcprem.png",
+        "name": "TELECINE PREMIUM",
+        "drm_scheme": "clearkey",
+        "uri": "dtvrwsrBgQ/AmW/STllR44wXaGtPR8sfWB3m/+yu1EkGJMK/Nnj4bBQVR4hvCoBoVh6J+wVPap4iqnRDRHu2Aw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoTlvgJjY8oKbGjnuCEl8Z0QXBqFFTpDg4Wc9GsXDf50w=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/bandnews.png",
         "name": "BAND NEWS",
         "drm_scheme": "clearkey",
