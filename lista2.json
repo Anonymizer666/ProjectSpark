@@ -686,36 +686,36 @@
         "icon": "http://static.tvar.io/imagenes/hbo.png",
         "name": "HBO",
         "drm_scheme": "clearkey",
-        "uri": "kxqVqHth3E4CMIx91H106VfKfqmp6fgiGTDZLZws7Rg=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4H9g8r9JswoztXxfodsuSF"
+        "uri": "b+QSGe9itEwwoKyzCS+bM58XHCG1bjAigdvnxs1zP7KDiQIlFmvV8cbZmkQhspXuoWjGr6AxmDJ4oRpb6adTeA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l75crxtHbNtLUNn2mrmosDW"
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbo2.png",
         "name": "HBO 2",
         "drm_scheme": "clearkey",
-        "uri": "kxqVqHth3E4CMIx91H106XhnpSNerHO7hMorAEPLeT8=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4aQ7CEfFjzN4nFaXLA7Isn"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/hbofamily.png",
-        "name": "HBO FAMILY",
-        "drm_scheme": "clearkey",
-        "uri": "kxqVqHth3E4CMIx91H106UgdiemL5ukJsG5kl0nz4Eo=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l70zULqRH1ZE6G9K9C937Xo"
+        "uri": "b+QSGe9itEwwoKyzCS+bM0BycHNI6PM5QgNAw+s6unm8cFmmxDbkP73To6JDUKJjUBG3gO2AOxqnKa8ifvmOaA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6rc6hkXQ2bvPrrdOjj29J9"
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbomas.png",
         "name": "HBO PLUS",
         "drm_scheme": "clearkey",
-        "uri": "kxqVqHth3E4CMIx91H106VFZtb7FxFHWH6fobpqeEck=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6XcCTfw7BL6GOjUeoW8UKr"
+        "uri": "b+QSGe9itEwwoKyzCS+bM5OzQocIchphMglzI3PJZnqR+PDqVQE8192GS+P2VbOHWix7uuitJ8cFLijiA3cyQiCzK4c1W3yQd+GLhMtePfs=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4S5AVMilrMNx63gm2zmckU"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/hbofamily.png",
+        "name": "HBO FAMILY",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bMzZcTpSL28oDGTSZLFKzPhYWfY/AScVIDYYFjGUl6jAKkgCuUQW6Eic4MGMpSMHUNhDilLxTLSkOXG+VvOGaz4Q=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6nzP4jiU5bWsn+AQzFdUrn"
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbosignature.png",
         "name": "HBO SIGNATURE",
         "drm_scheme": "clearkey",
-        "uri": "kxqVqHth3E4CMIx91H106cZl1RNHgxjOjO5jBOJUABo=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ngQU4MK7hfki9mm9j4ccd"
+        "uri": "b+QSGe9itEwwoKyzCS+bMwWmn8eXVvj7US39H2afIjTdbgzyK+H04YAAAK2fORwnmyuXnQb1o4XF45ATy279N8DxCp4Nk70sZVS50MD2NNQ=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6XhZV4MtsjxyYlaQs0zQ3hocghAydV1GXWRnHMlDhIWw=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbomundi.png",
@@ -743,41 +743,6 @@
   {
     "name": "CINE",
     "samples": [
-      {
-        "icon": "http://static.tvar.io/imagenes/universalcinema.png",
-        "name": "UNIVERSAL CINEMA",
-        "uri": "kxqVqHth3E4CMIx91H106Z7lOAwx+5hXAQiL4823VdM=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7KGanGqebXVH2csT40co9P"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/uncomedy.png",
-        "name": "UNIVERSAL COMEDY",
-        "uri": "kxqVqHth3E4CMIx91H106WpAZNU9FXDAXtGX4XJRPPQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zomvwDkhgFJJLyc1qibj4"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/uncrime.png",
-        "name": "UNIVERSAL CRIME",
-        "uri": "kxqVqHth3E4CMIx91H106efyRxd8gFpVtEzWuXFrhtM=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l57XaKEgWXrXQtvURZrvkKI"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/unpremiere.png",
-        "name": "UNIVERSAL PREMIERE",
-        "uri": "kxqVqHth3E4CMIx91H106bpPxcMLhGjHbPOQhuGPZ70=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4a2B/ZnoNIAvG3gHDR0lvQmahEBlZAYKD+cjq3ur6swQ=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/unreality.png",
-        "name": "UNIVERSAL REALITY",
-        "uri": "kxqVqHth3E4CMIx91H106WhOiMI1pB1sRZjc5/t0xO8=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
-      },
       {
         "icon": "https://images.vexels.com/media/users/3/191780/isolated/preview/9411fc4218195c2b168a1a5e4600d416-cine-retro-genial.png",
         "name": "RETRO CINEMA",
@@ -1162,7 +1127,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/tlnovela.png",
         "name": "TL NOVELAS",
-        "uri": "knLi6+deywfO/Q9G2q+l5suXPRYNI2HXPv7Ww9pCckT8ORx+iKuW1Da/zt8m7AqGLwk12zFzvaE5LpDvJKTZZ/Y3GDNXR85fRBlNqk0BAsl+JX74Im9KXy4CRV7kOWsH"
+        "uri": "7ePArID2yk9XbigoxiU/v0q90KyG+ChuqcN7JS30RJ5pScyqrn0fqbwXOTCToXBaiJ4Kc2dr0wVbUJ1Tt/KUz3as0zbE//F2KDXqhdzsk7C/2oDekk03PWzGMMtlw14F"
       },
       {
         "icon": "http://static.tvar.io/imagenes/cha.png",
