@@ -769,20 +769,6 @@
         "uri": "7ePArID2yk9XbigoxiU/v+R+fqgHd02kbXpMYTAU84t9JFDYpGlcEbHPN7F+Z0hmzsdjWxGHXfYd/jqLeba5bzZ/8fPkg8i2PLQC+OJVGz9E9nBLxNdOSxwd79Oufyc6"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/tvcortoslog.png",
-        "name": "TV CORTOS",
-        "uri": "kxqVqHth3E4CMIx91H106WFYQgugEQmTXruhu1hx2cw=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7RjhdExhboPeulIhmlTM+I"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/cnlatin.png",
-        "name": "CINE LATINO",
-        "uri": "kxqVqHth3E4CMIx91H106XvvFVHbW+joBKXgFwMn1B8=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7VQzTc4TNkgepzyB3qvN6Lv3uDGMkH0yhhAuUmwGHMEA=="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/dhe.png",
         "name": "DHE",
         "drm_scheme": "clearkey",
