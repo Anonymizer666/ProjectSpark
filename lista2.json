@@ -2036,6 +2036,13 @@
         "uri": "7ePArID2yk9XbigoxiU/v7Ma07+Pm/CcYilGnt+n0XqhPud58U64VRqgfEI7gX8FPosSpqXFv5Btg65JEGnsB8si7wkm+f+jE/TNWxeNyzezn0Qt1VZPtdkpITO1klpB"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/universalcinema.png",
+        "name": "UNIVERSAL CINEMA",
+        "drm_scheme": "clearkey",
+        "uri": "wWnMrhAgdTfT/FvrtFru2VC5P7gICE5OrlJ8BNFcX9awNuHgAGxcVGA68VpkPA++",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCryz1wzSnms2MbM5iibXbnd"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/cinedrama.png",
         "name": "CINE DRAMA",
         "uri": "7ePArID2yk9XbigoxiU/v1M4GHd5t6bKTr0Ih5b98BI1xT3YOltH30l+OXZy5ed2eSiIPmKtroktvWqrja6RFJfff9gp8doQyvUI16hPNvKGzqtPmgOiM0DA0IqCb7Ge"
