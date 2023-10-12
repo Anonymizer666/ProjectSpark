@@ -811,6 +811,41 @@
         "drm_scheme": "clearkey",
         "uri": "knLi6+deywfO/Q9G2q+l5l0aO1qAgymWPtNNR8LM+vnKDYMAt2KaJ9WDRijiYwhXxysr4gWOpjjTt3Ch3reHk9ZUsfS3I7R3v4R7sW+p5qs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpQFJmNonb2lA2edCctx5qq"
+      },      
+      {
+        "icon": "http://static.tvar.io/imagenes/universalcinema.png",
+        "name": "UNIVERSAL CINEMA",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5lgZ1Qof+zwyq2L3EqE5MLuWpQSbexdUgDEJvdITWwef",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCryz1wzSnms2MbM5iibXbnd"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/uncomedy.png",
+        "name": "UNIVERSAL COMEDY",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5nR+/DuVqT9nUkS2hvIwnVBz+9RFnr3+n9VJOxh0vPnq",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq0gYSCjfsBlM24E7EdQKSg"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/uncrime.png",
+        "name": "UNIVERSAL CRIME",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5jaNIPPt2bUwMlJZW5boFuSVgMTLSFsRgn/6+yCqvb3b",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoBFGkJpnwDfEfZ0ylM6lb5"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/unpremiere.png",
+        "name": "UNIVERSAL PREMIERE",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5m9eYlfk6ZEni7vD6qSvfDCdzOuU6PJitQnJfeDTNcDi",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrAyVE7SiTfh2dK7eYOd5QG"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/unreality.png",
+        "name": "UNIVERSAL REALITY",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5nEGWGzMJk/mILukZFRZya1PIWtbYhZqtH05xerx0IY7",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpf3TNYzFQEUpEAFDnScrda"
       }
     ]
   },
