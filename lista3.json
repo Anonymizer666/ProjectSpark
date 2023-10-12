@@ -744,6 +744,41 @@
     "name": "CINE",
     "samples": [
       {
+        "icon": "http://static.tvar.io/imagenes/universalcinema.png",
+        "name": "UNIVERSAL CINEMA",
+        "drm_scheme": "clearkey",
+        "uri": "7ePArID2yk9XbigoxiU/vwnYm6E/Yv1VcxzyhdGv4SuEjaKOrZ7lGm1cJDxYFTPu",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7KGanGqebXVH2csT40co9P"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/uncomedy.png",
+        "name": "UNIVERSAL COMEDY",
+        "drm_scheme": "clearkey",
+        "uri": "7ePArID2yk9XbigoxiU/v3jp22pT2ZxeVMphBV5ZYwRQQ3SHEyBJE+HNgQAX2he4",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zomvwDkhgFJJLyc1qibj4"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/uncrime.png",
+        "name": "UNIVERSAL CRIME",
+        "drm_scheme": "clearkey",
+        "uri": "7ePArID2yk9XbigoxiU/vxD/2QnF4IXaT2WJlrlx5bbpNLpzVudcug+2PwruiZPn",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l57XaKEgWXrXQtvURZrvkKI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/unpremiere.png",
+        "name": "UNIVERSAL PREMIERE",
+        "drm_scheme": "clearkey",
+        "uri": "7ePArID2yk9XbigoxiU/v1j7fRe7FQujQ7EHqtO67e/3jU9x1gTXuFugDytyFGqN",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4a2B/ZnoNIAvG3gHDR0lvQmahEBlZAYKD+cjq3ur6swQ=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/unreality.png",
+        "name": "UNIVERSAL REALITY",
+        "drm_scheme": "clearkey",
+        "uri": "7ePArID2yk9XbigoxiU/vwTaqLiNs+phL0ZQoZbfYssQCSarkbZYuXTbwMQXTs5P",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
+      },
+      {
         "icon": "https://images.vexels.com/media/users/3/191780/isolated/preview/9411fc4218195c2b168a1a5e4600d416-cine-retro-genial.png",
         "name": "RETRO CINEMA",
         "uri": "yVggAQRXgCNCvMaLhAt3QZNjhChYPDTlWj\/PHMACijqA0F98ubYYBqZSHF1IiPkdWxXbYJuSwSNjj3zlfRdMXw=="
@@ -767,20 +802,6 @@
         "icon": "http://static.tvar.io/imagenes/goldenpremier.png?xf",
         "name": "GOLDEN PREMIER",
         "uri": "7ePArID2yk9XbigoxiU/v+R+fqgHd02kbXpMYTAU84t9JFDYpGlcEbHPN7F+Z0hmzsdjWxGHXfYd/jqLeba5bzZ/8fPkg8i2PLQC+OJVGz9E9nBLxNdOSxwd79Oufyc6"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/tvcortoslog.png",
-        "name": "TV CORTOS",
-        "uri": "kxqVqHth3E4CMIx91H106WFYQgugEQmTXruhu1hx2cw=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7RjhdExhboPeulIhmlTM+I"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/cnlatin.png",
-        "name": "CINE LATINO",
-        "uri": "kxqVqHth3E4CMIx91H106XvvFVHbW+joBKXgFwMn1B8=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7VQzTc4TNkgepzyB3qvN6Lv3uDGMkH0yhhAuUmwGHMEA=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/dhe.png",
