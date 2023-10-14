@@ -739,8 +739,13 @@
     ]
   },
   {
-    "name": "PACK PREMIUM (HBO - UNIVERSAL+)",
+    "name": "PACK PREMIUM (HBO - UNIVERSAL+ - WOO CINE)",
     "lista": [
+      {
+        "icon": "http://static.tvar.io/imagenes/woo.png",
+        "name": "CINECLUB WOO",
+        "uri": "kVIbmMkS4kqBUQOASY/Ll25kQuKX6TRichNYtM2TMys4Zhwmh5f1aYCGlmI8SZIZ"
+      },
       {
         "icon": "http://static.tvar.io/imagenes/hbo.png",
         "name": "HBO",
@@ -837,11 +842,6 @@
   {
     "name": "CINE",
     "lista": [
-      {
-        "icon": "http://static.tvar.io/imagenes/woo.png",
-        "name": "CINECLUB WOO",
-        "uri": "kVIbmMkS4kqBUQOASY/Ll25kQuKX6TRichNYtM2TMys4Zhwmh5f1aYCGlmI8SZIZ"
-      },
       {
         "icon": "http://static.tvar.io/imagenes/mp.png",
         "name": "MULTIPREMIER",
