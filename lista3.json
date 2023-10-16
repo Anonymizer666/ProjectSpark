@@ -2041,11 +2041,19 @@
         "uri": "7ePArID2yk9XbigoxiU/v7Ma07+Pm/CcYilGnt+n0XqhPud58U64VRqgfEI7gX8FPosSpqXFv5Btg65JEGnsB8si7wkm+f+jE/TNWxeNyzezn0Qt1VZPtdkpITO1klpB"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinefamilia.png",
-        "name": "CINE EN FAMILIA",
-        "uri": "XQ9CtH7FwepXqHbQ0LqJJfmMAypFuD0ceqUlJ6i0DdzeFmThWz\/OB+9GVnztGw34",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "xJ\/WfcXEmB\/nnPwLpHsyLKuLld\/2BDyZKWRk5zKRixMzHV\/CZkmK4AFs9QhbdQ1y"
+        "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
+        "name": "Yogui",
+        "uri": "kxqVqHth3E4CMIx91H106c2D8+jsrgu5SXcBkIeflak="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
+        "name": "Yogui",
+        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDE3CtxfXAzxqc\/24EevR1kg=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
+        "name": "Yogui",
+        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDyD1TGuMwyGKvlC9VJOVyhw=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/cinedrama.png",
