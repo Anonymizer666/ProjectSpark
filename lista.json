@@ -908,22 +908,30 @@
       {
         "icon": "http://static.tvar.io/imagenes/goldenedge.png",
         "name": "GOLDEN EDGE",
-        "uri": "knLi6+deywfO/Q9G2q+l5rYDe0XL/u/JgA5+codLlETNFIw16KEJIoa1QUbsYfCBgSCzt6L/AiZPNgPOb/OS6grM1akDLrPb8kPPqvyOlHF7Y6C1DXueSOMVT8gaKVDo"
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5rYDe0XL/u/JgA5+codLlETNFIw16KEJIoa1QUbsYfCBgSCzt6L/AiZPNgPOb/OS6jGWHmxjsy0aLbVtazPsnEQ=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCocRBTRgwLCi/A3zBssw970"
       },
       {
         "icon": "http://static.tvar.io/imagenes/goldenplus.png?xd",
         "name": "GOLDEN PLUS",
-        "uri": "knLi6+deywfO/Q9G2q+l5hS1W96rx6iFltOnVde7HuUcUIKGJL9jfRbKPJMgzqmxEFKPBO5xugzt/0dVhNFtW/bMil5hYiXdWjmS4MBDR/E0n2z7+QiBaa4+3rILa7PM"
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5hS1W96rx6iFltOnVde7HuUcUIKGJL9jfRbKPJMgzqmxEFKPBO5xugzt/0dVhNFtW3kFd0D73NGYSjHVNPoLXkU=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqJ/8b08vqGeNIxD/bfT84F"
       },
       {
         "icon": "http://static.tvar.io/imagenes/golden.png",
         "name": "GOLDEN",
-        "uri": "knLi6+deywfO/Q9G2q+l5rsMVFyNTKft8Z5eW7pexUtlrGp7F78OCRL7SV+EC1DB99lHgN1y0K4H5dyi2SoDVPaxA5ai0D1+cXFFw1YYU6aqYBmMxHbCqr3gKilMQqPZ"
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5rsMVFyNTKft8Z5eW7pexUtlrGp7F78OCRL7SV+EC1DB99lHgN1y0K4H5dyi2SoDVPckQx4bPTedHdq4rEiUVHQ=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCru+9mOOiYynMFNjugNqpT7"
       },
       {
         "icon": "http://static.tvar.io/imagenes/goldenpremier.png?xf",
         "name": "GOLDEN PREMIER",
-        "uri": "knLi6+deywfO/Q9G2q+l5o9sWaywzzmI9DZcIO8OpJdSUkB1+MdP2a+i3NUWzV4Om//zcJCtlfjUh5qXSRiZ9AOrB9G/P01vT5GwdyKW7/SVGSzYMWj8/2SI9YsY3ONs"
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5o9sWaywzzmI9DZcIO8OpJdSUkB1+MdP2a+i3NUWzV4Om//zcJCtlfjUh5qXSRiZ9CRmZY46YYDwJvE1fH3A3HU=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpJJ6jtQianw3W9l87knCOmD/VEHp7DnhdZq5enY+yXxQ=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/volver.png",
@@ -1233,7 +1241,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/tlnovela.png",
         "name": "TL NOVELAS",
-        "uri": "knLi6+deywfO/Q9G2q+l5suXPRYNI2HXPv7Ww9pCckT8ORx+iKuW1Da/zt8m7AqGLwk12zFzvaE5LpDvJKTZZ/Y3GDNXR85fRBlNqk0BAsl+JX74Im9KXy4CRV7kOWsH"
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5suXPRYNI2HXPv7Ww9pCckT8ORx+iKuW1Da/zt8m7AqGLwk12zFzvaE5LpDvJKTZZ/zLYIZJzbwJVnllgFA7QgQ=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrRiIIbAqmMTyPJCSc1qzuU"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tntnovelas.png",
