@@ -670,7 +670,7 @@
     ]
   },
   {
-    "name": "PACK PREMIUM (HBO - WOO CINE)",
+    "name": "PACK PREMIUM (HBO - UNIVERSAL+)",
     "samples": [
       {
         "icon": "http://static.tvar.io/imagenes/hbo.png",
@@ -727,12 +727,7 @@
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v1XELnThDZmvZatmUptBLOqFCfpacKAGuCLHtCSbnh5ByPJJ4N010pP0Cdx9HKWSJwEwYGasx8wUdecZwMoeOzo=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7I6ntArL31guQWuTjNRieF"
-      }
-    ]
-  },
-  {
-    "name": "CINE",
-    "samples": [
+      },
       {
         "icon": "http://static.tvar.io/imagenes/universalcinema.png",
         "name": "UNIVERSAL CINEMA",
@@ -767,7 +762,12 @@
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vwTaqLiNs+phL0ZQoZbfYssQCSarkbZYuXTbwMQXTs5P",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l627KuWJREa7QzgB1pnM+hD"
-      },
+      }
+    ]
+  },
+  {
+    "name": "CINE",
+    "samples": [
       {
         "icon": "https://images.vexels.com/media/users/3/191780/isolated/preview/9411fc4218195c2b168a1a5e4600d416-cine-retro-genial.png",
         "name": "RETRO CINEMA",
