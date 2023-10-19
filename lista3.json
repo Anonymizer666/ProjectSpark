@@ -673,11 +673,6 @@
     "name": "PACK PREMIUM (HBO - WOO CINE)",
     "samples": [
       {
-        "icon": "http://static.tvar.io/imagenes/woox.png",
-        "name": "WOO CINE",
-        "uri": "kVIbmMkS4kqBUQOASY/Ll25kQuKX6TRichNYtM2TMys4Zhwmh5f1aYCGlmI8SZIZ"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/hbo.png",
         "name": "HBO",
         "drm_scheme": "clearkey",
