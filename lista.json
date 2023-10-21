@@ -1689,6 +1689,76 @@
     "name": "SERIES 24/7",
     "lista": [
       {
+        "icon": "http://x.playerlatino.live/alf.png",
+        "name": "Alf",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjNMLD+7zTdcjHllhiEEmJKUlryRVk1Lw0DvEFuHmHiHv"
+      },
+      {
+        "icon": "http://x.playerlatino.live/bobesponja.png",
+        "name": "Bob Esponja",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjLOYqSp4nFbunGVvG57ppnOh8b6JmbnLIAaau21qQ5L+"
+      },
+      {
+        "icon": "http://x.playerlatino.live/cantinflas.png",
+        "name": "Cantinflas",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjK0LrbMOErQnGWImlaLtIRBagm+o70SsIhgfZzRH+Qxf"
+      },
+      {
+        "icon": "http://x.playerlatino.live/elchavodel8.png",
+        "name": "El Chavo del 8",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjBy1pPXVr5stlBirUYFdNel590WA6BCR+mFxviBQ7bOE"
+      },
+      {
+        "icon": "http://x.playerlatino.live/chapulincolorado.png",
+        "name": "Chapulin Colorado",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjElBPhMf0gwwMmOxdGfq56v7WMVAjagzt0CZRM2H7YIE"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/lostreschiflados.jpg",
+        "name": "Los 3 Chiflados",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjKr4SfS1wCWlCh65fGh1yJsU4kSHyS+VTxhuJ2MVnQuk"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/Familia_Simpson.png",
+        "name": "Los Simpson",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjGDEZdPZVA5FrDy74/9jt+bQqKtrmBb278kZjiQXJukD"
+      },
+      {
+        "icon": "http://malditopaparazzo.com.ar/wp-content/uploads/2020/12/scooby-doo-solo.jpg",
+        "name": "Scooby Doo",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjHz+zMv4QvKNp8Fe5kYEjlI/cA7DF39+rdigANkiymKr"
+      },
+      {
+        "icon": "http://imagenes.elpais.com/resizer/mo1Mwbc--vR9sQCiNvdleMjGuKg=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/6D2QWOSTQ5CMZFOGCMBDIH5FLE.jpeg",
+        "name": "South Park",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjLRJMisEOwj2bHhoOsAuJ5+1O9AbBWOPz/YJOmf6GdtF"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/supercampeones.jpg",
+        "name": "Super Campeones",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjI10KdbUKM01xwkrQck+kqdePnKlWWaAj8PXoYHYcI0s"
+      },
+      {
+        "icon": "http://aurora-israel.co.il/wp-content/uploads/2021/07/TomandJerryTitleCardc.jpg",
+        "name": "Tom y Jerry",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjMd29B8noxmhVdvYreqideHRG4y/4gcCNAp3rCBkJZOo"
+      },
+      {
+        "icon": "http://x.playerlatino.live/elpajaroloco.png",
+        "name": "El Pajaro Loco",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjAGiau9IeHILJjVS2+BF8Vc+Qo30xsmWwcxLxH8P05gD"
+      },
+      {
+        "icon": "http://x.playerlatino.live/dragonballz.png",
+        "name": "Dragon Ball Z",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjNjd69n8lly3Iy5umQAQkhp7aeGKXWJJuNglV7q/mJMI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/lospicapiedra247.jpg",
+        "name": "Los picapiedra",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjMvegArGSZMwl4LWTO+ojTPtbopdcBZ6rkbzTwgVV5wc"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/salademergencia.png",
         "name": "SALA DE EMERGENCIAS: HISTORIAS INEDITAS",
         "drm_scheme": "clearkey",
