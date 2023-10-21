@@ -1759,6 +1759,101 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjMvegArGSZMwl4LWTO+ojTPtbopdcBZ6rkbzTwgVV5wc"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/lonneytune.jpg",
+        "name": "Looney Tunes",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8KiKVWPVsWy3RLt5xAforT1qcLkdGOzGZR1aYHPEp3XE"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/mrbean.jpg",
+        "name": "Mr. Bean",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8BDeFUULiBEyRrbuj8TaNF8IFK1eL2VhiWOdfvQT/1Li"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/zenki.jpg",
+        "name": "Zenki",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjAZwQV+/k7qLC9Z1QU2p6YLI7RKtl4qKXHHpHUpDX4ED"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/xmne.jpg",
+        "name": "X-Men",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjL9/WSM+HAklEmilWsGX99u4cuF17u6FfB/801A/JHGD"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/CardCaptorSakura.jpg",
+        "name": "Sakura Card Captor",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjK8vMrdVlsEi3byWkGmGex6I/ZOg5iM5gsEjIDJN8Oh5"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/rickyandmorty.jpg",
+        "name": "Rick y Morty",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjALLWNitAZBIV9+ncAjMoZEmHeb0aBoEgETwYzSlpKs7"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ranma.jpg",
+        "name": "Ranma 1/2",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjDWK2CHeVmI0aNZYIKkwdOrhO8hfRr43WeYDLJ+VVXJB"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/onepunchman.jpg",
+        "name": "One Punch Man",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjHhn5uPZUt/ptjdgfXwJL2VUAxe/56GbPM3ktLgZRDGS"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/naruto.png",
+        "name": "Naruto",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjNebelkJ+MtABMisdxzavdBtbdCyp6EYcbktW8vZ7lxq"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/narutoshippuden.jpg",
+        "name": "Naruto Shippuden",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjL/05C1SfCTgv5ggy+knN6OHIr4gHKHP+vSYI+A+7ZTh"
+      },
+      {
+        "icon": "http://x.playerlatino.live/caballeroszodiaco.png",
+        "name": "Caballeros del Zodiaco",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8O8FW3RkOT4BWB6G6L3xNX+FzXF4nuYvFNXEEzoBB+Ij"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/jorgelcurioso247.png",
+        "name": "Jorge el curioso",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8OtlPdAl3DorMapiRwUxhs8LVXgpDI++c3NPqA9tPsCc"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ElfenLied.jpeg",
+        "name": "Elfen Lied",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8JI02vVkRLcBHr/Dcy0W5keMMNdTkmKnRjLU2YznxkbB"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/drhouse.jpg",
+        "name": "Dr. House",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8FuqI4wV0YSU8CkTw3PaNMdw5BuE6LiPKJbYRkgz9zi+"
+      },
+      {
+        "icon": "http://x.playerlatino.live/doraemon.png",
+        "name": "Doraemon",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8AN/ftl1WXaGK5UXIWidaqFxKE77FibQqwRiB6Juhfkm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/deathnote.jpg",
+        "name": "Death Note",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8NihDizd2nYr8DHlj0rGx+8tSnH1b6AzdZ8v2OSTBydx"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/breakingbad.jpg",
+        "name": "Breaking bad",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8LnyOUNk0GCJC6gXpfhWced6UFrjwP+8DFxd2NMPjgYg"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/smallville.png",
+        "name": "Smallville",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8M/EOf/5PkYdJUfCIS7xJ5thUXDFXwyKaf2CoWJ8CGp9"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/panterarosa.png",
+        "name": "Pantera Rosa",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8CZrloGGakTNcvjSA/P+PUHaEUAQBRauVE1nbfFE88k1"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/salademergencia.png",
         "name": "SALA DE EMERGENCIAS: HISTORIAS INEDITAS",
         "drm_scheme": "clearkey",
