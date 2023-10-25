@@ -739,13 +739,8 @@
     ]
   },
   {
-    "name": "PACK PREMIUM (HBO - UNIVERSAL+ - WOO CINE)",
+    "name": "PACK PREMIUM (HBO - UNIVERSAL+)",
     "lista": [
-      {
-        "icon": "http://static.tvar.io/imagenes/woox.png",
-        "name": "WOO CINE",
-        "uri": "knLi6+deywfO/Q9G2q+l5hrCPp2NiH2ub3M2o+VdSw4c0YT/NUxyftYROyzr6oAg"
-      },
       {
         "icon": "http://static.tvar.io/imagenes/hbo.png",
         "name": "HBO",
