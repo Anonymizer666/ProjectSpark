@@ -13,6 +13,13 @@
           "xmod":"xdddd"
         }],
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp3kwuqEEIjCOZFubZbB0me"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/tvp.png",
+        "name": "TV PUBLICA",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM+85gF+k4z+xOoIokj6mmbKxF2uuo51SCdMdwND5r6sAboVZsYvpzYorKX8JQRTyTg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zQfk6m/Jx70AbRDpwWfvr"
       }
     ]
   }
