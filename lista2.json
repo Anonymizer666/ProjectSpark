@@ -120,18 +120,6 @@
         "uri": "b+QSGe9itEwwoKyzCS+bMwv96eHqnoAMz/sG07R4HEvtgdbV8DA0eKFgV0yDczI+aEvEjW9roA1KD4m/qOyfZJ7dox7q15RJeYMnDO+Hvv0=",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4J8kstWg0RaNY3WGZSvc2GN+DkpWTiRPU/xNCUrs4dEQ=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/diputadostv.png",
-        "name": "LEONEL",
-        "headers": [{
-          "referer":"http://example.com/",
-          "origin":"http://example.com",
-          "xmod":"xdddd"
-        }],
-        "uri": "b+QSGe9itEwwoKyzCS+bMwv96eHqnoAMz/sG07R4HEvtgdbV8DA0eKFgV0yDczI+aEvEjW9roA1KD4m/qOyfZJ7dox7q15RJeYMnDO+Hvv0=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4J8kstWg0RaNY3WGZSvc2GN+DkpWTiRPU/xNCUrs4dEQ=="
       }
     ]
   },
