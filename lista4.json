@@ -7,12 +7,7 @@
         "name": "AMERICA TV",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIOXsjI29MOsgsyRJ0Bj2buIv04ApsZh3JgjRZ4gGHIhdlQ81HbykrGWPyVZfSdoB8Dkx9GVBvPWTIBCTcP8XGy0=",
-        "headers": [{
-          "referer":"http://example.com/",
-          "origin":"http://example.com",
-          "user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-          "xmod":"xdddd"
-        }],
+        "headers": "cORtT5a5RX9mPBxC5zt3q3vOEL7elpIS0HSSc7PnuuGPNipXgrYtppHdcWyB+lxFs4mOYV5HbklKj4MReW1h30MJOwIF5ihTQwTc/PAz2MrEEQ0sWYERsUdeGrFbamhb",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp3kwuqEEIjCOZFubZbB0me"
       },
       {
