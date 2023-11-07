@@ -1379,11 +1379,6 @@
     "name": "MUSICA",
     "lista": [
       {
-        "icon": "http://static.tvr2.io",
-        "name": "EVENTO",
-        "uri": "iNvEcjr99wI8yrowO20KIKSipNOEp2IqePrJb4+LCelF/2923LI30XX7TinTGynz"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/concertch.png",
         "name": "CONCERT CHANNEL",
         "drm_scheme": "clearkey",
