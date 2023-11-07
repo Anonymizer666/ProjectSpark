@@ -1181,7 +1181,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/canale.png",
         "name": "CANAL E",
-        "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2zJTW7e4mI+nnGaKsM5AIR/NldefVKTBlSCIRG2kKq3XhkkjxuZ15DnazT/ymPfAg3ZVOPfgrJPQ4fxxDre19bc"
+        "uri": "knLi6+deywfO/Q9G2q+l5ssv65aByCMt0nDhuq5i7ivHjYHweH6rdavefw3Vww7K",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpBVYMi+q2WY9m7MUvRPWR0"
       },
       {
         "icon": "http://static.tvar.io/imagenes/megatv.png",
