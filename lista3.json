@@ -2021,7 +2021,7 @@
         "uri": "XeEqHMKI7eMmJrZLQNxM8LEl8zD/OqvGMPKx23iLpwKpdsEUnJeE7UEcibRRVDpU"
       },
       {
-        "icon": "http://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/la-pantera-rosa.png?itok=DYyKopHS",
+        "icon": "http://static.tvar.io/imagenes/panterarosa.png",
         "name": "La Pantera Rosa",
         "uri": "XeEqHMKI7eMmJrZLQNxM8O79FLVkVD/QIoF4gS1Kv1WRO6iN7dAvGd1j2aNB4AQ0"
       },
@@ -2066,7 +2066,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjMvPURGL0+/yp4SwkZoP9i9/ogTvCXwMCogrYwPd5FEg"
       },
       {
-        "icon": "http://api.argentinatv.live/logos/ranma.jpg",
+        "icon": "http://static.tvar.io/imagenes/ranma.jpg",
         "name": "Ranma 1/2",
         "uri": "H/G1Ey1PR7MWAHUzRdisjJCse4fFYxJNmIokJxWfxyfM/KZ+MKuvWwUSvm2mP2xq"
       },
@@ -2101,7 +2101,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjDYRXqXZgm8a9uMhu9KMktCXdIZ0pwgAN3ZbYgJ8dm4+"
       },
       {
-        "icon": "http://api.argentinatv.live/logos/supercampeones.jpg",
+        "icon": "http://static.tvar.io/imagenes/supercampeones.jpg",
         "name": "Super Campeones",
         "uri": "H/G1Ey1PR7MWAHUzRdisjCO/340a7tEdSKoCzLOh/Mh+BTTfLoj7ODDltEPl18/K"
       },
@@ -2181,6 +2181,11 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjKug7s2o4yxgSqm02juT8y/maPeUXpwUk/jfSoOpizQR"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/xmenanimado.jpg",
+        "name": "X-Men",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjBzcrd397hd/rPf74LOK1Zvf1YJKJdit52OAIcctUExF"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/hormiga.jpg",
         "name": "La Hormiga Atomica",
         "uri": "H/G1Ey1PR7MWAHUzRdisjLSyAK8KX7NxRV8Ww9sFfNBYQsF7NAcPBVHhlTvydN5E"
@@ -2204,6 +2209,76 @@
         "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
         "name": "Yogui",
         "uri": "H/G1Ey1PR7MWAHUzRdisjDJ9iAieCsVCpcntnW51xWEFgKAiwG5yUJ3Jku8udCfT"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/jackiechan.jpg",
+        "name": "Jackie Chan",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8IoSuLLS68YB+gk0moiMJqIzbr23RZJ7ASwdmnwY0bDV"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/losautoslocos.jpg",
+        "name": "Los autos locos",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8D6rj+c6H06P4Q+WMH2KQnhqMjs5U9wxFpxzMkbd7WWw"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/samuraijack.jpg",
+        "name": "Samurai Jack",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8GACsQYaUfdWJ9RIVEhkuSbCVgzpCE4NB4XKc2ozlM0j"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/muchalucha.jpg",
+        "name": "Mucha lucha",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8Cma2ZHJlXiHBPCU6bvLkhch5e7C54KCiK7JkZ5/azX1"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/patodarkwing.jpg",
+        "name": "Pato Darkwing",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8J0KTkZk28rWFinPifbqHPJFJIrU3Z/wmeULWBuu71ag"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dueloxiaolin.jpg",
+        "name": "Duelo Xiaolin",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8FKpbmwMuKtO0bUI4vZKtezHNMZQOieBKnHysn7d5bDD"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/beyblade.jpg",
+        "name": "Beyblade",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8CHlG0ksWX6/yW5rW/G2O9fRJvdQ5qp+G0xugiibGsZZ"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/hunterxhunter.jpg",
+        "name": "Hunter x hunter",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8JX5W3z9L8Qjzce+7Dm6nWd6SifqY4GGYV3rgTS0+ihK"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/centuriones.jpg",
+        "name": "Los centuriones",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8CkYEwIIWBT/LSoKi3OIjprZmbB4o1P89JwolylAVla3"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/medabots.jpg",
+        "name": "Medabots",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8OA7MsCzpQhSH8RVxKUDujWTDTM13zoHO5lw4s+y7xWY"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/mipadrelrockero.jpg",
+        "name": "Mi padre el rockero",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8GPNQGR/a8ODfmn4F6BgHB2efqAxCUY4xCORVf9pu/5x"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/oggy.jpg",
+        "name": "Oggy y las cucarachas",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8GyN5yqmagLenzCs0p4pmzU78/RR1dMoqnQ8x6paNc+1"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/robotboy.jpg",
+        "name": "Robotboy",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8GbWx+4ERJAe1Hne2x+B8tPQL9J6o1V4dou/YN57m8q7"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/patoaventura.jpg",
+        "name": "Patoaventura",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8F4rGnYJS+8fzEngXgyM8p1KEKGUgvqopejn82+MNPnO"
       },
       {
         "icon": "https://static.tvar.io/imagenes/salademergencia.png",
