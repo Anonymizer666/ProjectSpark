@@ -1891,7 +1891,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjMvPURGL0+/yp4SwkZoP9i9/ogTvCXwMCogrYwPd5FEg"
       },
       {
-        "icon": "http://api.argentinatv.live/logos/ranma.jpg",
+        "icon": "http://static.tvar.io/imagenes/ranma.jpg",
         "name": "Ranma 1/2",
         "uri": "H/G1Ey1PR7MWAHUzRdisjJCse4fFYxJNmIokJxWfxyfM/KZ+MKuvWwUSvm2mP2xq"
       },
@@ -1926,7 +1926,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjDYRXqXZgm8a9uMhu9KMktCXdIZ0pwgAN3ZbYgJ8dm4+"
       },
       {
-        "icon": "http://api.argentinatv.live/logos/supercampeones.jpg",
+        "icon": "http://static.tvar.io/imagenes/supercampeones.jpg",
         "name": "Super Campeones",
         "uri": "H/G1Ey1PR7MWAHUzRdisjCO/340a7tEdSKoCzLOh/Mh+BTTfLoj7ODDltEPl18/K"
       },
@@ -2004,6 +2004,11 @@
         "icon": "http://static.tvar.io/imagenes/zenki.jpg",
         "name": "Zenki",
         "uri": "H/G1Ey1PR7MWAHUzRdisjKug7s2o4yxgSqm02juT8y/maPeUXpwUk/jfSoOpizQR"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/xmenanimado.jpg",
+        "name": "X-Men",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjBzcrd397hd/rPf74LOK1Zvf1YJKJdit52OAIcctUExF"
       },
       {
         "icon": "http://static.tvar.io/imagenes/hormiga.jpg",
@@ -2179,11 +2184,6 @@
         "icon": "http://static.tvar.io/imagenes/mrbean.jpg",
         "name": "Mr. Bean",
         "uri": "H/G1Ey1PR7MWAHUzRdisjCmmTP7fDNahsnSJWvEeRdcnaXAPdvT1PwojYN763qIT"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/xmne.jpg",
-        "name": "X-Men",
-        "uri": "H/G1Ey1PR7MWAHUzRdisjBzcrd397hd/rPf74LOK1Zvf1YJKJdit52OAIcctUExF"
       }
     ]
   },
