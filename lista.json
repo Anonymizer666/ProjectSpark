@@ -542,8 +542,15 @@
         "icon": "http://static.tvar.io/imagenes/dtv3.png",
         "name": "Dsport 3",
         "drm_scheme": "clearkey",
-        "uri": "3Tn0dQI0tWsvzlEF2ubBPhcDcUGR66tUQUS/F83CRiyKKlDmHsFDZj4Jt6+/8Ol2b79eAud3xWdy73f/ZnuTJ8Jgf+LiKKlc+4iTG+5ZnxclCcV+WvHxmKFrcJ9SfwKubi/ScwDy8DW/zCxTswUsQyejfij13yNL9SurD2W+BZQvgIFj+/TlmvnkP+v6M6WQAxHueRkec1cMNsKq2FTBUS9K8zHmdysU9apJTvvslBGgIpm39gz1OQvKBXgAyFUItWqSlQCRBT11ZvsbP0t2pKkOn/ZyFfmdC4dvPWQte3A=",
+        "uri": "3Tn0dQI0tWsvzlEF2ubBPhcDcUGR66tUQUS/F83CRiyKKlDmHsFDZj4Jt6+/8Ol2b79eAud3xWdy73f/ZnuTJ8Jgf+LiKKlc+4iTG+5ZnxclCcV+WvHxmKFrcJ9SfwKuOIQLOnSFHzQ0iK0gl/ZsP2z+0O5W5awNeWKdvCtTVsdI4bLWpdQTXHtLrxoLGlRHH94HWHkhPhdNJkO5P26MOvT/36gbBcyQFaPVCrimTCnMczPwWsYcXvhjrpgwWI/DwRquCPYNUQVZTQQmySIDd7CxLvDOY+NQKtNpO8xYAxY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCra5o3CFhjkYxuQy9Iy5jZy"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dtvfight.png",
+        "name": "DSports Fight",
+        "drm_scheme": "clearkey",
+        "uri": "12P7XV4WgVSYoqlCicZIPYgwQ8QkCBoP8fePMKZhZhtxZxpJk/FhNXCT8hYB/Q23yuNX1jUn88uPlXRS9Gi9kbkUcl2gJ8lx/IoX93poC3DSX+Jc0Sbbg//7yNqKS9LSdWesUE9R2H9cvSK42yBORLCIRYVatGpIifvjz2XUVxMIvi9nVZr68KkhW1cnfRSKaEdax5oT2QoHiWRgJSt0seOhCto9EmPChXOYe33NnlZtoAtGBkA/QfdGDwBOAs9AZqJlroG4S7vLf3Wd2ke8ysX8mHeARylKC/PDmnG/SyZLCulymPFOYjSNeKb2Pbo0TvjCzOEqUUrEbAIDmd/jfwb+hYsvwJ3HC+KyIrzxsBhHcUDhrVJ70MFJ5WrxjSzKxeIaaKcAnUQUgqy0E5W5LJkbkOwu9MYVCbQV+mevIbW4HDRu0Fq22dEqCBe9BvChjIbWI6mzC0lO0sMu0pSfEg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqXrUnxXE7s56nm+P5xlbfy"
       },
       {
         "icon": "http://api.argentinatv.live/logos/tycsportplay.jpg",
