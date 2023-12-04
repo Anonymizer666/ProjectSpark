@@ -375,6 +375,11 @@
         "uri": "kxqVqHth3E4CMIx91H106XuGk2cyFBt7nBhzShIlw48="
       },
       {
+        "icon": "https://www.bragart-bragado.com/imagenes/BANNER.png",
+        "name": "Brag💡ART Bragado",
+        "uri": "43Uh2EueAWUSlzIETlSAFsh3YLDEV+EPwXA6Jw1xcd2kiVlqUTOL7dXT5QgnDNiKLx0htPlOHn0jBrevvMufawrelll0oAvTatgLaEs5HRw="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/canal5eps.png",
         "name": "Canal 5 EPS",
         "uri": "kxqVqHth3E4CMIx91H106ZBl7iOdJcnRMOPfTKu2h5o="
@@ -1498,11 +1503,6 @@
   {
     "name": "RADIOS",
     "samples": [
-      {
-        "icon": "https://www.bragart-bragado.com/imagenes/BANNER.png",
-        "name": "Brag💡ART Bragado",
-        "uri": "43Uh2EueAWUSlzIETlSAFsh3YLDEV+EPwXA6Jw1xcd2kiVlqUTOL7dXT5QgnDNiKLx0htPlOHn0jBrevvMufawrelll0oAvTatgLaEs5HRw="
-      },
       {
         "icon": "https://static.tvar.io/imagenes/radiobeach.png",
         "name": "RADIO BEACH",
