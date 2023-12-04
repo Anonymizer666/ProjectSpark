@@ -140,6 +140,13 @@
         "uri": "NUZl+1W56VxKvie/ghezw7WDS8K791n/ln+17d5A/2yQ+zLmU9iN0wR08N2V1+D5",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrL9ec/XfKH4UbyBTMOEkN+"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/manzanatv.png",
+        "name": "TEST 4",
+        "uri": "3Tn0dQI0tWsvzlEF2ubBPhcDcUGR66tUQUS/F83CRizWJlDxNnkE86mS3SFgKY9z7krQH+4ozZqczYNadk7URg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCra5o3CFhjkYxuQy9Iy5jZy"
       }
     ]
   },
