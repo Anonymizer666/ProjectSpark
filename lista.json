@@ -130,10 +130,16 @@
       {
         "icon": "http://static.tvar.io/imagenes/manzanatv.png",
         "name": "TEST 2",
-        "headers": "FSX/F/VkDnA/nXlZO6/cHH3XTbojkykbfLDKIuN0GlGu+z0joNVAG3RkzE0Z6gPJXRY97IclFzXrS3/L/e3z10Q2Iwy9EFzHNl1SWLqEYJRHbE6p2Frc1XebBCpnaBYVh3CUrpx5jgKCAYlmKCG5IaEVfBhUWlMz5vPekVG0qQraN+O2gCgNHif9e2VSd1Bdmf3crXhosEeOqkqudHjQt+rZVQ+aXwbk9SgxRa1FQdhMZYLKAgSyqRaDPweP2dmh02U4KqklpWkFGBXxDP5KTQ==",
         "uri": "ccJLctYrnDkX1eZXjWaCk7fJvypBomC73PZMGGV8JJfEN3eYG5JjHmjZZGLYxa42",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoBTELH7T43DtHpGKhxYYbp"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/manzanatv.png",
+        "name": "TEST 3",
+        "uri": "NUZl+1W56VxKvie/ghezw7WDS8K791n/ln+17d5A/2yQ+zLmU9iN0wR08N2V1+D5",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrL9ec/XfKH4UbyBTMOEkN+"
       }
     ]
   },
