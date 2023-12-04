@@ -1499,6 +1499,11 @@
     "name": "RADIOS",
     "samples": [
       {
+        "icon": "https://www.bragart-bragado.com/imagenes/BANNER.png",
+        "name": "Brag💡ART Bragado",
+        "uri": "43Uh2EueAWUSlzIETlSAFsh3YLDEV+EPwXA6Jw1xcd2kiVlqUTOL7dXT5QgnDNiKLx0htPlOHn0jBrevvMufawrelll0oAvTatgLaEs5HRw="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/radiobeach.png",
         "name": "RADIO BEACH",
         "uri": "e0bsZGGyfgzGDOfiOmuT39kg5d0V3kuryXJTZjKvjMP9aZe1RrDySK+G99ohY/3LcwCRf0oCIsEZwROzhrZMVw=="
