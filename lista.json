@@ -547,6 +547,20 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCra5o3CFhjkYxuQy9Iy5jZy"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/dtvfight.png",
+        "name": "DSports Fight",
+        "uri": "12P7XV4WgVSYoqlCicZIPYgwQ8QkCBoP8fePMKZhZhtakWXp57k4LffrUkcihZRpXJvSHY6Cv/MqdT2+OHcchw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqXrUnxXE7s56nm+P5xlbfy"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/motorista.png",
+        "name": "DSports Motor",
+        "uri": "zvU3VnYIR0t2oZ/CIL/+lOlZ+22qvEgzsPTabKT1vf9T5K9KWXxZIkO0W5AnRDrQS6mFd/cDB0Lsm7XpdhYOJQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoWYQkTetx1XvnPsh6dUde0"
+      },
+      {
         "icon": "http://api.argentinatv.live/logos/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 1",
         "uri": "J3j/NCInAivz33K0HfUAOugnd4fVhi6qt97i49ODFIJHVwO6ZeofY6+S47834J3grUnNz5nnVsRI+HQ3RQzBmT4E0LJqDVjUYwS+oMoYfc0y2L0IEJu7L8kF+rVApAvD"
