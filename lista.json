@@ -547,14 +547,14 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCra5o3CFhjkYxuQy9Iy5jZy"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/dtvfight.png",
+        "icon": "http://static.tvar.io/imagenes/dtvfight.png",
         "name": "DSports Fight",
         "uri": "12P7XV4WgVSYoqlCicZIPYgwQ8QkCBoP8fePMKZhZhtakWXp57k4LffrUkcihZRpXJvSHY6Cv/MqdT2+OHcchw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqXrUnxXE7s56nm+P5xlbfy"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/motorista.png",
+        "icon": "http://static.tvar.io/imagenes/motorista.png",
         "name": "DSports Motor",
         "uri": "zvU3VnYIR0t2oZ/CIL/+lOlZ+22qvEgzsPTabKT1vf9T5K9KWXxZIkO0W5AnRDrQS6mFd/cDB0Lsm7XpdhYOJQ==",
         "drm_scheme": "clearkey",
