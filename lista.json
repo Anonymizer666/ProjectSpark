@@ -1201,6 +1201,13 @@
     "name": "NOVELAS y VARIEDADES",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Gran hermano",
+        "uri": "kSVrtxIfBJTpc3yRU7je4tyyhhlfYZtZv31xB9uMxgrYy7ZTdQFn/HRUeMTQOPaT",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqoJjcaKf3ig6SXzVpNCTgc"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/canale.png",
         "name": "CANAL E",
         "uri": "knLi6+deywfO/Q9G2q+l5ssv65aByCMt0nDhuq5i7ivHjYHweH6rdavefw3Vww7K",
