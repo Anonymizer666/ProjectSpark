@@ -2467,20 +2467,6 @@
         "uri": "e0bsZGGyfgzGDOfiOmuT3xh6Wv73ph8spQZhPjYkeWQD2KxstrIkhtlkx5ge+YxZ93OQwzgytfTGOwcj9fmPx9Pnvmi+TZzLNhylXeRxvyTJCYJz4U04ZAdS6pjj9ktr"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/ntn24.jpg",
-        "name": "NTN 24",
-        "drm_scheme": "clearkey",
-        "uri": "PGzHNpYrsd7PcvTNvtoI1r4q+FI6CS01i1JdQsvyh64F4CLIyQLNtnCldBTVPcF7rubKPjPIe24wwafsOKOKSg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqE6GQXq6+tpW+ey57OZZL7"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/rcn.png",
-        "name": "RCN",
-        "drm_scheme": "clearkey",
-        "uri": "2oci2CI4HohdBagOGF2c0ywcOxPzYuSHfijMV9wHcIwRMuW/eduArsuvCTZCmhJa",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqiCA58bfh6Xs4dVVG7WdHm"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/rcnovelas.png",
         "name": "RCN NOVELAS",
         "drm_scheme": "clearkey",
