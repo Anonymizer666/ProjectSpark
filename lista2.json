@@ -422,13 +422,6 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http://static5.tvar.io/",
-        "name": "Manchester City vs. Fluminense",
-        "drm_scheme": "clearkey",
-        "uri": "8gO9G8SU+pg+814f2hL39r9tFkaPz6eSqZAbWBmPg0yymEj8wx6HhiioT8MOzDBaWAGIfVrde/DmnFyBmtH+RjXrAl1ixH7k5zl5ntVxbDE1+nlA+O4MGye556AqMhvn",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4BquBQE8c5mJRV5rLw8zhC"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
