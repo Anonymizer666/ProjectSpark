@@ -2466,6 +2466,16 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqilOqzM9+182VB/wvDuipa"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/rcnmas.png",
+        "name": "RCN MAS",
+        "uri": "FNK5X5sy/PJtKeeNMR/atFWR/3j6yvD4B2yVYgrfSDKBdYR86+A7dziZQVQAhVXiewF6gSlD5uBNRbTKNPYnJA=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/rcnextra.png",
+        "name": "RCN XTRA",
+        "uri": "WX3Ajon8oTluWdeEdEKeD1RAXcr1vHhBUZKMZ+y5o11xMNP9/u0U4HMneKrT2xQtBexPYVuhrW0BpN+1cft4QA=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/canaluno.png",
         "name": "CANAL UNO",
         "drm_scheme": "clearkey",
