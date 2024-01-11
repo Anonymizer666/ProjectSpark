@@ -1907,12 +1907,12 @@
         "uri": "XeEqHMKI7eMmJrZLQNxM8HmHDo6aFBRrJon+30u/IsfjcfgUXwV5EY8Fv+uCahop"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lonneytune.jpg",
+        "icon": "http://static.tvar.io/imagenes/lonneytune.jpg",
         "name": "Looney Tunes",
         "uri": "XeEqHMKI7eMmJrZLQNxM8HHu/g891fjSQqwRGdD7XwGB7xevf2nx4QKBXTEWG6j6"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "icon": "http://static.tvar.io/imagenes/simpson.png",
         "name": "Los Simpson",
         "uri": "XeEqHMKI7eMmJrZLQNxM8CYqAY4Aer7JOC1nEv8xmM1hQgLwjvdI8ftupoOE2vH2"
       },
@@ -1922,7 +1922,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjHj8LTjkdVIB4qC8dK1tPdkTX2BJjmAZGmqOfGdSIRF+"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/naruto.png",
+        "icon": "http://static.tvar.io/imagenes/naruto.png",
         "name": "Naruto",
         "uri": "H/G1Ey1PR7MWAHUzRdisjDS+QJHmpWPgbOhhkcyhcHWfnIBs3ODU/WjFBHokDZ+x"
       },
@@ -1957,7 +1957,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjAHbgQSuvWlymXss1PH8ZimeeqtKTU5rFE2jeEWhqzph"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/Samur%D0%B0i_X.jpg",
+        "icon": "http://static.tvar.io/imagenes/Samur%D0%B0i_X.jpg",
         "name": "Samurai X",
         "uri": "H/G1Ey1PR7MWAHUzRdisjO+QpmW3T0Ocq+fuV2pyk08gcdjvAAKibIl9/IJC5sgh"
       },
@@ -2323,7 +2323,7 @@
     "name": "BRASIL",
     "lista": [
       {
-        "icon": "https://static.tvar.io/imagenes/globo.png",
+        "icon": "http://static.tvar.io/imagenes/globo.png",
         "name": "GLOBO",
         "uri": "7qK25TrqdGeOKcdMYBVdgR1/rMcaS8JawfsohPzwVW4cxdHGCmPwaZrTt2/EnqewSYRAF6Urz8mGsosrXmpq2g=="
       },
@@ -2333,12 +2333,12 @@
         "uri": "35eG0e+EqRUSu349x6RMHEMOSwD4I5t2a+rf/pu2+dVyZ4Ngs8GXNhs2qa7Y95316EJvEcV58Zs/yiFYXBA52zyXyEZnqHMhDd8/vP5uXnxKC1rbx2vLBNMvfbOkptbU"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/recordtv.png",
+        "icon": "http://static.tvar.io/imagenes/recordtv.png",
         "name": "RECORD",
         "uri": "LwAiNvzCC3K8qjgLOdHWMw4/7x3qVqlGYmQyDz+DqqeKPJixJK0xMiF18ttJlAbKJhugSQdBajFFGMgmPfY6gQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/band.png",
+        "icon": "http://static.tvar.io/imagenes/band.png",
         "name": "BAND",
         "uri": "/1uZ7VcbPLOHGguiOcX5QCJ6yQlKjs5QCKOrQs77CV+eEEFIN9hRP9DaLAPEAc9hUcp55SXMjMlXORZM8AzweQ=="
       }
