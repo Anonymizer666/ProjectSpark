@@ -963,6 +963,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4bv1pHQtwq+bK8if8wkGa4"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/usach.png",
+        "name": "USA",
+        "drm_scheme": "clearkey",
+        "uri": "7ePArID2yk9XbigoxiU/v6I0ndBgyAWg5z+fUHE1riU=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7g8u5M3cDNID1BItd6DfdV"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/comedycentral.png",
         "name": "COMEDY CENTRAL",
         "drm_scheme": "clearkey",
@@ -1105,6 +1112,27 @@
   {
     "name": "NOVELAS y VARIEDADES",
     "samples": [
+      {
+        "icon": "http://static.tvar.io/imagenes/canale.png",
+        "name": "CANAL E",
+        "uri": "7ePArID2yk9XbigoxiU/v80u8jTrA1N4D/wSdWXYSlM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6/Uc6ro4XrEHK7IID0fNOv"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/extratv.png",
+        "name": "EXTRA",
+        "uri": "7ePArID2yk9XbigoxiU/v6TKHAA1A77a8TrfXHiNgPAjRtt3+iQg2GAWZnyHchby",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4AKjFqvW8e3xMLPIIqq9t9"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
+        "name": "EL DESTAPE",
+        "uri": "7ePArID2yk9XbigoxiU/v2Nsasljd8H+C6qZs68aqI5ph+xCEs7dDojPsnsfNkMy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7IvqlyOlWZ0Kj1/4bW5ZwN"
+      },
       {
         "icon": "http://static.tvar.io/imagenes/bravotv.png",
         "name": "Bravo TV",
@@ -1348,11 +1376,32 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l48kxlFdOJm68ynsHYdks0/"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/mtvlive.png",
+        "name": "MTV LIVE",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhARoUnPfu+8TvmzaywenjogD9qQanWm9/PwYK5spIBO0aw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6rqNUaGu0DoLmXOdiU/2VY"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/mtvclub.png",
+        "name": "MTV CLUB",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhAS83I6xwQeIGCzX3O58op2pDfa6bLgImtP58UkAhv/Z4Q==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7cR7iZ+sOGR9orRIA+mHny"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/mtv00s.png",
         "name": "MTV 00s",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM39HYyUJOw7H+EngvIJb1nJCQLso6TqxxDchIv0GKxGHIJ7PEDvt6DDi5ndUeRmdug==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l51vZAUWLLItKAL3lbr6vIE"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/mtv80s.png",
+        "name": "MTV 80s",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGTPCZu7Z7iBppW5VgVQPd8B1Se3/i+YEw0dS3wW7kcchWivnxBXCuH/MxAQzJtkiCg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4LxFbKTvjm/dPJ33rUFq0M"
       },
       {
         "icon": "http://static.tvar.io/imagenes/vorterix.png",
