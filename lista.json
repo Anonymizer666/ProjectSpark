@@ -2348,6 +2348,11 @@
     "name": "PARAGUAY",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/mastvpy.png",
+        "name": "MAS TV",
+        "uri": "fyv0Cea3MGn5iAcu7YbRzfECwRO2zfhlkCH3ijt8MVBDOH6ckTp2keQxreHqEWPbg09H/cf2Zty0epAJs3hKcQ=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/trecepy.png",
         "name": "TRECE",
         "drm_scheme": "clearkey",
