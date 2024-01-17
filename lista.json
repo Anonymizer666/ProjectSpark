@@ -120,18 +120,24 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIO0M1oKPKAJ0xgFv2zmZuqSJ1TS/V09uHnPlKNPRFjA8l4z86uwvczd6w9Kqczgcsl7uULdM5BJCFC+ltDy3Pl4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoWjFK6IpM0a1Q+/TsZFdHgIb7fkpCfnn3KMaV4J+EHoQ=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/manzanatv.png",
-        "name": "TEST TV",
-        "headers": "zoSzZ5uVrzk4DRryqqMoZpWm9/iKmi7uhDh1WX4iSGG+Ke5hmuXEeVO0TqUzAaAtFsTOOrRjBZUHj682lRVJIV4uXknbl0SZr4wKThsFutE/ModnAJqp5ctqfu+yCmnK0icwx9TDOjNdfMop44K9E/A0V1sxJBL1qy5+D2xavnE2rWSqGIYkGpJbNDcdsNnM04E7LsFmyPbNJLtGiKK/Nz1p5J3LOqsDdgxGoxWyZEIhikuiHhEL0ReTotCX8xzglkMXUE4IvGCdvtFM/nYCuudWZg8pebhlj+gIK0sFhT8=",
-        "uri": "knLi6+deywfO/Q9G2q+l5s7vj9ThVTPyb5UsVugstqGUUlWxkIZUCvp1uWmcQLQh"
       }
     ]
   },
   {
     "name": "INTERIOR DE ARGENTINA",
     "lista": [
+      {
+        "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
+        "name": "EL DESTAPE",
+        "uri": "knLi6+deywfO/Q9G2q+l5k5XViratj9i0Qvgum9+vjUjCVV44iHdYRWqWZVJVgOJ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoxqy7CTzeKmC4pXKH5L7h8"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/canal22web.png",
+        "name": "CANAL 22",
+        "uri": "NU6UU507Gn7vhthpiyGDvhxBA+E0NHfHFpl6jlWE5TxQ3hNFfjF0O7F4fZsMlxbalP6bp8R3maOtztB6nAcg6qmOhDbUGCuyH5DkqAuuc3o="
+      },
       {
         "icon": "http://static.tvar.io/imagenes/12misiones.png",
         "name": "CANAL DOCE MISIONES",
@@ -1218,13 +1224,6 @@
         "uri": "knLi6+deywfO/Q9G2q+l5rOTWTu1W2wtbV86uPHPw85LFp0THtF3Zk5gqLVkUveR",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo3xcaKnthvqF3aKt0KWFXj"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
-        "name": "EL DESTAPE",
-        "uri": "knLi6+deywfO/Q9G2q+l5k5XViratj9i0Qvgum9+vjUjCVV44iHdYRWqWZVJVgOJ",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoxqy7CTzeKmC4pXKH5L7h8"
       },
       {
         "icon": "http://static.tvar.io/imagenes/megatv.png",
