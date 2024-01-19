@@ -2329,17 +2329,72 @@
       {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
         "name": "SBT",
-        "uri": "35eG0e+EqRUSu349x6RMHEMOSwD4I5t2a+rf/pu2+dVyZ4Ngs8GXNhs2qa7Y95316EJvEcV58Zs/yiFYXBA52zyXyEZnqHMhDd8/vP5uXnxKC1rbx2vLBNMvfbOkptbU"
+        "drm_scheme": "clearkey",
+        "uri": "dtvrwsrBgQ/AmW/STllR44wXaGtPR8sfWB3m/+yu1Ek0Olk6vsjHbdl9ttTwVCvZyH2jjYd6jrRZLCIpgLMHAg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq9xh2YCb70Er6+26/n5vvO"
       },
       {
         "icon": "http://static.tvar.io/imagenes/recordtv.png",
         "name": "RECORD",
-        "uri": "LwAiNvzCC3K8qjgLOdHWMw4/7x3qVqlGYmQyDz+DqqeKPJixJK0xMiF18ttJlAbKJhugSQdBajFFGMgmPfY6gQ=="
+        "drm_scheme": "clearkey",
+        "uri": "LSRJEwI8s1LhItSmV9LydKo6+UXojUxFb0KJNnHKq38rICEw/5Bb4Le9bJoMzr9LTaV2qYYMZ8k2ykR+p/zEwy6nLQdzsjoA91jCQdp0aTU=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoZ5fDRDBxSTJglyjQQIMrT"
       },
       {
         "icon": "http://static.tvar.io/imagenes/band.png",
         "name": "BAND",
-        "uri": "/1uZ7VcbPLOHGguiOcX5QCJ6yQlKjs5QCKOrQs77CV+eEEFIN9hRP9DaLAPEAc9hUcp55SXMjMlXORZM8AzweQ=="
+        "drm_scheme": "clearkey",
+        "uri": "qDHAg7EPcjUgdNrJ6j92NNHl+vz/XEP4cG7UHmSowSQrhW18dDK6Onazabgc8Dnl8lJT8gbRG1ywOIT+g6/OXg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrndjn2wCqHgfkrJvRIcv46"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/bandnews.png",
+        "name": "BAND NEWS",
+        "drm_scheme": "clearkey",
+        "uri": "IEQkZTUyC0ObWS0PtOJo3ZFvP5QRT2NOogO1CPdaLkktlxUECbiZ1G6U0ikBNvhIL5JZMI8h9+cGOd+KKwXQVKwGqT2qsYutCfJWXutolgw=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo2crnljNCXnavFDEOPYY6Q"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/bandsport.png",
+        "name": "BAND SPORTS",
+        "drm_scheme": "clearkey",
+        "uri": "ek8P6ybGOBsb5me6OITyV3RyCNhkx8hKYdjHpAPhswAf+W2hl8RPXPx5u73q6jjzHpb/++HNPkg7ur3kAO0PAA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpaVH+ivw82KOgQGQNRIbLv"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/bis.png",
+        "name": "BIS",
+        "drm_scheme": "clearkey",
+        "uri": "4sIF/s6ga/On1lmHiOmahAUYMwWBuemh6EUrq0StJ1ClBdOzFDS8G43/ywIP9tXXHAFDt188LNF65kyRBxdXSg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo6sm/twpoMcq0EzMdQ/znm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/chbr.png",
+        "name": "CANAL BRASIL",
+        "drm_scheme": "clearkey",
+        "uri": "cfzzHvmTbSxuYCgQWtV5wz1wPLJV7NnkelND+YVj4vXwfs+UT0IpR3JQbh9ChX64omBcabMyyiOZq0cPfs9DNg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr2nFfzu5x3nm6FytVgAch4"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/futura.png",
+        "name": "FUTURA",
+        "drm_scheme": "clearkey",
+        "uri": "dtvrwsrBgQ/AmW/STllR44wXaGtPR8sfWB3m/+yu1EkMB83VbcTeUPgRRhhN77U/nIdalXU7DnlOeWXpTGip7Q==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpjoTQuX1X3F956Spcv8BpI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/megapix.png",
+        "name": "MEGAPIX",
+        "drm_scheme": "clearkey",
+        "uri": "85JYNfXydIZmrn335MGY9e53t86177aMG4P/jCo6l9ekfdVkDq20nRr38Ju6bkoB",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCodDUy25N6lvo/nERt0S+Eq"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/redetv.png",
+        "name": "REDETV",
+        "drm_scheme": "clearkey",
+        "uri": "dtvrwsrBgQ/AmW/STllR44wXaGtPR8sfWB3m/+yu1EnIbphhymcheaOTXcuvoz0sAgilrEMZHcaT/wvhFVX1nA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCokgjA25yhWI1GLZec+uYdZ"
       }
     ]
   },
