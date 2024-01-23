@@ -245,6 +245,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ImyUem2dZV/hlYczlV8Uwy51LZ/l3Sl3Pn9bhXfP+EA=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/canalc.jpg",
+        "name": "CANAL C",
+        "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2yBtZcbXlRIrsTTJ75LHHBmXs5d/ixfSojItcj+K3uCwnr/y4UrMVzUKpL3+O0GrG4="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/canal13riocuarto.jpg",
         "name": "CANAL 13 RIO CUARTO",
         "uri": "kxqVqHth3E4CMIx91H106Xlip2uzGkckRckvP42jr+k="
@@ -393,6 +398,13 @@
         "icon": "http://static.tvar.io/imagenes/canal6posadas.png",
         "name": "CANAL 6 POSADAS",
         "uri": "kxqVqHth3E4CMIx91H106WQKPNAbdMSoJsm5+83j1fY="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/showsport.png",
+        "name": "Showsport",
+        "uri": "b+QSGe9itEwwoKyzCS+bMw7wsJ1xbIXLTkwKVgUlNOzvnlqduqtvsEqIcDNrSEE0P80JVijTsopfIQcEUcJPOwC2h0+GvHa1n6R1NWwnbOc=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5+00MeP+rAODZe8gkqq9Ekg2CZaeInR18vObAhxUj8Pg==",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "http://static.tvar.io/imagenes/canalcoopjesusmaria.png",
