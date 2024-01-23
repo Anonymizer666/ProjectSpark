@@ -544,13 +544,6 @@
         "uri": "W0tds+726+PyVxgi1tEJA59mBisHB+6aguuFioLJKzkByI6/3auy67SNBsMugjVIPDH7A3OS5mpnrfnJEBGd0zpXa5vScu9OSftKrTzz54/YtsNpcbGFiKmpQEsE/hgu"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/daznf1.png",
-        "name": "DAZN F1",
-        "drm_scheme": "clearkey",
-        "uri": "2GZi9CUCOqO2knen2OLfT7vWiZHQ15gh8o7Ti1o7+v5GZS9aav2HeXraJtimswE/IfZlHcgtmmVwu6r3TolISVqq9xnkcZe6xDh78r7qPjM=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4Llf1BzTBi50pZnY9ULO8c"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/vtv.png",
         "name": "VTV",
         "drm_scheme": "clearkey",
@@ -2572,11 +2565,6 @@
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v7Ma07+Pm/CcYilGnt+n0XqhPud58U64VRqgfEI7gX8FPosSpqXFv5Btg65JEGnsByhbvb/wMGzTuOosL/KWt9E=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6QOcF3SoE6YTSc4jWyiIOEw/+W+nN7sbtK6BJgsZksrQ=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/yogui.jpeg",
-        "name": "Muchachos, la pelicula de la gente 2023",
-        "uri": "ex5ZGa6veN3zYf+iwLnvL2iQt4p4APUbbJiOj3RKCAbpBD5RarkxzGrrNeacL6ab4kZ3JBUwOhqfA8giRSeOhZtayItC+hWsRqdobSiXSCQ="
       },
       {
         "icon": "https://static.tvar.io/imagenes/cinedrama.png",
