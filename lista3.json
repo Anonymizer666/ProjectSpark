@@ -139,12 +139,12 @@
         "uri": "kxqVqHth3E4CMIx91H106UgovVRFZQQybQOLwKiwbF4="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/multivisioncable.jpg",
+        "icon": "http://static.tvar.io/imagenes/multivisioncable.jpg",
         "name": "MULTIVISON CABLE",
         "uri": "43Uh2EueAWUSlzIETlSAFsh3YLDEV+EPwXA6Jw1xcd2qK9XGMF06ntRJjM+seIOk4U9BVBCYnouRaCgCiJUGffh0SH8Kczc\/K+q+HRTEnH8ZKH8q\/HeZBan9x2\/jIa8w"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/gentv.jpg",
+        "icon": "http://static.tvar.io/imagenes/gentv.jpg",
         "name": "GEN TV",
         "uri": "kxqVqHth3E4CMIx91H106f5uVILSD03OM3Lh5e6hazc="
       },
@@ -245,7 +245,7 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5ImyUem2dZV/hlYczlV8Uwy51LZ/l3Sl3Pn9bhXfP+EA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/canalc.jpg",
+        "icon": "http://static.tvar.io/imagenes/canalc.jpg",
         "name": "CANAL C",
         "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2yBtZcbXlRIrsTTJ75LHHBmXs5d/ixfSojItcj+K3uCwnr/y4UrMVzUKpL3+O0GrG4="
       },
@@ -1510,7 +1510,7 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l60xcSD5WGdwXCahhgofFMz6q04WOUoCmKrbrqBd8tzYA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/rt.png",
+        "icon": "http://static.tvar.io/imagenes/rt.png",
         "name": "RT",
         "uri": "J0orOrotaXDrtBkeWXwtR3yJqhHQx7amKdVLAdUa6tYBvMkJF29bOYcZBs45/q8M"
       }
@@ -1530,27 +1530,27 @@
         "uri": "0qb+8o/eNXh2Xaewne3j8CcHAnx6W54zMaG/cvqXfIeCYx9ptxtjrLNLBMhvaYwub/oObPOIUDPkkRkW29pe4w=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/radiobeach.png",
+        "icon": "http://static.tvar.io/imagenes/radiobeach.png",
         "name": "RADIO BEACH",
         "uri": "e0bsZGGyfgzGDOfiOmuT39kg5d0V3kuryXJTZjKvjMP9aZe1RrDySK+G99ohY/3LcwCRf0oCIsEZwROzhrZMVw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cubalibrefm.jpeg",
+        "icon": "http://static.tvar.io/imagenes/cubalibrefm.jpeg",
         "name": "CUBA LIBRE FM",
         "uri": "B27ACwYyNVTyE6oiVVgB74b7A/yVUkoF0Aaf8Ua4hnnuY5Lq01djUNdjl5WifLNw"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/retrohit.jpg",
+        "icon": "http://static.tvar.io/imagenes/retrohit.jpg",
         "name": "RADIO RETROHIT IGUAZU 102.7",
         "uri": "6nmFkuxLRecqf58/w19vLGBdKGiv4mC9tXyTCxQKH3iaGEPQMAsWuRi3bPhCcxVZ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/retrohit.jpg",
+        "icon": "http://static.tvar.io/imagenes/retrohit.jpg",
         "name": "RADIO HIT IGUAZU 102.7",
         "uri": "6nmFkuxLRecqf58/w19vLOigjqw/FCFG4UE3Jgd0psaiqlcX2nAjfgLSrjMZ1E4m"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/atencio.png",
+        "icon": "http://static.tvar.io/imagenes/atencio.png",
         "name": "Dj Guillermo Atencio SetLive",
         "uri": "6nmFkuxLRecqf58/w19vLJPdiPIV0Bm74/uCByceuvk="
       },
@@ -2100,12 +2100,12 @@
         "uri": "XeEqHMKI7eMmJrZLQNxM8HmHDo6aFBRrJon+30u/IsfjcfgUXwV5EY8Fv+uCahop"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lonneytune.jpg",
+        "icon": "http://static.tvar.io/imagenes/lonneytune.jpg",
         "name": "Looney Tunes",
         "uri": "XeEqHMKI7eMmJrZLQNxM8HHu/g891fjSQqwRGdD7XwGB7xevf2nx4QKBXTEWG6j6"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "icon": "http://static.tvar.io/imagenes/simpson.png",
         "name": "Los Simpson",
         "uri": "XeEqHMKI7eMmJrZLQNxM8CYqAY4Aer7JOC1nEv8xmM1hQgLwjvdI8ftupoOE2vH2"
       },
@@ -2115,7 +2115,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjHj8LTjkdVIB4qC8dK1tPdkTX2BJjmAZGmqOfGdSIRF+"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/naruto.png",
+        "icon": "http://static.tvar.io/imagenes/naruto.png",
         "name": "Naruto",
         "uri": "H/G1Ey1PR7MWAHUzRdisjDS+QJHmpWPgbOhhkcyhcHWfnIBs3ODU/WjFBHokDZ+x"
       },
@@ -2150,7 +2150,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjAHbgQSuvWlymXss1PH8ZimeeqtKTU5rFE2jeEWhqzph"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/Samur%D0%B0i_X.jpg",
+        "icon": "http://static.tvar.io/imagenes/Samur%D0%B0i_X.jpg",
         "name": "Samurai X",
         "uri": "H/G1Ey1PR7MWAHUzRdisjO+QpmW3T0Ocq+fuV2pyk08gcdjvAAKibIl9/IJC5sgh"
       },
@@ -2190,7 +2190,7 @@
         "uri": "H/G1Ey1PR7MWAHUzRdisjMqSD5FZQ08498FFVFZC0dWSTMQh7bz7UlQTCGtN5Xz4"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/Yugioh.png",
+        "icon": "http://static.tvar.io/imagenes/Yugioh.png",
         "name": "Yu-Gi-Oh!",
         "uri": "H/G1Ey1PR7MWAHUzRdisjOown7Z0eiMdg2LfyeGnhZeU676NgwENHpPHQUAUQJaQ"
       },
@@ -2350,203 +2350,203 @@
         "uri": "XeEqHMKI7eMmJrZLQNxM8F4rGnYJS+8fzEngXgyM8p1KEKGUgvqopejn82+MNPnO"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/salademergencia.png",
+        "icon": "http://static.tvar.io/imagenes/salademergencia.png",
         "name": "SALA DE EMERGENCIAS: HISTORIAS INEDITAS",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v7/Gk2MgXKo93L56RMQuG6MKE7aSnZZBUwBSd9nLPuVv/gQLiW6/qSkKFxfnlwmM0r8rXL8/gyvEu+cC9kMADzQ=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6hZlxN3IiHnn9JtrrWOConjKTgsGVw7a7RWDE03CH7QA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/historiasdeultratumba.png",
+        "icon": "http://static.tvar.io/imagenes/historiasdeultratumba.png",
         "name": "HISTORIAS DE ULTRATUMBA",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v6Gzxp7RHczLbAlGdQPx404K6uUcUmNOmLNGnlq3hxYYVuU4ZgHdjFylSv8zLXPqLqLHZ84yM5pHcy4JkwUXnUI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l69lazQijfQvA+AmQ1w6zWqnKuoUcHD7B8KuWyftv2Qdw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/larosadeguadalupe.png",
+        "icon": "http://static.tvar.io/imagenes/larosadeguadalupe.png",
         "name": "LA ROSA DE GUADALUPE",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v/LSpEYvUKRKWgWOPKAFW5jgY6uo9zz7liOj2CZX4xlzHvnR+EBRfvRQ5U6zFBAlSBSjsxkxCgn3kVrOm9VkFog=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7pUGHcCFBuy5QE1gb4Mkzn"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/comodiceldicho.png",
+        "icon": "http://static.tvar.io/imagenes/comodiceldicho.png",
         "name": "COMO DICE EL DICHO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vxDc5cjmzDNhewgojomuC7zCLcGjH5b5bsB+6MMNAWALLAAf0QVnZlBMQgEf3HpDtU4pyrUhAeoF/xJp3LpX0xc=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6VzrNgZMzwg1mkRiqpHQojf9QoIRDzKyTYK7P3TyF74w=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/losarchivosdelfbi.png",
+        "icon": "http://static.tvar.io/imagenes/losarchivosdelfbi.png",
         "name": "LOS ARCHIVOS DEL FBI",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v6wSXSpcNOhjpqu5yNAj2Lep56JbJIJyRVrMlAJv1H+DNRT6sz30Kgo1+HKwbhj8MoV3XiiIp7mPP8Gww17YVnI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5bSoMx1c6hBxIul7Vo6X1622Xg1R6OmaOjyCly207VVA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/misteriosinresolver.png",
+        "icon": "http://static.tvar.io/imagenes/misteriosinresolver.png",
         "name": "MISTERIOS SIN RESOLVER",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v6EHfu6nWFcK7QMzfIUrUp+uuRogWV+iCavu2nnZfsmXpjp+09Ajk8e2AwZF6a+G6+uzvegfHWu+k/w1QDu2XxE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6a1IFwke9hgY9EVqcN5DSjHXD/d8JirPRlfK05YWPJzA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/teresa.png",
+        "icon": "http://static.tvar.io/imagenes/teresa.png",
         "name": "TERESA",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v5JQGbMefpjcDBjSZXMBI5LQi/RpUp+RXB3LpeTfEu4DWp33Mr6+sB58AN9wg86agbPdG46Je1cVzUIGkmQPjIo=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l40xBCs7TSPcchhgnilhpwM"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/sortilegio.png",
+        "icon": "http://static.tvar.io/imagenes/sortilegio.png",
         "name": "SORTILEGIO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v6s6y23jknuE1ksiXrapUw3PfPgU7XwfzwbXwFIjEy7/CaDYQzmgON0t5i5F+z/vNUge+wcfFZvBdxsAMbwqhfA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5L3FHbSuh26npziC4FJfV2R0Xc8S2dSIJnWx2cHrpGWw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/amoreal.png",
+        "icon": "http://static.tvar.io/imagenes/amoreal.png",
         "name": "AMOR REAL",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v9Pn1bJeIuu7Kr5igMSoihcZvz/VNZdgYA94fiO5EV9sZ5uae12ItZy/2vinZd0lcJxnYun89+vnzWmIrIbJsGE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6+yMmzyOj2cArrRmXvtJTZ"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lafeamasbella.png",
+        "icon": "http://static.tvar.io/imagenes/lafeamasbella.png",
         "name": "LA FEA MAS BELLA",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v/1HlLCy5eCw4zI5ueVZtzfZjNvwsmOlCAQt+9CsBdf3eWEwfezsDyBIHQcENH0GnLjOR+ya7OAkVbGYnoADLOE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4eVNEHQukjBGz/SIW8hDjDbiXkU9HZOjBundgEnpl+Dg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/loquelavidamerobo.png",
+        "icon": "http://static.tvar.io/imagenes/loquelavidamerobo.png",
         "name": "LO QUE LA VIDA ME ROBO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vw2sAG8tWyWUH73hzBEiLysqcOk0gwoJIgU0eoU3bCyKkDGLAkwkHr4aJ6/8TfbnbiOsMnkDYJ2hGrQGI/4rNmw=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6ajj0T/eaFoCnLZw22UgSpdE01yIKxMMNBlA2jMiduXw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/laquenopodiamar.png",
+        "icon": "http://static.tvar.io/imagenes/laquenopodiamar.png",
         "name": "LA QUE NO PODIA AMAR",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vzfoGW+O7JuEhG2336cqyH8AN5aWQt30PVVu085QichuIvjpQ7hy86KWDuVgEnBHnrVqVbALI+3VnDiPbCSb1gU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7C/AyQwsnw6Dj9P0IAXAs4gP1IjalNlT/WQHtHZiDY7A=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/amorturco.png",
+        "icon": "http://static.tvar.io/imagenes/amorturco.png",
         "name": "AMOR TURCO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v88nqSdlzMoyXC259uisobiUuFEsY7IHwSWOMPYVuKL/qtXNMFULzcMkKA+sWhgc0u0FQ1oo5rs94TXSBUzVZMo=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6S2Gt1x+WgSKystYz/HRba"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/novelasdebrasil.png",
+        "icon": "http://static.tvar.io/imagenes/novelasdebrasil.png",
         "name": "NOVELAS DE BRASIL",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v3l1EGHmKROEVlXtsFulfx7dvWf8JtQWngnS/8mp9nUlE7coYJ2CCN0l9YV2+OT8xFhfVXVmnf/iLya3WGLxTgk=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5+IEo/d7JEWSRH2w6MB92DZiRcLWafxm0k/B9TBGC2lg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lomejordevinadelmar.png",
+        "icon": "http://static.tvar.io/imagenes/lomejordevinadelmar.png",
         "name": "LO MEJOR DE VIÑA DEL MAR",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v9qo6r/9rf3XnXaYU2WtoTpzx3ViHoB4gR5k4awBgXKLFjQ7olIvlyWgfp+nxtOe9qNUY9WVp7KvsfotAse5BOI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6Jlb8aOgOt2R/IaGLeNxfpPK2aoLH8ogxiyC/Nbk2dUg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/vecinos.png",
+        "icon": "http://static.tvar.io/imagenes/vecinos.png",
         "name": "VECINOS",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vz4D3HHlRQ/oXhK6WRuswV9Y/Nsv6RWL59RQ7pTpmEn5oZA2075BKd6WTj6So5JF3shm0j87buILtWvuaxHyLG8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7JOdT4bq3+HVdk+dLXvgUK"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/lafamiliapeluche.png",
+        "icon": "http://static.tvar.io/imagenes/lafamiliapeluche.png",
         "name": "LA FAMILIA PELUCHE",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v7l3giQAbkYY1ZXitsBBdhxtT183gZD1vk9V4OKqdF9KfaniJB60eBY76R059BA+iuCCtNVXET/pA8A0p7aQAmE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l713nzH7olf1PeA727iXFrhltRfG7F+6IsG3pCiGRY1DA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinehollywood.png",
+        "icon": "http://static.tvar.io/imagenes/cinehollywood.png",
         "name": "CINE HOLLYWOOD",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v/+8VVeLtaTOa6GWmf9lH9Mx7D0AaItK8Tnjqkosl2HOImj8Tjoio5KFT7tUtjOfMGt9uiMOoDJKZ9lu7R48eic=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4lPivHMkiu5mmRaZcpYMxY"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinevip.png",
+        "icon": "http://static.tvar.io/imagenes/cinevip.png",
         "name": "CINE VIP",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v6uzw5pCklWsYirBriUnbwxH5AtD9YpAgW7pGfl5zH8LXON+TiNWSoFrzJ8eyGi9GW4aYzj7h9JqkLyH+KcGWm4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5sx9HTAjPKz7aj+8PXR7BA"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinextremo.png",
+        "icon": "http://static.tvar.io/imagenes/cinextremo.png",
         "name": "CINE EXTREMO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v/YaakZZWhrpsGb5wrHPg7pTnajE8qeVPj7f4okFIerEKnyrELzYLUu3dRoiWbrQZjijXc2mqTQ2B4c3pGxrNLo=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6kB4zy6I75r23d4BdWIj38G8ivAp9VY8X0QccW6C6g6Q=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cineboom.png",
+        "icon": "http://static.tvar.io/imagenes/cineboom.png",
         "name": "CINE BOOM",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vzxjh/aScd63talkHGmHX46LhPC19WyDbYuLpDii30EXmu5yD/9MNRFR4A06a4Vy2kAkj4K0LdPqRBAd5JeiB/Q=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l71/djNvhCY9AeSkqfVls9S"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cineromance.png",
+        "icon": "http://static.tvar.io/imagenes/cineromance.png",
         "name": "CINE ROMANCE",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v6RWtVVhuCO8qufVSNF09Jw790m9SotlZFpsu5Y/lkwDd1SsvGBDrH/KPQHm4yo/Kh3bYSQ3V+r7KxZF4W00XIg=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7mBw8rIWsJL7kJnfQlnSvfC0hWYKzOB2Z8e+9C0UWLSg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinedeoro.png",
+        "icon": "http://static.tvar.io/imagenes/cinedeoro.png",
         "name": "CINE ORO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vx/xMFeNiGe00k8nFv22vI1Kxy4x8Iu7+aH+8JJI5gqJkNuxY9iM3KzbFY7IK7rxaCbJsKITuBeqlsQyi/hg59A=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4dGe5wPUYJn9204ApM8l5e"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cineretro.png",
+        "icon": "http://static.tvar.io/imagenes/cineretro.png",
         "name": "CINE RETRO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v0Qp9hX8UpniISuO42vm7LUE45hFi9v024M1g/x4b7aEGLFruyzZ/xoLyT7w1cdsDg6PJDvhqEvd18unpqmss4Y=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7AFsu2afBCVWgpL+BZQFOu"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cineterror.png",
+        "icon": "http://static.tvar.io/imagenes/cineterror.png",
         "name": "CINE TERROR",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v+SpRu5GeO7ALMlgxzmzW2mqQ5Swc8+LTblQ9ANYKrZFGJIyK63AjKWSmsBbixIr3MQbYtgsGQ5csxaaiKrrECs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6RO0BvTZoKAW+zj9hKDGasJAmsfl2GPKs2N4htvNlmow=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinesuspenso.png",
+        "icon": "http://static.tvar.io/imagenes/cinesuspenso.png",
         "name": "CINE SUSPENSO",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/vw7y4BCnkEvl6xI8oSLrx+f3KSPCx5titPvFc9ZQLF/Ul/IjHkHJC+k+XG9TkrA5F0WUhk9ntFnbQK4frlbQNrY=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4JDPPiJz5znzubfspLHi442MrgLADQ7p55ZmMyw1NbRA=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinecomedia.png",
+        "icon": "http://static.tvar.io/imagenes/cinecomedia.png",
         "name": "CINE COMEDIA",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v6nrcWoB/574/rWtzGCEDaVT/VNyCUk86QHxz9kQczMRfJ8UiGSfdCdHEY/evdpr0sJD3pYotGdnQSWIOcic9YQ=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5hbe6kSU1vgC2Jv65ZK8b7KAV4x6C7h4ExviZBl7LyBg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinefamilia.png",
+        "icon": "http://static.tvar.io/imagenes/cinefamilia.png",
         "name": "CINE FAMILIA",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v7Ma07+Pm/CcYilGnt+n0XqhPud58U64VRqgfEI7gX8FPosSpqXFv5Btg65JEGnsByhbvb/wMGzTuOosL/KWt9E=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6QOcF3SoE6YTSc4jWyiIOEw/+W+nN7sbtK6BJgsZksrQ=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/cinedrama.png",
+        "icon": "http://static.tvar.io/imagenes/cinedrama.png",
         "name": "CINE DRAMA",
         "drm_scheme": "clearkey",
         "uri": "7ePArID2yk9XbigoxiU/v1M4GHd5t6bKTr0Ih5b98BI1xT3YOltH30l+OXZy5ed2eSiIPmKtroktvWqrja6RFDMVw51fdVe1b6/ooEet8Fk=",
