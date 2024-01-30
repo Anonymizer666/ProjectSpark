@@ -1109,6 +1109,31 @@
     ]
   },
   {
+    "name": "GRAN HERMANO",
+    "lista": [
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Gran hermano",
+        "uri": "knLi6+deywfO/Q9G2q+l5mAuoEMjkCuu31mokPvjEdkE9q4ZD/kUOEwP39WJAsTMYikYw8ey2uQhebYRRKmUoW9M2R37/zDE2iUus57n+YU="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Camara 1",
+        "uri": "knLi6+deywfO/Q9G2q+l5mAuoEMjkCuu31mokPvjEdkDmvbCxNpZcN0kc/U3+MO+gRPMiTsJt6ODHjikSO278xyMIg8A0m18XAz1zCWtrL8="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Camara 2",
+        "uri": "knLi6+deywfO/Q9G2q+l5l/WJVmNc0f5iBedfzYoRbx6BPB4I6nkAxf+xsOvzpO/fyAvIjwALr5r71QHUo68flTyDUNSeVr6ju85688mHIk="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Camara 3",
+        "uri": "knLi6+deywfO/Q9G2q+l5imAnMiTGixyZttN0srqfLh8ERNvWlg1s6uzxUUpdO2OVaK4o+YlN/wJzgoly2fDIp7sOe9AzyKz0C3umg0PoV4="
+      }
+    ]
+  },
+  {
     "name": "CULTURALES",
     "lista": [
       {
