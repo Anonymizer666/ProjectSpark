@@ -2591,6 +2591,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6QOcF3SoE6YTSc4jWyiIOEw/+W+nN7sbtK6BJgsZksrQ=="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/cinedrama.png",
+        "name": "CINE DRAMA",
+        "drm_scheme": "clearkey",
+        "uri": "7ePArID2yk9XbigoxiU/v1M4GHd5t6bKTr0Ih5b98BI1xT3YOltH30l+OXZy5ed2eSiIPmKtroktvWqrja6RFDMVw51fdVe1b6/ooEet8Fk=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7JmttJU8nqOzDBwDImn51I"
+      },
+      {
         "icon": "https://lanuevacoataneca.com/muchachos.png",
         "name": "Muchachos, La Pelicula de la gente",
         "uri": "XB4QbzlCfbYsuKMrvLIbEZj0pruoauq+WDC52Yzmjw0gof0sQO616ECK6WzQMe2\/MFz2XmniCNG2XaB\/jCSrt5OFjTCvKPIdBAX5aAcV84M="
@@ -2614,13 +2621,6 @@
         "icon": "http://static.tvar.io/imagenes/simpson.png",
         "name": "Los Simpson, temporada 11 al 15",
         "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDoK9QKHjZXcNI\/SFIVL6u2w=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/cinedrama.png",
-        "name": "CINE DRAMA",
-        "drm_scheme": "clearkey",
-        "uri": "7ePArID2yk9XbigoxiU/v1M4GHd5t6bKTr0Ih5b98BI1xT3YOltH30l+OXZy5ed2eSiIPmKtroktvWqrja6RFDMVw51fdVe1b6/ooEet8Fk=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7JmttJU8nqOzDBwDImn51I"
       }
     ]
   }
