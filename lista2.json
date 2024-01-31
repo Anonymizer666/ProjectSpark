@@ -791,6 +791,13 @@
     "name": "CINE",
     "samples": [
       {
+        "icon": "http://static.tvar.io/imagenes/mp.png",
+        "name": "MULTIPREMIER",
+        "drm_scheme": "clearkey",
+        "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfm1P1U8nkyLtKZJA0fq5ISWO3mM7yxLo4Ri/276EFI4Niv8cR4BW1X4VkP0pjdBNtQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4Hzd9SW2g+ZS5tlxOq0AX3"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/cinemaplus.png",
         "name": "CINEMA PLUS",
         "drm_scheme": "clearkey",
