@@ -871,6 +871,13 @@
     "name": "CINE",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/cinelatino.png",
+        "name": "CINE LATINO",
+        "drm_scheme": "clearkey",
+        "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfmxUxTMjr5m7KZxDaO2cJZXj4g0JFJJDux5oNaR+TwJlkL5RJtkbOkadaBijnhW9zQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrK1uCr7b/efXI2gBN4fl9W"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/cinemaplus.png",
         "name": "CINEMA PLUS",
         "drm_scheme": "clearkey",
