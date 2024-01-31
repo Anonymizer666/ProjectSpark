@@ -791,6 +791,13 @@
     "name": "CINE",
     "samples": [
       {
+        "icon": "http://static.tvar.io/imagenes/cinelatino.png",
+        "name": "CINE LATINO",
+        "drm_scheme": "clearkey",
+        "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfmxUxTMjr5m7KZxDaO2cJZXj4g0JFJJDux5oNaR+TwJlkL5RJtkbOkadaBijnhW9zQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7VQzTc4TNkgepzyB3qvN6Lv3uDGMkH0yhhAuUmwGHMEA=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/mp.png",
         "name": "MULTIPREMIER",
         "drm_scheme": "clearkey",
