@@ -871,7 +871,7 @@
     "name": "CINE",
     "lista": [
       {
-        "icon": "https://static.tvar.io/imagenes/cinemaplus.png",
+        "icon": "http://static.tvar.io/imagenes/cinemaplus.png",
         "name": "CINEMA PLUS",
         "drm_scheme": "clearkey",
         "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfmxUxTMjr5m7KZxDaO2cJZVbumh0lKw91ddOkQxYRDxt6Mrd9A3nE80ZH7bht0VQpA==",
