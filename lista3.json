@@ -791,6 +791,13 @@
     "name": "CINE",
     "samples": [
       {
+        "icon": "https://static.tvar.io/imagenes/cinemaplus.png",
+        "name": "CINEMA PLUS",
+        "drm_scheme": "clearkey",
+        "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfmxUxTMjr5m7KZxDaO2cJZVbumh0lKw91ddOkQxYRDxt6Mrd9A3nE80ZH7bht0VQpA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6HFPzMlQmvXw8g04o2/NVwzFdwiAHhRRa54v4SBHwYVQ=="
+      },
+      {
         "icon": "https://images.vexels.com/media/users/3/191780/isolated/preview/9411fc4218195c2b168a1a5e4600d416-cine-retro-genial.png",
         "name": "RETRO CINEMA",
         "uri": "yVggAQRXgCNCvMaLhAt3QZNjhChYPDTlWj\/PHMACijqA0F98ubYYBqZSHF1IiPkdWxXbYJuSwSNjj3zlfRdMXw=="
