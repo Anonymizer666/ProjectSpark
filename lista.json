@@ -693,12 +693,6 @@
     "name": "CANALES INFANTILES",
     "lista": [
       {
-        "icon": "http://static.tvar.io/imagenes/flexflix.png",
-        "name": "FLEXFLIX",
-        "headers": "NFWJV5Zjg8QrwUgrHVLOFcUysIJh+ixzPr7269wTKCc05nBbIOpdSQWBuF4KtV9NMdFOOWt/ALnc6eIiEnwKzdUK/k5uVc0EuKm81oMuavfYk13U5Py0Wzf0SNoExop0f91UVi5pnbBv+aKoU9yALbik63NGBMscnkIkw98eRMC2tmuxV0xXEiknCvUeOQO8CAJfyt7JCbSDlcS6B3guEg0IgQYsG3RHNfFMMaWbXviD8PcuQNP9MhNCHss52eaFpeNN4OhlGFu51H+6yZa+yA==",
-        "uri": "zNHc9PREKIUSxYtxQ6xKtNtEgw2o9oHSPTCzkLdTNVSdjuKCEK+JXDpZMPVDg0x6Spd+V7UzBx8JkaZBJ6kcaA2f+JTYEocvmLTDd+8B5TYNAbEg21Q2ZyTgTIZLoErB/gnOkiknXk3xF8tWJmNY8A=="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/cartoonito.png",
         "name": "CARTOONITO",
         "drm_scheme": "clearkey",
@@ -774,6 +768,12 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIHKvFHdJUzKmGsTqWRIJ/0YYAv6DeLVP8xOmSq0mF7jGfYwfv4RPIq6Rn8U2QfRjH+IaCHtdeDRW7ksLqMuVjh8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq0wbtbfpS1NzE182gTSdOD"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/flexflix.png",
+        "name": "FLEXFLIX",
+        "headers": "NFWJV5Zjg8QrwUgrHVLOFcUysIJh+ixzPr7269wTKCc05nBbIOpdSQWBuF4KtV9NMdFOOWt/ALnc6eIiEnwKzdUK/k5uVc0EuKm81oMuavfYk13U5Py0Wzf0SNoExop0f91UVi5pnbBv+aKoU9yALbik63NGBMscnkIkw98eRMC2tmuxV0xXEiknCvUeOQO8CAJfyt7JCbSDlcS6B3guEg0IgQYsG3RHNfFMMaWbXviD8PcuQNP9MhNCHss52eaFpeNN4OhlGFu51H+6yZa+yA==",
+        "uri": "zNHc9PREKIUSxYtxQ6xKtNtEgw2o9oHSPTCzkLdTNVSdjuKCEK+JXDpZMPVDg0x6Spd+V7UzBx8JkaZBJ6kcaA2f+JTYEocvmLTDd+8B5TYNAbEg21Q2ZyTgTIZLoErB/gnOkiknXk3xF8tWJmNY8A=="
       }
     ]
   },
