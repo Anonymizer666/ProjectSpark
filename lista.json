@@ -1570,6 +1570,21 @@
     ]
   },
   {
+    "name": "GRAN HERMANO",
+    "lista": [
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Gran hermano",
+        "uri": "cRC1d3wo24d88VcOmI9LdLRYyv6kX93X+UfCD4VYyh47DE7s3VY8ACE8gicu81sko/zj5CuhywSx9L/A1y44c/qcU5uyvoAs7rm334Fvtzw="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Camara 1",
+        "uri": "cRC1d3wo24d88VcOmI9LdLRYyv6kX93X+UfCD4VYyh6HIpf3OWLULAoN8baobtNp6yZ8Dz4lPFOTciZPGIwJJeM64PNyMlySJD5rpl2j218="
+      }
+    ]
+  },
+  {
     "name": "TELEVISION INTERNACIONAL",
     "lista": [
       {
