@@ -427,6 +427,11 @@
         "icon": "https://static.tvar.io/imagenes/bragadotv.png",
         "name": "BRAGADO TV",
         "uri": "QiGsviHP3TEk5QiEFaoDn575wi2dKlTSuFGZY3Ud7HW4jHktQbkIYCivcdyCvhocfyu7J4REPM+ibIiyddnR4Q=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/tierramia.png",
+        "name": "TIERRA MIA",
+        "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBwRFBrxTubMEG1PUs94Eoaa1M+RwK3KFdpQE488wXDePj1CqAF+bESG+nLVLgnQ5sE="
       }
     ]
   },
@@ -619,6 +624,13 @@
   {
     "name": "CANALES INFANTILES",
     "samples": [
+      {
+        "icon": "http://static.tvar.io/imagenes/dreamworks.png",
+        "name": "DREAMWORKS",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIOKwYlAxFjYd63iEAONLcrVAKENPTCk8OFI4+AAbOSxcj+jPHGSldNmxWrsAGQp+07gST4x6TwGb7WALOdlE1as=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l40YoDnqbnmd8nmtwpmJ3lJQuOk9cl3gXQtZVkxvPs9UA=="
+      },
       {
         "icon": "http://static.tvar.io/imagenes/cartoonito.png",
         "name": "CARTOONITO",
@@ -1471,6 +1483,11 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1a6uQaKGsUa8rO6Xwd/c0QZ0vN69YgoEWNw2K4ENc39PA7IMiKf3SxrDV83vU7xLq+bI+gZ9RieGzxsjncfHbE=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6hpXP29CtOd2xpfLCpVlgK"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/musictop.png",
+        "name": "MUSIC TOP",
+        "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBx3lNO/7kgeNjvxikV5ujfmWvWoAMoOMlCTl3Em8Q3XXxu/Pugas0N04k6Rg7YgHNU="
       },
       {
         "icon": "http://static.tvar.io/imagenes/allegro.png",
