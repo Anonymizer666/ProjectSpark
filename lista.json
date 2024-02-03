@@ -698,6 +698,13 @@
     "name": "CANALES INFANTILES",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/dreamworks.png",
+        "name": "DREAMWORKS",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIOKwYlAxFjYd63iEAONLcrVAKENPTCk8OFI4+AAbOSxcj+jPHGSldNmxWrsAGQp+07gST4x6TwGb7WALOdlE1as=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCocrLGCi4OdHSbc5yNJ6Xff"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/cartoonito.png",
         "name": "CARTOONITO",
         "drm_scheme": "clearkey",
@@ -773,13 +780,6 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIHKvFHdJUzKmGsTqWRIJ/0YYAv6DeLVP8xOmSq0mF7jGfYwfv4RPIq6Rn8U2QfRjH+IaCHtdeDRW7ksLqMuVjh8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq0wbtbfpS1NzE182gTSdOD"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/dreamworks.png",
-        "name": "DREAMWORKS",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIOKwYlAxFjYd63iEAONLcrVAKENPTCk8OFI4+AAbOSxcj+jPHGSldNmxWrsAGQp+07gST4x6TwGb7WALOdlE1as=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCocrLGCi4OdHSbc5yNJ6Xff"
       },
       {
         "icon": "http://static.tvar.io/imagenes/flexflix.png",
