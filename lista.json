@@ -1592,12 +1592,30 @@
       {
         "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
         "name": "Gran hermano",
-        "uri": "cRC1d3wo24d88VcOmI9LdLRYyv6kX93X+UfCD4VYyh47DE7s3VY8ACE8gicu81sko/zj5CuhywSx9L/A1y44c/qcU5uyvoAs7rm334Fvtzw="
+        "drm_scheme": "clearkey",
+        "uri": "yhx/QVcpOFmFkPXeixUPRtu4kqDCxNXbS+YrTwki5mDjFpmLJvNjTQxEOhCcpifcxYonrDEk4/xGhjlJZCHYKAY1qiNeb8mH5vDKNvR8mM5abqJX2CthKfitq0a0FT20",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqoJjcaKf3ig6SXzVpNCTgc"
       },
       {
         "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
         "name": "Camara 1",
-        "uri": "cRC1d3wo24d88VcOmI9LdLRYyv6kX93X+UfCD4VYyh6HIpf3OWLULAoN8baobtNp6yZ8Dz4lPFOTciZPGIwJJeM64PNyMlySJD5rpl2j218="
+        "drm_scheme": "clearkey",
+        "uri": "yhx/QVcpOFmFkPXeixUPRtu4kqDCxNXbS+YrTwki5mC6GMq6yvERo+kF3jokubBStl6c2a/IB/1YPDEZobM8AfgEZliW7xvcJfvt9rvkyOtZif4TUA7hQ3Tmf8mVS+LG",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr87rkyq7mYkuU1ua7nA2IP"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Camara 2",
+        "drm_scheme": "clearkey",
+        "uri": "yhx/QVcpOFmFkPXeixUPRtu4kqDCxNXbS+YrTwki5mC5pQnjbfXCvR221dhKvIDvRYgNLH7wyJ/+F2sjvZpmgzC5RUgMD1HGjeXH2H7EEZ3aj8TG3MPDWb2ZT9GKbB9V",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrLN8z4z2vQIpdYNQu6PX5T"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.jpg",
+        "name": "Camara 3",
+        "drm_scheme": "clearkey",
+        "uri": "yhx/QVcpOFmFkPXeixUPRtu4kqDCxNXbS+YrTwki5mC5gf5anrCl82T8vahitkdn3Ib+M7jOMpithKXjdefVOPDBddR1DAZBkRwz5OchKJriXWxQu2yFMtrilxvMZoKp",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqndzdlS7DjfZqulvGP0/sO"
       }
     ]
   },
