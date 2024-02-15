@@ -486,6 +486,18 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqTm61Z+DpEnMcB+IVO3j1w"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/espnpremiumop2.png",
+        "name": "ESPN PREMIUM",
+        "headers": "NFWJV5Zjg8QrwUgrHVLOFSF7yw1iPYBMHIAl/vR3UdRU+gxq0IPrXMdO2hxANJD1W/Oyt2bwC2SQobfK+djjVw5gx8QT2wDvbQj1lKPJWqUJLpkde6l80NbiZhszPURJEot+Qi8P7Fbp8DtQ9/jVzSqCdQvNZYUH3BrO97Zdf3rRJprChKTvwglizSScdaMn52LeWqHXRoeAk1gESTY4WV64eYmpz7MLVxcUCdc/MkjJI+AFO8H5TrEjuO7VW9DnUVeXg98w7c3DGo4Eb9eknXH0uj1NDFCmVTa+qWbXw5g=",
+        "uri": "UJnXe9zwJ3iTAf7m7oziOw0lVrg5SETABhRBvo3NQ5IGBQkgYIlpzCiwI3sMBY818Odm+Sao4QUVzK2OC+XfB03GtZ3TYf6O3gbJxT+uBkIxZUXWXXwxFTm3hRkFcwH2"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/tntsportsop2.png",
+        "name": "TNT SPORTS",
+        "headers": "NFWJV5Zjg8QrwUgrHVLOFSF7yw1iPYBMHIAl/vR3UdRU+gxq0IPrXMdO2hxANJD1W/Oyt2bwC2SQobfK+djjVw5gx8QT2wDvbQj1lKPJWqUJLpkde6l80NbiZhszPURJEot+Qi8P7Fbp8DtQ9/jVzSqCdQvNZYUH3BrO97Zdf3rRJprChKTvwglizSScdaMn52LeWqHXRoeAk1gESTY4WV64eYmpz7MLVxcUCdc/MkjJI+AFO8H5TrEjuO7VW9DnUVeXg98w7c3DGo4Eb9eknXH0uj1NDFCmVTa+qWbXw5g=",
+        "uri": "UJnXe9zwJ3iTAf7m7oziOw0lVrg5SETABhRBvo3NQ5IcglTUEc0Br/izBQF6Qflg361yyyt5vj4A8qK/wHhJu1p5t4Z4K/39VS7tvZTxSV4="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espn.png",
         "name": "ESPN",
         "drm_scheme": "clearkey",
