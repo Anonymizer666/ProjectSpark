@@ -613,6 +613,11 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM1AFEss5YMVhXGn7ddzmcWzztQKLm/jEE1lPi0Zu+MFMaiJtu36WQ2jCoB1UksNB1CwaoDvuNeOgcfBBFUUh0oM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l41ov+ZV+yGJf2bcT14eLks"
+      },
+      {
+        "icon": "http://google.com/",
+        "name": "EVENTO",
+        "uri": "XeEqHMKI7eMmJrZLQNxM8IVh7hMaObK4X1g53C6pioWrgCE0AVEVm3OhhPi3nbEV"
       }
     ]
   },
