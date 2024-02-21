@@ -703,6 +703,11 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIE/09xzRfC6amviT5D/oOgUcWGiMWD3U7R+nIXCwvii8INKzA7BYRCp9KzhaihovK1xJVcq89eyF5Ted/Jlln+M=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrx8YlNawz/pyU+8dvpvmvj"
+      },
+      {
+        "icon": "http://google.com/",
+        "name": "EVENTO",
+        "uri": "iNvEcjr99wI8yrowO20KIJ4BEa36c7c24POel7pLeWDGpg9jF4F474+D+eArBx/V"
       }
     ]
   },
