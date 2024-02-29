@@ -472,6 +472,11 @@
     "name": "DEPORTIVOS",
     "lista": [
       {
+        "icon": "http://google.com/",
+        "name": "EVENTO",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjOzbLf7XD1XH8duJQwlV5KyniFb0U9St/SpnYXUzjbu4"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -703,11 +708,6 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIE/09xzRfC6amviT5D/oOgUcWGiMWD3U7R+nIXCwvii8INKzA7BYRCp9KzhaihovK1xJVcq89eyF5Ted/Jlln+M=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrx8YlNawz/pyU+8dvpvmvj"
-      },
-      {
-        "icon": "http://google.com/",
-        "name": "EVENTO",
-        "uri": "H/G1Ey1PR7MWAHUzRdisjOzbLf7XD1XH8duJQwlV5KyniFb0U9St/SpnYXUzjbu4"
       }
     ]
   },
@@ -2595,6 +2595,11 @@
         "drm_scheme": "clearkey",
         "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfkhPCXj9snJdzUlRjwMvUVwNVMYKZYsqsuVCDQT1ylwdniyCxv9OVuIbHyxYxU99lw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpdkFSN3aQ1gj+/7BSPjMUU"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/motorsur.jpg",
+        "name": "Eventos PARAGUAY",
+        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDdcuavXVkVjGDVbimHt6WEQ=="
       }
     ]
   }
