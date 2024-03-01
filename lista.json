@@ -603,6 +603,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoWYQkTetx1XvnPsh6dUde0"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/daznf1.png",
+        "name": "DAZN F1",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIKjAN4bCYsKbl4H9vfg9YztMhQIdHMTuTAeweFs0CJoe",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqgGZPNIJyM6wsbOKO4ROHc"
+      },
+      {
         "icon": "http://api.argentinatv.live/logos/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 1",
         "uri": "J3j/NCInAivz33K0HfUAOugnd4fVhi6qt97i49ODFIJHVwO6ZeofY6+S47834J3grUnNz5nnVsRI+HQ3RQzBmT4E0LJqDVjUYwS+oMoYfc0y2L0IEJu7L8kF+rVApAvD"
