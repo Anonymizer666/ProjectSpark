@@ -604,10 +604,17 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/daznf1.png",
-        "name": "DAZN F1",
+        "name": "DAZN F1®",
         "drm_scheme": "clearkey",
         "uri": "vpMZuxFDnxnMFsD5szDDYhk3vQ8be5UUXFnnWC9vl8tSIwFGny1glud5r16uU0Mf0n1EFvhhqKrayMy1cip+CfIAHBe37PqG648VTCECE1YU2H3l6pmuozxCDICZDQLDbee3lqtgGB+boWWmqfP3gP52nwnPUkmfTWhg6yI+3SM=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqgGZPNIJyM6wsbOKO4ROHc"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/f1.png",
+        "name": "F1® OP2",
+        "drm_scheme": "clearkey",
+        "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfjNLev3B5EXcOdIE9XRamfAQGXcmdUvINqu3C67TwVXTBSG7OOIGlVdaiGZVMfwYp9ePMmMvhKo/TaCfhOASLt4=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCopmhtbmhPN/CUwMEOujdNd"
       },
       {
         "icon": "http://api.argentinatv.live/logos/tycsportplay.jpg",
