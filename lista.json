@@ -531,8 +531,8 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo4eAhR7JdcFRU3y/x4Ox1c"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/espnextra.png",
-        "name": "ESPN EXTRA",
+        "icon": "https://static.tvar.io/imagenes/espn4.png",
+        "name": "ESPN 4",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIBefAmK0T0uDXUAl4xwb4+xeHmplIH/+jhlRPeIpzFQFrW3qgrAsSkZ9cqAdCQSsmWzRKvDkMV45Ckf3Mc6mvI8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrgUA5KB5tjb7N0LSuXNXKa"
@@ -1108,13 +1108,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr2bAygErq+yTLeRfNa1xbk"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/isat.png",
-        "name": "ISAT",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIAYga2aDGWQrg1ECSJu/wQ0pgTnGlNaH8dtwU2bQvxQqMK6L5P3Uiot5M4/u1JELOg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqkgHS/NfIogUqTjyyg7wT3"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/a3series.png",
         "name": "A3SERIES",
         "drm_scheme": "clearkey",
@@ -1385,13 +1378,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpnJEsqV7un4edPINnD0U2uCyWgBGbkX2orPqXpRPekBg=="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/glitz.png",
-        "name": "GLITZ",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIJ/ONw3/CpbcanSyi8tWRlaj0+kt+CnUcqBYMunwKrkNu6tvPZG823WIM/GbkReytQ==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr/uaG8CVLCG2VI6MhIfGOG"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/holatv.png",
         "name": "HOLA TV",
         "drm_scheme": "clearkey",
@@ -1552,13 +1538,6 @@
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIDoevK2CpNUzQ9mdqsVuOVEPmW/2m4tap6Q/dH10792x8NxhzXIsmT8l+IW+FglJeg==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrEc2PPXAhsIw0u+iU5Vm96"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/muchmusic.png",
-        "name": "MUCH MUSIC",
-        "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIC7CM/VJ37CeQ22roYuEswIptPZsu2GJu3L89bSZXdiL7qeQ8QVqcuXr4VLFpG9mUiBprrQTcjto59MgVPKkyNk=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpXXLVsFUkdQmdlFF+nctEV"
       },
       {
         "icon": "http://static.tvar.io/imagenes/musictop.png",
