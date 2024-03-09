@@ -463,21 +463,21 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn.png",
-        "name": "ESPN HD",
+        "name": "ESPN",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM36Wr7t9H2+vRrGhM0ZQdtAS+ZvQMnpxojRBnHTL8NQA/nlaspKiQ2lGltRy1LmVZcObypclWsSrtYJUe9/dIgU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4TpXWzNN11izTPrqNMj/nS"
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn2.png",
-        "name": "ESPN 2 HD",
+        "name": "ESPN 2",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM+SI8OTaA3l1EVLOyMB/FZ7Ue0ggBORruBn5s4gdql4cGky6RaCy9vFYffxH9gdkR54TkIziiNjrm0IpCtl8mQU=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6tHrFFljf03GCtD88svbaC"
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn3.png",
-        "name": "ESPN 3 HD",
+        "name": "ESPN 3",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM4CpLTqo2cLN1h06ow6YwA4XOWQbP2HikHkfiQUCD8yINVHI4nUz47UUmwfRNl7MaA==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4mvgTa2nubCg4wMwBLlfVV"
