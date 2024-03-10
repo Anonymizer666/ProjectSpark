@@ -462,6 +462,16 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5XySTlGlmkWNQd6bMHGU3X"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/goldenedge.png",
+        "name": "EVENTO YOGUI",
+        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDyD1TGuMwyGKvlC9VJOVyhw=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/goldenedge.png",
+        "name": "EVENTO YOGUI opcion 2",
+        "uri": "H8X9Q57HBn+FZ\/TOT84dLuQwIWkzhL3mlj7TzVEDcUIXV\/tx8GyJ9DWcfOZ5r\/GpgzCTSgdKT27HdIUUdALxug=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espn.png",
         "name": "ESPN",
         "drm_scheme": "clearkey",
