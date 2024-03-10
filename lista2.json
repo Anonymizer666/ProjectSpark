@@ -1357,6 +1357,39 @@
     ]
   },
   {
+    "name": "ADULTOS XXX 18+",
+    "samples": [
+      {
+        "icon": "http://static.tvar.io/imagenes/playboy.png",
+        "name": "PLAY BOY",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM0W0Voh3HQmlB/XptYYOyLvuI46Gqe4xxTQN2biwmfwVQ3gXySO+3FQD6peF89Wu5COJUvcj/tdSEvozetClsbU=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l45XWxvS+jTKr6RnF0Mu0RQ"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/venus.png",
+        "name": "VENUS",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM3ONz8cL/elNnD1ZoXEbA1gDwaZm7v5vGGFLUoZEycWwkNEoDG6JUiqyKaMMRHj1rQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Jd7fFYkmmoZ2tlBQ2io77"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/sextreme.png",
+        "name": "SEX EXTREME",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM+7/6EQGtc4lk64Ye7yTo8Rs9wOI+RJNqBLMhtn4PwcNJEWDUhszb/Nnc58TuiwCt1qul5ETUmuKmwsG9M3ZF0c=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Eh4xO7S6VfBKIYw7fEQ3u"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/penthouse.png",
+        "name": "PENTHOUSE",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGUYjRxuSU8XC7MfF+bRlUDhCnusDWMOZ6swHj0nnMv27yqyp13KIaNzGMOleb0hejg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4QZNacWHQXh9YZtEAzBn51"
+      }
+    ]
+  },
+  {
     "name": "MUSICA",
     "samples": [
       {
