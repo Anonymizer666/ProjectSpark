@@ -299,6 +299,13 @@
         "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2ztyaqFm1YF4ytQKMQ4VWSGwOkMmtQtAUX4uQ52HIZ//dtWsB7qAYcEvJJEJ1iQ8cVEluhGdxGn5JzA8gQRVKQu"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/ch5tucuman.png",
+        "name": "CANAL 5 TUCUMAN",
+        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3ecvf0dsrznS8avrJ6QjRQc82/aieGCZfD4tOv0a6n6wd7v1DcPWauslgOwD5H4u8uNnPGcMeTu3YIGqbY3gPCqzQ=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6KPW8OkQuV8N5iemyw77MJ",
+        "drm_scheme": "clearkey"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/8tucuman.png",
         "name": "Canal 8 Tucuman",
         "drm_scheme": "clearkey",
