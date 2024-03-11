@@ -169,16 +169,6 @@
         "uri": "kxqVqHth3E4CMIx91H106SF+VO4UcgOZgRYlkTpnLTQ="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/canal9santacruz.png",
-        "name": "Canal 9 Santa Cruz",
-        "uri": "kxqVqHth3E4CMIx91H106cQFNnwTu76ZuuKmR8m5oTQ="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/fenixtv.jpeg",
-        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-        "uri": "kxqVqHth3E4CMIx91H106bVQZm6UphS9Ou1q+8vaDuY="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/canal13larioja.png",
         "name": "Canal 13 la Rioja",
         "uri": "kxqVqHth3E4CMIx91H106SQqinamCdrhgFWL0Kw4clU="
@@ -212,11 +202,6 @@
         "icon": "http://static.tvar.io/imagenes/34sanjuan.png",
         "name": "Canal 34 San juan",
         "uri": "kxqVqHth3E4CMIx91H106cgGMS5Cy1WErgOgHdqged8="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/albardontv.png",
-        "name": "Albardon TV",
-        "uri": "kxqVqHth3E4CMIx91H106RJUnd09wpolvRYIcNs2m5k="
       },
       {
         "icon": "http://static.tvar.io/imagenes/telefecba.png",
@@ -340,19 +325,16 @@
         "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2ztyaqFm1YF4ytQKMQ4VWSGsXo4DjxV0/PZ8UkKmfkbJ0I62AuFsAqHFRzJQIVE888IqhS8hxHAb9JJ9+tnCMYF"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/canal9mendoza.png",
-        "name": "Canal 9 Mendoza",
-        "uri": "GNsWRudnL\/OlM39GOX4He2aZMzLczTho8rQ3oclZvKx09TneIsqVWJK4Yks3QE2Cl5qzgxHA4krNsN8ZrNdERymen3QTu+XOZ\/3ytXYB9m6ktq26yTwwGbi4ypuFtrrg4xbV+QSa2zTCAicbZaGXEA=="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/canal4jujuy.png",
         "name": "CANAL 4 JUJUY",
         "uri": "kxqVqHth3E4CMIx91H106dkeywn6heGd4G3M/UldfMs="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/eldestape.png",
-        "name": "EL DESTAPE",
-        "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2yBtZcbXlRIrsTTJ75LHHBmlkkQKfyozHvvYtqSykwTSKYOdWHpr8RULK1O4HstVXc="
+        "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
+        "name": "El Destape",
+        "uri": "kxqVqHth3E4CMIx91H106fSs1Rb3yF6sKsn/kmDoJAuILENbn0UJfpceTlZJjCXo",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7IvqlyOlWZ0Kj1/4bW5ZwN"
       },
       {
         "icon": "http://static.tvar.io/imagenes/santafecanal.png",
@@ -368,11 +350,6 @@
         "icon": "http://static.tvar.io/imagenes/canal7jujuy.png",
         "name": "CANAL 7 JUJUY",
         "uri": "kxqVqHth3E4CMIx91H106Yem+Zr60zOaKXsIxDK7XDA="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/multivisioncanal9.png",
-        "name": "Multivision canal 9 de salta",
-        "uri": "H/G1Ey1PR7MWAHUzRdisjF9n3joRIrnoHbDIRmM3TNa04wVy8ivq6/OXsXFbzQaB"
       },
       {
         "icon": "http://static.tvar.io/imagenes/canal7salta.png",
