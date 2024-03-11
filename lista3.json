@@ -294,6 +294,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Va7g/6O002TAfLAiNMnNtIretOrLrsWB0nxl1GzabEw=="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/americatucuman.png",
+        "name": "AMERICA TUCUMAN",
+        "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2ztyaqFm1YF4ytQKMQ4VWSGwOkMmtQtAUX4uQ52HIZ//dtWsB7qAYcEvJJEJ1iQ8cVEluhGdxGn5JzA8gQRVKQu"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/ch5tucuman.png",
         "name": "CANAL 5 TUCUMAN",
         "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3ecvf0dsrznS8avrJ6QjRQc82/aieGCZfD4tOv0a6n6wd7v1DcPWauslgOwD5H4u8uNnPGcMeTu3YIGqbY3gPCqzQ=",
@@ -357,6 +362,11 @@
         "icon": "http://static.tvar.io/imagenes/canal7salta.png",
         "name": "CANAL 7 SALTA",
         "uri": "kxqVqHth3E4CMIx91H106S3roS2PmWwRGLeYEhHSzgc="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/multivisioncanal9.png",
+        "name": "Multivision canal 9 de salta",
+        "uri": "H/G1Ey1PR7MWAHUzRdisjKFQuxEbzs/eYRB8ZDZj/N/IiazafNbX2ip+dofFnKSs6vlqLsL3ClnMX3GXTE44vw=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/canal5eps.png",
@@ -1515,7 +1525,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/telemadrid.png",
         "name": "TELE MADRID",
-        "uri": "V/VGld5FfHGLDucR+3GTvvX2qASAstVrXSJwIit8xbxCX1FbBAqxblOU+IgpnlZhFLMmGNTbLVfwfN0KkuGw5FMgNY+bUe45vKqFqpS0IWreqbTyBBLsyOT/1xz7MuhL9A/mWw8UiSyBm3Xz7Xf97g=="
+        "uri": "V/VGld5FfHGLDucR+3GTvrWq4589MhZMc2ba+egV9xneNmsX3ULCgJjJ+3C42mKtKeo8QzZHMq6ydvFHfUzZ/A=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/tvgalicia.png",
@@ -1553,6 +1563,11 @@
   {
     "name": "RADIOS",
     "samples": [
+      {
+        "icon": "https://static.tvar.io/imagenes/mucharadio.png",
+        "name": "MUCHA RADIO 94.7",
+        "uri": "l+tYBFiGIzIX0l4o/MkMaHjr6tQb5fYBp+Z9q8q+GxVDW5U2x8ChoXQfg2HqZ1pqdZLJCuVdNMxGtTL8WVgm9Q=="
+      },
       {
         "icon": "https://i.ibb.co/pjKcXkw/FB-IMG-1629477052002.jpg",
         "name": "RADIO 96.5 MIX",
