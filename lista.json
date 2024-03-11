@@ -271,14 +271,9 @@
         "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2ztyaqFm1YF4ytQKMQ4VWSGsXo4DjxV0/PZ8UkKmfkbJ0I62AuFsAqHFRzJQIVE888IqhS8hxHAb9JJ9+tnCMYF"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/canal9mendoza.png",
-        "name": "Canal 9 Mendoza",
-        "uri": "GNsWRudnL/OlM39GOX4He2aZMzLczTho8rQ3oclZvKx09TneIsqVWJK4Yks3QE2Cl5qzgxHA4krNsN8ZrNdERymen3QTu+XOZ/3ytXYB9m4X8P35m+WAYsEBomc7/9P96dxbozPu7GOP3ZocSPi21g=="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/canal10mendoza.png",
         "name": "Canal 10 Mendoza",
-        "uri": "1XQRSuo2bCItV06HiUynnO0Wy9TD6+3z6tI+HOUf8FMZmZnXyGwF0AxmOjdi9cAcyKCZP/bRNF3NkPAL04B7u636NVYykqurEp82gbG6Bdc="
+        "uri": "3IEEv3gpzNtNGjusao8aa3S4YvGxs5f2uiEpejeGi0hoLqXR14NqqDi6nkYRNNLJwGtPpxv529CvI02nhlyZ5w=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/canal5eps.png",
@@ -298,19 +293,9 @@
         "uri": "QObWONEH5ZZc+gWB1f6jBdzwz2rlUZgT4UkoZONW8G4uTS48+QUYbu3L3y90YIu5"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/canal9larioja.png",
-        "name": "Canal 9 la Rioja",
-        "uri": "QiGsviHP3TEk5QiEFaoDn9ye3CrWbXfNeR4RbiJak4YybpdUoD23ovUQbdXhwdAzEhgt4resUva8AWUC4KB6Zw=="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/chilecitotv.png",
         "name": "Chilecito",
         "uri": "7VlGTTPeAyJWT3ZuYoA2dfKr5zEEG7KJrLuC81Hm1WgZKLbwrHQXsEsnJkYsAEUvrBqKoYIgr1uAg4wKOpWGLA=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/multiplataformafenix.png",
-        "name": "Multiplataforma fénix",
-        "uri": "aP9/mVeWXUqr+0uxtT8DocGgmcBQRdqnpprDyLCjuaBrxfB4qtRS4IN8ySS+3C+BXDfchGbI2A4jQcQxdfvnmA=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/ch7catamarca.png",
@@ -318,14 +303,9 @@
         "uri": "li55uCX1AVPZR6OnK+0qIkC30NRZBT8NJLxv9vrqKZYuZjiGpPVhRtad8zjLebMUwTQVIy/mhJdAGuFf0aVO6s30XSQbhnrfmu0P5HJXSCMSPn5GPDr9RCW9rHwgmMGC"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/tvvallecata.png",
-        "name": "VALLE VIEJO TV CATAMARCA",
-        "uri": "urhitntBGpBfYF5LYj4Vfc7OUBq6qEP78Qpdr5kpLvSWQjnqiZ2I7iUi+ebZ0tTaGjOWQKddERrOeH6OR6xdP7DhLKa8Bpj7zUva5WaOGD8="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/canal13sanluis.png",
-        "name": "CANAL 13 SAN LUIS",
-        "uri": "Pm32PAUc8T75NgNmXcKsyRS832eouIL5Z7PmLk6anXgpWCfvDdeEtk9WgnMV4RNcfW9aFQVVwfJLiiluGENp69kWYWJAEN1YhjE5Wt4CZihCE5ruur7LiZ2y6P5WDf/5h0ceMOzsj7D6Y1JgQBktSA=="
+        "name": "San Luis+",
+        "uri": "li55uCX1AVPZR6OnK+0qIoHw6h7N3PNwxa7IrhmX/aMjQ78d1T4Un79iv42g96/G0pAFJnBa0swkJOF9iGoGUcyuoAgFyNwxpHWfjw6qiLs="
       },
       {
         "icon": "http://static.tvar.io/imagenes/canal4jujuy.png",
@@ -341,11 +321,6 @@
         "icon": "http://static.tvar.io/imagenes/streammax.png",
         "name": "STREAM MAX JUJUY",
         "uri": "H8X9Q57HBn+FZ/TOT84dLuSUzKImpkM3FTDhDjggoXdbBmBGljHXc2pSpAixtjB/cHtH73yJuM3aUbXesFOr2Q=="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal2jujuy.png",
-        "name": "CANAL 2 JUJUY",
-        "uri": "4hkBWuqJkFZHxNelQIPVOOjJDqIVamk5taSTQlR+lhWqOZjK/Ch9rfoCDPK5U5TtmoCq5/W6XJOPUCKKdQy67s1AgdTP/+HLmlfFTVzU6Gc="
       },
       {
         "icon": "http://static.tvar.io/imagenes/canalochosanjuan.png",
@@ -370,7 +345,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/multivisioncanal9.png",
         "name": "Multivision canal 9 de salta",
-        "uri": "H/G1Ey1PR7MWAHUzRdisjF9n3joRIrnoHbDIRmM3TNa04wVy8ivq6/OXsXFbzQaB"
+        "uri": "H/G1Ey1PR7MWAHUzRdisjKFQuxEbzs/eYRB8ZDZj/N/IiazafNbX2ip+dofFnKSs6vlqLsL3ClnMX3GXTE44vw=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/metropolitanatv.png",
@@ -381,11 +356,6 @@
         "icon": "http://static.tvar.io/imagenes/tvpampeana.png",
         "name": "TV PAMPEANA",
         "uri": "li55uCX1AVPZR6OnK+0qInLPX5ulBbl7J8M17JFEZ93Fjk/hIcT3sj0nIy3fAI8ZBWl7sLXroHXYx1L5BbXJII9IqQE+sKf9X3jp71+lD+o="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal9santacruz.png",
-        "name": "Canal 9 Santa Cruz",
-        "uri": "43Uh2EueAWUSlzIETlSAFsh3YLDEV+EPwXA6Jw1xcd39arP35shmEwcKcsN46PPs1+IOJhE2vDDe2s4Irsy3dFudIR/f3nVoSerAG+N5bZ1dWExGdALvOWkvRRkPqm14"
       },
       {
         "icon": "http://static.tvar.io/imagenes/rtn.png",
@@ -434,7 +404,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/cvinoticias.png",
         "name": "CVI IGUAZU",
-        "uri": "AeB4tga6h6HDU1nx7exxC5n8tFBT20wwW78bl5INus32ZbxMblglKS0IpLbYfS/Z"
+        "uri": "H/G1Ey1PR7MWAHUzRdisjKFQuxEbzs/eYRB8ZDZj/N/IiazafNbX2ip+dofFnKSsIb+XlhnAUh79flomi8hD3g=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/radioiguazu.png",
@@ -444,7 +414,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/canal10mardelplata.png",
         "name": "Canal 10 Mar del Plata",
-        "uri": "H/G1Ey1PR7MWAHUzRdisjNJMOq/geg1OvDiI+RmDEobKMkBEp4OvcPaW4/QNWsuX"
+        "uri": "H/G1Ey1PR7MWAHUzRdisjKFQuxEbzs/eYRB8ZDZj/N/IiazafNbX2ip+dofFnKSsPi3atpyCeRPDv1+iNrFt1w=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/8mardelplata.png",
@@ -454,7 +424,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/bayrestv.png",
         "name": "BAYRES TV",
-        "uri": "e0bsZGGyfgzGDOfiOmuT31SIqX8/6jKa08vIKjsChFhCH7JCCl4IBt1opmr6BZ+IGp2/jyGNdAaTkqXtyUtzlA=="
+        "uri": "H/G1Ey1PR7MWAHUzRdisjKFQuxEbzs/eYRB8ZDZj/N/IiazafNbX2ip+dofFnKSsD9zNemq1cmejaASpvkUphg=="
       },
       {
         "icon": "https://urbanaplayfm.com/file/2023/02/urbanaplay-social.jpg",
@@ -1674,7 +1644,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/telemadrid.png",
         "name": "TELE MADRID",
-        "uri": "V/VGld5FfHGLDucR+3GTvvX2qASAstVrXSJwIit8xbxCX1FbBAqxblOU+IgpnlZhFLMmGNTbLVfwfN0KkuGw5FMgNY+bUe45vKqFqpS0IWreqbTyBBLsyOT/1xz7MuhL9A/mWw8UiSyBm3Xz7Xf97g=="
+        "uri": "V/VGld5FfHGLDucR+3GTvrWq4589MhZMc2ba+egV9xneNmsX3ULCgJjJ+3C42mKtKeo8QzZHMq6ydvFHfUzZ/A=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/tvgalicia.png",
@@ -1708,6 +1678,11 @@
     "name": "RADIOS",
     "lista": [
       {
+        "icon": "https://static.tvar.io/imagenes/mucharadio.png",
+        "name": "MUCHA RADIO 94.7",
+        "uri": "l+tYBFiGIzIX0l4o/MkMaHjr6tQb5fYBp+Z9q8q+GxVDW5U2x8ChoXQfg2HqZ1pqdZLJCuVdNMxGtTL8WVgm9Q=="
+      },
+      {
         "icon": "https://i.ibb.co/pjKcXkw/FB-IMG-1629477052002.jpg",
         "name": "RADIO 96.5 MIX",
         "uri": "e0bsZGGyfgzGDOfiOmuT36nnzlTrQfwuOCx0EA1kE7iUX22qiVjPMQr5Fr9H+3yDYvX8GE9PdUu9JUcqRkt0rQ=="
@@ -1736,11 +1711,6 @@
         "icon": "http://static.tvar.io/imagenes/retrohit.png",
         "name": "RETRO HIT 1027 FM",
         "uri": "5D652ZtRR4G+6mwnapYLdcXk0NizkW95wRAErPxKdmc8v19+GdDM3CDTpznuJe2Y"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/radiofactoryiguazu.jpeg",
-        "name": "RADIO FACTORY",
-        "uri": "B27ACwYyNVTyE6oiVVgB74b7A/yVUkoF0Aaf8Ua4hnnuY5Lq01djUNdjl5WifLNw"
       },
       {
         "icon": "http://static.tvar.io/imagenes/radioNacional.png",
