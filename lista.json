@@ -2335,7 +2335,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/globo.png",
         "name": "GLOBO",
-        "uri": "7qK25TrqdGeOKcdMYBVdgR1/rMcaS8JawfsohPzwVW4cxdHGCmPwaZrTt2/EnqewSYRAF6Urz8mGsosrXmpq2g=="
+        "drm_scheme": "clearkey",
+        "uri": "ewr7dvkk6Ssxd2j41rb4lpBQj073ZG9swWM1evNNllpDp8IVATPwhng3L0TreI5ZymrLGfpp4C2WEoyKkVjZ5Q==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqTD3UEMIlr4YIx5Tym55ur"
       },
       {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
