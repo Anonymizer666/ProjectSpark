@@ -2343,6 +2343,13 @@
         "uri": "RLW1VQhd2NDjiSjGVR9BpXNcMEFOmF7nUg+fW6BO+MAfUXcWZa86Hw+dqxPlHnhD4/d3mc7qbNBqtogequLdE+Y7yG4jkj39JBq3B8IRrSI="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/redetv.png",
+        "name": "REDETV",
+        "drm_scheme": "clearkey",
+        "uri": "ewr7dvkk6Ssxd2j41rb4lpBQj073ZG9swWM1evNNllpDp8IVATPwhng3L0TreI5ZymrLGfpp4C2WEoyKkVjZ5Q==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCokgjA25yhWI1GLZec+uYdZ"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/recordtv.png",
         "name": "RECORD",
         "drm_scheme": "clearkey",
