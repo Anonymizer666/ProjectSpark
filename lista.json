@@ -467,6 +467,11 @@
         "uri": "iNvEcjr99wI8yrowO20KIJ4BEa36c7c24POel7pLeWDGpg9jF4F474+D+eArBx/V"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO 2",
+        "uri": "iNvEcjr99wI8yrowO20KIB4ntIa7p3JWGAsqhlmzEQKjfCHNFC7MM1ossQqxBN/E"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
