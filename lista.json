@@ -462,16 +462,6 @@
     "name": "DEPORTIVOS",
     "lista": [
       {
-        "icon": "https://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO",
-        "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2wH0lhYaqfsbyi2xZQdQackiLvVO5DeSA6HppGElIMxfnDX8SF2BxkPqZ4YeCpQMY4="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 2",
-        "uri": "oJEJ6q0NeDGuBkimf123bJfI+aWmKeCOH0oFvrwXqsuhQHYUYvHdBB8dr/KrLtoQ"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
