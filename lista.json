@@ -298,6 +298,11 @@
         "drm_scheme": "clearkey"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/seven.png",
+        "name": "Canal 13 la Rioja",
+        "uri": "urhitntBGpBfYF5LYj4Vfc7OUBq6qEP78Qpdr5kpLvToeMOxNEzxgyLaLJLXe6QccoBDjAT1nDK6MgovuQZjjLpMtaVvuRM8N62gmOOtLbg="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/canal13larioja.png",
         "name": "Canal 13 la Rioja",
         "uri": "QObWONEH5ZZc+gWB1f6jBdzwz2rlUZgT4UkoZONW8G4uTS48+QUYbu3L3y90YIu5"
