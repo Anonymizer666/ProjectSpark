@@ -1324,6 +1324,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrRiIIbAqmMTyPJCSc1qzuU"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/tlnovela.png",
+        "name": "TL NOVELAS op2",
+        "uri": "3pmk4fa1u5TAZhY64DCqP18NWoJ4UeIGnNYhMAuGziDWhfAOUmT1OoEYw/issAFBMLTlCbSb02clG0eeMX9o4bdwgrkPzLQB8uXRsyNyJYQ="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/tntnovelas.png",
         "name": "TNT NOVELAS",
         "drm_scheme": "clearkey",
