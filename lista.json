@@ -573,20 +573,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpRnz+LtvrGj2RiWHIzlPxI"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/dtv2.png",
-        "name": "DSports 2",
-        "uri": "NUZl+1W56VxKvie/ghezw0t2NhdjBvQbky4E5C41Jm1tjES2/S4ogwZoncjkj7VwYrwFivn87zFz6FR9SfHn5g==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrL9ec/XfKH4UbyBTMOEkN+"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/dtv3.png",
-        "name": "DSports+",
-        "uri": "3Tn0dQI0tWsvzlEF2ubBPpZ1cQrimuFJPRi1lVbRCW18ySrWi4U+nxUltfdTcXLNnbPkj5fxGiJhTab86JWo0Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCra5o3CFhjkYxuQy9Iy5jZy"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/dtvfight.png",
         "name": "DSports Fight",
         "uri": "12P7XV4WgVSYoqlCicZIPYgwQ8QkCBoP8fePMKZhZhtakWXp57k4LffrUkcihZRpXJvSHY6Cv/MqdT2+OHcchw==",
