@@ -2555,6 +2555,13 @@
         "uri": "e0bsZGGyfgzGDOfiOmuT3xh6Wv73ph8spQZhPjYkeWQD2KxstrIkhtlkx5ge+YxZ93OQwzgytfTGOwcj9fmPx9Pnvmi+TZzLNhylXeRxvyTJCYJz4U04ZAdS6pjj9ktr"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/rcn.png",
+        "name": "RCN",
+        "drm_scheme": "clearkey",
+        "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfpqZ32a1kYmNNoWL1dKBVzMAQy2vwB0ymjRt6/8q2C1on44gGlde4jIjR1l7KZBqeg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqilOqzM9+182VB/wvDuipa"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/rcnovelas.png",
         "name": "RCN NOVELAS",
         "drm_scheme": "clearkey",
