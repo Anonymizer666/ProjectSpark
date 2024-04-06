@@ -486,16 +486,6 @@
         "uri": "kxqVqHth3E4CMIx91H106VrnVWlsf695eLMnAFagZzzcWuFn3Wi4hzoKBKmqD4qA"
       },
       {
-        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
-        "name": "BEIN SPORTS XTRA",
-        "uri": "c05rr/0e9Pcp7/h54eyYwP3cALyimAIvKht7S3IIHICTfrcC1CFtMVzLR3w/XewaPwT2PiY3QUiHCnS/HH4Yh5DOzKdSAIW+cOAKppOawro="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/beinxtran.png",
-        "name": "BEIN SPORTS XTRA ñ",
-        "uri": "+c5owSqMD5dQyXT8BEAh3ZQgI/9myuNZ1rKnVU33epXv9atIKctwdPAMpHGVCmSHw2Ip/KX+JSKRp8ZmeHnvcr91/11COmcmwvQq7hjNYzdaBZqHHT+LyuCXdo86HMhMl3ffsINkppVFkA3f2bO4kA=="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espn.png",
         "name": "ESPN",
         "drm_scheme": "clearkey",
@@ -550,6 +540,16 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMyn0jqm/rr4CwnZ+bYheHtp3BVsT4WT4Jl0m/P1MeQgZA3KiynuSfBpweTOU/OQU2yAT8b221KSkdFqWISU9RLs=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4uQy5Ml/bn4iIggkPhzy6v"
+      },
+      {
+        "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
+        "name": "BEIN SPORTS XTRA",
+        "uri": "c05rr/0e9Pcp7/h54eyYwP3cALyimAIvKht7S3IIHICTfrcC1CFtMVzLR3w/XewaPwT2PiY3QUiHCnS/HH4Yh5DOzKdSAIW+cOAKppOawro="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/beinxtran.png",
+        "name": "BEIN SPORTS XTRA ñ",
+        "uri": "+c5owSqMD5dQyXT8BEAh3ZQgI/9myuNZ1rKnVU33epXv9atIKctwdPAMpHGVCmSHw2Ip/KX+JSKRp8ZmeHnvcr91/11COmcmwvQq7hjNYzdaBZqHHT+LyuCXdo86HMhMl3ffsINkppVFkA3f2bO4kA=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/deportv.png",
