@@ -357,6 +357,11 @@
         "uri": "Zut1JoYGvtjBVjzAjxSbH4rls8cM8AAXZliO+4/tqhCnKwnOmw3QHTgobEOl8s1cH1ffRSbe4ydzICqZ/V+nfBIwsivdcs02OeW5tD5v2HE53TPLAh9zjt1kCQqUYg0szQQmD4YD7O+i7meo7DizRINctSnzR+4Odb1Z0FTNm06nk+/YJ7NG7iUh+KNSFzZRe0YEz73xhOsjKkkht4QgbcUIx6cjk8NgveKgb33tOPlzqYwBU8DDxqjcIRYlwRfn"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/m4.png",
+        "name": "MISIONES CUATRO",
+        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwy/FkCcXyVn09CkxxgjaCDi/ui6YppmWnpQKCYfqGj0wmV8+2mIIXee7royBUchc4I="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/misionesonline.png",
         "name": "MISIONES ONLINE",
         "uri": "kP4gehBZYtino+9LjZybt4zQFsKeU8j3/TZ7mGYys2yBtZcbXlRIrsTTJ75LHHBmngopL8H309u69UmrHs1HpAY2JHS62wXLRq0+/MVwr5I"
@@ -1528,6 +1533,13 @@
         "icon": "http://static.tvar.io/imagenes/musictop.png",
         "name": "MUSIC TOP",
         "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBx3lNO/7kgeNjvxikV5ujfmWvWoAMoOMlCTl3Em8Q3XXxu/Pugas0N04k6Rg7YgHNU"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/nickmusic.png",
+        "name": "NICK MUSIC",
+        "drm_scheme": "clearkey",
+        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwwZJ49VBZzSkfvMbpN6UaHQHChSAKsRKv1n6Fzy+usL3A",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo+UzF0xam01iFtzZ4OxzGA"
       },
       {
         "icon": "http://static.tvar.io/imagenes/quiero.png",
