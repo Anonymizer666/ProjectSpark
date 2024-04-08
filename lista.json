@@ -191,7 +191,24 @@
       {
         "icon": "http://static.tvar.io/imagenes/canal13riocuarto.jpg",
         "name": "CANAL 13 RIO CUARTO",
-        "uri": "urhitntBGpBfYF5LYj4VfRurKAPvniOF1KJEg1UTy2rAqWfiU4Ip7Un9XBXBFhayaWURm50dx3Ui7C137QfJ5x8Alwa7D1j8fAC8CAo8/nI"
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZsM1flFR9dRv/savKaNM0BADeYm+HthK9+b5cSrjiduE="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal30sanjuan.png",
+        "name": "CANAL 13 SAN JUAN",
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj37cWQe4RoRYXSG7shrwseOUBUjrU4HgOpKjY1KwwURaRnIgh78ObUgYE/S0RSTJQ8CDoBwLLhgUcqqduTIHc7A"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal13sanluis.png",
+        "name": "CANAL 13 SAN LUIS",
+        "uri": "I/O/6g/72XM8gM39AzXYhrPBNGjRwOgcDeZlAyZHnh9NJqxCKThozhej2eaVbqUNUZb1JUCZpKzehfzOI14vE3KlzfH18Wfut+Wum39MFls="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal21posadas.png",
+        "name": "CANAL 21 POSADAS",
+        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwwdBVxFEZsMD4hboym+cCSgOKhwsCMUlx5LXhHIoijCXUBAcYwz4tFMqjF4muk2Zio",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpu52/dBx+OzjrWoLX2dXUb",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "http://static.tvar.io/imagenes/canal22web.png",
