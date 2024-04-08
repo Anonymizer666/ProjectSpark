@@ -128,311 +128,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "lista": [
       {
-        "icon": "http://static.tvar.io/imagenes/13maxdigital.png",
-        "name": "13 MAX TELEVISIóN",
-        "uri": "UtiAsuuZfCPtV6Iq7StmDsd2ttUvT/Dzqu9XU9RQLSho2M4alJOIhkoAlcdb78XNr+YDBLqnNxQJb2YHPzE5pZN5u8RI9yVSdN5ur8ZLW8Q"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/americatucuman.png",
-        "name": "AMERICA TUCUMAN",
-        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZtg5GRYDJCAoBfybz/sfKt35jcFPp+diEnNo5ejqTi/PxVeZYW/rmS2tCVNiNnCh8"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/bayrestv.png",
-        "name": "BAYRES TV",
-        "uri": "iNvEcjr99wI8yrowO20KIDJR0tStLW/hFysYOd7p8XHFhLn+z2r9BcKruoh50EsX"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/bragadotv.png",
-        "name": "BRAGADO TV",
-        "uri": "QiGsviHP3TEk5QiEFaoDn575wi2dKlTSuFGZY3Ud7HW4jHktQbkIYCivcdyCvhocfyu7J4REPM+ibIiyddnR4Q"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal10cba.jpg",
-        "name": "CANAL 10 CORDOBA",
-        "uri": "iNvEcjr99wI8yrowO20KIKyetYm4G44MqYZoY9NV4o7UeIL+lmwgq4VLZ2+pkbxUdDmdMZZpoXb727ArdMNbxHwaFY+3DWH3UOtLoXnjyJvpX157p0EloVxrK/mKojKC",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCovqc0RhBRbA0mbzqrXrQes"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal10mardelplata.png",
-        "name": "CANAL 10 MAR DEL PLATA",
-        "uri": "iNvEcjr99wI8yrowO20KIKTCEJFtCUhC2DIEY5Fz2HfnZcbuUHm3Wua8rRJ+YtPc"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal10mendoza.png",
-        "name": "CANAL 10 MENDOZA",
-        "uri": "3IEEv3gpzNtNGjusao8aa3S4YvGxs5f2uiEpejeGi0hoLqXR14NqqDi6nkYRNNLJwGtPpxv529CvI02nhlyZ5w"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal10tucuman.png",
-        "name": "CANAL 10 TUCUMAN",
-        "uri": "iNvEcjr99wI8yrowO20KIBamjE6/qXiz7m5U0MOP6uMNlP1Xq/e96HeiwDjkA+TpWbksCwCYkI/xdFmOpsuuXcmocfQecSgkt1gxrrUoqVk",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoTLjAQsNuabxyoRZkkon9b+NXqTukuwisvch4+k+snDQ",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal12cba.jpg",
-        "name": "CANAL 12 CORDOBA",
-        "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpspvQ4GdB9abLyZPiqn2yV5VxK9/96+C7Gh+WwuvGqsjYaDRis9t5hnvb0dH9m0EC5c",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqZI1T0bjRttY6jQlDEDc1Q"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal13larioja.png",
-        "name": "CANAL 13 LA RIOJA",
-        "uri": "QObWONEH5ZZc+gWB1f6jBdzwz2rlUZgT4UkoZONW8G4uTS48+QUYbu3L3y90YIu5"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/seven.png",
-        "name": "CANAL 13 LA RIOJA",
-        "uri": "urhitntBGpBfYF5LYj4Vfc7OUBq6qEP78Qpdr5kpLvToeMOxNEzxgyLaLJLXe6QccoBDjAT1nDK6MgovuQZjjLpMtaVvuRM8N62gmOOtLbg"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal13riocuarto.jpg",
-        "name": "CANAL 13 RIO CUARTO",
-        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZsM1flFR9dRv/savKaNM0BADeYm+HthK9+b5cSrjiduE="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal30sanjuan.png",
-        "name": "CANAL 13 SAN JUAN",
-        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj37cWQe4RoRYXSG7shrwseOUBUjrU4HgOpKjY1KwwURaRnIgh78ObUgYE/S0RSTJQ8CDoBwLLhgUcqqduTIHc7A"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal13sanluis.png",
-        "name": "CANAL 13 SAN LUIS",
-        "uri": "I/O/6g/72XM8gM39AzXYhrPBNGjRwOgcDeZlAyZHnh9NJqxCKThozhej2eaVbqUNUZb1JUCZpKzehfzOI14vE3KlzfH18Wfut+Wum39MFls="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal21posadas.png",
-        "name": "CANAL 21 POSADAS",
-        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwwdBVxFEZsMD4hboym+cCSgOKhwsCMUlx5LXhHIoijCXUBAcYwz4tFMqjF4muk2Zio",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpu52/dBx+OzjrWoLX2dXUb",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal22web.png",
-        "name": "CANAL 22",
-        "uri": "NU6UU507Gn7vhthpiyGDvhxBA+E0NHfHFpl6jlWE5TxQ3hNFfjF0O7F4fZsMlxbalP6bp8R3maOtztB6nAcg6qmOhDbUGCuyH5DkqAuuc3o"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal3formosa.png",
-        "name": "CANAL 3 FORMOSA",
-        "uri": "4jaAzLE3sPlUG5DIn4JefHa2rZ9fkZXEnYZRoQRr6C48wj71InFcS78dnIEubTxKIHAb/ddB3lPVtWnYVGpjwA"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal3rosario.png",
-        "name": "CANAL 3 ROSARIO",
-        "uri": "iNvEcjr99wI8yrowO20KICxIzeequ4tRrOjTPJgZZtyiPuzs6YG9utVQIc/gV8jgHuZwqj2TTe3ObY8p5U4Y1ekuoGNrP3u6iBlvgGkCPcgpKdM1hx/CyKMx6r2qiJx0",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoKaU5sdrkUgb/jln2hBs+J2F0QsVlXJAbTbUmIbSs19A",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/34sanjuan.png",
-        "name": "CANAL 34 SAN JUAN",
-        "uri": "X0QAO5hHQVgOMfr9xR4Q3c5djwuKVGa4bDP9pi0/1yeypWuI9gszgIKardPJ0g+8CUSU+2STHrIX532Eg32hSg"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal4jujuy.png",
-        "name": "CANAL 4 JUJUY",
-        "uri": "1nAyJ7eKbfu35jM9uHYm13TK+sIafKofXgJrfebhdGHHwoYiW04sUDMSHl7HgSdKTd/fMTRlYICUbUOl6q1mxA8lt51Y0sUGwYDXJDgzwuk"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal4sanjuan.png",
-        "name": "CANAL 4 SAN JUAN",
-        "uri": "elBE3HrLiZ81cjwliXPXB5/CjY0HM0ZuWBTzLz0K2NA9pAxHwKdz9nP1Kkb8hvpScEuwyyHDlnX9EYCFgJ9b5A"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal5eps.png",
-        "name": "CANAL 5 EPS",
-        "uri": "kVIbmMkS4kqBUQOASY/Ll7wBI0pYObpT8zRTeulVo6Uipvdd6Mzs3TnZDAlUFgs2LzuRb9yxng2onQNBkUytlJ71iS8GlDCllqpscfNa8Pc"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/ch5tucuman.png",
-        "name": "CANAL 5 TUCUMAN",
-        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3ecvf0dsrznS8avrJ6QjRQc82/aieGCZfD4tOv0a6n6wd7v1DcPWauslgOwD5H4u8uNnPGcMeTu3YIGqbY3gPCqzQ",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp6o1e9SLrRKJ7VDbm2f7ix",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal6posadas.png",
-        "name": "CANAL 6 POSADAS",
-        "uri": "JOzYcWv9BylNQtEiBo6XhgdnTpfQym4RwJoW4UcPqTmepeCOgTrL2UNDIpr015V+mUL6z4+L3ZXnua6dDb5MZw"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/ch7catamarca.png",
-        "name": "CANAL 7 CATAMARCA",
-        "uri": "li55uCX1AVPZR6OnK+0qIkC30NRZBT8NJLxv9vrqKZYuZjiGpPVhRtad8zjLebMUwTQVIy/mhJdAGuFf0aVO6s30XSQbhnrfmu0P5HJXSCMSPn5GPDr9RCW9rHwgmMGC"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal7jujuy.png",
-        "name": "CANAL 7 JUJUY",
-        "uri": "li55uCX1AVPZR6OnK+0qIo2Jw/gkz/ApVMifDGMB9w1LgoNKLkCPBTq517X37VHHCc5pw7qg26FBQ5Es7U3+Boix/Y3hPAMBi+Y/lu0lnac"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/sietemendoza.jpg",
-        "name": "CANAL 7 MENDOZA",
-        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZzz0XlxDrCbfKHZ1RphNN/5XRYVqXtnEn+inWSGqA5dyGm+EiiPAoEgVXZg8qzNQP"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal7salta.png",
-        "name": "CANAL 7 SALTA",
-        "uri": "7VlGTTPeAyJWT3ZuYoA2dfKr5zEEG7KJrLuC81Hm1WiyjiQBFDraTIKP9L8hWSNC2uff50NpbNHcEe44oTWMaw"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/8mardelplata.png",
-        "name": "CANAL 8 MAR DEL PLATA",
-        "uri": "li55uCX1AVPZR6OnK+0qIhLuES3U2yf27M/Om4L7u5c8poa8EAH/KLrylJUQ12zu1+FgcbZgDLbO+IYt/MKpoQ"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canalochosanjuan.png",
-        "name": "CANAL 8 SAN JUAN",
-        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZjz9TkFGAIvhbp+72ytaZAVIMaFPGX5jzZ8N5dPxFOxlRJxOO/XOK/94R3GaHQ6If"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/8tucuman.png",
-        "name": "CANAL 8 TUCUMAN",
-        "uri": "iNvEcjr99wI8yrowO20KIPPTaOdTv65sXwFs+BYgFRQWTis4BbJ+ASVt/MwkAeDeyCDA7RUrMXbvF2sJuOWkSgVtaPCYFTCc9dNpD9+bghBgRnS70d/b9RQT2lZkW3mO",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp6ko84rz7SHX54zgOg9VCeusL9fE2GHx69dW2r3q53rg",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal9larioja.png",
-        "name": "CANAL 9 LA RIOJA",
-        "uri": "QiGsviHP3TEk5QiEFaoDn575wi2dKlTSuFGZY3Ud7HVH97K8/X6GP9Eni5q4Nstr2apmSuuWV529g6/4I9ZO2Q"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal9litoral.png",
-        "name": "CANAL 9 LITORAL",
-        "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpspuaCjlr1bg4LKFJ5Ydjyhbb4AkYwmhuMCe0T5Ys9PplAkbrdh+yySk1x+9vr1ERMmwO53Cr+gQZwaOOAkgZXHL",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrLEiaZSb1RdwRzXglgOFUMufl7nJ4od/zQiZuwTXF2VQ",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal9mendoza.png",
-        "name": "CANAL 9 MENDOZA",
-        "uri": "GNsWRudnL/OlM39GOX4He2aZMzLczTho8rQ3oclZvKx09TneIsqVWJK4Yks3QE2Cl5qzgxHA4krNsN8ZrNdERymen3QTu+XOZ/3ytXYB9m4X8P35m+WAYsEBomc7/9P96dxbozPu7GOP3ZocSPi21g"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal9nordeste.png",
-        "name": "CANAL 9 NORDESTE",
-        "uri": "iNvEcjr99wI8yrowO20KIOm2gGzNq0kz9SZlOOoCqTDUwioRIBrf+hg1Sd2WQCmPUlxd1Hs7hCvwKSNbD9JTFPF3TE70yxr9KLCttnLOer4BAND/Bz0bPg/BzluSz7hi",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoUGx/BL00g1L50MBQWurxcg+f5WR9GxPNY/l/pUCV2hw",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canalcoopjesusmaria.png",
-        "name": "CANAL COOP JESUS MARIA",
-        "uri": "iNvEcjr99wI8yrowO20KIAhw3zD+xEjv3rqK+9G2SRCexT+vtsxPY1f7QVSQ1tsk"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canaldelaciudad.png",
-        "name": "CANAL DE LA CIUDAD",
-        "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpspa+VfhB5wpS98HoXFXg0I0/eTqkca7vMa2Dv3S4WkAg2clnpZ104KXEvzOVZMpO69UPEZOw5SEi9YTuisCplbI",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr7hQ2wIq9CMCwIfKNjBHpO1KsCUiX6eKFt+sMV+4pYJQ",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/12misiones.png",
-        "name": "CANAL DOCE MISIONES",
-        "uri": "iNvEcjr99wI8yrowO20KIOm2gGzNq0kz9SZlOOoCqTCOnWGn91EFOqfGtfndmm9ZnnmUjk+gLptdMWm/2z2xtfvWnuAGCNo2a7KU7JRpSN4",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCps9s2UpnqNbsI0IsEpo3YF"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal7bahia.png",
-        "name": "CANAL SIETE BAHíA BLANCA",
-        "uri": "iNvEcjr99wI8yrowO20KICxIzeequ4tRrOjTPJgZZtyZylLFyyg06mKQMxXJw/WfNJt1bOibH2EJ7NoJBoeiB4Fs8LPiUbbpz3cNH+teKhonfKabKCFapd/JhCH4alUt",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr26vKTy5hitrXL/PQK+6V2mXFxA6hTilXTvLUhuGzcCA",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/chilecitotv.png",
-        "name": "CHILECITO",
-        "uri": "7VlGTTPeAyJWT3ZuYoA2dfKr5zEEG7KJrLuC81Hm1WgZKLbwrHQXsEsnJkYsAEUvrBqKoYIgr1uAg4wKOpWGLA"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/cvinoticias.png",
-        "name": "CVI IGUAZU",
-        "uri": "iNvEcjr99wI8yrowO20KICi872KQoibGnIp7t0JVOWz2IfltF6whnET9HbvQ8F0a"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
         "name": "EL DESTAPE",
         "uri": "knLi6+deywfO/Q9G2q+l5k5XViratj9i0Qvgum9+vjUjCVV44iHdYRWqWZVJVgOJ",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoxqy7CTzeKmC4pXKH5L7h8"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/lapachoch11.jpg",
-        "name": "LAPACHO CANAL 11",
-        "uri": "7VlGTTPeAyJWT3ZuYoA2dfKr5zEEG7KJrLuC81Hm1WhmsjJN4/XyTIshLv95eeeU1hbX/WP3cnYIOBnEXzuaQA"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/metropolitanatv.png",
-        "name": "METROPOLITANA TV",
-        "uri": "Zut1JoYGvtjBVjzAjxSbH4rls8cM8AAXZliO+4/tqhCnKwnOmw3QHTgobEOl8s1cH1ffRSbe4ydzICqZ/V+nfBIwsivdcs02OeW5tD5v2HE53TPLAh9zjt1kCQqUYg0szQQmD4YD7O+i7meo7DizRINctSnzR+4Odb1Z0FTNm06nk+/YJ7NG7iUh+KNSFzZRe0YEz73xhOsjKkkht4QgbcUIx6cjk8NgveKgb33tOPlzqYwBU8DDxqjcIRYlwRfn"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/m4.png",
-        "name": "MISIONES CUATRO",
-        "uri": "elBE3HrLiZ81cjwliXPXBxs6fx8ml800jl2f+ATX6St3u537SsFwlfdVUYRWp223af86K3OJ6swFSVCq85OLtFg17FJBRJDW4aADuPTp1Ng"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/misionesonline.png",
-        "name": "MISIONES ONLINE",
-        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj37cWQe4RoRYXSG7shrwseOT7FFxD7SZcWLbPPY9HnpTQef3yyjD1ocxXacSyq6YTY"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/multiplataformafenix.png",
-        "name": "MULTIPLATAFORMA FéNIX",
-        "uri": "aP9/mVeWXUqr+0uxtT8DocGgmcBQRdqnpprDyLCjuaBrxfB4qtRS4IN8ySS+3C+BXDfchGbI2A4jQcQxdfvnmA"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/multivisioncanal9.png",
-        "name": "MULTIVISION CANAL 9 DE SALTA",
-        "uri": "iNvEcjr99wI8yrowO20KICrbtJKfrIpYraBjD7edhbzby1AS2mxCJ3n7klVoPKxM"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/radiocanalsanfrancisco.png",
-        "name": "RADIO CANAL - SAN FRANCISCO",
-        "uri": "T9QBwM0pYw+bhyeFJKApjcZ2jt8VFj0vYlrWAB64Tr4"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/radioiguazu.png",
-        "name": "RADIO IGUAZU TV",
-        "uri": "kVIbmMkS4kqBUQOASY/LlyHjWIOKbWJmjGX6nqGSxUiqOIgApkpb7eZpDKbFNDmbmw9a9BfcshESAa1PHUzpvw"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/canal13sanluis.png",
-        "name": "SAN LUIS+",
-        "uri": "li55uCX1AVPZR6OnK+0qIoHw6h7N3PNwxa7IrhmX/aMjQ78d1T4Un79iv42g96/G0pAFJnBa0swkJOF9iGoGUcyuoAgFyNwxpHWfjw6qiLs"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/showsport.png",
-        "name": "SHOWSPORT",
-        "uri": "iNvEcjr99wI8yrowO20KIPf4q6UHfAkZzm4oddkasGZwXXmiglggXinRW/jSBge+LEgwhcrqf+W0kEObpF2BZsqHf2PQyl1YUuJsQ2704QM",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqPAAmm8pRcEdVDbUeZBhy8BYngTxID+NJYG6ewz2i+eg",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/streammax.png",
-        "name": "STREAM MAX JUJUY",
-        "uri": "H8X9Q57HBn+FZ/TOT84dLuSUzKImpkM3FTDhDjggoXdbBmBGljHXc2pSpAixtjB/cHtH73yJuM3aUbXesFOr2Q"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/t5satelital.png",
-        "name": "T5 SATELITAL",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGcU7+9cQoQRh2B/kcIHroPO2YnLs52ul+9jx8FWyhvVw+jD9D/SinnTB8xOsVGtTqA",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCphrDmW2AVfa5qnmdUaC9di",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/telefebahia.png",
-        "name": "TELEFE BAHIA BLANCA",
-        "uri": "iNvEcjr99wI8yrowO20KICxIzeequ4tRrOjTPJgZZtwlqPoaxN8Tg6SeX19lUZ+3gEJwieRsuRXhnB9X7iTMMaHXWyPw/3mmTRNN04m1662zUhQsjVAMx7z0jlFwJdNp",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoY14yEp+iSWns4BAvoaSUKVpHUE7BhnyF7l7H6XuWtBA",
-        "drm_scheme": "clearkey"
       },
       {
         "icon": "http://static.tvar.io/imagenes/telefecba.png",
@@ -442,24 +142,58 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpUbteG3lZ9HfCx++kj0zT3P2/1GZ72yRYEbzKWbluE6Q"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/telefeneuquen.png",
-        "name": "TELEFE NEUQUEN",
-        "uri": "iNvEcjr99wI8yrowO20KIOmT3sUG0EXvzFCeOr9H478MWLgPgMo949u1LFO+m5V/vmCxLdwmNE5wRS7BMJxWTIgri9Xc/LOUEU77qHzyh4LlINB69cuNuTwvm3Pfkbt1",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpyEsDVu8gQECvWc3QPkqZKgIJ/2Q5Vip11e9ijxQVSDw",
+        "icon": "http://static.tvar.io/imagenes/canalcoopjesusmaria.png",
+        "name": "COOP JESUS MARIA",
+        "uri": "iNvEcjr99wI8yrowO20KIAhw3zD+xEjv3rqK+9G2SRCexT+vtsxPY1f7QVSQ1tsk"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal12cba.jpg",
+        "name": "12 CORDOBA",
+        "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpspvQ4GdB9abLyZPiqn2yV5VxK9/96+C7Gh+WwuvGqsjYaDRis9t5hnvb0dH9m0EC5c",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqZI1T0bjRttY6jQlDEDc1Q"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal10cba.jpg",
+        "name": "10 CORDOBA",
+        "uri": "iNvEcjr99wI8yrowO20KIKyetYm4G44MqYZoY9NV4o7UeIL+lmwgq4VLZ2+pkbxUdDmdMZZpoXb727ArdMNbxHwaFY+3DWH3UOtLoXnjyJvpX157p0EloVxrK/mKojKC",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCovqc0RhBRbA0mbzqrXrQes"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal13riocuarto.jpg",
+        "name": "13 RIO CUARTO",
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZsM1flFR9dRv/savKaNM0BADeYm+HthK9+b5cSrjiduE="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/radiocanalsanfrancisco.png",
+        "name": "RADIO - SAN FRANCISCO",
+        "uri": "T9QBwM0pYw+bhyeFJKApjcZ2jt8VFj0vYlrWAB64Tr4"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/americatucuman.png",
+        "name": "AMERICA TUCUMAN",
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZtg5GRYDJCAoBfybz/sfKt35jcFPp+diEnNo5ejqTi/PxVeZYW/rmS2tCVNiNnCh8"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ch5tucuman.png",
+        "name": "5 TUCUMAN",
+        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3ecvf0dsrznS8avrJ6QjRQc82/aieGCZfD4tOv0a6n6wd7v1DcPWauslgOwD5H4u8uNnPGcMeTu3YIGqbY3gPCqzQ",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp6o1e9SLrRKJ7VDbm2f7ix",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/teleferosario.png",
-        "name": "TELEFE ROSARIO",
-        "uri": "iNvEcjr99wI8yrowO20KIKyetYm4G44MqYZoY9NV4o5PgBO+ZJK8KhDxrdbpoIRRXJQh28Q+JEIIr76kqQG4IMSav9bmQHMb4ChOVuEuXe7VZRss4+8sKwOG8+COcCi2",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoUOdkREHGy+/m2+b9rPcvbwhOjPJtjKExQ0EXsgSJvlA",
+        "icon": "http://static.tvar.io/imagenes/canal10tucuman.png",
+        "name": "10 TUCUMAN",
+        "uri": "iNvEcjr99wI8yrowO20KIBamjE6/qXiz7m5U0MOP6uMNlP1Xq/e96HeiwDjkA+TpWbksCwCYkI/xdFmOpsuuXcmocfQecSgkt1gxrrUoqVk",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoTLjAQsNuabxyoRZkkon9b+NXqTukuwisvch4+k+snDQ",
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/telefesalta.png",
-        "name": "TELEFE SALTA",
-        "uri": "iNvEcjr99wI8yrowO20KIOmT3sUG0EXvzFCeOr9H47/GYwKkDk+Lq85+ws2gutWMO9XFuSQptdwAzVpIlk6mbYl2h2KqmRQsFvSwBuVouik",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq3GBfi5ycz6ADDBv7tqb9hB0wLYvr4JHUefij00tnnCg",
+        "icon": "http://static.tvar.io/imagenes/8tucuman.png",
+        "name": "8 TUCUMAN",
+        "uri": "iNvEcjr99wI8yrowO20KIPPTaOdTv65sXwFs+BYgFRQWTis4BbJ+ASVt/MwkAeDeyCDA7RUrMXbvF2sJuOWkSgVtaPCYFTCc9dNpD9+bghBgRnS70d/b9RQT2lZkW3mO",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp6ko84rz7SHX54zgOg9VCeusL9fE2GHx69dW2r3q53rg",
         "drm_scheme": "clearkey"
       },
       {
@@ -470,9 +204,183 @@
         "drm_scheme": "clearkey"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/tierramia.png",
-        "name": "TIERRA MIA",
-        "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBwRFBrxTubMEG1PUs94Eoaa1M+RwK3KFdpQE488wXDePj1CqAF+bESG+nLVLgnQ5sE"
+        "icon": "http://static.tvar.io/imagenes/canal3rosario.png",
+        "name": "3 ROSARIO",
+        "uri": "iNvEcjr99wI8yrowO20KICxIzeequ4tRrOjTPJgZZtyiPuzs6YG9utVQIc/gV8jgHuZwqj2TTe3ObY8p5U4Y1ekuoGNrP3u6iBlvgGkCPcgpKdM1hx/CyKMx6r2qiJx0",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoKaU5sdrkUgb/jln2hBs+J2F0QsVlXJAbTbUmIbSs19A",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/teleferosario.png",
+        "name": "TELEFE ROSARIO",
+        "uri": "iNvEcjr99wI8yrowO20KIKyetYm4G44MqYZoY9NV4o5PgBO+ZJK8KhDxrdbpoIRRXJQh28Q+JEIIr76kqQG4IMSav9bmQHMb4ChOVuEuXe7VZRss4+8sKwOG8+COcCi2",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoUOdkREHGy+/m2+b9rPcvbwhOjPJtjKExQ0EXsgSJvlA",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal9larioja.png",
+        "name": "9 LA RIOJA",
+        "uri": "QiGsviHP3TEk5QiEFaoDn575wi2dKlTSuFGZY3Ud7HVH97K8/X6GP9Eni5q4Nstr2apmSuuWV529g6/4I9ZO2Q"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/seven.png",
+        "name": "SEVEN LA RIOJA",
+        "uri": "urhitntBGpBfYF5LYj4Vfc7OUBq6qEP78Qpdr5kpLvToeMOxNEzxgyLaLJLXe6QccoBDjAT1nDK6MgovuQZjjLpMtaVvuRM8N62gmOOtLbg"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal13larioja.png",
+        "name": "13 LA RIOJA",
+        "uri": "QObWONEH5ZZc+gWB1f6jBdzwz2rlUZgT4UkoZONW8G4uTS48+QUYbu3L3y90YIu5"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/chilecitotv.png",
+        "name": "CHILECITO",
+        "uri": "7VlGTTPeAyJWT3ZuYoA2dfKr5zEEG7KJrLuC81Hm1WgZKLbwrHQXsEsnJkYsAEUvrBqKoYIgr1uAg4wKOpWGLA"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/multiplataformafenix.png",
+        "name": "MULTIPLATAFORMA FéNIX",
+        "uri": "aP9/mVeWXUqr+0uxtT8DocGgmcBQRdqnpprDyLCjuaBrxfB4qtRS4IN8ySS+3C+BXDfchGbI2A4jQcQxdfvnmA"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal30sanjuan.png",
+        "name": "13 SAN JUAN",
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj37cWQe4RoRYXSG7shrwseOUBUjrU4HgOpKjY1KwwURaRnIgh78ObUgYE/S0RSTJQ8CDoBwLLhgUcqqduTIHc7A"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal4sanjuan.png",
+        "name": "4 SAN JUAN",
+        "uri": "elBE3HrLiZ81cjwliXPXB5/CjY0HM0ZuWBTzLz0K2NA9pAxHwKdz9nP1Kkb8hvpScEuwyyHDlnX9EYCFgJ9b5A"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canalochosanjuan.png",
+        "name": "8 SAN JUAN",
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZjz9TkFGAIvhbp+72ytaZAVIMaFPGX5jzZ8N5dPxFOxlRJxOO/XOK/94R3GaHQ6If"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/34sanjuan.png",
+        "name": "34 SAN JUAN",
+        "uri": "X0QAO5hHQVgOMfr9xR4Q3c5djwuKVGa4bDP9pi0/1yeypWuI9gszgIKardPJ0g+8CUSU+2STHrIX532Eg32hSg"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/sietemendoza.jpg",
+        "name": "7 MENDOZA",
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj1dNudrRkDBK2BavNwujMBZzz0XlxDrCbfKHZ1RphNN/5XRYVqXtnEn+inWSGqA5dyGm+EiiPAoEgVXZg8qzNQP"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal9mendoza.png",
+        "name": "9 MENDOZA",
+        "uri": "GNsWRudnL/OlM39GOX4He2aZMzLczTho8rQ3oclZvKx09TneIsqVWJK4Yks3QE2Cl5qzgxHA4krNsN8ZrNdERymen3QTu+XOZ/3ytXYB9m4X8P35m+WAYsEBomc7/9P96dxbozPu7GOP3ZocSPi21g"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal10mendoza.png",
+        "name": "10 MENDOZA",
+        "uri": "3IEEv3gpzNtNGjusao8aa3S4YvGxs5f2uiEpejeGi0hoLqXR14NqqDi6nkYRNNLJwGtPpxv529CvI02nhlyZ5w"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ch7catamarca.png",
+        "name": "7 CATAMARCA",
+        "uri": "li55uCX1AVPZR6OnK+0qIkC30NRZBT8NJLxv9vrqKZYuZjiGpPVhRtad8zjLebMUwTQVIy/mhJdAGuFf0aVO6s30XSQbhnrfmu0P5HJXSCMSPn5GPDr9RCW9rHwgmMGC"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal13sanluis.png",
+        "name": "SAN LUIS+",
+        "uri": "li55uCX1AVPZR6OnK+0qIoHw6h7N3PNwxa7IrhmX/aMjQ78d1T4Un79iv42g96/G0pAFJnBa0swkJOF9iGoGUcyuoAgFyNwxpHWfjw6qiLs"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal13sanluis.png",
+        "name": "13 SAN LUIS",
+        "uri": "I/O/6g/72XM8gM39AzXYhrPBNGjRwOgcDeZlAyZHnh9NJqxCKThozhej2eaVbqUNUZb1JUCZpKzehfzOI14vE3KlzfH18Wfut+Wum39MFls="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal10mardelplata.png",
+        "name": "10 MAR DEL PLATA",
+        "uri": "iNvEcjr99wI8yrowO20KIKTCEJFtCUhC2DIEY5Fz2HfnZcbuUHm3Wua8rRJ+YtPc"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/8mardelplata.png",
+        "name": "8 MAR DEL PLATA",
+        "uri": "li55uCX1AVPZR6OnK+0qIhLuES3U2yf27M/Om4L7u5c8poa8EAH/KLrylJUQ12zu1+FgcbZgDLbO+IYt/MKpoQ"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal7jujuy.png",
+        "name": "7 JUJUY",
+        "uri": "li55uCX1AVPZR6OnK+0qIo2Jw/gkz/ApVMifDGMB9w1LgoNKLkCPBTq517X37VHHCc5pw7qg26FBQ5Es7U3+Boix/Y3hPAMBi+Y/lu0lnac"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal4jujuy.png",
+        "name": "4 JUJUY",
+        "uri": "1nAyJ7eKbfu35jM9uHYm13TK+sIafKofXgJrfebhdGHHwoYiW04sUDMSHl7HgSdKTd/fMTRlYICUbUOl6q1mxA8lt51Y0sUGwYDXJDgzwuk"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/streammax.png",
+        "name": "STREAM MAX JUJUY",
+        "uri": "H8X9Q57HBn+FZ/TOT84dLuSUzKImpkM3FTDhDjggoXdbBmBGljHXc2pSpAixtjB/cHtH73yJuM3aUbXesFOr2Q"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/telefesalta.png",
+        "name": "TELEFE SALTA",
+        "uri": "iNvEcjr99wI8yrowO20KIOmT3sUG0EXvzFCeOr9H47/GYwKkDk+Lq85+ws2gutWMO9XFuSQptdwAzVpIlk6mbYl2h2KqmRQsFvSwBuVouik",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq3GBfi5ycz6ADDBv7tqb9hB0wLYvr4JHUefij00tnnCg",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal7salta.png",
+        "name": "7 SALTA",
+        "uri": "7VlGTTPeAyJWT3ZuYoA2dfKr5zEEG7KJrLuC81Hm1WiyjiQBFDraTIKP9L8hWSNC2uff50NpbNHcEe44oTWMaw"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/multivisioncanal9.png",
+        "name": "MULTIVISION 9 DE SALTA",
+        "uri": "iNvEcjr99wI8yrowO20KICrbtJKfrIpYraBjD7edhbzby1AS2mxCJ3n7klVoPKxM"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/13maxdigital.png",
+        "name": "13 MAX TELEVISION",
+        "uri": "UtiAsuuZfCPtV6Iq7StmDsd2ttUvT/Dzqu9XU9RQLSho2M4alJOIhkoAlcdb78XNr+YDBLqnNxQJb2YHPzE5pZN5u8RI9yVSdN5ur8ZLW8Q"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal3formosa.png",
+        "name": "3 FORMOSA",
+        "uri": "4jaAzLE3sPlUG5DIn4JefHa2rZ9fkZXEnYZRoQRr6C48wj71InFcS78dnIEubTxKIHAb/ddB3lPVtWnYVGpjwA"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/lapachoch11.jpg",
+        "name": "LAPACHO 11",
+        "uri": "7VlGTTPeAyJWT3ZuYoA2dfKr5zEEG7KJrLuC81Hm1WhmsjJN4/XyTIshLv95eeeU1hbX/WP3cnYIOBnEXzuaQA"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal9nordeste.png",
+        "name": "9 NORDESTE",
+        "uri": "iNvEcjr99wI8yrowO20KIOm2gGzNq0kz9SZlOOoCqTDUwioRIBrf+hg1Sd2WQCmPUlxd1Hs7hCvwKSNbD9JTFPF3TE70yxr9KLCttnLOer4BAND/Bz0bPg/BzluSz7hi",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoUGx/BL00g1L50MBQWurxcg+f5WR9GxPNY/l/pUCV2hw",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal5eps.png",
+        "name": "5 EPS",
+        "uri": "kVIbmMkS4kqBUQOASY/Ll7wBI0pYObpT8zRTeulVo6Uipvdd6Mzs3TnZDAlUFgs2LzuRb9yxng2onQNBkUytlJ71iS8GlDCllqpscfNa8Pc"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/telefebahia.png",
+        "name": "TELEFE BAHIA BLANCA",
+        "uri": "iNvEcjr99wI8yrowO20KICxIzeequ4tRrOjTPJgZZtwlqPoaxN8Tg6SeX19lUZ+3gEJwieRsuRXhnB9X7iTMMaHXWyPw/3mmTRNN04m1662zUhQsjVAMx7z0jlFwJdNp",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoY14yEp+iSWns4BAvoaSUKVpHUE7BhnyF7l7H6XuWtBA",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal7bahia.png",
+        "name": "SIETE BAHíA BLANCA",
+        "uri": "iNvEcjr99wI8yrowO20KICxIzeequ4tRrOjTPJgZZtyZylLFyyg06mKQMxXJw/WfNJt1bOibH2EJ7NoJBoeiB4Fs8LPiUbbpz3cNH+teKhonfKabKCFapd/JhCH4alUt",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr26vKTy5hitrXL/PQK+6V2mXFxA6hTilXTvLUhuGzcCA",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/telefeneuquen.png",
+        "name": "TELEFE NEUQUEN",
+        "uri": "iNvEcjr99wI8yrowO20KIOmT3sUG0EXvzFCeOr9H478MWLgPgMo949u1LFO+m5V/vmCxLdwmNE5wRS7BMJxWTIgri9Xc/LOUEU77qHzyh4LlINB69cuNuTwvm3Pfkbt1",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpyEsDVu8gQECvWc3QPkqZKgIJ/2Q5Vip11e9ijxQVSDw",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "http://static.tvar.io/imagenes/rtn.png",
@@ -485,9 +393,101 @@
         "uri": "li55uCX1AVPZR6OnK+0qInLPX5ulBbl7J8M17JFEZ93Fjk/hIcT3sj0nIy3fAI8ZBWl7sLXroHXYx1L5BbXJII9IqQE+sKf9X3jp71+lD+o"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/cvinoticias.png",
+        "name": "CVI IGUAZU",
+        "uri": "iNvEcjr99wI8yrowO20KICi872KQoibGnIp7t0JVOWz2IfltF6whnET9HbvQ8F0a"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal6posadas.png",
+        "name": "6 POSADAS",
+        "uri": "JOzYcWv9BylNQtEiBo6XhgdnTpfQym4RwJoW4UcPqTmepeCOgTrL2UNDIpr015V+mUL6z4+L3ZXnua6dDb5MZw"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal21posadas.png",
+        "name": "21 POSADAS",
+        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwwdBVxFEZsMD4hboym+cCSgOKhwsCMUlx5LXhHIoijCXUBAcYwz4tFMqjF4muk2Zio",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpu52/dBx+OzjrWoLX2dXUb",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/m4.png",
+        "name": "MISIONES CUATRO",
+        "uri": "elBE3HrLiZ81cjwliXPXBxs6fx8ml800jl2f+ATX6St3u537SsFwlfdVUYRWp223af86K3OJ6swFSVCq85OLtFg17FJBRJDW4aADuPTp1Ng"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/misionesonline.png",
+        "name": "MISIONES ONLINE",
+        "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj37cWQe4RoRYXSG7shrwseOT7FFxD7SZcWLbPPY9HnpTQef3yyjD1ocxXacSyq6YTY"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/12misiones.png",
+        "name": "DOCE MISIONES",
+        "uri": "iNvEcjr99wI8yrowO20KIOm2gGzNq0kz9SZlOOoCqTCOnWGn91EFOqfGtfndmm9ZnnmUjk+gLptdMWm/2z2xtfvWnuAGCNo2a7KU7JRpSN4",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCps9s2UpnqNbsI0IsEpo3YF"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal9litoral.png",
+        "name": "9 LITORAL",
+        "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpspuaCjlr1bg4LKFJ5Ydjyhbb4AkYwmhuMCe0T5Ys9PplAkbrdh+yySk1x+9vr1ERMmwO53Cr+gQZwaOOAkgZXHL",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrLEiaZSb1RdwRzXglgOFUMufl7nJ4od/zQiZuwTXF2VQ",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/t5satelital.png",
+        "name": "T5 SATELITAL",
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGcU7+9cQoQRh2B/kcIHroPO2YnLs52ul+9jx8FWyhvVw+jD9D/SinnTB8xOsVGtTqA",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCphrDmW2AVfa5qnmdUaC9di",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/radioiguazu.png",
+        "name": "RADIO IGUAZU TV",
+        "uri": "kVIbmMkS4kqBUQOASY/LlyHjWIOKbWJmjGX6nqGSxUiqOIgApkpb7eZpDKbFNDmbmw9a9BfcshESAa1PHUzpvw"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/showsport.png",
+        "name": "SHOWSPORT",
+        "uri": "iNvEcjr99wI8yrowO20KIPf4q6UHfAkZzm4oddkasGZwXXmiglggXinRW/jSBge+LEgwhcrqf+W0kEObpF2BZsqHf2PQyl1YUuJsQ2704QM",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqPAAmm8pRcEdVDbUeZBhy8BYngTxID+NJYG6ewz2i+eg",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canal22web.png",
+        "name": "22",
+        "uri": "NU6UU507Gn7vhthpiyGDvhxBA+E0NHfHFpl6jlWE5TxQ3hNFfjF0O7F4fZsMlxbalP6bp8R3maOtztB6nAcg6qmOhDbUGCuyH5DkqAuuc3o"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/metropolitanatv.png",
+        "name": "METROPOLITANA TV",
+        "uri": "Zut1JoYGvtjBVjzAjxSbH4rls8cM8AAXZliO+4/tqhCnKwnOmw3QHTgobEOl8s1cH1ffRSbe4ydzICqZ/V+nfBIwsivdcs02OeW5tD5v2HE53TPLAh9zjt1kCQqUYg0szQQmD4YD7O+i7meo7DizRINctSnzR+4Odb1Z0FTNm06nk+/YJ7NG7iUh+KNSFzZRe0YEz73xhOsjKkkht4QgbcUIx6cjk8NgveKgb33tOPlzqYwBU8DDxqjcIRYlwRfn"
+      },
+      {
         "icon": "https://urbanaplayfm.com/file/2023/02/urbanaplay-social.jpg",
         "name": "URBANA PLAY",
         "uri": "kP4gehBZYtino+9LjZybt/mTxz4V0jfbM9etDix5bj37cWQe4RoRYXSG7shrwseO10ymv1aoaGGFOjTJy5kYXwNT0+bWUJW7zWbk4vIsNpEtubZWYiHtVBZKjJs5I/qp"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/bragadotv.png",
+        "name": "BRAGADO TV",
+        "uri": "QiGsviHP3TEk5QiEFaoDn575wi2dKlTSuFGZY3Ud7HW4jHktQbkIYCivcdyCvhocfyu7J4REPM+ibIiyddnR4Q"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/canaldelaciudad.png",
+        "name": "DE LA CIUDAD",
+        "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpspa+VfhB5wpS98HoXFXg0I0/eTqkca7vMa2Dv3S4WkAg2clnpZ104KXEvzOVZMpO69UPEZOw5SEi9YTuisCplbI",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr7hQ2wIq9CMCwIfKNjBHpO1KsCUiX6eKFt+sMV+4pYJQ",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/bayrestv.png",
+        "name": "BAYRES TV",
+        "uri": "iNvEcjr99wI8yrowO20KIDJR0tStLW/hFysYOd7p8XHFhLn+z2r9BcKruoh50EsX"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/tierramia.png",
+        "name": "TIERRA MIA",
+        "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBwRFBrxTubMEG1PUs94Eoaa1M+RwK3KFdpQE488wXDePj1CqAF+bESG+nLVLgnQ5sE"
       }
     ]
   },
