@@ -19,7 +19,6 @@
       {
         "icon": "http://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE",
-        "headers": "NFWJV5Zjg8QrwUgrHVLOFdgrR4SqlqTz6IBgamCdn6/BlcO/wDkyKSnn2LBa+gizygMRqnTxK3ImtRwayUgFal0veeyMlcvDKo4MIDGlVqJ5NYID9hx7twZ98OEw0A3WUVrGiiKZFcyzfqwzw4EjeCJA5ETpqD2coJ8d91UXhFjpqdyzszx0u/Z/3j0gbfUqmQ9ejb0iu4BoDEcXszc0QyVbzTHLwr/mFs1Qq8GHw7hmGk9SLcql6eA936wk4T9f6z11F4JYVS5Ro70urdz8YMy/fp59XV1o0Jw50oYWr18",
         "drm_scheme": "clearkey",
         "uri": "knLi6+deywfO/Q9G2q+l5uEe2+WVqLBk1aR6MHMaL+LjyZ4n40zhAZocLXF82RHOdE7ESes6QvdiTHW5SueiP0I/NtF4Vfl/BpOv2wEjpi0",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqZ8RCG/9vv/JfzA6b7072a"
@@ -42,14 +41,14 @@
         "icon": "http://static.tvar.io/imagenes/elnueve.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5v9LvNiJbxZRyaW6p87NKSN3xRBYvcbh0gPpyXjVkCeGYqXhg+JZ3gpT8yzfvgYT2J8U31X+8CAoSmKwnUR1X9A",
+        "uri": "iNvEcjr99wI8yrowO20KICxIzeequ4tRrOjTPJgZZtyXnI3iX56yE+Eqgee81tcpWF/2MYnn066u24kLp3KFR7qGQjkZ3mWCXltVG8MhuNI=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqmEwgqe94+3oS2QA695Iba"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tn.png",
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5vUPd4wo6/QLn8H3VrFzYZ2eS2m1CKKEUUMIIDICa5vE2uDa1P6nHhHAoEkif9WB72ZPpOmeoG5pprUpeRmIXmPBKUYz09JhOyGhl29XtV4c",
+        "uri": "iNvEcjr99wI8yrowO20KIEg9G2qNPOC58X1PaTSwNHOGugkEC5N07cWOaVw48zlI8dQpszSZnqXrjFFyj3amNv3IU9hte8Wyzd6aB4gyjC8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrZ17DwUMCQ6lvnUtG7jEvO"
       },
       {
