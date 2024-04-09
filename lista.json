@@ -398,6 +398,11 @@
         "uri": "iNvEcjr99wI8yrowO20KICi872KQoibGnIp7t0JVOWz2IfltF6whnET9HbvQ8F0a"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/retrohit.png",
+        "name": "TV RETRO HIT",
+        "uri": "kVIbmMkS4kqBUQOASY/Ll2VWRLjfbAAZAbQxsuUcT2HvJv9Xv2RiQ9foa3OVu073lWfmp2tiUZjwpZa2GIz9Eg"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/canal6posadas.png",
         "name": "6 POSADAS",
         "uri": "JOzYcWv9BylNQtEiBo6XhgdnTpfQym4RwJoW4UcPqTmepeCOgTrL2UNDIpr015V+mUL6z4+L3ZXnua6dDb5MZw"
@@ -1729,6 +1734,11 @@
     "name": "RADIOS",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/retrohit.png",
+        "name": "RETRO HIT 1027 FM",
+        "uri": "5D652ZtRR4G+6mwnapYLdcXk0NizkW95wRAErPxKdmc8v19+GdDM3CDTpznuJe2Y"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/3masradio.png",
         "name": "3 MÁS RADIO 92.7",
         "uri": "Td7n7KsmptzdKg4vz/o0BxqMfIuqNV8ZDTx+mAa8o9NzKmIN1OShsmY+wm3eKA+esx2TmJKgjJs6NlgMBOG4vA"
@@ -1762,16 +1772,6 @@
         "icon": "http://static.tvar.io/imagenes/radioNacional.png",
         "name": "RADIO NACIONAL",
         "uri": "Rzl6lnF4ZWJI9maZTblZk3SXhyWCRCOQkWvr29lmLn60evYgXYmtJrIx+imOXvzI"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/retrohit.png",
-        "name": "RETRO HIT 1027 FM",
-        "uri": "5D652ZtRR4G+6mwnapYLdcXk0NizkW95wRAErPxKdmc8v19+GdDM3CDTpznuJe2Y"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/retrohit.png",
-        "name": "TV RETRO HIT",
-        "uri": "kVIbmMkS4kqBUQOASY/Ll2VWRLjfbAAZAbQxsuUcT2HvJv9Xv2RiQ9foa3OVu073lWfmp2tiUZjwpZa2GIz9Eg"
       },
       {
         "icon": "https://urbanaplayfm.com/file/2023/02/urbanaplay-social.jpg",
