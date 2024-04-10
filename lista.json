@@ -19,7 +19,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE",
-        "uri": "TmX2gS31awwrQVVxYUdtFjMfAN3Kmu1a2hF7aJxTWq7gNICkVMbmRUooeA7hMey1UZk/zeEzAvqQgQCMoGUzdA=="
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KICG4+9oBPXRzQuVEChaPjN18W9SqMqA3fkdChQj0heXyjDiqP4vVpY1AZE3kmCrWsev1RJCJLwyx5X2F5TP4dRU=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqZ8RCG/9vv/JfzA6b7072a"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tvp.png",
