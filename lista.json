@@ -533,6 +533,11 @@
     "name": "DEPORTIVOS",
     "lista": [
       {
+        "icon": "https://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO",
+        "uri": "iNvEcjr99wI8yrowO20KILs/J3cUwDq9GT+1QhL432KvJuqMGylOfCt8RJXPZPkO"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -541,26 +546,12 @@
         "headers": "cORtT5a5RX9mPBxC5zt3q9bLS/uXXqkzceWwzHNbPC88sQNHctF1rTRD7aYW8kezdeXN0RDRWXRF30HFii4LwKzVLgTZYLQX4Kp6WgNJ1LF/0vobxQ9BdrdeFjqF8LQuLUJGOeLFEZJCswVlKjsLtcxIwyN53VWkB+oQnjlgpycPJ4kkJvw/WJIjYWojIJofEIm9zzy3tGQwYdVLPSkhJobLKzJHEDv3E5GTFZtpv4+yEv7bJwGHlu2S8zrwqMkq2p0ek8tJH7bZXfI5uE02qrODHQd/XQx9ijGWypZ851I="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/espnpremiumop2.png",
-        "name": "ESPN PREMIUM",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwwizwI12FRPJg642G67kaL2zJAEkZBhIBmi18lX28JIcdQEG4jmDWwNAJ9Bp00vDdc",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpyze5oarfmijU92sg9p1So"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/tntsports.png",
         "name": "TNT SPORTS",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIM9pYGJBafI317vmiTBJVZsA2x/W7RTHY5YB3793y+t7kAxo9wtxRIOuGIN+mLjM9urV/hFFERD5Dfe9VifsVT0=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqTm61Z+DpEnMcB+IVO3j1w",
         "headers": "cORtT5a5RX9mPBxC5zt3q9bLS/uXXqkzceWwzHNbPC88sQNHctF1rTRD7aYW8kezdeXN0RDRWXRF30HFii4LwKzVLgTZYLQX4Kp6WgNJ1LF/0vobxQ9BdrdeFjqF8LQuLUJGOeLFEZJCswVlKjsLtcxIwyN53VWkB+oQnjlgpycPJ4kkJvw/WJIjYWojIJofEIm9zzy3tGQwYdVLPSkhJobLKzJHEDv3E5GTFZtpv4+yEv7bJwGHlu2S8zrwqMkq2p0ek8tJH7bZXfI5uE02qrODHQd/XQx9ijGWypZ851I="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/tntsportsop2.png",
-        "name": "TNT SPORTS",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwxgl721ZSLNMUhuS1v/xl0lALObfyaNDJmh87LdnTjCNg",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoDMqBf0zaVIR/yKvOqd6An"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tycsports.png",
@@ -625,11 +616,6 @@
         "uri": "iNvEcjr99wI8yrowO20KIBefAmK0T0uDXUAl4xwb4+xeHmplIH/+jhlRPeIpzFQFrW3qgrAsSkZ9cqAdCQSsmWzRKvDkMV45Ckf3Mc6mvI8=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrgUA5KB5tjb7N0LSuXNXKa",
         "headers": "cORtT5a5RX9mPBxC5zt3q9bLS/uXXqkzceWwzHNbPC88sQNHctF1rTRD7aYW8kezdeXN0RDRWXRF30HFii4LwKzVLgTZYLQX4Kp6WgNJ1LF/0vobxQ9BdrdeFjqF8LQuLUJGOeLFEZJCswVlKjsLtcxIwyN53VWkB+oQnjlgpycPJ4kkJvw/WJIjYWojIJofEIm9zzy3tGQwYdVLPSkhJobLKzJHEDv3E5GTFZtpv4+yEv7bJwGHlu2S8zrwqMkq2p0ek8tJH7bZXfI5uE02qrODHQd/XQx9ijGWypZ851I="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO",
-        "uri": "iNvEcjr99wI8yrowO20KILs/J3cUwDq9GT+1QhL432KvJuqMGylOfCt8RJXPZPkO"
       },
       {
         "icon": "https://static.tvar.io/imagenes/evento.png",
