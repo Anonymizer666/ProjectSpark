@@ -472,6 +472,16 @@
         "drm_scheme": "clearkey"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/espnpremiumop2.png",
+        "name": "ESPN PREMIUM",
+        "uri": "frLyJ3xag7zUwAb6ICGoeTOBxtgCUvJkE9noF4I99UcA6FcoRsuHyJMzkmS1qod27kWwgR4qEcBS+88ucOjrQg=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/tntsportsop2.png",
+        "name": "TNT SPORTS",
+        "uri": "frLyJ3xag7zUwAb6ICGoeTOBxtgCUvJkE9noF4I99UeAuTCNSkFDm4F0otUg//5zOAoCn7ddtvA4J7NPHt2o7w=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espn.png",
         "name": "ESPN",
         "drm_scheme": "clearkey",
