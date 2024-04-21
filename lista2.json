@@ -458,11 +458,6 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 1",
-        "uri": "Bj2IQX+nmzygrxl9ZYDjhIK6u+Xf/+T10o3yXDNh9Opp9ZPbmhlpWV38IlvH8J78"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -475,11 +470,6 @@
         "uri": "b+QSGe9itEwwoKyzCS+bM60s76zybvUsbv3ub9Y0wETS1qXuNYkEcc+QSy60Zd8neIvxJqLWcWcYI3O8/+BZ7GqATGXDYR+oIqMMuEThVN4",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4tE1MW35D81YdJS6KzjLy0",
         "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 2",
-        "uri": "kxqVqHth3E4CMIx91H106VrnVWlsf695eLMnAFagZzzcWuFn3Wi4hzoKBKmqD4qA"
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn.png",
