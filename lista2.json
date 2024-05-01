@@ -1437,6 +1437,20 @@
     "name": "MUSICA",
     "samples": [
       {
+        "icon": "http://static.tvar.io/imagenes/allegro.png",
+        "name": "ALLEGRO",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM/xnpO3FAquJDCAYrjYygPtnAaUgD14BtwuKWXWnGRggNYMM9nKB2PXqL+81ehNdatvGH7/rr3BCF3T7o6nUqrU",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zTC3rwJK3ytaeCFatWy32"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/cm.png",
+        "name": "CM",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bMw1tlJkgRs6zWz9L+eX1g2pBuvr7UatXjGN487sWlFVrjJjjC9WM+4ndkb4r5XX6qA",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6MTB2M/bEwkLQEoPDuaDbK"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/concertch.png",
         "name": "CONCERT CHANNEL",
         "drm_scheme": "clearkey",
@@ -1444,39 +1458,32 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Bj6MvxSh/cBct00QatKmb"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/quiero.png",
-        "name": "QUIERO TV",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bMz1u0zOKJABeW3XnvuB7N+X2NMiQwwABUjWMV34mdTCXHjM/ElV9uaEcfZaZ0JquWdjDgbdRupR+9TFdTCrwcRI",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5hOJHAXTtOPCFuyRIcghXA"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/htv.png",
         "name": "HTV",
         "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM6TFf9yn3S2cckwDoJr5QATaT1902I5cKyS/dTd+IPTdTrwNbkQCmHM3aO1FmLXJ9w",
+        "uri": "b+QSGe9itEwwoKyzCS+bM6TFf9yn3S2cckwDoJr5QAQf3vXFO1kYJpLywT3H+2At3QAscnmle9XDbUK7Hlr8vQ",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5Jw0KC9loDb2EVV7XWcQri"
       },
       {
         "icon": "http://static.tvar.io/imagenes/mtv.png",
         "name": "MTV",
         "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM6n/am3qlqM3ipYfu6I2y8igWOuKsq1HLcukK+isKjxKm8IojGIOD0VAthu3PdjZMQ",
+        "uri": "b+QSGe9itEwwoKyzCS+bM6n/am3qlqM3ipYfu6I2y8igWOuKsq1HLcukK+isKjxKx58yBlzlyyQ+/HoP6+1JXQ",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6lxBScp7ZviSYBVdmYWaGw"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/mtvhits.png",
-        "name": "MTV HITS",
+        "icon": "http://static.tvar.io/imagenes/mtv00s.png",
+        "name": "MTV 00S",
         "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bMwQ6FIRLiXRaQKACq4RWBFNylxfHsXxvuqhBrnEMuGVkWfncL84YuAZPwURgpe7oGNXhc/A27dFadSyMvl+6Dck",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l48kxlFdOJm68ynsHYdks0/"
+        "uri": "b+QSGe9itEwwoKyzCS+bM39HYyUJOw7H+EngvIJb1nJCQLso6TqxxDchIv0GKxGHQXmp4VzjsROcxuV858QuTA",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l51vZAUWLLItKAL3lbr6vIE"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/mtvlive.png",
-        "name": "MTV LIVE",
+        "icon": "http://static.tvar.io/imagenes/mtv80s.png",
+        "name": "MTV 80S",
         "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1ZBeO3Ds8JKhqKJzEHCGA5npjwKXCPPmbfUOeM66vnvCkmUgjVChBNZOdxZCqN3eciCfXZG6t5LprxX1JIQQlwy6WwVRV4I5mLbzmFlzcbeendaHhi9HD2y2uijMTcq3yQ",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6rqNUaGu0DoLmXOdiU/2VY"
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhARyLAK0mqnhVh+77+igpGrXhreR3Os3QxU4HrVOKm9weg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4LxFbKTvjm/dPJ33rUFq0M"
       },
       {
         "icon": "http://static.tvar.io/imagenes/mtvclub.png",
@@ -1486,32 +1493,18 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7cR7iZ+sOGR9orRIA+mHny"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/mtv00s.png",
-        "name": "MTV 00s",
+        "icon": "http://static.tvar.io/imagenes/mtvhits.png",
+        "name": "MTV HITS",
         "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM39HYyUJOw7H+EngvIJb1nJCQLso6TqxxDchIv0GKxGHIJ7PEDvt6DDi5ndUeRmdug",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l51vZAUWLLItKAL3lbr6vIE"
+        "uri": "b+QSGe9itEwwoKyzCS+bMwQ6FIRLiXRaQKACq4RWBFNylxfHsXxvuqhBrnEMuGVkjXJ89N3bZf4EbspwSi3dZV/Bj5ag4dOknmMhY+dyZrc",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l48kxlFdOJm68ynsHYdks0/"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/mtv80s.png",
-        "name": "MTV 80s",
+        "icon": "http://static.tvar.io/imagenes/mtvlive.png",
+        "name": "MTV LIVE",
         "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGTPCZu7Z7iBppW5VgVQPd8B1Se3/i+YEw0dS3wW7kcchWivnxBXCuH/MxAQzJtkiCg",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4LxFbKTvjm/dPJ33rUFq0M"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/vorterix.png",
-        "name": "VORTERIX",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM1rLU3lSc8FQtVy6m4LMVgbNQHCg6TX1XinAa0e/n59mhMjjup0+1g5e9HOeS1oLXAw9NzJcldFRAkQDzchPsSg",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l658hHFKKizLjh9uGhp3LOQ"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/cm.png",
-        "name": "CM",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bMw1tlJkgRs6zWz9L+eX1g2o5R53282Y40SbyIDcwMuZsBfA5dNtXT30ONXL7AfPbyA",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6MTB2M/bEwkLQEoPDuaDbK"
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhARoUnPfu+8TvmzaywenjogD9qQanWm9/PwYK5spIBO0aw",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6rqNUaGu0DoLmXOdiU/2VY"
       },
       {
         "icon": "http://static.tvar.io/imagenes/musictop.png",
@@ -1519,11 +1512,25 @@
         "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBx3lNO/7kgeNjvxikV5ujfmWvWoAMoOMlCTl3Em8Q3XXxu/Pugas0N04k6Rg7YgHNU"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/allegro.png",
-        "name": "ALLEGRO",
+        "icon": "http://static.tvar.io/imagenes/nickmusic.png",
+        "name": "NICK MUSIC",
         "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM/xnpO3FAquJDCAYrjYygPtnAaUgD14BtwuKWXWnGRgg13LAj6TogAVN6wp1bcBX3UvfBV0m4yNyYyOxdXhirIM",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zTC3rwJK3ytaeCFatWy32"
+        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGQXEiPXnJdB2Iq7V0E/FmPtTv8PxzDDDCKZthEjjc2n7BXpV6DXs5/a2htoMm+kx3Q",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4RDBZigbyySs2mfhlskYWA"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/quiero.png",
+        "name": "QUIERO TV",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bMz1u0zOKJABeW3XnvuB7N+X2NMiQwwABUjWMV34mdTCXdN0sLE2ZMkbUcgPDbjNG/zq3oRJhs3IUkhdStSuFtS4",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5hOJHAXTtOPCFuyRIcghXA"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/vorterix.png",
+        "name": "VORTERIX",
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM1rLU3lSc8FQtVy6m4LMVgbNQHCg6TX1XinAa0e/n59mzEoAE6RvpOv9dmH0Gbf3rd8ISSsYpUWE5qu8lN4uTeI",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l658hHFKKizLjh9uGhp3LOQ"
       }
     ]
   },
