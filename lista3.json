@@ -367,6 +367,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4h+lkRymdTzK7irrqyJjBuQHryOPFkd4npoxZPFmLBLw"
     },
     {
+      "icon": "http://static.tvar.io/imagenes/ngfederal.png",
+      "name": "NG FEDERAL",
+      "drm_scheme": "clearkey",
+      "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGQXEiPXnJdB2Iq7V0E/FmPs+od59iYHiLZuMpM1pUxVC",
+      "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l75Z9INpcX38F76/nwhSbML"
+    },
+    {
         "icon": "http://static.tvar.io/imagenes/canal12misiones.png",
         "name": "DOCE MISIONES",
         "drm_scheme": "clearkey",
