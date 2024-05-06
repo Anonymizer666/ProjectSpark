@@ -1846,6 +1846,35 @@
     ]
   },
   {
+    "name": "MUSICA 24/7",
+    "lista": [
+      {
+        "icon": "http://static.tvar.io/imagenes/cumbialive.png",
+        "name": "CUMBIA LIVE",
+        "uri": "iNvEcjr99wI8yrowO20KIJMfOYY6JI4di1HTvv4NBL9V5B0IlUnUNzSzjyEsh0aLd83Ustz00QB3WyenOrz69g==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/latinolive.png",
+        "name": "LATINO LIVE",
+        "uri": "iNvEcjr99wI8yrowO20KIJMfOYY6JI4di1HTvv4NBL9ISCps0X9sntOqfLtM/ekSon+hvoa4d5r6JIjbIKaIjw==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/salsalive.png",
+        "name": "SALSA LIVE",
+        "uri": "iNvEcjr99wI8yrowO20KIJMfOYY6JI4di1HTvv4NBL9CGq+R7sUfDte9GXKrnWL0",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/clasicorockmix.png",
+        "name": "CLASSIC ROCK LIVE",
+        "uri": "iNvEcjr99wI8yrowO20KIJMfOYY6JI4di1HTvv4NBL9aB3HFCiwpPBEP5Ph27hpVmCE7HCcOfkNkwl36pcJhTA==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      }
+    ]
+  },
+  {
     "name": "ADULTOS XXX 18+",
     "lista": [
       {
