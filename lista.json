@@ -1443,6 +1443,11 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/smithsonianchannel.png",
+        "name": "Smithsonian Channel",
+        "uri": "So1D/soht6UEZXbpJeyY6xFXU0bJjU7UAkrapjtBSQj1mpXDrDHIQqe/81j81f6zzA8ODIp8fwLf5xVIbf8zRQ"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/history.png",
         "name": "HISTORY",
         "drm_scheme": "clearkey",
