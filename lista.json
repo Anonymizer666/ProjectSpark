@@ -1868,8 +1868,14 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/LofiCowboy.png",
-        "name": "Lofi Cowboy",
+        "name": "LOFI COWBOY LIVE",
         "uri": "iNvEcjr99wI8yrowO20KILs/J3cUwDq9GT+1QhL432LdHb5P9PjtfcH+1q3mRU6W9Ww6yFpaeYav/wILp+pwAw==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/jazzlive.png",
+        "name": "SAXOPHONE JAZZ BAR LIVE",
+        "uri": "iNvEcjr99wI8yrowO20KIOGeTjkbKZAqHyNE8sX3IvDBQgM8vvK9v5WVcD2er9/EduLXQFnICEweU1khkHI0Ow==",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       }
     ]
