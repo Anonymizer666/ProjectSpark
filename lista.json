@@ -681,6 +681,30 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/espn5.png",
+        "name": "ESPN 5",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KILtbcNR/+Y/0n821NCHXQmSiVpuDgUOttP2DVl4+LJwEJEgZIXsXRgMmPClJSmw5dQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCobl0ufB/veb6jNqOZtNPJ5",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/espn6.png",
+        "name": "ESPN 6",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIFblSzppj56zO27MGiVfigUKvvM0YbIniGPCMEEg3k0VEkwz6TQjrAt4vu1BOOK9lQANzHYclLChZzmBfhtdDds=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCowUlSzlZ+H5tNPfGoEDDMZ",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/espn7.png",
+        "name": "ESPN 7",
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIFblSzppj56zO27MGiVfigWwK+0tODuSRTbMlPbE0SodpElpLu6QLkblai7k2I2IdMbxHdLj2pzgow5EFLRQRrI=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqWvFewM2aTruFhdhme1v5M",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/beinxtran.png",
         "name": "BEIN SPORTS XTRA ñ",
         "uri": "+c5owSqMD5dQyXT8BEAh3ZQgI/9myuNZ1rKnVU33epXv9atIKctwdPAMpHGVCmSHw2Ip/KX+JSKRp8ZmeHnvcr91/11COmcmwvQq7hjNYzdaBZqHHT+LyuCXdo86HMhMl3ffsINkppVFkA3f2bO4kA",
