@@ -1843,6 +1843,12 @@
     "name": "MUSICA 24/7",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/poplatino.jpg",
+        "name": "POP & REGGAETON 2024",
+        "uri": "iNvEcjr99wI8yrowO20KIOGeTjkbKZAqHyNE8sX3IvCuFJqSC0wGUxd1R2a+KFL3zzddbC6J5AdhwwgtVv/0kQ==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/sonideromix.png",
         "name": "CUMBIAS SONIDERAS 2024",
         "uri": "iNvEcjr99wI8yrowO20KIOGeTjkbKZAqHyNE8sX3IvAV/bqa7HaZFDbRxh6L5VCfaDTzja+JAHG/l7/v3qiAVA==",
