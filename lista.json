@@ -462,12 +462,6 @@
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/retrohit.png",
-        "name": "TV RETRO HIT",
-        "uri": "kVIbmMkS4kqBUQOASY/Ll2VWRLjfbAAZAbQxsuUcT2HvJv9Xv2RiQ9foa3OVu073lWfmp2tiUZjwpZa2GIz9Eg",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/canal6posadas.png",
         "name": "6 POSADAS",
         "uri": "JOzYcWv9BylNQtEiBo6XhgdnTpfQym4RwJoW4UcPqTmepeCOgTrL2UNDIpr015V+mUL6z4+L3ZXnua6dDb5MZw",
@@ -2109,6 +2103,12 @@
   {
     "name": "RADIOS",
     "lista": [
+      {
+        "icon": "http://static.tvar.io/imagenes/retrohit.png",
+        "name": "TV RETRO HIT",
+        "uri": "kVIbmMkS4kqBUQOASY/Ll2VWRLjfbAAZAbQxsuUcT2HvJv9Xv2RiQ9foa3OVu073lWfmp2tiUZjwpZa2GIz9Eg",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
       {
         "icon": "http://static.tvar.io/imagenes/retrohit.png",
         "name": "RETRO HIT 1027 FM",
