@@ -152,6 +152,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/canal22web.png",
+        "name": "CANAL 22",
+        "uri": "NU6UU507Gn7vhthpiyGDvhxBA+E0NHfHFpl6jlWE5TxQ3hNFfjF0O7F4fZsMlxbalP6bp8R3maOtztB6nAcg6qmOhDbUGCuyH5DkqAuuc3o"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
         "name": "EL DESTAPE",
         "uri": "knLi6+deywfO/Q9G2q+l5k5XViratj9i0Qvgum9+vjUjCVV44iHdYRWqWZVJVgOJ",
