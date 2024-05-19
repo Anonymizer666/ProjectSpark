@@ -472,11 +472,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5PgubvxH7MbqywZEQe5gTqCCeaMuu5oGhNvIi20m2oyQ"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/espnpremiumop2.png",
-        "name": "FUTBOL PARAGUAYO",
-        "uri": "Bj2IQX+nmzygrxl9ZYDjhJX7n4KOCwdT+h7PAQpH1+sgbLMY/PM1HIyKVjqawTKK"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/tntsports.png",
         "name": "TNT SPORTS",
         "uri": "b+QSGe9itEwwoKyzCS+bM60s76zybvUsbv3ub9Y0wETS1qXuNYkEcc+QSy60Zd8neIvxJqLWcWcYI3O8/+BZ7GqATGXDYR+oIqMMuEThVN4",
@@ -485,8 +480,10 @@
       },
       {
         "icon": "http://static.tvar.io/imagenes/espnpremiumop2.png",
-        "name": "ESPN PREMIUM",
-        "uri": "modiqQxf8XWgkS6rY3dAWcssClD0blb1yVHQlhp4cXFQeZMlhRQ14YJK9s/iV4kTxjhS1e/ODDsP5Lym4Ob9Lg=="
+        "name": "ESPN PREMIUM OP2",
+        "drm_scheme": "clearkey",
+        "uri": "LIKH2LGGUr0TwO1VCh00J3g2H7IR0sPNMmZHKNgEapXGu8s3iTrs96JilTpK1sGjmqcj3eeJc8oyK6b8Xby5gvxSbF/dyxNzOt7dr90FP6E=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4b/eRTHxV8EkVSMwev4m9j"
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn.png",
