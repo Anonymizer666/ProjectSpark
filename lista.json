@@ -602,6 +602,11 @@
     "name": "DEPORTIVOS",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO",
+        "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWDT71P+vXLykC9SvDplLl27w"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
