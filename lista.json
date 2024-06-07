@@ -1301,24 +1301,6 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/golden.png",
-        "name": "GOLDEN",
-        "uri": "3pmk4fa1u5TAZhY64DCqPwsdLUgQrhJaAUvmn0/T+7P/hqVZjl8BtPnxjVPPoGRUoreaRiiTp33SZG415LXBiE+AFtgA2wdaOZ+5hSAwinU",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/goldenplus.png?xd",
-        "name": "GOLDEN PLUS",
-        "uri": "3pmk4fa1u5TAZhY64DCqPyEcBy5/IkMTGumkenl+tsPXGN3Wd0/RVENk9dY0Xm1VyCVPqnWuQbtyxbn+UtSiboK9ggHYEebJo20JdbR2F/A",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/goldenpremier.png?xf",
-        "name": "GOLDEN PREMIER",
-        "uri": "3pmk4fa1u5TAZhY64DCqP7eJQf7E1jbq1ZgX7rovW75mpLRgQ8Jd7/+Zg3/6H7+xJ6z47/23A471bcpkHCYC9jmPZUI4tnMYNz7pxdfXhXg",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/clarocinema.png",
         "name": "CLARO CINEMA",
         "drm_scheme": "clearkey",
