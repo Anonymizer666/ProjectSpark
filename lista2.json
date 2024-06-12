@@ -131,13 +131,6 @@
   {
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
-      {
-        "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
-        "name": "EL DESTAPE",
-        "uri": "7ePArID2yk9XbigoxiU/v2Nsasljd8H+C6qZs68aqI5ph+xCEs7dDojPsnsfNkMy",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7IvqlyOlWZ0Kj1/4bW5ZwN"
-    },
     {
         "icon": "http://static.tvar.io/imagenes/telefecba.png",
         "name": "TELEFE CORDOBA",
@@ -1223,13 +1216,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6/Uc6ro4XrEHK7IID0fNOv"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/extratv.png",
-        "name": "EXTRA",
-        "uri": "7ePArID2yk9XbigoxiU/v6TKHAA1A77a8TrfXHiNgPAjRtt3+iQg2GAWZnyHchby",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4AKjFqvW8e3xMLPIIqq9t9"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
         "name": "EL DESTAPE",
         "uri": "7ePArID2yk9XbigoxiU/v2Nsasljd8H+C6qZs68aqI5ph+xCEs7dDojPsnsfNkMy",
@@ -1334,13 +1320,6 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/H677K9R5HPvS9Sgu7Me8fj+Aam7uNNesE5BDNfJqdMLFKxFbd5/G6hnaGLBzIVSRHbg4ZI+76Hp9mxBBaPGSU",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6X3Gup5YH7imrEHcjVdyyi"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/adultwin.png",
-        "name": "ADULT WIN",
-        "drm_scheme": "clearkey",
-        "uri": "7ePArID2yk9XbigoxiU/vxECRGTlxmUPxGOZcLhwx9B89uH8K3aiBXNrlpTFT0Ye",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7rjTJ3fBCZxZKULqhpC//p"
       },
       {
         "icon": "http://static.tvar.io/imagenes/kzo.png",
