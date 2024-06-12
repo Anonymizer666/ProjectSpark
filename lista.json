@@ -165,14 +165,6 @@
         "uri": "NU6UU507Gn7vhthpiyGDvhxBA+E0NHfHFpl6jlWE5TxQ3hNFfjF0O7F4fZsMlxbalP6bp8R3maOtztB6nAcg6qmOhDbUGCuyH5DkqAuuc3o"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
-        "name": "EL DESTAPE",
-        "uri": "knLi6+deywfO/Q9G2q+l5k5XViratj9i0Qvgum9+vjUjCVV44iHdYRWqWZVJVgOJ",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoxqy7CTzeKmC4pXKH5L7h8",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/telefecba.png",
         "name": "TELEFE CORDOBA",
         "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpsom4uFJB9qdS/cGT2OhJ/O99XKmhhEPZGVOxEsOjpmUmcTHF/wPGX1ipvaJTeOjGOw=",
@@ -1476,14 +1468,6 @@
     "name": "NOVELAS y VARIEDADES",
     "lista": [
       {
-        "icon": "http://static.tvar.io/imagenes/adultwin.png",
-        "name": "ADULT WIN",
-        "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5tESSZ3uOsHpbKYX3oYsLWKeX+P1Bgw24omLZYs9gx62",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpuzxQZYqLUknJXsrgxxrPZ",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/bravotv.png",
         "name": "BRAVO TV",
         "drm_scheme": "clearkey",
@@ -1575,14 +1559,6 @@
         "uri": "iNvEcjr99wI8yrowO20KILcGESoyxpaZnokY7D1XmnnplC7M4/yfnB4sJb/i88OYBpRbmsP8zyqJZW9Dh2JQBQ==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpO3IeDCNsInZdXXh/dXWG3",
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/extratv.png",
-        "name": "EXTRA",
-        "uri": "knLi6+deywfO/Q9G2q+l5rOTWTu1W2wtbV86uPHPw85LFp0THtF3Zk5gqLVkUveR",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo3xcaKnthvqF3aKt0KWFXj",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
         "icon": "http://static.tvar.io/imagenes/foodnetwork.png",
