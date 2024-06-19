@@ -1094,6 +1094,14 @@
     "lista": [
       {
         "icon": "http://static.tvar.io/imagenes/dhe.png",
+        "name": "GOLDEN",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mf79IM1a74l21lovqWkAtnXp7bwaqF6fQj3euDNSJxCPiNTSSZs74KQLFrG/i8585KFkHskYFJscmCDv4+GD1Y=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCru+9mOOiYynMFNjugNqpT7",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dhe.png",
         "name": "DHE",
         "drm_scheme": "clearkey",
         "uri": "iNvEcjr99wI8yrowO20KIDEPNEDbTvGJ3ISJcZ+DY+sbwGb5N9zRvTpNDY7CKowBhvHxejAXMAcQYQJJY42MEA==",
