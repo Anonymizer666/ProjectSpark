@@ -465,6 +465,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6WWOxEv7dizL5jJA9HZpKYwZwF+7PFyyr2+sUdcc2fvw=="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO",
+        "uri": "H8X9Q57HBn+FZ/TOT84dLuQwIWkzhL3mlj7TzVEDcUIXV/tx8GyJ9DWcfOZ5r/GpgzCTSgdKT27HdIUUdALxug=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
