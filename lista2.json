@@ -458,6 +458,11 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO",
+        "uri": "/F6SQa6a90g+sKWLeSl2ttjlAp6HLUTuaQ0P8LSnfMJaHaDHeOmyzRojHW3F1NcLMGOi7j4DpXwtL9n5Pfj2PGF50B7RRxD7+eCh6y/Ejyg="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
