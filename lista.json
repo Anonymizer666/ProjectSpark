@@ -606,6 +606,14 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO 4",
+        "drm_scheme": "clearkey",
+        "uri": "2bo0OTsvAfS5w6Qlsw9+vQ8ttitEDDho4JHyz8WrqSqCsmxpu/5LUZHLRbga5SlGKvA7PqVto1IniheCtuRmVwdmH7e/Xtrp2JBk8pqE5EUB8UoYQu4NLIR/oPa7NpAhM/prrvbXEMeobjTZaJ44Lem9aGS1w94ygRuwcdymgFrBhedkLKBez8sK9uLm3lWmDfEaX41iFQj1iRdtoyn6mP8YiXguqLWQZLo3H8hyhenin21RUH+VHzgINyufURgOAzAzpikeuXur25PJqd8WnDPyjCrAvensoj+j96CjbMc=",
+        "drm_license_url": "YtPAaXWSxg/IZKy7mzqCO4hrm3cJkkSqjDYpJKehEX59/SKWfR1zuUG9M36T3UAQtxrafkLPLl0IfyjPn53boXaQxbtLrmmDx5RvwvZ8GPj/aE9HoPUcekE1RxaEhK5dHbOqa8k5OFhZ99So7N1Kt6wLEY24JoLrKF0dpVaqO6CaEouzfUxnSKV2kCySTtUlvqNKwjzjsb6laxC0FiF8eQ==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
