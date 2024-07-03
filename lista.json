@@ -586,6 +586,22 @@
     "name": "DEPORTIVOS",
     "lista": [
       {
+        "icon": "https://static.tvar.io/imagenes/arena1premium.png",
+        "name": "ARENA 1 PREMIUM",
+        "drm_scheme": "clearkey",
+        "uri": "cZ9hdpn6MZvtUDqTXqLzMzHAZR5DnaHFeaaVTNEqlAHa8S6Hl3cngaI+mzVK6PaIWRFRptiTux5Uha5mhmpfwgvIIWv2Io/1coayoYix5xovs1ZbR0Z+7PdXEWKduTVgvFbb1Z3ier50gN1mQVFxeMaVjGou0cM9Uilp9qVELKZJUg5gdlCQ2vkseqqVQWiAc7XR5+jgrA4ODA8wG9cf8OT/lLwicINuGQphL6WwR+JU/WtbFEfP9s8fWgxovPpbTDPNnyJhg/XTqG2LlPgU4EdvY4OSh7U0+ihl6MaHLvA=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGComDieoEG/jAuLLjYEJjAct7qR9v2cv1uMytS1Obm7S5g==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/arena2premium.png",
+        "name": "ARENA 2 PREMIUM",
+        "drm_scheme": "clearkey",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq5ckPiYnMfz1l/pzO8eW/cQRH2gqG08NTZLlTeD1GA6Q==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/evento.png",
         "name": "EVENTO",
         "uri": "mr+HuVwL92kJl17yzB4hNtNE7GsHAiZihR/u7hTIx6hFmWsuxxqWYITgam+Fhol4zVJ1p8DVvrZpMUSYuCYXIuMxcOKiOWLn3GxY75dVo74=",
