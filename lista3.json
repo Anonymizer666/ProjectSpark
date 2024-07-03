@@ -436,11 +436,6 @@
         "uri": "kxqVqHth3E4CMIx91H106f5uVILSD03OM3Lh5e6hazc"
     },
     {
-        "icon": "http://static.tvar.io/imagenes/tierramia.png",
-        "name": "TIERRA MIA",
-        "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBwRFBrxTubMEG1PUs94Eoaa1M+RwK3KFdpQE488wXDePj1CqAF+bESG+nLVLgnQ5sE"
-    },
-    {
         "icon": "http://static.tvar.io/imagenes/showsport.png",
         "name": "SHOWSPORT",
         "uri": "b+QSGe9itEwwoKyzCS+bMw7wsJ1xbIXLTkwKVgUlNOzvnlqduqtvsEqIcDNrSEE0P80JVijTsopfIQcEUcJPOwC2h0+GvHa1n6R1NWwnbOc",
@@ -1461,11 +1456,6 @@
         "drm_scheme": "clearkey",
         "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhARoUnPfu+8TvmzaywenjogD9qQanWm9/PwYK5spIBO0aw",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6rqNUaGu0DoLmXOdiU/2VY"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/musictop.png",
-        "name": "MUSIC TOP",
-        "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBx3lNO/7kgeNjvxikV5ujfmWvWoAMoOMlCTl3Em8Q3XXxu/Pugas0N04k6Rg7YgHNU"
       },
       {
         "icon": "http://static.tvar.io/imagenes/nickmusic.png",
