@@ -1997,6 +1997,13 @@
         "uri": "hYl4NhnpUXMuIr2ym253u05CqwUFbtiDsnkQzhWymnq/uXUS+9IfMyfI0pB2LzDQ"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/identidadpe.png",
+        "name": "Identidad Peruana",
+        "drm_scheme": "clearkey",
+        "uri": "lWK86z6cdM1EuaJlbWhvE4WGvK2enxd/vhtKR5lGx/96MIkikPA8hwZe8ZuSyqA4UZx4D9t2a/pfsnJ3dsE7aCc6NBYbFS/foAlEOT83JSidbZ90fnyZ1eIqGZd8xDtR",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l797ls6qJnEKPq+47Y2yfUf"
+      },
+      {
         "icon": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
         "name": "TV PERÚ",
         "uri": "kxqVqHth3E4CMIx91H106Q3yaXWpnTkby59nKXgNMXw"
