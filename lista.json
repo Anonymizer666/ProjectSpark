@@ -606,14 +606,6 @@
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 6",
-        "drm_scheme": "clearkey",
-        "uri": "lWK86z6cdM1EuaJlbWhvE4WGvK2enxd/vhtKR5lGx/96MIkikPA8hwZe8ZuSyqA4UZx4D9t2a/pfsnJ3dsE7aCc6NBYbFS/foAlEOT83JSidbZ90fnyZ1eIqGZd8xDtR",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoOiXYd+ZgpPwyiPZP5Raz2",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -2063,9 +2055,11 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/identidadpe.png",
-        "name": "Identidad Peruana",
-        "uri": "hYl4NhnpUXMuIr2ym253u05CqwUFbtiDsnkQzhWymnq/uXUS+9IfMyfI0pB2LzDQ",
+        "icon": "http://static.tvar.io/imagenes/identidadpe.jpg",
+        "name": "Identidad peruana",
+        "drm_scheme": "clearkey",
+        "uri": "lWK86z6cdM1EuaJlbWhvE4WGvK2enxd/vhtKR5lGx/96MIkikPA8hwZe8ZuSyqA4UZx4D9t2a/pfsnJ3dsE7aCc6NBYbFS/foAlEOT83JSidbZ90fnyZ1eIqGZd8xDtR",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoOiXYd+ZgpPwyiPZP5Raz2",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       }
     ]
