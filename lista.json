@@ -600,12 +600,6 @@
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 5",
-        "uri": "fGlvyTma9G/LGR0rlh/Kc5yUWDiXhDxPqjd0XX0bbPfqDEXRFLYAGYfCqdHUI1snMgwIW3XVMGBxBKWLL0ureSwiaUPnqaUXSlapKSXEBiLrPgG2tPR7xALozVKZrs+hdaEyZSYmld6geyh7JPdyBFPoA8q85c8NhnEf0ItiwwM=",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -2047,6 +2041,12 @@
         "uri": "iNvEcjr99wI8yrowO20KILlGnWzpAnJo/1ye0d8h7pDogxushHsH/8LoLH1OH9NUZ3grd5258ftc7eoGqPWP5A==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr+f/+hKmEze7mELr8LbT0X",
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/la1.png",
+        "name": "LA 1",
+        "uri": "fGlvyTma9G/LGR0rlh/Kc5yUWDiXhDxPqjd0XX0bbPfqDEXRFLYAGYfCqdHUI1snMgwIW3XVMGBxBKWLL0ureSwiaUPnqaUXSlapKSXEBiLrPgG2tPR7xALozVKZrs+hdaEyZSYmld6geyh7JPdyBFPoA8q85c8NhnEf0ItiwwM=",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
         "icon": "http://static.tvar.io/imagenes/startve.png",
