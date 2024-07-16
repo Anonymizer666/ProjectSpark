@@ -876,6 +876,66 @@
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/combateglobal.png",
+        "name": "COMBATE GLOBAL",
+        "uri": "li55uCX1AVPZR6OnK+0qIvLusbHdJDllUjM8fdAXfm/CO8bX6VdM1rHhUcZvh1LILjzo2e8hjFqAsv7AoSPeVA==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ufc.png",
+        "name": "UFC",
+        "uri": "+c5owSqMD5dQyXT8BEAh3ZQgI/9myuNZ1rKnVU33epXIIAv8kmihh4G4GDD6gsIU1m9Z27T79Xah5Cn/bVw3ggtyJpsYe5NSambGntnA2ciUR0ywRtiKaQsUpFvVNQUk",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/boxingtv.png",
+        "name": "BOXING TV",
+        "uri": "XmghOt+XPE3tgld+P7LguDtqzEsAOoXZlS/Hy/SZQJH69wq377aVGIsNVTQK7wZc45NUEIJ70rcVky+UgrkGGy1IiwRhOm9f+GFOcM+O2dCJl7h5Y89EUdNf/KBO3ci46/OuotsU6YxO+9G9aT5Tew==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/pfl.png",
+        "name": "PFL",
+        "uri": "XmghOt+XPE3tgld+P7LguDtqzEsAOoXZlS/Hy/SZQJH69wq377aVGIsNVTQK7wZc7YOD39FdBfQXr6oRtY4kqusgu66OhwGl0imeSSY7eA9RYVGxpYqfItHNelULpcHBNJx4hvKl6IpXHaQjM0x0hw==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/swervecombat.png",
+        "name": "SWERVE COMBAT",
+        "uri": "fCwkrF7haPVAi3kLsb03PM4wrT838QgtDe/w2ZSfzo01zWfWsQOEyS2YzcIUY1EtU+Zb4c6ixtlEoRDed/9prUCNL4ocjTPWarM5SvZSdRqpUKKV1738TCnr7glT3GtgpYMFFio44lg/MZpi9cfO2CICaN1o0i6ZsEkh3zM/jOQ=",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ufa.png",
+        "name": "UFA",
+        "uri": "fCwkrF7haPVAi3kLsb03PM4wrT838QgtDe/w2ZSfzo01zWfWsQOEyS2YzcIUY1EtU+Zb4c6ixtlEoRDed/9prUCNL4ocjTPWarM5SvZSdRq4IocFkyz09H3q4ODI2+Z/rc9GWdC9MCVibbosi75po2vZPBDcusApKyPrO9s625U=",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/fightnetwork.png",
+        "name": "FIGHT NETWORK",
+        "uri": "fCwkrF7haPVAi3kLsb03PM4wrT838QgtDe/w2ZSfzo01zWfWsQOEyS2YzcIUY1EtU+Zb4c6ixtlEoRDed/9prUCNL4ocjTPWarM5SvZSdRrBp75ZUsn+TgPaZxlxIKISMKjuPIcBGel0uNig41oTPXWgFEeSuSWnyBE4eAC6dig=",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/fightnetwork.png",
+        "name": "FIGHT NETWORK 2",
+        "uri": "+c5owSqMD5dQyXT8BEAh3ZQgI/9myuNZ1rKnVU33epXIIAv8kmihh4G4GDD6gsIUHzdEi6t/mnJZDOcqPRDOJ0pcwf4LAFUwEmyiDrq7G9MpWNZhJKP+quLhvZ3tvnn7",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/fs.png",
+        "name": "FIGHTING SPIRIT",
+        "uri": "fCwkrF7haPVAi3kLsb03PM4wrT838QgtDe/w2ZSfzo01zWfWsQOEyS2YzcIUY1EtU+Zb4c6ixtlEoRDed/9prUCNL4ocjTPWarM5SvZSdRpbUHwd4bYV+Ak3UKqmWDGwSG+DBHUjSSgejrRS30yj9yuRvzh6yK7mQRUEKEb1VZo=",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/fightch.png",
+        "name": "FIGHT CHANNEL",
+        "uri": "JNLTFkO5ePkvh2xlRiVbiutFfDUAJL8rvGwZ/vcR7j0I/OolLpaS+YlUoPF2ELzyhvH/5lGznq2ocDIWvn75vL/ZJaK82l2lNz0U0KpE9o2+wp8CSFVEgQ/8jq5eq14XOxrYHv/G+Yp1hYDHJL6soeqpYXCQD/3KAMn7bpnmJfc=",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/garagetv.png",
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
