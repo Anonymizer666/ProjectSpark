@@ -470,11 +470,6 @@
         "uri": "3pmk4fa1u5TAZhY64DCqP9grECuOhjJBWDBi0MU8BhfBie9jOdUkR2LfD9eMleRXW773nUyXxc+twbnL/q99FuCYNtGXjcTfSAS4hkaboKA="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 5",
-        "uri": "fGlvyTma9G/LGR0rlh/Kc5yUWDiXhDxPqjd0XX0bbPfqDEXRFLYAGYfCqdHUI1snMgwIW3XVMGBxBKWLL0ureSwiaUPnqaUXSlapKSXEBiLrPgG2tPR7xALozVKZrs+hdaEyZSYmld6geyh7JPdyBFPoA8q85c8NhnEf0ItiwwM="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -1635,6 +1630,11 @@
         "icon": "http://static.tvar.io/imagenes/rt.png",
         "name": "RT",
         "uri": "J0orOrotaXDrtBkeWXwtR3yJqhHQx7amKdVLAdUa6tYBvMkJF29bOYcZBs45/q8M"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/la1.png",
+        "name": "LA 1",
+        "uri": "fGlvyTma9G/LGR0rlh/Kc5yUWDiXhDxPqjd0XX0bbPfqDEXRFLYAGYfCqdHUI1snMgwIW3XVMGBxBKWLL0ureSwiaUPnqaUXSlapKSXEBiLrPgG2tPR7xALozVKZrs+hdaEyZSYmld6geyh7JPdyBFPoA8q85c8NhnEf0ItiwwM="
       }
     ]
   },
