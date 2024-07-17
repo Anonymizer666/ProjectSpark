@@ -463,6 +463,12 @@
         "uri": "3pmk4fa1u5TAZhY64DCqP9grECuOhjJBWDBi0MU8BhfBie9jOdUkR2LfD9eMleRXW773nUyXxc+twbnL/q99FuCYNtGXjcTfSAS4hkaboKA="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO 3",
+        "uri": "RLW1VQhd2NDjiSjGVR9BpXNcMEFOmF7nUg+fW6BO+MAfUXcWZa86Hw+dqxPlHnhD4/d3mc7qbNBqtogequLdE+Y7yG4jkj39JBq3B8IRrSI=",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
