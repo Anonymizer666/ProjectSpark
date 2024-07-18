@@ -1159,6 +1159,12 @@
     "name": "CINE",
     "lista": [
       {
+        "icon": "https://cdn.m3u.cl/logo/1420_Terror_TV.png",
+        "name": "TERROR TV",
+        "uri": "3IEEv3gpzNtNGjusao8aa+Nfuu7N5aEugcDeF/XV3CpUTs2M9pDcHwD5lBliD/vtdzSUGkAvYEqre/sgWe7EuA",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/golden.png",
         "name": "GOLDEN",
         "drm_scheme": "clearkey",
