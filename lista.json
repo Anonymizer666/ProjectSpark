@@ -1781,6 +1781,22 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/mtv80s.png",
+        "name": "MTV 80S",
+        "drm_scheme": "clearkey",
+        "uri": "cZ9hdpn6MZvtUDqTXqLzMzHAZR5DnaHFeaaVTNEqlAHIHvBbA4W+s43f2ma7TdrAzRCpeZnuRD3Kp+xHOEBVyWuyxZdlGmOo133K+PiiVNTQwj4dXrHqjYG4u/EzFj+9V+HuEX4RbD/E4C8H6r2V+h5dFJz1xVehgdpzxZ4rWlUMfUl5JYo3PUVx0hflK6s5SJBHIT4TwF1CE1DIcbU04+qZxEHIw/zBKc/qCRnSiTBRSZ3OBxp5EaWI7g6igDyD5BgAeXOromJgGVUvl97/aJBdlH83Kbl5k1W6g0ESyv0=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrwg/EZpAckEEcORJOqXape",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/mtvclub.png",
+        "name": "MTV CLUB",
+        "drm_scheme": "clearkey",
+        "uri": "cZ9hdpn6MZvtUDqTXqLzMzHAZR5DnaHFeaaVTNEqlAETUuQZsN9QSrNxUr7nxnE3xeryDyTG18ruEPQHd1RNcXzTaEkAfoIiuJtHd7fVe2i7qdFZggQ2WG6KXyLmSJBPlwNRZMEZQIs7HKAwkCI8w4M11jLV/e+6m7m9wDPQoA8s/vB5RvBKn2fWJnx37ZvWj2PHG9I56dhtndHl9PeEiXE2vhn05I6I0ymQTMMq/tEPuDdw6n8Lu0Gfg/i2FJsUyIeIZuJHCq9QEYaV60pBo9r3s1waiNDO6kItwbpLDEw=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCokDR2+I3vCJLFjskk85wZR",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/mtvhits.png",
         "name": "MTV HITS",
         "drm_scheme": "clearkey",
