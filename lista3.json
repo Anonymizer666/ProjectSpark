@@ -1392,13 +1392,6 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6MTB2M/bEwkLQEoPDuaDbK"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/concertch.png",
-        "name": "CONCERT CHANNEL",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGTyApSOmmjX4UGV7k5NT5fwCTlIxjG49droRYnChono98Bza4PxGCePxjMw3tkyjHQ",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7Bj6MvxSh/cBct00QatKmb"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/htv.png",
         "name": "HTV",
         "drm_scheme": "clearkey",
@@ -1420,39 +1413,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l51vZAUWLLItKAL3lbr6vIE"
       },
       {
-        "icon": "http://static.tvar.io/imagenes/mtv80s.png",
-        "name": "MTV 80S",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhARyLAK0mqnhVh+77+igpGrXhreR3Os3QxU4HrVOKm9weg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4LxFbKTvjm/dPJ33rUFq0M"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/mtvclub.png",
-        "name": "MTV CLUB",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhAS83I6xwQeIGCzX3O58op2pDfa6bLgImtP58UkAhv/Z4Q",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7cR7iZ+sOGR9orRIA+mHny"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/mtvhits.png",
         "name": "MTV HITS",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMwQ6FIRLiXRaQKACq4RWBFNylxfHsXxvuqhBrnEMuGVkjXJ89N3bZf4EbspwSi3dZV/Bj5ag4dOknmMhY+dyZrc",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l48kxlFdOJm68ynsHYdks0/"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/mtvlive.png",
-        "name": "MTV LIVE",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGYbEeWO8oUAzv3IVQguLhARoUnPfu+8TvmzaywenjogD9qQanWm9/PwYK5spIBO0aw",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6rqNUaGu0DoLmXOdiU/2VY"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/nickmusic.png",
-        "name": "NICK MUSIC",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGQXEiPXnJdB2Iq7V0E/FmPtTv8PxzDDDCKZthEjjc2n7BXpV6DXs5/a2htoMm+kx3Q",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4RDBZigbyySs2mfhlskYWA"
       },
       {
         "icon": "http://static.tvar.io/imagenes/quiero.png",
