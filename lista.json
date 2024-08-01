@@ -1765,6 +1765,12 @@
     "name": "MUSICA",
     "lista": [
       {
+        "icon": "https://image.xumo.com/v1/channels/channel/99951122/600x337.webp?type=color_onBlack",
+        "name": "VEVO 70s",
+        "uri": "+c5owSqMD5dQyXT8BEAh3ZQgI/9myuNZ1rKnVU33epXIIAv8kmihh4G4GDD6gsIU6UDt7oDVbkb2lDjAGfdxkhMC56WjP2f+phFGdCWlU5SFj8DJbXwzsyqoIv6l3UWh9RyHclQhX7QS2euneLWixA==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/cm.png",
         "name": "CM",
         "drm_scheme": "clearkey",
