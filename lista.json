@@ -503,16 +503,13 @@
       {
         "icon": "http://static.tvar.io/imagenes/ngfederal.png",
         "name": "NG FEDERAL",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGQXEiPXnJdB2Iq7V0E/FmPs+od59iYHiLZuMpM1pUxVC",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCokUmPAjJiwvYWoTFw65XzQ"
+        "uri": "tr/6r+OB9HAgIUjRrHh85QhJcAURouzCYrdsRx9b3WdZbjsiL3ZAGh25KYPeHKhQxu5xvlZ1GtILEKr5kUf1TA==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
         "icon": "http://static.tvar.io/imagenes/t5satelital.png",
         "name": "T5 SATELITAL",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGcU7+9cQoQRh2B/kcIHroPO2YnLs52ul+9jx8FWyhvVw+jD9D/SinnTB8xOsVGtTqA",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCphrDmW2AVfa5qnmdUaC9di",
-        "drm_scheme": "clearkey",
+        "uri": "hWlFLrGO4uwdQvfpKL8dPTW+ix376qt5ZWpwMCtUOESpDFS9jAGOn1N1oQzNnPxlc5MAvXf4systbo9CxJwz1sX4/P4mCga06rwGl8RwTdo=",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
@@ -1982,7 +1979,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/clan.png",
         "name": "CLAN",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGTyApSOmmjX4UGV7k5NT5fwmkGNHAlpTuYkqQ+XKakOICzU8kHxPX9yhtciQqxEmKw",
+        "uri": "HdkGqilXqzTIYrPpS86wAtVqsG1YF5RR0xowr6T1DjPml068pCrJpu+DCichcI6dVM056d9ILO/HCT7maCnNp50JvwJ+h/l966kiSo0Bj5ID+h1h8rJKIs6+vqYIqW+2",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
@@ -2034,9 +2031,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/startve.png",
         "name": "STAR TVE",
-        "drm_scheme": "clearkey",
-        "uri": "qA7onCVsys43YcNGcd1w1b5etvP/fFWdN1C/Chp3sev+eGJh9C32bc+N5PaD3WDkccOZyzgdzR7ruSyoCHIXGXPu1Ek4QtKBGcTok1uUCakd3pH9SqUcPjM4v/cpQvMrW2cUx9PnZjsRf/doIKQ7+A",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrk5Com8Sx4bIOieRP+WOCJ",
+        "uri": "HdkGqilXqzTIYrPpS86wAtVqsG1YF5RR0xowr6T1DjPml068pCrJpu+DCichcI6drDq6urI7ijKuDEoh6/iCa+O3tlLP9c/crhEdEe+Heh0=",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
@@ -2080,7 +2075,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/tvgalicia.png",
         "name": "TV GALICIA",
-        "uri": "fQFK/ph7/g834vHCXYYlc3oWH1xVgtPDyReroDln9nznn9Y4+nauYAYiULImg/uAeFivqHLolgv6fzg0LZ2PBw",
+        "uri": "HedfhgJ0Kdh0bq5gUiGaYQtLRPZYQ/U6+LTUQHEOCA7DCsqRrNQi/v8ZP5aiyZ9b6UayDlEgSMhLeoYkqDOh9r8Mw+ieWAAT15tniCOVi30xMIKm2aa8QcrVxj5hgK0z",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       },
       {
