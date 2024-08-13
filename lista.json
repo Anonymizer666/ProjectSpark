@@ -2158,6 +2158,12 @@
     "name": "SERIES ANIMADAS 24/7",
     "lista": [
       {
+        "icon": "https://image.tmdb.org/t/p/w185/tiPTf3JY4x6aM2cYM1s4esWCiH1.jpg",
+        "name": "FUTURAMA",
+        "uri": "iNvEcjr99wI8yrowO20KINg+V7kkTFIzUNrX6v1MC9zhHQLBjlCd6HNS0VkARxNF",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
+      {
         "icon": "http://x.playerlatino.live/alf.png",
         "name": "ALF",
         "uri": "iNvEcjr99wI8yrowO20KILJgggd6blKtDN7xXh2hIvN8wu7UUXpp5qMH9ahDqCeU",
@@ -2690,6 +2696,12 @@
   {
     "name": "ENTRETENIMIENTO 24/7",
     "lista": [
+      {
+        "icon": "https://image.tmdb.org/t/p/w185/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg",
+        "name": "MR. ROBOT",
+        "uri": "iNvEcjr99wI8yrowO20KID9itZPODylPOUjViBrhlQBNnVqIyMBO6FApw0guFtD7",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+      },
       {
         "icon": "http://static.tvar.io/imagenes/elmentalista.jpg",
         "name": "EL MENTALISTA",
