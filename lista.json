@@ -582,8 +582,10 @@
       {
         "icon": "http://static.tvar.io/imagenes/evento.png",
         "name": "EVENTO",
-        "uri": "ynxTpAYIxzOAM3F7APYSbtNRdUMvZ/Xmm1anS8tIZ6PZ7luP9A1qY9vTDN3p6EpH",
-        "headers": "6vEkWs24Hx2NCvNyjtLZw9FFaKv5MU598weQnOzT/UKCz5+nrhoJRfDR1+xJPcRj3busAOHMxbsKJMFxElABmRlxJgupS+8cXPelCvRIiQaVrCZYtLcmKltYfdHU70jEaAGeSaVO7HlHKmtrwGHYuFl37g8rLFAVuJ9KNbzLMtG+iV7QD6RYKf1k74FoGGsAnq0WuGMygf01ujvUC0GHJlAhjW8mDlx8McIOT//6dXTWoGXlaYBQEIstLNASNRu9Rydo0DNl6mKCWNCLTS6FWHurFr9wJtXAsRKvx6TiXXY="
+        "drm_scheme": "clearkey",
+        "uri": "iNvEcjr99wI8yrowO20KIBOKGwP+KtqXcjfNJxNOVlyUg6roRZjwDLIVUjIuw4DkJfsxEuMEGpdd/7AYKuICnoBCN5CJAKQa5SftO9toh0k=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCopFzHY4d9q5nqLWan/qPct",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
