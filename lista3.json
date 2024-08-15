@@ -458,7 +458,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/evento.png",
         "name": "EVENTO",
-        "uri": "oHsqG5oIn+fGFiVOj1c8MBLUGirVgTVXLDK5vbbY0VERYhHKNhFYQuOOaOaghXFUQUGPzvaEVKR5Z8WeQxJwftWc/vlfvu5DD+jOmDNvhbijMI0VAEU7HiKog4I4qS5Nq7TCrtzTiWZOP9xZdJYL9CfK8HxWIdSsX7oRwB7Y1J8="
+        "drm_scheme": "clearkey",
+        "uri": "b+QSGe9itEwwoKyzCS+bM78EFYjtkEiEwXoIc2BQRdfoAgnohYW8XbPNzlaceTP5Y3AOhaRi6huy4OplJ61CtvKoCI5nimytIICvz5uSvig=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5xDBG4ydMiaLkupDmfdZUa"
       },
       {
         "icon": "http://static.tvar.io/imagenes/americasports.png",
