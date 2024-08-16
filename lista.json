@@ -588,6 +588,13 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/identidadpe.png",
+        "name": "EVENTO 2",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqf0V/enYGzvz0RbhkTxW5C",
+        "drm_scheme": "clearkey",
+        "uri": "a8yF4nHy2P8sny8O7i3G0JdihM3grN2uZCVwypkaWjNV/A5GGymZ5+nHun5kPZHZWg8caInJ9Pgo54PYJ1fUmjZdZL+zmdxggQe0M6XMkzr+KIbdOg6q1v9St+mhTXPP"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
