@@ -517,21 +517,21 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4X49TyqtPyUcVOmQd9NUDj"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/espn5.png",
+        "icon": "http://static.tvar.io/imagenes/espn5.png",
         "name": "ESPN 5",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8cbc/ftCkqlniVq5NkZVu3nF0WOmmrEHsGmt9kzuOMK0fVtaMNpvKB/ErI6bdzElw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4ZhH6JIa0q6jgU613CJ48l"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/espn6.png",
+        "icon": "http://static.tvar.io/imagenes/espn6.png",
         "name": "ESPN 6",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM5gRCcidESHfn9CwAnT4AOGD1G0SDDcnSdOYIv5Q8CscjydnNYWE0ords/rRgHEJF/BmO8vF0eVuJV7vdUq2HLo=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l76BXZkjmWZrv7pia4sOOQ8"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/espn7.png",
+        "icon": "http://static.tvar.io/imagenes/espn7.png",
         "name": "ESPN 7",
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM5gRCcidESHfn9CwAnT4AOHBFd5pSTTYH48B4/qnqEmqbNHRlizCJrsannGVuCYAvauKYcY/91hrjwgCF9VUDxI=",
@@ -1598,7 +1598,7 @@
         "uri": "6nmFkuxLRecqf58/w19vLJPdiPIV0Bm74/uCByceuvk"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/mucharadio.png",
+        "icon": "http://static.tvar.io/imagenes/mucharadio.png",
         "name": "MUCHA RADIO 94.7",
         "uri": "l+tYBFiGIzIX0l4o/MkMaHjr6tQb5fYBp+Z9q8q+GxVDW5U2x8ChoXQfg2HqZ1pqdZLJCuVdNMxGtTL8WVgm9Q"
       },
@@ -2282,7 +2282,7 @@
         "uri": "XB4QbzlCfbYsuKMrvLIbEcFmpESdEldsFkCMfI3VqNFr3l8JIi9sN0FsWoVhHzWD0egN19+aGd7b5VzsbpyLTw"
       },
       {
-        "icon": "https://static.tvar.io/imagenes/malcolm.jpg",
+        "icon": "http://static.tvar.io/imagenes/malcolm.jpg",
         "name": "MALCOLM",
         "uri": "kxqVqHth3E4CMIx91H106Zxi1QX75VACob0HUQ7KnDjkFWsHSild+AjXSAoNo6tZ"
       },
