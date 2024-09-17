@@ -2447,6 +2447,26 @@
         "icon": "http://static.tvar.io/imagenes/zoids.jpg",
         "name": "ZOIDS",
         "uri": "kxqVqHth3E4CMIx91H106XGwli86uoWjLv5r+mE6mlikaC2Nnf59KdfuKkvnJpNX"
+  }
+    ]
+  },
+  {
+    "name": "CANALES DE PRUEBA - (NO SON PERMANENTES, PODRIAN FALLAR",
+    "samples": [
+      {
+        "icon": "http://static.tvar.io/imagenes/nodisponible.png",
+        "name": "88 ESTERO",
+        "uri": "kxqVqHth3E4CMIx91H106eS3G/NgxrLYT3t4W/OS8nc"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/nodisponible.png",
+        "name": "TELE RED",
+        "uri": "kxqVqHth3E4CMIx91H106SXH1cLoFPGY1LFWEAXQ3PY"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/nodisponible.png",
+        "name": "TV UNO",
+        "uri": "kxqVqHth3E4CMIx91H106a8UGkIKdandCR4mmPS85x4"
       }
     ]
   }
