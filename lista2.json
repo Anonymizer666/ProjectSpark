@@ -456,16 +456,6 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO",
-        "uri": "RDisZSdQn08vByRpgvjR1VQ5iOZdFR6sC7QPG3oq6h5IJcm9RS86e8Zw52XtaDNsBimcD/gPWD9d8T5PZhjzFPJeCH209VdwWuAyTwwTpiQ="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 2 - BOXEO",
-        "uri": "H8X9Q57HBn+FZ/TOT84dLuQwIWkzhL3mlj7TzVEDcUIXV/tx8GyJ9DWcfOZ5r/GpgzCTSgdKT27HdIUUdALxug=="
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/americasports.png",
         "name": "AMERICA SPORTS",
         "drm_scheme": "clearkey",
@@ -2498,6 +2488,26 @@
         "icon": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/caras-tv.png",
         "name": "CARAS TV",
         "uri": "GNsWRudnL/OlM39GOX4He3PuoLAFGoUuTirb0C4tDXW8f6wGOGscXevsgyCQ/wyLIx7kaOMMS8aJzzM5OeLsI9/3b7r3+uZd42dduqDMoiI="
+      },
+      {
+        "icon": "https://e7.pngegg.com/pngimages/902/344/png-clipart-soccer-ball-illustration-american-football-icon-sports-football-sport-monochrome-thumbnail.png",
+        "name": "DEPORTIVO 1",
+        "uri": "gcw90yxk3vuGN8qAL2a7QFBSCNQF730Sl4SFSdsKRLylKEVdJUw8Of+ShZEG0juUfdJY+mqAODcnYs6L/Qm+4A=="
+      },
+      {
+        "icon": "https://e7.pngegg.com/pngimages/902/344/png-clipart-soccer-ball-illustration-american-football-icon-sports-football-sport-monochrome-thumbnail.png",
+        "name": "DEPORTIVO 2",
+        "uri": "gcw90yxk3vuGN8qAL2a7QFBSCNQF730Sl4SFSdsKRLylKEVdJUw8Of+ShZEG0juUtoDLd9K9TbsUqBxop8n9Xg=="
+      },
+      {
+        "icon": "https://e7.pngegg.com/pngimages/902/344/png-clipart-soccer-ball-illustration-american-football-icon-sports-football-sport-monochrome-thumbnail.png",
+        "name": "DEPORTIVO 3",
+        "uri": "gcw90yxk3vuGN8qAL2a7QFBSCNQF730Sl4SFSdsKRLylKEVdJUw8Of+ShZEG0juU8dwrjwwMuZQJlwmFAkzKEQ=="
+      },
+      {
+        "icon": "https://e7.pngegg.com/pngimages/902/344/png-clipart-soccer-ball-illustration-american-football-icon-sports-football-sport-monochrome-thumbnail.png",
+        "name": "DEPORTIVO 4",
+        "uri": "H8X9Q57HBn+FZ/TOT84dLuQwIWkzhL3mlj7TzVEDcUIXV/tx8GyJ9DWcfOZ5r/GpgzCTSgdKT27HdIUUdALxug=="
       }
     ]
   }
