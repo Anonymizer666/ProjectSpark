@@ -179,12 +179,17 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM/bqUMlXjPZvG+xilMmjWBw2nfLrARuzlPGYfglk4Qq6UjcdCaLOkpHaXUK7W2MX1IyYk89OOyfy1bolf35QMes",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6lo9fkgMN5Y9KuGR/JORrX"
-      },
+        },
         {
         "icon": "https://ipuntotv.com/IMAGES/Mi-tierra-TV--logo.jpg",
         "name": "MUSIC TOP",
         "uri": "2Ms02We0Vc0emJlILYaBxNmwKh3+6LsGrmkwBEviYBx3lNO/7kgeNjvxikV5ujfmWvWoAMoOMlCTl3Em8Q3XXxu/Pugas0N04k6Rg7YgHNU="
-        }
+        },
+        {
+        "icon": "https://lavozdetucuman.com/wp-content/uploads/2024/04/A-New-Design.png",
+        "name": "LAVOZDETUCUMAN.COM TV - MULTIPLATAFORMA",
+        "uri": "PDBlZsYElfn+L9q52GqGNIIXxAeb+y920RqNLvDBeouqiICDAJG2HmlxNBghqpXp"
+        },
         {
         "icon": "https://ipuntotv.com/IMAGES/Mi-tierra-TV--logo.jpg",
         "name": "TIERRA MIA",
