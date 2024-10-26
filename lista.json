@@ -707,6 +707,7 @@
       {
         "icon": "https://i.ibb.co/HtXvSMJ/fsp.png",
         "name": "FOX SPORT PREMIUM MX",
+        "drm_scheme": "clearkey",
         "uri": "zfgkrXw5safPiDtHnEaov/rGrP4OMKB6RjFAPD038VKjwsxUUVdPPc8br3HKQoOUInpHNSlO2PlFWIvXnPopCgQRVCrETbqwT2WHpgamopPemD5Mvw8rr9yWL7tk38LpILk9q2575B5M/JpzXKwXFlN11tE/pPw+HOK92HvREyA=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrkR3WBKf4l5qpGoLczDKbB",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
