@@ -1888,24 +1888,21 @@
         "name": "Identidad 1",
         "drm_scheme": "clearkey",
         "uri": "77VfSlme4CSmwUyR9tShSVduvF41DiffF9jqZzBj5pCcoZcy3NkDdK+8dvqhKIId6PaSzFor9XZAE7blk08mUy3QFldRPucBZCmLGmzXsHKwNw38FDw/Jj9O6Vg6Bg4EtYl21nj4MYBPRTAlgiqI7w==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l797ls6qJnEKPq+47Y2yfUf",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l797ls6qJnEKPq+47Y2yfUf"
       },
       {
         "icon": "http://static.tvar.io/imagenes/identidadpe.png",
         "name": "Identidad 2",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4huHzVXunM+2v8Exac61fY",
         "drm_scheme": "clearkey",
-        "uri": "77VfSlme4CSmwUyR9tShSVduvF41DiffF9jqZzBj5pCcoZcy3NkDdK+8dvqhKIId6PaSzFor9XZAE7blk08mU5cSsqg/QE4hentsYikMH2ranKJryix0of49CLM1fyKlEwG01VBZqShONyQMyQiCgg==",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+        "uri": "77VfSlme4CSmwUyR9tShSVduvF41DiffF9jqZzBj5pCcoZcy3NkDdK+8dvqhKIId6PaSzFor9XZAE7blk08mU5cSsqg/QE4hentsYikMH2ranKJryix0of49CLM1fyKlEwG01VBZqShONyQMyQiCgg=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/identidadpe.png",
         "name": "Identidad 3",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7/NZ4c5FtlWDPaAovWdX0Y",
         "drm_scheme": "clearkey",
-        "uri": "77VfSlme4CSmwUyR9tShSVduvF41DiffF9jqZzBj5pCcoZcy3NkDdK+8dvqhKIIdfGpTz6CchHyGz0Qm/H0VcBa2qbJiL/hmmEnfGu2P5HGYaviTB7u9A6v8Y60Q5maGjyfDLFX/Y1SI3hQ276NIbg==",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+        "uri": "77VfSlme4CSmwUyR9tShSVduvF41DiffF9jqZzBj5pCcoZcy3NkDdK+8dvqhKIIdfGpTz6CchHyGz0Qm/H0VcBa2qbJiL/hmmEnfGu2P5HGYaviTB7u9A6v8Y60Q5maGjyfDLFX/Y1SI3hQ276NIbg=="
       }
     ]
   },
