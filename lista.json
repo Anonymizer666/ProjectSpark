@@ -2148,16 +2148,8 @@
         "icon": "http://static.tvar.io/imagenes/identidadpe.png",
         "name": "Identidad 1",
         "drm_scheme": "clearkey",
-        "uri": "lWK86z6cdM1EuaJlbWhvE4WGvK2enxd/vhtKR5lGx/96MIkikPA8hwZe8ZuSyqA4UZx4D9t2a/pfsnJ3dsE7aCc6NBYbFS/foAlEOT83JSidbZ90fnyZ1eIqGZd8xDtR",
+        "uri": "77VfSlme4CSmwUyR9tShSVduvF41DiffF9jqZzBj5pCcoZcy3NkDdK+8dvqhKIId6PaSzFor9XZAE7blk08mUy3QFldRPucBZCmLGmzXsHKwNw38FDw/Jj9O6Vg6Bg4EtYl21nj4MYBPRTAlgiqI7w==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoOiXYd+ZgpPwyiPZP5Raz2",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/identidadpe.png",
-        "name": "Identidad 2",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqf0V/enYGzvz0RbhkTxW5C",
-        "drm_scheme": "clearkey",
-        "uri": "a8yF4nHy2P8sny8O7i3G0JdihM3grN2uZCVwypkaWjNV/A5GGymZ5+nHun5kPZHZWg8caInJ9Pgo54PYJ1fUmjZdZL+zmdxggQe0M6XMkzr+KIbdOg6q1v9St+mhTXPP",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       }
     ]
