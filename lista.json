@@ -2966,14 +2966,6 @@
     "name": "BRASIL",
     "lista": [
       {
-        "icon": "http://static.tvar.io/imagenes/band.png",
-        "name": "BAND",
-        "drm_scheme": "clearkey",
-        "uri": "qDHAg7EPcjUgdNrJ6j92NNHl+vz/XEP4cG7UHmSowSQrhW18dDK6Onazabgc8Dnl8lJT8gbRG1ywOIT+g6/OXg",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrndjn2wCqHgfkrJvRIcv46",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/globo.png",
         "name": "GLOBO",
         "uri": "dE+8cE0kG8kIDLcm/uLAtsmMqeS0bIzLHoos59g2T1BgWvmVYOvm374urz7ER3UNtziPpRkLcmSYaDyjwIdsdQ==",
@@ -3155,12 +3147,6 @@
         "icon": "http://static.tvar.io/imagenes/rcnmas.png",
         "name": "RCN MAS",
         "uri": "FNK5X5sy/PJtKeeNMR/atFWR/3j6yvD4B2yVYgrfSDKBdYR86+A7dziZQVQAhVXiewF6gSlD5uBNRbTKNPYnJA",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/rcnextra.png",
-        "name": "RCN XTRA",
-        "uri": "WX3Ajon8oTluWdeEdEKeD1RAXcr1vHhBUZKMZ+y5o11xMNP9/u0U4HMneKrT2xQtBexPYVuhrW0BpN+1cft4QA",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       }
     ]
