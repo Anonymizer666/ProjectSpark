@@ -2966,6 +2966,12 @@
     "name": "BRASIL",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/band.png",
+        "name": "BAND",
+        "uri": "dE+8cE0kG8kIDLcm/uLAtgB5QskEHZcpt6hPO6UEAemfYHmN9qlNSIO5GCmro4wQ",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VTsXJVjSpOcyFMZ32Q+SuRgsPfBdu/c2vIbrSD9QuPRNTKsCfW+cQKaqK597bBCFj9OgpUVTsfZeiCVOl5zei7wl+wGrI+PLZDM+OnFA+DI+w=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/globo.png",
         "name": "GLOBO",
         "uri": "dE+8cE0kG8kIDLcm/uLAtsmMqeS0bIzLHoos59g2T1BgWvmVYOvm374urz7ER3UNtziPpRkLcmSYaDyjwIdsdQ==",
