@@ -125,6 +125,13 @@
         "uri": "b+QSGe9itEwwoKyzCS+bMwv96eHqnoAMz/sG07R4HEvtgdbV8DA0eKFgV0yDczI+U7ODvqWJYUe5TflafqowB986cccAslMe4WbBPTFFNSg",
         "drm_scheme": "clearkey",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4J8kstWg0RaNY3WGZSvc2GN+DkpWTiRPU/xNCUrs4dEQ"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/test.png",
+        "name": "PRUEBA 1",
+        "uri": "H4UNDzoAHj4cD2LVyG9LGDGi+94jwlIAtM2ryyz9+bazWVPQQYIzkWlKYwjPjkkeqK+zKl3C1fDTKirwxGs4Yz16hf0ooHiZvLJ4tGkbXz89SLih2nertclV+AAJoyv3",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4J8kstWg0RaNY3WGZSvc2GN+DkpWTiRPU/xNCUrs4dEQ"
       }
     ]
   },
