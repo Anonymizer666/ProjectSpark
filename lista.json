@@ -22,17 +22,17 @@
         "icon": "http://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
-        "uri": "UJnXe9zwJ3iTAf7m7oziOw0lVrg5SETABhRBvo3NQ5KMiCfZubr0s/KZN2//AA5WmA6kNiCg39S2zhedu60uT6NbHSTC5BIeeCY0CsEfdvs=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpll9kjzcMIJnzAJ1bqLTyHINmvEeG2AlSSPfpKlwQLnf",
-        "headers": "FSX/F/VkDnA/nXlZO6/cHPrUV3uUzvB2zd4pGcskYGTkfKvK0cGPzd92noJgxx1TPw7A5tGfVsLaKbSKxr5REL+U50mqTfo2Q3KaQKGijcASAkXZzApODyeX0872LgEu1PBTazNYMrzwNPK2cjtMmlBgiRgFotXFhLJs+M35yFSsuSGADgCa78c1A4lByrhlKUC7f7lGUl8NyrVK5cgXQdSdR2yvD1EEQo37zS2AHf/2+AyFGNzCjL5r/4DSRdEyuDIwbb8kqGCNFjcRjE7wCHyHKPauonHwbXHC6z9XkLQ="
+        "uri": "iNvEcjr99wI8yrowO20KICG4+9oBPXRzQuVEChaPjN18W9SqMqA3fkdChQj0heXyjDiqP4vVpY1AZE3kmCrWsev1RJCJLwyx5X2F5TP4dRU=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqZ8RCG/9vv/JfzA6b7072a",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
         "icon": "http://static.tvar.io/imagenes/tvp.png",
         "name": "TV PUBLICA",
         "drm_scheme": "clearkey",
-        "uri": "UJnXe9zwJ3iTAf7m7oziOw0lVrg5SETABhRBvo3NQ5LgA//T1Pt1Dca2F9G2DQHBJay0TZ7rxL1pSe0Sa+eGNa2u8pExOEGaGnbUWbCkUi8=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpll9kjzcMIJnzAJ1bqLTyHLaiiykmcBXPyVBHTrgrE4w",
-        "headers": "FSX/F/VkDnA/nXlZO6/cHPrUV3uUzvB2zd4pGcskYGTkfKvK0cGPzd92noJgxx1TPw7A5tGfVsLaKbSKxr5REL+U50mqTfo2Q3KaQKGijcASAkXZzApODyeX0872LgEu1PBTazNYMrzwNPK2cjtMmlBgiRgFotXFhLJs+M35yFSsuSGADgCa78c1A4lByrhlKUC7f7lGUl8NyrVK5cgXQdSdR2yvD1EEQo37zS2AHf/2+AyFGNzCjL5r/4DSRdEyuDIwbb8kqGCNFjcRjE7wCHyHKPauonHwbXHC6z9XkLQ="
+        "uri": "iNvEcjr99wI8yrowO20KIN4Yr2h4iCeaXh/5WYZnpsqE8gyKM60OWydRFQY7VuFaetKsr54DNMzT1O/jyVT7w1RhwfCN5/m2fxlAlQuDbC0=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoqb9WOGHlDN7yh/gCNIjHP",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
         "icon": "http://static.tvar.io/imagenes/americatv.png",
@@ -139,12 +139,12 @@
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/tvp.png",
-        "name": "PRUEBA 1",
+        "icon": "https://cdn-icons-png.flaticon.com/512/7276/7276332.png",
+        "name": "11:44",
         "drm_scheme": "clearkey",
-        "uri": "UJnXe9zwJ3iTAf7m7oziOw0lVrg5SETABhRBvo3NQ5LgA//T1Pt1Dca2F9G2DQHBJay0TZ7rxL1pSe0Sa+eGNa2u8pExOEGaGnbUWbCkUi8=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpll9kjzcMIJnzAJ1bqLTyHLaiiykmcBXPyVBHTrgrE4w",
-        "headers": "FSX/F/VkDnA/nXlZO6/cHPrUV3uUzvB2zd4pGcskYGTkfKvK0cGPzd92noJgxx1TPw7A5tGfVsLaKbSKxr5REL+U50mqTfo2Q3KaQKGijcASAkXZzApODyeX0872LgEu1PBTazNYMrzwNPK2cjtMmlBgiRgFotXFhLJs+M35yFSsuSGADgCa78c1A4lByrhlKUC7f7lGUl8NyrVK5cgXQdSdR2yvD1EEQo37zS2AHf/2+AyFGNzCjL5r/4DSRdEyuDIwbb8kqGCNFjcRjE7wCHyHKPauonHwbXHC6z9XkLQ="
+        "uri": "H4UNDzoAHj4cD2LVyG9LGAA+SdXZVuLb6XLO2ftwrxk5Kl9m3aF+S1uY6rS1tcpr+Dtem7qDPr4C+d1Vngw+ycc4vPzxtLmZWWfHnB1uNaGeRVSvrIWW+zwbYrWq7m3uu4cjkaHq89k6hodFq2kAQA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoWjFK6IpM0a1Q+/TsZFdHgIb7fkpCfnn3KMaV4J+EHoQ",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       }
     ]
   },
@@ -620,9 +620,9 @@
         "icon": "http://static.tvar.io/imagenes/tycsports.png",
         "name": "TYC SPORTS",
         "drm_scheme": "clearkey",
-        "uri": "UJnXe9zwJ3iTAf7m7oziOw0lVrg5SETABhRBvo3NQ5L1bw+QC2l7t2+EFG6mwHDCMP0obPT3PSfFqvPSf20habcuGY1C1V+09XXJDtVZRpc=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpll9kjzcMIJnzAJ1bqLTyHKwEhb54OiIllr/Cn2PBoq6",
-        "headers": "FSX/F/VkDnA/nXlZO6/cHPrUV3uUzvB2zd4pGcskYGTkfKvK0cGPzd92noJgxx1TPw7A5tGfVsLaKbSKxr5REL+U50mqTfo2Q3KaQKGijcASAkXZzApODyeX0872LgEu1PBTazNYMrzwNPK2cjtMmlBgiRgFotXFhLJs+M35yFSsuSGADgCa78c1A4lByrhlKUC7f7lGUl8NyrVK5cgXQdSdR2yvD1EEQo37zS2AHf/2+AyFGNzCjL5r/4DSRdEyuDIwbb8kqGCNFjcRjE7wCHyHKPauonHwbXHC6z9XkLQ="
+        "uri": "iNvEcjr99wI8yrowO20KIMM+oU4+I2X/PWRGn5quQBgPXwsaz7mwRpOyABdjNhf9fVoTDqa9kzU6/cANFXRiXrGoWRPi/nDEkVLB8DMLFaw=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpV3Wha8Q8LeS2L5TJsz1C1",
+        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
       },
       {
         "icon": "http://static.tvar.io/imagenes/tycsportsin.png",
