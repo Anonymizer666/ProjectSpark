@@ -1,40 +1,4 @@
 [
-    {
-    "name": "Eliminatorias Copa del Mundo",
-    "samples": [
-      {
-        "icon": "https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png",
-        "name": "Opcion 1",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM9C4TDjj3D4FaYCcwyOmD0N+nBC101w2TW461jtW0NzSWER8VPu2mRj1Aig9r2oA3mUedo2ULIjHTvk1iJvuISM=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4ltZknrMw4S8VejJ8A9t6o"
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png",
-        "name": "Opcion 2",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bMyn0jqm/rr4CwnZ+bYheHtp3BVsT4WT4Jl0m/P1MeQgZA3KiynuSfBpweTOU/OQU2yAT8b221KSkdFqWISU9RLs=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4uQy5Ml/bn4iIggkPhzy6v"
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png",
-        "name": "Opcion 3",
-        "drm_scheme": "clearkey",
-        "uri": "eGZfNYx2Qozu4J4WL42vMJi2o6R4vL+2CDOKxTfDYH5prJsGbyyq52wRqskPs36K2sAjcLfp2lRxcf9H2Cni0oyJy6Jj24FGZSh+6SGfPOLRmYAWC1bc++PqspnMnMP9",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6k8txFnABpMTfmr5xCOMLD"
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png",
-        "name": "Opcion 4",
-        "uri": "yVZ8/SQHDjXhw8Oya3EB+yuHh0diYJWfH5VAxjKoYk27vRZFlMcuYUMnktC83vPY+l6oC66ztOBgd3yGKh+rkg=="
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png",
-        "name": "Opcion 5",
-        "uri": "l2XBm9p4h9dL941QseKTRZBXOeg1PxU6ikleAaVCT7KQxH/0GTgzuxCuIsckxQQed7q8bjc/N56/lLkZCxIZl8fChQu82hhNdsCx2q6XDiI="
-      }
-    ]
-  },
   {
     "name": "ARGENTINA",
     "samples": [
