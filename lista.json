@@ -664,33 +664,33 @@
         "icon": "http://static.tvar.io/imagenes/espn.png",
         "name": "ESPN",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIBefAmK0T0uDXUAl4xwb4+xx+BJCTJDIbhnavKGmDZbFL5HEbkom71sQE25pBx1mdldPe3w5toPgc3iP8aExMk0=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr+TFJYmbCX0BKQbviJ9Jes",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPceCYCKj0d7AIWy8fir9GEor3RBeStVHAq5KRHTBpvcVneUObCiGIj36Zh9wEWN8KcuZyijCxgkpBNM3IouuH9wHj8/19qak9rDqeYr2ZDG0/w==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqFN5rNyRRFoMfjBbnq32yA7+vwXd7VKPwZ7qlyYBCCxw==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn2.png",
         "name": "ESPN 2",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIKQC81nbhJ4f9HIaqA5KcL7GuCuFQtKoChTiw4mIjsmSKBRYdh9tPEbGRkuIq2lV71vDYuePVNTv3zNe1PZY2MM=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqhwKu4WCnHc54qG9BN+7zr",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPceCYCKj0d7AIWy8fir9GEor2m84IDbfeket9fWxVvXYsWnsmt7cxf4P9AA9xPkgOTZRqRuPO35MAJVoBwIq0/3UNxAwqoMKObzKO6XXcuL6bQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpY+Fl3ygJQJ5ZTisCAsvjMIE9OybdX7e9phNNoSvVuwA==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn3.png",
         "name": "ESPN 3",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIBefAmK0T0uDXUAl4xwb4+wipZYcfwYIblbOI5YYbIzY/CiWstbye6/cPt58dXpVmQ==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo4eAhR7JdcFRU3y/x4Ox1c",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPceCYCKj0d7AIWy8fir9GEor5tdAFmIPfOZS4lYwzMRqIDz+DIwqNG7OUt+ko9rldB2izabHXNzvHanwIgrZb52h3XYPAJf+o5U9edefzIStKg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCokEeUzBBp/dmr1qajroXI413hi/JPT0fMj19QX52tuhg==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn4.png",
         "name": "ESPN 4",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIBefAmK0T0uDXUAl4xwb4+xeHmplIH/+jhlRPeIpzFQFrW3qgrAsSkZ9cqAdCQSsmWzRKvDkMV45Ckf3Mc6mvI8=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrgUA5KB5tjb7N0LSuXNXKa",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPceCYCKj0d7AIWy8fir9GEorNNlfMr/GKlm9TynXcVLQOhq0OVHF8AX6w9j+7Van+z5hLClZh1tTp9Hgy1UOd+p3xWgcWL5jTMpowh0W6h1rnA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr3OsnuSOnjRjl80xfmu0Q0vk2UDq1nni8rjeB+KAqaRQ==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn5.png",
@@ -770,17 +770,17 @@
         "icon": "http://static.tvar.io/imagenes/americasports.png",
         "name": "AMERICA SPORTS",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIKCyH+8S3pr3DssfVKkKd8blH7QsktYkaqordbIGE5l8J4cd+tfiURlydRviL5zJcXKaEYMesKluF0HHRTTm+hEgr66yt8P5y+BIQun3ESCR",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr8loo/ipsMwP4T8852zE8ytuqkc0v4Fcm/7cCozupD7w",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfsafYfgWwc11kF84l29wCjFjvYHXuGQERc3KwZ73ituW+tIw/liQgqR2InmUn/MC7YLBpH9CZzvf5Kyx7yVQEQ5h693xja3U6I8s6AaV2HBGZ6BEubsfQ0QJ2AO6+DBYg=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp5keEQBglYaE689d6JzkHtrCLmaMK7dQModciSUdBe3A==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/deportv.png",
         "name": "DEPORTV",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIJc7wEbhZLP/jhLMLxxdrZpDILdvk8z+m4BsJQ5Qbx8q69/NgSwuNNt6zHODvVasTG3D65RfIOIicWwUUKIi1fU=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpRnz+LtvrGj2RiWHIzlPxI",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPccDE7abWsKR7SLpBiQLnkTBAsqC/0LcjE1xSHFz2hpkKxP4373OZVWSFWPuS3Qcuy07cGNZIZRZ4lbTd2bkRqWXgnx3gp0q4f0XhlZ6u2460g==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqVkMSbY91Jxn7Id+1sqUW2NLKfmBcjC0RLFK4CqLR6Hw==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png",
@@ -792,9 +792,9 @@
         "icon": "http://static.tvar.io/imagenes/golfchannel.png",
         "name": "GOLF CHANNEL",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIA1aBmBDOlV+SfwwXuWurFN6R10c6wwj0Pm4xybNHcChwD4eti1QxXR1/QA897RGmrtT5M4FESOy5q0JGLPLvFM=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoo1eic6QqVFtieh+OFnziJhOHPL3WQtj5JmepovlXAvA",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfKf8sOBTIddiDVUHwrlus5i2fpSuxhUna7rEgBmfFZqQdWsiS1CIeKdlcC49T4SZNpAQGVRfAF9a2NPxop3ggp+DZZFOkUxfPsQ2vgpzIIY7U1pG5vEQvDsl49WKsUufg=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpjrE5BwLRBfdgXLCfXkaGY2HLlMsZC0C040TLT3pTqxA==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/pxsports.png",
@@ -990,9 +990,9 @@
         "icon": "http://static.tvar.io/imagenes/garagetv.png",
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KILNM3qbKhd0gmatuFOLtOnDwwxGWDfgc9k5FDT320w70XRIcVRGLpEdD/mi0Wb8CyjGpmJYXJRGQf7zyKXIF5Rk=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoX4laLOPI6NLjQQJG1Aa+X",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcemMFGEMJ5T/SI5YdENRnxgKI6Hfd1AKhKiUnAVhso+i2+bM+2fycI7q1g/T3zVl3YzFk6gCmpVYc7RTG/N8WrOsTm5T0jtQW7z0O/B391RTw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrr++Im4GKMzmbhXBfdA970Kka3w2uSeWwdV8ocWjBeJQ==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/nba.png",
