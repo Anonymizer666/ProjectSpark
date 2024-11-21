@@ -1059,9 +1059,9 @@
         "icon": "http://static.tvar.io/imagenes/dreamworks.png",
         "name": "DREAMWORKS",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIOKwYlAxFjYd63iEAONLcrVAKENPTCk8OFI4+AAbOSxcj+jPHGSldNmxWrsAGQp+07gST4x6TwGb7WALOdlE1as=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCocrLGCi4OdHSbc5yNJ6Xff",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPceAF0Pb6WnqIOcKmZUdgLSbxPK3MOIHmflkskXtdN0ZNn6oG7sNU12vXoixNNaqNQos3P3HiWIFHzyZSuQSGjMMPXzTqYLuEf+AXvNGQM07Gw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqqt4WmO4EmIScS42LBPhhc5sGiqQ44ctb0YvKF4Wn03g==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/flexflix.png",
@@ -1073,25 +1073,25 @@
         "icon": "http://static.tvar.io/imagenes/nick.png",
         "name": "NICK",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIJSwFnmXromJMeEpxXVe7pFHT4l9QcofbB9Jl2ToIPaNdXJbFX0FZ5vDen5DZBYPmJx8/GA2Jl0RAfr2YgWSJLA=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqqHvwp4Nc60LHVQ02/y/ni",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfLV9YhpN0odcfnNER6ldsKacDPavAhThxT684Uh3zjlJsb2nnk8if3EOkPiuTNzHdRWGyKFMxIyOr6S9OEcp3jA77PcI9TCCg87Mniw0ocUg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrTwjbbEHfs5QAyEL2jwwUrciDUksNUXwWCCvbiFD1ptA==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/nickjr.png",
         "name": "NICK JR",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIFvbTKxDZVuCYtSXCMbMjOK0Rovcxqu3IJjdlQqi2HX0PHLfWxm6Sw5HeJjXN6nECpIClFZdDGnhh6BrwCPzJK0=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrIYUxzgjllC3ijm52Hmrrf",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfLV9YhpN0odcfnNER6ldsKN0Yc0+bvR6t81cANASsfTEzjVBSg3deR3Ny5y3ke9m+epvlfEhbdX1NRaABHf+VFlaSL2EY3RMoWRvD+lMAqjw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq4mVhg+weR7ppsdlGkjKNCquCPFmytWwtmLSI9MhfypQ==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/pakapaka.png",
         "name": "PAKAPAKA",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIHKvFHdJUzKmGsTqWRIJ/0YYAv6DeLVP8xOmSq0mF7jGfYwfv4RPIq6Rn8U2QfRjH+IaCHtdeDRW7ksLqMuVjh8=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCq0wbtbfpS1NzE182gTSdOD",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfDOC1k/w88dgjhtRx/yeV07zHtBKGpNJH0i7VaS5kDkakuLfcFHBd6guJW4E2AfiBOOpT/em314zSf9rBVifqdxkMdcEm2IdwH4GWN/boCvg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrs1dq3BbSS+q+oOQGPMRmjKxkdxNR0Ljt8nEFhJlkQyA==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/teenick.jpg?",
@@ -1103,9 +1103,9 @@
         "icon": "http://static.tvar.io/imagenes/tooncast.png",
         "name": "TOONCAST",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KILGyr7cCS5lGEZppLtIobpjRXaP9GN49cPNyJdB49k/z3agICgFeB6ISR35WeAwbW5Wgbhhjs5Kf8BzhKFyC/AA=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoOXDvWFJ5jEpM4cBrzyhLv",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfEet7rR5nDlsOlRBzCrbdh9j5AAT4Y9H54S0m2OOcKCig5KXil2OOOCn572mLAoMnbO/eBWre5VbsM8ggLsbpjbQm0Vx5+Ue0lL0IBqBlDgQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpeWCmVzJ13NfUMQVQuyqp/154J+So9XfoOKi1nSpVgAw==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       }
     ]
   },
