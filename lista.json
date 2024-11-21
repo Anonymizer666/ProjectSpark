@@ -600,33 +600,33 @@
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIFblSzppj56zO27MGiVfigX2iPePpu+0ckcBCtUrHjtnFFJ+QjzbevAP14app6+f05Bbiak/BrlJr5jzpFwUgCqSycQZFUk4aA+YMoky9il3",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrmG03FsKOg0S3k0eGyMUOPuRKC17BaPdOAi/k2luhhGg",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/espnpremiumop2.png",
-        "name": "ESPN PREMIUM OP2",
-        "drm_scheme": "clearkey",
-        "uri": "PQvH9jOrNhc/6ACB2lgOOoVZ5dNNHOCmgzfwm0/H7ayfXFwuj0GC2jp4gXMygzt6SEHc9vjQje5uEt/VhBVEvjyTHdY4WZuSh6G+JEDQNi5UNNTRroeTmB/dth5hqDShvBI8f0MLrAFHfAeeuTCThRK+CtpNQSrFw2b6rTpMo6c2Q/TkYk9rKpr65N6sljXhZjj1nG697nE9ytdXaK5Ubg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrmG03FsKOg0S3k0eGyMUOPuRKC17BaPdOAi/k2luhhGg",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcdVxCyLF0MK8hDUxKXqyji6W1YDyT5Rsia4mSypCsn89S3YAeVowi5i0Wm04EGLFbDnLjw4ZTq5EpkE+HfNDoanKJRmyRtsA8KB8FuOUWJTKG8s1A3KDnUWUedKrK6A8T4=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqwcgTJsOUqh+pvVTOOn7bhdt2v6cbH+GhZfDvuWidxxw==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/tntsports.png",
         "name": "TNT SPORTS",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIM9pYGJBafI317vmiTBJVZsA2x/W7RTHY5YB3793y+t7kAxo9wtxRIOuGIN+mLjM9urV/hFFERD5Dfe9VifsVT0=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqTm61Z+DpEnMcB+IVO3j1w",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPccpthE2zH08HfMesO2KMrB8Syv9VPIW+eY0/jieRCsMRes+x1NtbEOHKNyMeu0h+H3AJkB0LBU+wVRFdLDAyPhWxw+U4JLsi7C/WQBhRRSQQg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrC9Rit60hg3irMH+SUWQKDgKorhenYBqvMQec/g4lOqA==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/tycsports.png",
         "name": "TYC SPORTS",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIMM+oU4+I2X/PWRGn5quQBgPXwsaz7mwRpOyABdjNhf9fVoTDqa9kzU6/cANFXRiXrGoWRPi/nDEkVLB8DMLFaw=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpV3Wha8Q8LeS2L5TJsz1C1",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfQAxek7kmdm3hvk0wpiZMq0zpjsNnjCvnXaRZf4FFCUn0OkqP73UHCppoiMBsa0jCoVr9aDoDWFm0mw2FdWB7EJbDaqJMQE95IUGKrj5hn/A==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo2wClJYGDojpjjnZMS5rQKzTl8Yy9SUST0apA4KNr/nA==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/tycsports2.png",
+        "name": "TYC SPORTS 2",
+        "drm_scheme": "clearkey",
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcfQAxek7kmdm3hvk0wpiZMqAkQZifNzs3UJwY+BLkz5TZlp2KZQ5zQuENPS2//SbgJHGRHUqG0GGpzG9i/4etoSoVfssBe+NdBpDmCl3D8UZA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoMCnAKZeR0IOc7M5Eu2fWiUOxLifQd1VnS2OIwIAsmxw==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/tycsportsin.png",
@@ -640,25 +640,25 @@
         "icon": "http://static.tvar.io/imagenes/fs1.png",
         "name": "FOX SPORTS HD",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIB8FU28/WLA+aPf1uIA2/KQSXiF/haaFcWYVwPLZJCs2v8J2FiUR2RrGFfhtOCb5XDWDFVsyZ7KsMqHeDIXH7Fw=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpulcGR4LAqGv+yx0lfQYwQ",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcd990bbLGJrcrgGlo3FmnW2mf4xoIfNwGGktZno0rzK6u9iVft2QVkElI5O1cI7/DCupDGTaGgjPAWjyxtOFelTfIgD33eNW3i6KWJJ+3EMDQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr+Rgdz0kpLcFM3KIOAaT6pyM8637M5yJZ/3huW0AazOQ==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/fs2.png",
         "name": "FOX SPORTS 2 HD",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIB8FU28/WLA+aPf1uIA2/KQicLjYMWVYilqJbgqnmD4kBVCWG9GGOFh8xfKTDCwSZO6gxP6rqCTyYKgUwGxf3fU=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrUruj6VkbyaBrSHQn7zGfX",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcdVxCyLF0MK8hDUxKXqyji6YXJyu2OjKstywwQVKpC9+xn5/ZzGPrxbr30xPYvHzJCz3uNtHn4hNfwNseo5TkHZQT4OHSWSc6b92l0V+1Ib35B/V0V44LUTCtoHFMRy3tI=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqYXsvB9eMQFSmuJ38se8gDOHHh7CylU2Ypmpd9UQl3uw==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/fs3.png",
         "name": "FOX SPORTS 3 HD",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIB8FU28/WLA+aPf1uIA2/KSyDLToWvDjkxboQumSN1SKsNPiYPYZ0xFeRjI13dSIIZnpXm3zRjPQq1Dwt0+VTk0=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqq6Sx6mqKhzigdwd5OlH/C",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "mZ2c0eF3linU0HphHlEh2wu6BDSbu1VVuAu/U3nuPcdVxCyLF0MK8hDUxKXqyji6cPyKzIzFMq05IvFGXVo8E6tMb2o0jGFvNTbs8KvNxeyUFOBRGOKkxgbFfa7htd0FxA/YT9XqvK+YScQsgCPwDrHw0VPQ1pRWsr9Qpq+UT34=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrxHCyqOjk/pFhIzdP8k62Yok73G3C2IAAblk3YG28qHA==",
+        "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
         "icon": "http://static.tvar.io/imagenes/espn.png",
