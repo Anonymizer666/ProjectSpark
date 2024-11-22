@@ -1785,6 +1785,14 @@
         "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/novelisima.png",
+        "name": "NOVELISIMA",
+        "drm_scheme": "clearkey",
+        "uri": "UJnXe9zwJ3iTAf7m7oziO5yusNU7fHUDgnJQVesLF+ffgxbP9MONrdfE609G7GZmsSc7iFLUTvDw/tkTZW13dQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoDkqa7EupkRtdaLWZhtPjDL8POORbWKx2MWfDId37j8w==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/tntnovelas.png",
         "name": "TNT NOVELAS",
         "drm_scheme": "clearkey",
