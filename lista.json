@@ -1116,65 +1116,65 @@
         "icon": "http://static.tvar.io/imagenes/hbo.png",
         "name": "HBO",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KINu9i+zEMdL+N+W+UldK881jkVFSLbVXMD3E/gwSucX3mt41GB5aYH3NJQ15PSDfwg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCravgD0bKEHRzqyS5/KclAf",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgkzeUexsMoeKB+Cvqx3/3SYW/ydOwVWVy0OTP+H0GZWVLA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr0wTkFGVmUruYjcuCsagArv02jSytr2JtPz+aG51beGw==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbo2.png",
         "name": "HBO 2",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIDqB8NErMLXDul1TLDV5jWR2AwKe7zkr0gHPbhvajfBX02Q/0ERyz5PzjpPCTRibjw==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpBronKkBLSQNihmEPKuapS",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgky4HzwTjKRgWjJrxQFZWSX+UT8JbkJnPil6op9c+zxd/A==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCob7Mq0Z4o2h5lp2whOjWBkdPFURaq2ho8KVU0uThOo7A==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbofamily.png",
         "name": "HBO FAMILY",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIDqB8NErMLXDul1TLDV5jWSrl/HvcSrt8XjzG78ZfQAu83bRfb1Vbzx6gYhKg4BOv5eCqIg5lKA6kj4RXLghqrw=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCriNTXgICy5Bmjy9W4cMJ8U",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgkz1dyhU8kKK+QMTX2ccxN5Em+F2Bc0YIi6LTm0S2R1IgU4s+tKnu+ybITEycsW6Sr4=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoQYR5O94OhTo3d45hYphrJ/bVirGq4ZFW/JqTuYBDcfw==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbomundi.png",
         "name": "HBO MUNDI",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5l0aO1qAgymWPtNNR8LM+vms0ICINiuvz/tbhYMMHR0yjI3mAzZKl9T+64LGaZ/1tnZC5EMfBiuprke5tfDWcto=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqwe1tVhJgeEPuyRnhB5lI4",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgkz93lpZelVtJAlMH7LVjruqo2DEZwabeHzwE5AOzyi1+w==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqdlC2u1C4rz7ReKtG5FAMcJAl6woaXTG293A48Nz1iEg==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbomas.png",
         "name": "HBO PLUS",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIDqB8NErMLXDul1TLDV5jWTz5qdTnHGtEvUaMGhvxYRjqEkf1taJeZWvqF6dZREdCsQ3knwU8dEh65XE5y52fsY=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp31KNneOv/lqXn3tZd7H3E",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgkzLX8UJaJ5tEeToS8TnheSSGmtDlG781AX7itK1DBrsIdmuvdGGAZ5y3/euxEKEiOA=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpCkO2Pd07i0rXCZ/larHr/Pdg1/nxklmw0TcLArzMowQ==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbopop.png",
         "name": "HBO POP",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5v6gKrKPrX8vtMr5VOANR9Vv3qKWd1dcMA8JEXcR6tA6LXIeNZftZsm1lD1rP+hxBnuz1FUcu3p9dtUbR0ADNz0=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpmiINQCnJZuedNzI4uhewT",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgkxas6ppp8Q6Q9PZJ++/e/8CpGCFHKKmbFiZd3EAGJa7PA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqMwY5hMa2pyIUYIMZSHLEcj0gYmogB3liC0v6jvRnULw==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hbosignature.png",
         "name": "HBO SIGNATURE",
         "drm_scheme": "clearkey",
-        "uri": "iNvEcjr99wI8yrowO20KIDqB8NErMLXDul1TLDV5jWSTGSoQztvHEqA7jNKrK3uoB+toHl4j7//jvaNAnkkhLTvHfOwkRpCTgAwOo5GZEVU=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpyOSPXwBA8y9uZhvmeEaDsCfsiS2zcnJS8yLO1rqaptw",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgkznt+783BWeTtDqh8d0yTaTLKcpnSFgZqCazwWJCp9cq4CUs8wfPT+5GSkpSKN/fMs=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqJd8rkJffQZHCZ60noIqeL5sM1Dl8jdkP+RMsldyQhLA==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/hboxtreme.png",
         "name": "HBO XTREME",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5l0aO1qAgymWPtNNR8LM+vnKDYMAt2KaJ9WDRijiYwhX/Juk5rBM6v09AXLB/GEn4MwELBm7nuxsz5DBq1vbdjQ=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpQFJmNonb2lA2edCctx5qq",
-        "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
+        "uri": "/UkzGr1zcA5obh+AkUCe0Waj4Q70VXYEWtF5zpnlgkxx1TnnUIhymhfbjzD2/NDNrNKGagjQsP/Er/ndcaznUIfpMbrSUL3mb3yJ3NtrOPA=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrW4SvikT2bHAfvDh1XKi6EBl09NHiId/BBaWQUzvbbog==",
+        "headers": "svpLb71rYQfnMK0kF69LTa08R2MVTl5V35yPjyntG4ohIQDfXpv8ukK4YEwkygw7jZJAyrCBS/w9KfwbQ60+GKOLbnA6aDgHyJRKBRvQtA0eeln+rxw0LfvJhxbDTKj9m4OWMOMr4YBx9sSCZ0m2rLSAHnRJm4ytvrhk6NMp9jJfjGSFFTy0L7fC0iXL22ty+HzzAGkuKSqYV4QAJ1tqNchU2SNCP2o2GE+y/7nyKMLQsUVesmhOsfh7WKaFHGefgWRJ9vwffEe2/a4IUk8cnjcWr+2A4TVAVbb0C9UldnM="
       },
       {
         "icon": "http://static.tvar.io/imagenes/universalcinema.png",
