@@ -137,12 +137,6 @@
         "uri": "iNvEcjr99wI8yrowO20KIO0M1oKPKAJ0xgFv2zmZuqSJ1TS/V09uHnPlKNPRFjA8l4z86uwvczd6w9Kqczgcsl7uULdM5BJCFC+ltDy3Pl4=",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoWjFK6IpM0a1Q+/TsZFdHgIb7fkpCfnn3KMaV4J+EHoQ==",
         "headers": "svpLb71rYQfnMK0kF69LTYGthe0QK/8cqaP3mdpdHZBJ+aIMOx3Kx69+XzmnchDM0jnsOHfOO7jYVohh7ceWmyTeTHvrMxKE2NmsGjn6mKmRDJZn7ePQ3dYFUd5yeu+fVAKQMyjnVxvSv0ahjINNs3tnpLyo9vijBIpaB02MolWh4WcCVU8gDAYY5Uc4F8RxCcoFqEl3bLmaspY/oXzs6CuOnexD2fg6dXU5/Yw/9Xnfu+WeBnAdNKjtybj2KUdtVJDdzIc1PHZzfr65c7qYmWsC1zavg73d8nUp/6zvZLs="
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/diputadostv.png",
-        "name": "TEST00:58",
-        "uri": "pHJcRs7Dm7uaGtBgwbkFpiU3UdFwRxcKtRoiHhDjQS6R+M1I4GQeMnZXAv3btnG6uSk+HQo04ONVTAiFVWNxt0WFc/Bv5Bus0F5KODjL5CY=",
-        "headers": "svpLb71rYQfnMK0kF69LTdykmV2q8/DptBjn5h7zjgpo5PmjaZP2R9t2x4gIKwf6qBcf9gb5tqaXQDdp/Qr43GojJFgWUw0WHWB1ARKqY3oorOGOAskNv5YHOqmD7skgJAxEJqNjsyV7ySRd4yST0G5/UJFbQUm7Us4yThQ2dHQvoIjBVLv/e31p4NJ7de6z8AdMceyj9xoFhqRYCcv8ilL/P0JoVVuMeZhIK2RpBwc="
       }
     ]
   },
@@ -580,8 +574,8 @@
       {
         "icon": "http://static.tvar.io/imagenes/8mardelplata.png",
         "name": "8 MAR DEL PLATA",
-        "uri": "iNvEcjr99wI8yrowO20KILFoQQ+MTorYqwhMBT9eWsTgTUuK91GgYrsF2InyXxdH",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+        "uri": "li55uCX1AVPZR6OnK+0qIi6wDvFyZMet5umv1OlnhbpFS0qpK1s6A28mJ2N6S4XMuEW/3uEjEkBLWzsqJC21R8Zq/YOl7iJcM68IZ06C2HKt63S6Ygil9DFgDIdc0wI10mZDdHo2sHI7BAiTKzlxpEzTLa44eKh6GhriuvKGQPB1Tu/rpdIjxrC3c5s11myi8AREqg9GweT3nINF+teh6qxyq8VgIzqaWCQir31HRGo=",
+        "headers": "svpLb71rYQfnMK0kF69LTdcfCzQZW8JdPVm86lE4dBxlW2jbIKSze2QYmYKp/U2y0olYuFEiN7DVmNJa4mrhb8QXxrwuCLLxM4H/JpOKMO2fH5Ih0Yp2SWffDqDoKkzDNM2Y1mhliIpxemtnatfXjzPBgE04XqQFd/a/yhX/5jcwjqzvhnwPGOW+qb3O6rmVFzWPjNRJ6b5L8+0KfdJBJoSte+/DA9bH/HR69xadqTSg4XZe+QbmAJzdVdQDvTcPWLmotq7cI3Rhh2l0kIQXcQ=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/canaldelaciudad.png",
@@ -594,7 +588,7 @@
       {
         "icon": "http://static.tvar.io/imagenes/bayrestv.png",
         "name": "BAYRES TV",
-        "uri": "iNvEcjr99wI8yrowO20KIDJR0tStLW/hFysYOd7p8XHFhLn+z2r9BcKruoh50EsX",
+        "uri": "e0bsZGGyfgzGDOfiOmuT31SIqX8/6jKa08vIKjsChFhCH7JCCl4IBt1opmr6BZ+IGp2/jyGNdAaTkqXtyUtzlA==",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
       }
     ]
