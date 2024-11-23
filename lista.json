@@ -669,6 +669,14 @@
         "headers": "svpLb71rYQfnMK0kF69LTZEz9gG7Ci5GEXjvs33Nz5svpA/nZYtQeVT+cPxINWIfL7A9llLzoBJDKHMC9BkGjxEJGffYOwSfH+Jy7lAjMZ/ikpK3OseVQs6kJst2u70CBm/JlKPLGYdu/xK8IYUI+iFlij+mMk9cDdtlqBr12RW3k2AFDyaPRlAvdMCRPls2LD49lqWSKoIm3W44PlgqGyPcchzq7Qg2mVANSSmIPPseCgL+oD83oMMyvhC+E48E06Pnxj1WjuLWlcqx2hT0Amh8okPaYOlph+BVbd2nx98="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/espn.png",
+        "name": "ESPN OP2",
+        "drm_scheme": "clearkey",
+        "uri": "eGZfNYx2Qozu4J4WL42vMJi2o6R4vL+2CDOKxTfDYH4QLrRi7T4uKOYNv4hVjoGl9fWD4VxhZ48Hu+Re4XLQzIxkJ+UeO1m5WIH5zGQEb5pNL91Iu1o+X5nBka9tKhdZiseks54NR0q93IvrFaU9Iw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrLacCvI+iqpd94EbM4Nd0nD8Utx8juAJAAgJhaKBAohQ==",
+        "headers": "svpLb71rYQfnMK0kF69LTarKYbnciixuibu/VEXNOW5q0gvTn+LEndpOVpqcQBS3zFSuN2U/TtL+JHl82jRlcu43Yzgks56TnILSTy2lgoN7Oz+HM0D+rp4xUoQbxbwqdx5RjJZNs7qq2xd87JXCXE4mXElQgDFcZUuHIuGAZxsqHvopPEWnU0KmZuN2yWWFZSCHI3gBrAipa74TG2jz1cduyXcZC1zyVY05eKHJl5NfuwneccKPBI9LtxTU7GzSvpCbIdEIoFbzogOBrzAfJA=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espn2.png",
         "name": "ESPN 2",
         "drm_scheme": "clearkey",
