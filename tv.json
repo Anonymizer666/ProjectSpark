@@ -521,6 +521,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6tHrFFljf03GCtD88svbaC"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/espn2.png",
+        "name": "ESPN 2 OP2",
+        "drm_scheme": "clearkey",
+        "uri": "vRPFrRAnl6VXsueI8nvuMhoWskwfLf3lgrr5oz6Q9xn0dgJ5SnqcWkuUyhJkgYJ04oeg9EY/jqBKqQYFc8m8BlN0t5TMfStdu0WfNnuMQo7AwMmN8f4FTGJJFSA0wyIiVOMONiLzfeHgcTX3RxlJlw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l56ssaGvbWXxxYlkfx/9v1o5Q40eQIbQL4LVtc/8XLfrw=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espn3.png",
         "name": "ESPN 3",
         "drm_scheme": "clearkey",
