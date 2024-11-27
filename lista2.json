@@ -17,6 +17,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4zQfk6m/Jx70AbRDpwWfvr"
       },
       {
+        "icon": "https://lavozargentina.tv/assets/images/logolavozargentina.png",
+        "name": "LA VOZ ARGENTINA TV",
+        "uri": "ylGKLPiGY4hCpWbaGBq6SdkCNZS3C1wWyYCuVWv1z/g35mA0jFKV8CKhZ0j5pFAOK17/FL/G8KmGnLIeD3ydiA=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/elnueve.png",
         "name": "9",
         "drm_scheme": "clearkey",
@@ -90,11 +95,6 @@
         "drm_scheme": "clearkey",
         "uri": "vRPFrRAnl6VXsueI8nvuMhoWskwfLf3lgrr5oz6Q9xnV+1S4cxAxHlUPLjWiPJMkAK/zb46BLa4ndsEaV7OBsw==",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5VbdWucQ1kYoNXWO17IWkJy/nosZY0xfQNgLnitaoI3A=="
-      },
-      {
-        "icon": "https://lavozargentina.com/logochico.png",
-        "name": "LA VOZ ARGENTINA TV",
-        "uri": "ylGKLPiGY4hCpWbaGBq6SdkCNZS3C1wWyYCuVWv1z/g35mA0jFKV8CKhZ0j5pFAOK17/FL/G8KmGnLIeD3ydiA=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/encuentro.png",
