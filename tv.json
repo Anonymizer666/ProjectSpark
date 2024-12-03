@@ -1758,6 +1758,11 @@
         "uri": "mS+yVwl5SAY4HRkDPHzIbtxPAOhPM3P9XYjFTAVnNrJYQfBXGqeXAzQxfqG4acTctskHr6OzxU5sbzXaBF34rwnFBMtH7GBBY3qaCMYakvI="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/rtvhd.png",
+        "name": "RTV",
+        "uri": "mS+yVwl5SAY4HRkDPHzIbtxPAOhPM3P9XYjFTAVnNrLH+TZNvgDfutbuNPqQNl0e6ukX7HLyXfjALjukO47SLQ=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/npy.png",
         "name": "NPY",
         "drm_scheme": "clearkey",
