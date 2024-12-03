@@ -163,11 +163,27 @@
         "headers": "cuR7dj2M5AdEcY8bHze/YMbXfLwYP/TcJmX0fyRoCKJhOlQJ7u6jX4Z9cJrJzqe3MxdzCjrNpaPxH6mRPvkqs1f6jFGIt2xDAXKLQ6Q5o8NaEVqJaloE6VEsqERH3QO3AvmzMLuZjEzoGjoYX1E3RadGXbI8UBBjDPXieeqPAGx69Ck8gQ1/zQy/+RJOiL7EyaI2S854UCPbsXlXaAVPaJ1Dn2GheI9im+7p9hUoBeG1SBcAbZsI+nz7nBpW4/x56HfKC7vgbf3bJKWGUY4hNJ2bGic7wIsWPLkZ5284AswHdl2dx/NUHu3n3p/zv3dYgGu/8j5SgqS2YQ8tpfWxBp8UHqV9m08C0WATHvRTGYhfKCTzjdqMS2L1A0vhSFVG5kmxH38Y18JyndnmKI+I5A=="
       },
       {
-        "icon": "http://static.tvar.io/imagenes/test.png",
-        "name": "COOKIE311",
+        "icon": "http://static.tvar.io/imagenes/dsports1.png",
+        "name": "DSports 1",
         "drm_scheme": "clearkey",
-        "uri": "aRbSpAdzRQW4s+Zm99eV7gaq4iEqvFTtA/mEuh2bRlUx4VGyevDqspu0mJ2sEZzmt8uID3rrZvTdph3q9MgPUbk/U40LhZg3GNNxbVHPjx+dHGShkKieJk1OAkAYfXYNoWt50l8eGNj0Yi79lW8Z5PCHPCtp/9ORz8Os38T+o1+FweZyEDMIoYnIQlfKd+ZZGdQODUC6K/jW/D/puEoFmvrQD733xJAyx/rxKqS3UO95R+yhQSOkM5IvN7HV3BWI7Ut4UPCWosJQn5prRRGLtE5i2MSg2tS59g8KpWMVcpgwkaH0mDUosir5qCRSDsa2e3N2kNC4ZEdNNg6cpkwHY8KhlkgqQ5v6L/njBMxQ7PdX4gVcXXkgYgm5NHZVgEsrlT3/H89RACcL6XSTIahS4s1pRMVybmKwo0ZB9zSIE5AShh91uhNEt7JsM3xmpEDVtpBIOxH0hb2uVZgTGt7q8x3iI/Y5Zq70S+i0QWPaCR1SheK93QffnpD4i2VJQrm5lgaV7Tmmylp1eQDNV7+ZcQsbzEi5nZVUU+M8LpDwpucvtaI21okG2SK6o22v4hkGMP8aoHjAdrZmj1Q8O9OeGpJE/vhL1uvGAdUa42izspuSbYuCD25HEqYZqkHPQnbXqfW8N/7KKEkEQ1+cmE7XaA==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kOD+PMSj9YD0WQREck1p94o",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCobwH2PynydJDtiTT64OQM47d1lkPt6FoNeT7bwdVisRg==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dsports2.png",
+        "name": "DSports 2",
+        "drm_scheme": "clearkey",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kPzA+cHnXrQkr1+dfFlmCay",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr/OOTUAP591j3LSjj5+y6c+5NMosxCR1Jx5SVHOSYRSQ==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dsports3.png",
+        "name": "DSports 3",
+        "drm_scheme": "clearkey",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kMXAo9IBnrN+WlVR43BXALK",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqigwVvk+Xaslk1UJw34meeY5jUR8fitpsBCBRW5CnMhA==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       }
     ]
