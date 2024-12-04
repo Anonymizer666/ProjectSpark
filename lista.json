@@ -1522,6 +1522,14 @@
         "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kMXAo9IBnrN+WlVR43BXALK",
         "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqigwVvk+Xaslk1UJw34meeY5jUR8fitpsBCBRW5CnMhA==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ondtv.png",
+        "name": "On Directv",
+        "drm_scheme": "clearkey",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kPjtJqvB9kaSRAepVnrRWav",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr80yMPYDoH6DpjZwcAdo/bmUUDp0GrS38D+G/KPxscog==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       }
     ]
   },
