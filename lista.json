@@ -1524,6 +1524,22 @@
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/dtvfight.png",
+        "name": "DSports Fight",
+        "drm_scheme": "clearkey",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kMUzKJuSvHl04gNN6t8hO1g",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrwKdq2DjBsBevzohJpPTUQJCwZ/0m+3lWri23LQP7rxA==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dsportsmotor.png",
+        "name": "DSports Motor",
+        "drm_scheme": "clearkey",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kOETn0oPuuiU1fsBgZVcMWh",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpZMdwsOYyPPz+yC38Hz93hwocs1Hx5bfoKrOGp/05XAw==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/ondtv.png",
         "name": "On Directv",
         "drm_scheme": "clearkey",
