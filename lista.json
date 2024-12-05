@@ -160,8 +160,10 @@
       {
         "icon": "http://static.tvar.io/imagenes/eldestapesinfin.png",
         "name": "EL DESTAPE",
-        "uri": "iNvEcjr99wI8yrowO20KIJMfOYY6JI4di1HTvv4NBL9c8cyFBLwWkerDTIoThJbs",
-        "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VS1pBqflczHpBI9506eL2OI"
+        "uri": "n9dlBe2fbsm4nEzvo/bFg85Eq20dsaDngNapes5RkaZFQV8fxCtaiwdWcXIu4o41",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCp4Pym2hf71uJP7QjHIYT6ZDE7aMv4iI9eKPaBdh2If9g==",
+        "headers": "G8pgKyMcvVwH6j5q6OLWuBYhMholY3x3rG5PgTUbXBo="
       },
       {
         "icon": "http://static.tvar.io/imagenes/telefecba.png",
