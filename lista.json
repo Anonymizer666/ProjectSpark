@@ -1685,6 +1685,14 @@
     "name": "NOVELAS y VARIEDADES",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/extratv.png",
+        "name": "EXTRA",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg0/RpVvMcm6YYgsybiJ5Qwti8txfOkqJU+VKFu12AxBN",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCo3LQ+lDM+F8EPSYlbauCalteI693gvOmAQRs7iXco6wQ==",
+        "headers": "FSX/F/VkDnA/nXlZO6/cHEVBkEoy9N7phI6QLLW6EuRJ6pnS5iSbQJ+RuU81EsVpWwd9XksaWNruIjNL16LaSN21XrAbwH/GZZpjpn1A6BH+feUj/jfxzwHxxAn9rDenU9k26WS51VUoyKEIkUdFzqGxVl28qU5EiI4N7cIthoyFyGi0dh5NxLVJrUmTbHxXqGN7RfmyUNaWPiZTzmdF+rW36cfePZ+kXBbqMXhlCnk91XhQgtnVo/O9COZUxoDBIBMlLYsTwsTkQpBYxuTltcEkc1v2AEPaIu7EwC7ZEUU="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/bravotv.png",
         "name": "BRAVO TV",
         "drm_scheme": "clearkey",
