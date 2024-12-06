@@ -3,6 +3,11 @@
     "name": "ARGENTINA",
     "samples": [
       {
+        "icon": "https://pbs.twimg.com/profile_images/1859638418633797632/TvVBUCRj_400x400.jpg",
+        "name": "GRAN HERMANO 24 HORAS",
+        "uri": "jgesxAvPGYOB61ymyN1mmbc1Xjs4gjat434mC4MyDrBIhJEmVe2ck4FqRNHQdYqwIV2MNrLaXDXZm5N8SRxGHwU/Aad6skrwEN1BbukSBX07FWa2WCwNEqYxTOVnYhU+"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/americatv.png",
         "name": "AMERICA TV",
         "drm_scheme": "clearkey",
