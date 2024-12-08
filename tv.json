@@ -3,11 +3,6 @@
     "name": "ARGENTINA",
     "samples": [
       {
-        "icon": "https://pbs.twimg.com/profile_images/1859638418633797632/TvVBUCRj_400x400.jpg",
-        "name": "GRAN HERMANO 24 HORAS",
-        "uri": "jgesxAvPGYOB61ymyN1mmbc1Xjs4gjat434mC4MyDrBIhJEmVe2ck4FqRNHQdYqwIV2MNrLaXDXZm5N8SRxGHwU/Aad6skrwEN1BbukSBX07FWa2WCwNEqYxTOVnYhU+"
-      },
-      {
         "icon": "http://static.tvar.io/imagenes/americatv.png",
         "name": "AMERICA TV",
         "drm_scheme": "clearkey",
@@ -2504,6 +2499,16 @@
   {
     "name": "CANALES DE PRUEBA - (NO SON PERMANENTES, PODRIAN FALLAR)",
     "samples": [
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1859638418633797632/TvVBUCRj_400x400.jpg",
+        "name": "GRAN HERMANO 24 HORAS",
+        "uri": "Xqboyj7lDkb8HsPvr/U58llU183IvEA+o7kwQWBhlcYqn2Jf5SlugWBUXGYsfrkCAXw/BBqowetUclCTqczzdoir+qRUfp/JKR+eHcsXly7yTlUlv7py9thRuC83te5S"
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1859638418633797632/TvVBUCRj_400x400.jpg",
+        "name": "GRAN HERMANO 24 HORAS cam 2",
+        "uri": "emw0ENtvwXj2HqkhDuqd98IbWTdNW6LLfCuxBDaGnuCNc0Ca7ZDEpW7qEHtYQo4BoXWXBq7z4oHoFTia45vKPnVs7AnYsv4aYuLq2ccTKLs="
+      },
       {
         "icon": "https://cdn.mitvstatic.com/channels/ar_golden-edge_m.png",
         "name": "GOLDEN EDGE",
