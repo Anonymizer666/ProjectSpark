@@ -1463,82 +1463,90 @@
     "lista": [
       {
         "icon": "http://static.tvar.io/imagenes/granhermano.png",
-        "name": "GENERAL",
+        "name": "GRAN HERMANO",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs5QqiY/DWWcPguVV1qJBTULbbAY4zshCas/U0efd8CnpA==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmN618yZlmghG2diN2G3xnG1KIXBE1qoDOm6HDUlbcW4aw==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kNv51UwX7L3O2cNhWhnzfEAhZ3NKlH2w1+h0mQT/XgIWA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrHn60phYLi0xc1AkpZm3+a4bmwF4ZMKSsTdXly0pNF1g==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/granhermano.png",
         "name": "CAM 1",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7X8ifK4U3pVU7j5q0VyAVqlnfMmAI47VCOM6XmvqM2zA==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmPGSrJzMbNSpt3wt2t0zOg52Kf0SDeUoFD4jX1NbxoJuA==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kN5IwWCgC52qhvwZM9P2F1ShD91SRhXvquMdUedBFaMdw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqMFRQ5s2thb98MgRg04S8BKItGFbGxU4rL4UiaDBzuwA==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/granhermano.png",
         "name": "CAM 2",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs71xDV58vLlqvBHF5UUwBNudhK1zaX0GvJP7g3Ya1bXyA==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmPGSrJzMbNSpt3wt2t0zOg5D4zn/1i0ojcCDkCIg5p/rg==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kO5Co3Qv4yyVT+Btj4aFN2OlY0RGkCpxqq6f8DdYilx2Q==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoZu5k8g2kolx0n8QAw6izlu1qDPuKLdFxZctorzxhrww==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/granhermano.png",
         "name": "CAM 3",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7Rb9++NJFqE56aJsQaKc/rBXuXvQ8AzXIqgn23ygb92g==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmPGSrJzMbNSpt3wt2t0zOg5hOYdKenQ7pAxn8fv2ue9vQ==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kMEKF/q/C818MLpuYZ+XvQ3VZMHxywXHX33jJmMKx9vLA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpuHekQDBBaOQPfHTomCWgA1zqSIlhLYM39zIcMBX0J6A==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/granhermano.png",
         "name": "MULTICAMARA",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs6VKMkMnRnPERx0NfR1DDusVkAxIXTst/GAsN5Tv6pNOg==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmMHB758n1x7XCOK44RqpVsWzJuZNPmwyit4b/pTsRNBow==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kOVvCwd3LQtleo4F9XOMslfZpJXgip0wvGmJXKuLOXq/w==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrp/6GGBrRjpmuL43yW6UmuNGd+F1nemWAeYctZdrcWfA==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/dsports1.png",
         "name": "DSports 1",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7W5uJxxce69Dfwhy+OUUdlJFgI73oboZvVlyO3aEY9eQ==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmOu56QdPO6UrRmIZC9wqAwnkGXbi6BYzJYm52uDv6vptQ==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kN/GwK4a0qyTYG27HvQisiC0UjwgFvkcquHMwUy5ZIJTg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCobwH2PynydJDtiTT64OQM47d1lkPt6FoNeT7bwdVisRg==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/dsports2.png",
         "name": "DSports 2",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs4usWFb45QmHotgjgq583HEUGQUnojuBAkkRHM+0GTyZA==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmOGH5bgJoHk3Io2z75D61MW4s33LDF4RPjOjxWy2P14/w==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kNBsj33VSDa+tq6kyb14WLFfB4DaqNYLTQ/TvO3/6gppw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr/OOTUAP591j3LSjj5+y6c+5NMosxCR1Jx5SVHOSYRSQ==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/dsports3.png",
         "name": "DSports 3",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs4yWuXrIxXeGkx7ZA2nD3FFM3Bb8B/zha3+o4efwOISWA==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmPZ+L33Whwx6nxJPzPmzbEKxdwTpBRjryuuh4t/xURY6A==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kPbSYBO2kaKCiMt5NvWmV966G51QlZx98Rp65rRExGDbQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqigwVvk+Xaslk1UJw34meeY5jUR8fitpsBCBRW5CnMhA==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtvfight.png",
         "name": "DSports Fight",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs5UOy//19M1jtc1Wys9z8+OcRUBQ7W8Ns0QOHoX2L13yA==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmP6trb4VxU1NeCsxPE0MFr8TVx3Eb+HLnSApEkxxy7EPw==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kPPEeoS8HKzAr3Lr3IQZyXlzeb31AzHdBceFN4i/SVMtw==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrwKdq2DjBsBevzohJpPTUQJCwZ/0m+3lWri23LQP7rxA==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dsportsmotor.png",
+        "name": "DSports Motor",
+        "drm_scheme": "clearkey",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kNzX7WpgG2YYE5XiZoPy4ooZWE2LpQDlVPvCHupHWGFtQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpZMdwsOYyPPz+yC38Hz93hwocs1Hx5bfoKrOGp/05XAw==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       },
       {
         "icon": "http://static.tvar.io/imagenes/ondtv.png",
-        "name": "ON DIRECTV",
+        "name": "On Directv",
         "drm_scheme": "clearkey",
-        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7eUkJ6S43mUfvCQqKkXgd51c17WzMY/gVqKHmMDFkH7g==",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmMnyM3UICSZosBSH2RDJsXOaVTmcr9tLCK7LB/mnPrDEQ==",
+        "uri": "n9dlBe2fbsm4nEzvo/bFg7H6OgB4KGJtcjGQDbmX+kPGUWHbPxgqH8nrXEcM+LW7fykSKNX2KOIqMeDzlnQcew==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr80yMPYDoH6DpjZwcAdo/bmUUDp0GrS38D+G/KPxscog==",
         "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
       }
     ]
