@@ -599,6 +599,12 @@
     "name": "DEPORTIVOS",
     "lista": [
       {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO 1",
+        "uri": "yIBXobie6HqvzVrTMGheV5YU+XvWpUq+SmL7+0xBapzhtjrDBJ2sKgGBMER+0DA2bJooUNoQ70TlXG32+mfXhA==",
+        "headers": "FSX/F/VkDnA/nXlZO6/cHJSJtIR3Z2aXeMWWXAeRyfppZgx/d+m4Kz/cWNWNTObGorRHP59NZ+TkZPCmyQgVafjqaEtQ/P39dPNVppr2XB4liopsGEaGvwLBHWT5WH/pdjnkD2jt8yQ+saxWItLQyAlUzNvthU/pjkDIRKS9SRJPQUJElzNPxEQZgOu8RjHAvktKZJagnem3lAP3j1P7nUxEOUBDK1XsjjpnTGgnaHySobVWVGJZ3k813kW8d0ciQxIgrd/Xfz/giXRXSBhpww=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
@@ -3071,7 +3077,7 @@
   {
     "name": "BRASIL",
     "lista": [
-       {
+      {
         "icon": "http://static.tvar.io/imagenes/band.png",
         "name": "BAND",
         "uri": "D4VtRK51fpfsXQfXQ7/P2p5NBgrUvqKKNkQTjTT681zVSsyZSR4CO0sAFS5G4Xhb",
