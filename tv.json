@@ -475,7 +475,12 @@
     "samples": [
       {
         "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO",
+        "name": "EVENTO 1",
+        "uri": "yIBXobie6HqvzVrTMGheV5YU+XvWpUq+SmL7+0xBapzhtjrDBJ2sKgGBMER+0DA2bJooUNoQ70TlXG32+mfXhA=="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTO 2",
         "uri": "2/fA1fGmU1f0bOkYAFLxu60xXyXdgvh4XDLsW/HXDVyV7uGkdfINLrrKVI3bw9/NrDKrG5GAMs1qjDiy67f1uQ=="
       },
       {
