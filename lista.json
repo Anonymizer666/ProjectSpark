@@ -1467,86 +1467,86 @@
   {
     "name": "EXCLUSIVO VERSIÓN (6.0.4)",
     "lista": [
-            {
-                "icon": "http://static.tvar.io/imagenes/dsports1.png",
-                "name": "DSports 1",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7W5uJxxce69Dfwhy+OUUdlJFgI73oboZvVlyO3aEY9eQ==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCobwH2PynydJDtiTT64OQM47d1lkPt6FoNeT7bwdVisRg==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/dsports2.png",
-                "name": "DSports 2",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs4usWFb45QmHotgjgq583HEUGQUnojuBAkkRHM+0GTyZA==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr/OOTUAP591j3LSjj5+y6c+5NMosxCR1Jx5SVHOSYRSQ==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/dsports3.png",
-                "name": "DSports 3",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs4yWuXrIxXeGkx7ZA2nD3FFM3Bb8B/zha3+o4efwOISWA==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqigwVvk+Xaslk1UJw34meeY5jUR8fitpsBCBRW5CnMhA==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/dtvfight.png",
-                "name": "DSports Fight",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs5UOy//19M1jtc1Wys9z8+OcRUBQ7W8Ns0QOHoX2L13yA==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrwKdq2DjBsBevzohJpPTUQJCwZ/0m+3lWri23LQP7rxA==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/granhermano.png",
-                "name": "GENERAL",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs5QqiY/DWWcPguVV1qJBTULbbAY4zshCas/U0efd8CnpA==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrHn60phYLi0xc1AkpZm3+a4bmwF4ZMKSsTdXly0pNF1g==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/granhermano.png",
-                "name": "CAM 1",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7X8ifK4U3pVU7j5q0VyAVqlnfMmAI47VCOM6XmvqM2zA==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqMFRQ5s2thb98MgRg04S8BKItGFbGxU4rL4UiaDBzuwA==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/granhermano.png",
-                "name": "CAM 2",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs71xDV58vLlqvBHF5UUwBNudhK1zaX0GvJP7g3Ya1bXyA==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoZu5k8g2kolx0n8QAw6izlu1qDPuKLdFxZctorzxhrww==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/granhermano.png",
-                "name": "CAM 3",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7Rb9++NJFqE56aJsQaKc/rBXuXvQ8AzXIqgn23ygb92g==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpuHekQDBBaOQPfHTomCWgA1zqSIlhLYM39zIcMBX0J6A==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/granhermano.png",
-                "name": "MULTICAMARA",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs6VKMkMnRnPERx0NfR1DDusVkAxIXTst/GAsN5Tv6pNOg==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrp/6GGBrRjpmuL43yW6UmuNGd+F1nemWAeYctZdrcWfA==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            },
-            {
-                "icon": "http://static.tvar.io/imagenes/ondtv.png",
-                "name": "ON DIRECTV",
-                "drm_scheme": "clearkey",
-                "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7eUkJ6S43mUfvCQqKkXgd51c17WzMY/gVqKHmMDFkH7g==",
-                "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmMnyM3UICSZosBSH2RDJsXOaVTmcr9tLCK7LB/mnPrDEQ==",
-                "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
-            }
+      {
+        "icon": "http://static.tvar.io/imagenes/dsports1.png",
+        "name": "DSports 1",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7W5uJxxce69Dfwhy+OUUdlJFgI73oboZvVlyO3aEY9eQ==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCobwH2PynydJDtiTT64OQM47d1lkPt6FoNeT7bwdVisRg==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dsports2.png",
+        "name": "DSports 2",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs4usWFb45QmHotgjgq583HEUGQUnojuBAkkRHM+0GTyZA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCr/OOTUAP591j3LSjj5+y6c+5NMosxCR1Jx5SVHOSYRSQ==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dsports3.png",
+        "name": "DSports 3",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs4yWuXrIxXeGkx7ZA2nD3FFM3Bb8B/zha3+o4efwOISWA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqigwVvk+Xaslk1UJw34meeY5jUR8fitpsBCBRW5CnMhA==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/dtvfight.png",
+        "name": "DSports Fight",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs5UOy//19M1jtc1Wys9z8+OcRUBQ7W8Ns0QOHoX2L13yA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrwKdq2DjBsBevzohJpPTUQJCwZ/0m+3lWri23LQP7rxA==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.png",
+        "name": "GENERAL",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs5QqiY/DWWcPguVV1qJBTULbbAY4zshCas/U0efd8CnpA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrHn60phYLi0xc1AkpZm3+a4bmwF4ZMKSsTdXly0pNF1g==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.png",
+        "name": "CAM 1",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7X8ifK4U3pVU7j5q0VyAVqlnfMmAI47VCOM6XmvqM2zA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCqMFRQ5s2thb98MgRg04S8BKItGFbGxU4rL4UiaDBzuwA==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.png",
+        "name": "CAM 2",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs71xDV58vLlqvBHF5UUwBNudhK1zaX0GvJP7g3Ya1bXyA==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCoZu5k8g2kolx0n8QAw6izlu1qDPuKLdFxZctorzxhrww==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.png",
+        "name": "CAM 3",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7Rb9++NJFqE56aJsQaKc/rBXuXvQ8AzXIqgn23ygb92g==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCpuHekQDBBaOQPfHTomCWgA1zqSIlhLYM39zIcMBX0J6A==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/granhermano.png",
+        "name": "MULTICAMARA",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs6VKMkMnRnPERx0NfR1DDusVkAxIXTst/GAsN5Tv6pNOg==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbphDTjD2W53RrUaARm6lyGCrp/6GGBrRjpmuL43yW6UmuNGd+F1nemWAeYctZdrcWfA==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/ondtv.png",
+        "name": "ON DIRECTV",
+        "drm_scheme": "clearkey",
+        "uri": "knLi6+deywfO/Q9G2q+l5mSZr0M/br2IxUeSu3IvCs7eUkJ6S43mUfvCQqKkXgd51c17WzMY/gVqKHmMDFkH7g==",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpiK18Y5PSKeYnD+ybBhObmMnyM3UICSZosBSH2RDJsXOaVTmcr9tLCK7LB/mnPrDEQ==",
+        "headers": "LLSimlMghcqB3aeqWnth6vEhv4lEhj1IefsdcpaHE8Z1nPioUl3jrcHw68MHK8jXsd97N2lsbNNVW/3bbk5udmSn7yZxWdoGmTq0QmvJ26IdxveolfahUGLWjKF/l2saNYvL4xEN6fxn2+pXjRqZfRH1FPSVBUSoZa7/7Grnvl3IvUM4ENSTDq42CT/t35Cm"
+      }
     ]
   },
   {
@@ -3072,37 +3072,37 @@
       {
         "icon": "http://static.tvar.io/imagenes/band.png",
         "name": "BAND",
-        "uri": "D4VtRK51fpfsXQfXQ7/P2p5NBgrUvqKKNkQTjTT681zVSsyZSR4CO0sAFS5G4Xhb",
+        "uri": "gNASK4dZjHJdpLsNb4Vtmug1E1AJiu0ixT+aBgfejkb/5nytYOGzQBIIRq8s0cr0NGbh/1tM0JpLuDb4YLY3iJPWrTdlR/tJ9/O1hgy65QBkxZeJJjD38NbOroleT3Tp",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VTsXJVjSpOcyFMZ32Q+SuRgYP+YY9oIKn2QSnhVED+O3bYHD0WWiTsAG/q3QEth79XWPPcI0lO6/20Tgp1sSlQpdUN7NfhPCJn+/Y3XnYL+lg=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/globo.png",
         "name": "GLOBO",
-        "uri": "D4VtRK51fpfsXQfXQ7/P2j94+M675Q1fHG+tvHUlEQdi5BAHiIzT9q8icZnDAsa+/cFPuoc0XEGmHe+LBTU4fQ==",
+        "uri": "6yaCsq4Hx2AWuBo5deA35h6lIczmcF7fkP9VRzQJeozXIDSswk0slySOHWGs2HC3djLRzFVOUtkt9ZOXFycwpg==",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VTsXJVjSpOcyFMZ32Q+SuRgYP+YY9oIKn2QSnhVED+O3bYHD0WWiTsAG/q3QEth79XWPPcI0lO6/20Tgp1sSlQpdUN7NfhPCJn+/Y3XnYL+lg=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/recordtv.png",
         "name": "RECORD",
-        "uri": "D4VtRK51fpfsXQfXQ7/P2piDosRMPlb+RbCtFTWzFU2WznzzOjeCtb+pD7t711Bd",
+        "uri": "gNASK4dZjHJdpLsNb4Vtmug1E1AJiu0ixT+aBgfejkZ3WehVAq0audmGA9LkdAeSbEcHugZa8nwHgHqzDTpJCnqfGVvJfTPXkcNjhcuDsFQBEeJMJQcScg/ks8ZiGFQI",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VTsXJVjSpOcyFMZ32Q+SuRgYP+YY9oIKn2QSnhVED+O3bYHD0WWiTsAG/q3QEth79XWPPcI0lO6/20Tgp1sSlQpdUN7NfhPCJn+/Y3XnYL+lg=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/sbt.png",
         "name": "SBT",
-        "uri": "D4VtRK51fpfsXQfXQ7/P2hL+14bIv8NL723dgoHViCAmD7ipTOqYzO8lEF2pXJkw",
+        "uri": "gNASK4dZjHJdpLsNb4Vtmug1E1AJiu0ixT+aBgfejkbuxxOIMa8zI60jSJyNgHoSC0qg8kToB9M7rxDl2oDKAoMpBrCe2KolYwMQ/HBL+ILwdl6992PH6cIYsbfFCCQT",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VTsXJVjSpOcyFMZ32Q+SuRgYP+YY9oIKn2QSnhVED+O3bYHD0WWiTsAG/q3QEth79XWPPcI0lO6/20Tgp1sSlQpdUN7NfhPCJn+/Y3XnYL+lg=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/bis.png",
         "name": "BIS",
-        "uri": "D4VtRK51fpfsXQfXQ7/P2rp8kT7fvVdE4K4Ynw3BfQWsIuQD3vpZh8iQ8l20db2a",
+        "uri": "6yaCsq4Hx2AWuBo5deA35jnzIdcUJhAKF0U0zZmZVnirrVwgP4z9z2q2eoTYtudg",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VTsXJVjSpOcyFMZ32Q+SuRgYP+YY9oIKn2QSnhVED+O3bYHD0WWiTsAG/q3QEth79XWPPcI0lO6/20Tgp1sSlQpdUN7NfhPCJn+/Y3XnYL+lg=="
       },
       {
         "icon": "https://seeklogo.com/images/C/canal-off-logo-0C3312E6CF-seeklogo.com.png",
         "name": "OFF",
-        "uri": "D4VtRK51fpfsXQfXQ7/P2uhRXdJUHeI/++xOaEYD2QYJxOh1wkk78Gg10taf2rOm",
+        "uri": "6yaCsq4Hx2AWuBo5deA35nQcJeBToEs1pfAA1ljhwTE4fiylQMOrVpw+5bT9rjYV",
         "headers": "G8pgKyMcvVwH6j5q6OLWuORQJIyk5xIBXDXUFGDjlvr+fr+6ER6mND8hgw+/8dL/n/7qg9kmOMM7oIlTZr+22TixN27tRftX/PYTX21UhuOfffalLuO55lZsh4ZCx/03hIpUlxLgGpKVXYfYwT8zrtYw43huePqguMNtCvHI9VTsXJVjSpOcyFMZ32Q+SuRgYP+YY9oIKn2QSnhVED+O3bYHD0WWiTsAG/q3QEth79XWPPcI0lO6/20Tgp1sSlQpdUN7NfhPCJn+/Y3XnYL+lg=="
       }
     ]
