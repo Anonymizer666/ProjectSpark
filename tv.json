@@ -476,7 +476,9 @@
       {
         "icon": "http://static.tvar.io/imagenes/evento.png",
         "name": "EVENTO 1",
-        "uri": "Q16Ja5f5zlNKqJdbe5lFbBF0K2CsfrXPSSWgvmCkLvW3MJJwVnBtszvm1djftDjxJCAOz2b16Ymg0u0eCLD2IMhz+G39Sbifg8zXes8geVs="
+        "uri": "b+QSGe9itEwwoKyzCS+bM8McyWbhC74Kud0U04bkIC56UV5lxZ9z0uZIr1gEQPOeeaTgWbsI0etmOqe5SWTWc4FXiPgqmcwPlFk5X2AUaqw=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4V2fbjyyjEd2uPT/x6melK",
+        "drm_scheme": "clearkey"
       },
       {
         "icon": "http://static.tvar.io/imagenes/evento.png",
