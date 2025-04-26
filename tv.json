@@ -474,16 +474,11 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 1",
+        "icon": "http://static.tvar.io/imagenes/copadelrey.png",
+        "name": "COPA DEL REY",
+        "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bM8McyWbhC74Kud0U04bkIC56UV5lxZ9z0uZIr1gEQPOeeaTgWbsI0etmOqe5SWTWc4FXiPgqmcwPlFk5X2AUaqw=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4V2fbjyyjEd2uPT/x6melK",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/evento.png",
-        "name": "EVENTO 2",
-        "uri": "2/fA1fGmU1f0bOkYAFLxu60xXyXdgvh4XDLsW/HXDVyV7uGkdfINLrrKVI3bw9/NrDKrG5GAMs1qjDiy67f1uQ=="
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4cHVTj4lJFbH1hkMrutVO/2mJBSwZhaa0FPSQdRUfPNw=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/americasports.png",
