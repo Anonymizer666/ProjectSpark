@@ -231,6 +231,7 @@
         "name": "LAVOZDETUCUMAN.COM RADIO",
         "uri": "Q16Ja5f5zlNKqJdbe5lFbBF0K2CsfrXPSSWgvmCkLvW3MJJwVnBtszvm1djftDjxOPgsa3eI2KeJJIYTrCnWAZyqUU5b+gDijxMfbuBtCcc="
     },
+
     {
         "icon": "http://static.tvar.io/imagenes/teleferosario.png",
         "name": "TELEFE ROSARIO",
@@ -478,13 +479,6 @@
   {
     "name": "DEPORTIVOS",
     "samples": [
-      {
-        "icon": "http://static.tvar.io/imagenes/copadelrey.png",
-        "name": "COPA DEL REY",
-        "drm_scheme": "clearkey",
-        "uri": "b+QSGe9itEwwoKyzCS+bM8McyWbhC74Kud0U04bkIC56UV5lxZ9z0uZIr1gEQPOeeaTgWbsI0etmOqe5SWTWc4FXiPgqmcwPlFk5X2AUaqw=",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4cHVTj4lJFbH1hkMrutVO/2mJBSwZhaa0FPSQdRUfPNw=="
-      },
       {
         "icon": "http://static.tvar.io/imagenes/americasports.png",
         "name": "AMERICA SPORTS",
@@ -1001,13 +995,6 @@
         "drm_scheme": "clearkey",
         "uri": "b+QSGe9itEwwoKyzCS+bMzNWIVpLUhseAGojhdcwrINEPzKGnHCPyC+plY6bs32+ivFDRqLGvT0i6BB+DY9krw",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l76Th8/8ytmVZdHMePHtxQF"
-      },
-      {
-        "icon": "http://static.tvar.io/imagenes/mp.png",
-        "name": "MULTIPREMIER",
-        "drm_scheme": "clearkey",
-        "uri": "1le/bp8cqoXJbCDZRtKr6HMt9wHUXxz9XYN6+Q2dFrsITepy2OpvuvYW+xL5g8HVG/pNDcxUeA+7AtSzegiZfm1P1U8nkyLtKZJA0fq5ISWO3mM7yxLo4Ri/276EFI4Niv8cR4BW1X4VkP0pjdBNtQ",
-        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4Hzd9SW2g+ZS5tlxOq0AX3"
       },
       {
         "icon": "http://static.tvar.io/imagenes/paramount.png",
@@ -1942,14 +1929,14 @@
         "name": "Identidad 2",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4huHzVXunM+2v8Exac61fY",
         "drm_scheme": "clearkey",
-        "uri": "77VfSlme4CSmwUyR9tShSfBAd9rJyiCeTX+qgYvb2Z+8JuBf2jfUqodTI2v8sH+h8mWHSvMzDaK+BgEvCD17FooZR+qhZ6LlEw5bHnHT3bkUc3re9gnhOLHasBM6u0VZ7ZU8uof5GB6NSl6QlZV4jDKt0wiENEzUB/PVKnCD9aBGP1iU+sFYr7k0wiDc4uSdjR0vz3TLl1hKg9K9fmjQ3PIy9LDn5Ed38GBq6BEUZNfBNlQi/B2K5/5cTLwAygzgflTrypA7c4BrCSbvJVym3Q=="
+        "uri": "77VfSlme4CSmwUyR9tShSfBAd9rJyiCeTX+qgYvb2Z+N6DELI/jdJrDLsGIix3/VMoDmu6KDFW1+3Yinb3selvv4kvvP5dnq3swQk8uo+JA7mCZC16T7XF5OgJ20DlupAKibmWZ9CxPZPo7+Zf/+RzzXx7MZ7pHoYobjq3vz7IFYMxtD1REO0xZaOPZ5BhsKnRXfD2dZMMN6q5gUzteN432Km+f1wt1p3NmhIKlyHP52bNIsb1y1V+EADms4hF05VvEeS8U0hOJeZe9r1b+rhg=="
       },
       {
         "icon": "http://static.tvar.io/imagenes/identidadpe.png",
         "name": "Identidad 3",
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l7/NZ4c5FtlWDPaAovWdX0Y",
         "drm_scheme": "clearkey",
-        "uri": "77VfSlme4CSmwUyR9tShSfBAd9rJyiCeTX+qgYvb2Z+8JuBf2jfUqodTI2v8sH+h8mWHSvMzDaK+BgEvCD17FooZR+qhZ6LlEw5bHnHT3bkUc3re9gnhOLHasBM6u0VZ7ZU8uof5GB6NSl6QlZV4jDKt0wiENEzUB/PVKnCD9aBGP1iU+sFYr7k0wiDc4uSdq2i2GyMoBUP5Xl2idGSG8I6vPhay2+sje40Ym+y3PaELv2yUxu6q9O1vjnALsULfZVDWmSAOQfjhN5/eOph05Q=="
+        "uri": "77VfSlme4CSmwUyR9tShSfBAd9rJyiCeTX+qgYvb2Z+N6DELI/jdJrDLsGIix3/VMoDmu6KDFW1+3Yinb3selvv4kvvP5dnq3swQk8uo+JA7mCZC16T7XF5OgJ20DlupAKibmWZ9CxPZPo7+Zf/+RzzXx7MZ7pHoYobjq3vz7IFYMxtD1REO0xZaOPZ5BhsKCTeqwPs45P3tVOTpm/t/CaQh5l9JSTDcZw1uSLalDYZymM5koqpsTJcwRDpgILDf23XHmhaGO8XuXZh3Y/bdJg=="
       }
     ]
   },
