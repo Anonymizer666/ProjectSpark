@@ -573,6 +573,13 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l5TLd7Pc3/GPhixOY3VRa9V"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/foxsportpremiummx.png",
+        "name": "FOX SPORT PREMIUM MX",
+        "drm_scheme": "clearkey",
+        "uri": "zfgkrXw5safPiDtHnEaov/rGrP4OMKB6RjFAPD038VKjwsxUUVdPPc8br3HKQoOUInpHNSlO2PlFWIvXnPopCgQRVCrETbqwT2WHpgamopPemD5Mvw8rr9yWL7tk38LpILk9q2575B5M/JpzXKwXFlN11tE/pPw+HOK92HvREyA=",
+        "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l4DX9ugC2TkCCxZKxMoH0fP"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/espnpremium.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
