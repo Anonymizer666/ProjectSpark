@@ -510,6 +510,11 @@
         "drm_license_url": "73eS+rRLGES02IqpgqXbpjZwfAFsBHfqXlUji1Gv6l6jsT17Eq/vf3jbXNI9+8yH"
       },
       {
+        "icon": "http://static.tvar.io/imagenes/daznf1.png",
+        "name": "DAZN F1 OPCION2",
+        "uri": "Ut2W2vQbSn76wsXsje8aa6/9pYaZRGBdBOFdEcYadmG9fBVA95o1skkUEKlQolQl"
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/deportv.png",
         "name": "DEPORTV",
         "drm_scheme": "clearkey",
