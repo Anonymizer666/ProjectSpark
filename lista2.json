@@ -515,6 +515,11 @@
         "uri": "MYfhZDPRTqDQIflLWqQnestmuZDpQUBOl06jPRI8mkJtcon1RLBtfc1+P2EOEjdwVL7ZRzsAhllAzJCEYWfdlg=="
       },
       {
+        "icon": "http://static.tvar.io/imagenes/evento.png",
+        "name": "EVENTOS EN VIVO opcion 2 (SOLO FUNCIONA EN EVENTOS)",
+        "uri": "PBJkAD3bSRes+/igeZjR/XuQBMumL2C7lLYi4oQOf4s0oBRmenEGdxwLkERujunvJxyd7nI/OafMte1rjiUwjg=="
+      },
+      {
         "icon": "http://static.tvar.io/imagenes/deportv.png",
         "name": "DEPORTV",
         "drm_scheme": "clearkey",
